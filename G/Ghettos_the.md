@@ -1,7 +1,7 @@
 ---
 title: Ghettos, the
 layout: default
-parent: Unsorted
+parent: G
 nav_order:
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: flip 'n fuck
 layout: default
-parent: Unsorted
+parent: F
 nav_order:
 ---
 

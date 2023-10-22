@@ -1,7 +1,7 @@
 ---
 title: R. A. (superseded)
 layout: default
-parent: Unsorted
+parent: R
 nav_order:
 ---
 

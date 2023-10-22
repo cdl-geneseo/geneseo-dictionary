@@ -1,7 +1,7 @@
 ---
 title: N't
 layout: default
-parent: Unsorted
+parent: N
 nav_order:
 ---
 

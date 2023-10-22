@@ -1,7 +1,7 @@
 ---
 title: Waynians, Waynsians
 layout: default
-parent: Unsorted
+parent: W
 nav_order:
 ---
 

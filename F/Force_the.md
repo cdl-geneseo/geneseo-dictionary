@@ -1,7 +1,7 @@
 ---
 title: Force, the
 layout: default
-parent: Unsorted
+parent: F
 nav_order:
 ---
 

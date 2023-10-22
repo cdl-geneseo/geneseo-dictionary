@@ -1,7 +1,7 @@
 ---
 title: ze or zir
 layout: default
-parent: Unsorted
+parent: Z
 nav_order:
 ---
 

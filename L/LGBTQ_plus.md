@@ -1,7 +1,7 @@
 ---
 title: LGBTQ+
 layout: default
-parent: Unsorted
+parent: L
 nav_order:
 ---
 

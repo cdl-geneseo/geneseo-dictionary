@@ -1,7 +1,7 @@
 ---
 title: Workout Center, The
 layout: default
-parent: Unsorted
+parent: W
 nav_order:
 ---
 

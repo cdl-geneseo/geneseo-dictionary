@@ -1,7 +1,7 @@
 ---
 title: Drop (a log)
 layout: default
-parent: Unsorted
+parent: D
 nav_order:
 ---
 

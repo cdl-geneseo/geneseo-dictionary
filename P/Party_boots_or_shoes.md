@@ -1,7 +1,7 @@
 ---
 title: Party boots or shoes
 layout: default
-parent: Unsorted
+parent: P
 nav_order:
 ---
 

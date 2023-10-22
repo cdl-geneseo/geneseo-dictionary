@@ -1,7 +1,7 @@
 ---
 title: WT, WTP
 layout: default
-parent: Unsorted
+parent: W
 nav_order:
 ---
 

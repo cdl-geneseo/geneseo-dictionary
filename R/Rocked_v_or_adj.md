@@ -1,7 +1,7 @@
 ---
 title: Rocked (v. or adj.)
 layout: default
-parent: Unsorted
+parent: R
 nav_order:
 ---
 

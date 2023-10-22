@@ -1,7 +1,7 @@
 ---
 title: Kelly's
 layout: default
-parent: Unsorted
+parent: K
 nav_order:
 ---
 

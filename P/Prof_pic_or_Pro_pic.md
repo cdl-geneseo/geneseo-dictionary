@@ -1,7 +1,7 @@
 ---
 title: Prof pic or Pro pic
 layout: default
-parent: Unsorted
+parent: P
 nav_order:
 ---
 

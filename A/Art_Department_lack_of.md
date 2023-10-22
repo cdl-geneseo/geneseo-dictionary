@@ -1,7 +1,7 @@
 ---
 title: Art Department (lack of)
 layout: default
-parent: Unsorted
+parent: A
 nav_order:
 ---
 

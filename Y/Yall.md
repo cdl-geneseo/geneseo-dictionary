@@ -1,7 +1,7 @@
 ---
 title: Y'all
 layout: default
-parent: Unsorted
+parent: Y
 nav_order:
 ---
 

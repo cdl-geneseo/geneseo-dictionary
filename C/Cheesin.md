@@ -1,7 +1,7 @@
 ---
 title: Cheesin'
 layout: default
-parent: Unsorted
+parent: C
 nav_order:
 ---
 

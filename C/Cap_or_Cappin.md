@@ -1,7 +1,7 @@
 ---
 title: Cap or Cappin'
 layout: default
-parent: Unsorted
+parent: C
 nav_order:
 ---
 

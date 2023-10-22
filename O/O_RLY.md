@@ -1,7 +1,7 @@
 ---
 title: O RLY?
 layout: default
-parent: Unsorted
+parent: O
 nav_order:
 ---
 

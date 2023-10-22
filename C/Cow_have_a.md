@@ -1,7 +1,7 @@
 ---
 title: Cow, have a
 layout: default
-parent: Unsorted
+parent: C
 nav_order:
 ---
 

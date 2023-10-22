@@ -1,7 +1,7 @@
 ---
 title: Giovanna’s
 layout: default
-parent: Unsorted
+parent: G
 nav_order:
 ---
 

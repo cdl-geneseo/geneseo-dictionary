@@ -1,7 +1,7 @@
 ---
 title: Japanese Culture Club (JCC)
 layout: default
-parent: Unsorted
+parent: J
 nav_order:
 ---
 

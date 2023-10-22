@@ -1,7 +1,7 @@
 ---
 title: Can't-get-it-upagous
 layout: default
-parent: Unsorted
+parent: C
 nav_order:
 ---
 

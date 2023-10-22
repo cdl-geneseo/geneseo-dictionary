@@ -1,7 +1,7 @@
 ---
 title: L [Taking the L]
 layout: default
-parent: Unsorted
+parent: L
 nav_order:
 ---
 

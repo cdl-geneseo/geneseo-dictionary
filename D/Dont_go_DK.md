@@ -1,7 +1,7 @@
 ---
 title: Don't go DK
 layout: default
-parent: Unsorted
+parent: D
 nav_order:
 ---
 

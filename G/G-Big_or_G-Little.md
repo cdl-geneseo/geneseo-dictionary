@@ -1,7 +1,7 @@
 ---
 title: G-Big or G-Little
 layout: default
-parent: Unsorted
+parent: G
 nav_order:
 ---
 

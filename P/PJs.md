@@ -1,7 +1,7 @@
 ---
 title: PJ's
 layout: default
-parent: Unsorted
+parent: P
 nav_order:
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Twenty A (20A)
 layout: default
-parent: Unsorted
+parent: T
 nav_order:
 ---
 

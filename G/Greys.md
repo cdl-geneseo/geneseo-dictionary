@@ -1,7 +1,7 @@
 ---
 title: Grey's
 layout: default
-parent: Unsorted
+parent: G
 nav_order:
 ---
 

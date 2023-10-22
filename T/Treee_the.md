@@ -1,7 +1,7 @@
 ---
 title: Treee, the
 layout: default
-parent: Unsorted
+parent: T
 nav_order:
 ---
 

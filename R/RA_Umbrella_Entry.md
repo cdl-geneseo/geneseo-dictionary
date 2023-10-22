@@ -1,7 +1,7 @@
 ---
 title: RA (Umbrella Entry)
 layout: default
-parent: Unsorted
+parent: R
 nav_order:
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Paul's Balls
 layout: default
-parent: Unsorted
+parent: P
 nav_order:
 ---
 

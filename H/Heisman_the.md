@@ -1,7 +1,7 @@
 ---
 title: Heisman, the
 layout: default
-parent: Unsorted
+parent: H
 nav_order:
 ---
 

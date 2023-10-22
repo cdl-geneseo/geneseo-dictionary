@@ -1,7 +1,7 @@
 ---
 title: Sex assigned at birth or SAAB
 layout: default
-parent: Unsorted
+parent: S
 nav_order:
 ---
 

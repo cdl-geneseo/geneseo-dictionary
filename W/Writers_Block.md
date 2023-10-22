@@ -1,7 +1,7 @@
 ---
 title: Writer's Block
 layout: default
-parent: Unsorted
+parent: W
 nav_order:
 ---
 

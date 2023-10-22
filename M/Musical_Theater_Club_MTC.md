@@ -1,7 +1,7 @@
 ---
 title: Musical Theater Club (MTC)
 layout: default
-parent: Unsorted
+parent: M
 nav_order:
 ---
 

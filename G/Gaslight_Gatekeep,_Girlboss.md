@@ -1,7 +1,7 @@
 ---
 title: Gaslight, Gatekeep, Girlboss
 layout: default
-parent: Unsorted
+parent: G
 nav_order:
 ---
 

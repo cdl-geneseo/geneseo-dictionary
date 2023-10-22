@@ -1,7 +1,7 @@
 ---
 title: Cop (to cop)
 layout: default
-parent: Unsorted
+parent: C
 nav_order:
 ---
 

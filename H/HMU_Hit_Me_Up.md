@@ -1,7 +1,7 @@
 ---
 title: HMU (Hit Me Up)
 layout: default
-parent: Unsorted
+parent: H
 nav_order:
 ---
 

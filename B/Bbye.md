@@ -1,7 +1,7 @@
 ---
 title: B'bye
 layout: default
-parent: Unsorted
+parent: B
 nav_order:
 ---
 

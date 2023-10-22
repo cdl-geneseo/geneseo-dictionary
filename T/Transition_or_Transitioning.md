@@ -1,7 +1,7 @@
 ---
 title: Transition or Transitioning
 layout: default
-parent: Unsorted
+parent: T
 nav_order:
 ---
 

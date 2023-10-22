@@ -1,7 +1,7 @@
 ---
 title: Southside Café
 layout: default
-parent: Unsorted
+parent: S
 nav_order:
 ---
 

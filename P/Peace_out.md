@@ -1,7 +1,7 @@
 ---
 title: Peace (out)
 layout: default
-parent: Unsorted
+parent: P
 nav_order:
 ---
 

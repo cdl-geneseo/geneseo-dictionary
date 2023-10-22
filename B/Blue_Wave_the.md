@@ -1,7 +1,7 @@
 ---
 title: Blue Wave, the
 layout: default
-parent: Unsorted
+parent: B
 nav_order:
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Hips 'n Harmony
 layout: default
-parent: Unsorted
+parent: H
 nav_order:
 ---
 

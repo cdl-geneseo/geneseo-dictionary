@@ -1,7 +1,7 @@
 ---
 title: Thank you, next
 layout: default
-parent: Unsorted
+parent: T
 nav_order:
 ---
 

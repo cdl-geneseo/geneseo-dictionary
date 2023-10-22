@@ -1,7 +1,7 @@
 ---
 title: Jägerbomb
 layout: default
-parent: Unsorted
+parent: J
 nav_order:
 ---
 

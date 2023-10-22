@@ -1,7 +1,7 @@
 ---
 title: Latino Student Association (LSA)
 layout: default
-parent: Unsorted
+parent: L
 nav_order:
 ---
 

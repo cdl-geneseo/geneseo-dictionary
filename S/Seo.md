@@ -1,7 +1,7 @@
 ---
 title: Seo
 layout: default
-parent: Unsorted
+parent: S
 nav_order:
 ---
 

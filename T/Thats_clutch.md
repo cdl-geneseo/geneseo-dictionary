@@ -1,7 +1,7 @@
 ---
 title: That's clutch
 layout: default
-parent: Unsorted
+parent: T
 nav_order:
 ---
 

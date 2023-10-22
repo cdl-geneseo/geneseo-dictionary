@@ -1,7 +1,7 @@
 ---
 title: Obv or Obvi
 layout: default
-parent: Unsorted
+parent: O
 nav_order:
 ---
 

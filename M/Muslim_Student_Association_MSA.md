@@ -1,7 +1,7 @@
 ---
 title: Muslim Student Association (MSA)
 layout: default
-parent: Unsorted
+parent: M
 nav_order:
 ---
 

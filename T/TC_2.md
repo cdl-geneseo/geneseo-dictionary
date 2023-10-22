@@ -1,7 +1,7 @@
 ---
 title: TC (2)
 layout: default
-parent: Unsorted
+parent: T
 nav_order:
 ---
 
