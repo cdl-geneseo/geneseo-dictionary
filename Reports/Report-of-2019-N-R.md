@@ -1,8 +1,8 @@
 ---
 title: Group Reports 2019 N-R
 layout: default
-parent: Unsorted
-nav_order:
+parent: Reports
+nav_order: 20
 ---
 
 # Group Reports 2019: N-R

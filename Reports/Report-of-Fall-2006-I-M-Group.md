@@ -2,7 +2,7 @@
 title: Report of Fall 2006 I-M Group
 layout: default
 parent: Reports
-nav_order:
+nav_order: 2
 ---
 
 # Report of Fall 2006 I-M Group

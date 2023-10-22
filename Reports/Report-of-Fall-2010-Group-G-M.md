@@ -2,7 +2,7 @@
 title: Report of Fall 2010 Group G-M
 layout: default
 parent: Reports
-nav_order:
+nav_order: 11
 ---
 
 # Report of Fall 2010 Group G-M

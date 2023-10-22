@@ -2,7 +2,7 @@
 title: Report of Fall 2006 A-D Group
 layout: default
 parent: Reports
-nav_order:
+nav_order: 0
 ---
 
 # Report of Fall 2006 A-D Group

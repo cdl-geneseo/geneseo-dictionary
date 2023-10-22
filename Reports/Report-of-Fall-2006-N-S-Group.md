@@ -2,7 +2,7 @@
 title: Report of Fall 2006 N-S Group
 layout: default
 parent: Reports
-nav_order:
+nav_order: 3
 ---
 
 # Report of Fall 2006 N-S Group

@@ -1,8 +1,8 @@
 ---
 title: Group Report 2019 A-F
 layout: default
-parent: Unsorted
-nav_order:
+parent: Reports
+nav_order: 18
 ---
 
 # Group Report 2019: A-F

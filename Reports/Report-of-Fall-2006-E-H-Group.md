@@ -2,7 +2,7 @@
 title: Report of Fall 2006 E-H Group
 layout: default
 parent: Reports
-nav_order:
+nav_order: 1
 ---
 
 # Report of Fall 2006 E-H Group

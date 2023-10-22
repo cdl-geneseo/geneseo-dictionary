@@ -2,7 +2,7 @@
 title: Report of Fall 2006 T-Z Group
 layout: default
 parent: Reports
-nav_order:
+nav_order: 4
 ---
 
 # Report of Fall 2006 T-Z Group

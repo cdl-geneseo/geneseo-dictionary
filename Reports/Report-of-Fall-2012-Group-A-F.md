@@ -2,7 +2,7 @@
 title: Report of Fall 2012 Group A-F
 layout: default
 parent: Reports
-nav_order:
+nav_order: 14
 ---
 
 # Report of Fall 2012 Group A-F
