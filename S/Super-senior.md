@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Super-senior
+# Super-senior
 
 Bibliographies and Study Guides
 

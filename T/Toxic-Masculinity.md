@@ -5,7 +5,7 @@ parent: T
 nav_order:
 ---
 
-Bibliographies and Study Guides : Toxic Masculinity
+# Toxic Masculinity
 
 Bibliographies and Study Guides
 

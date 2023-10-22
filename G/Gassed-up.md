@@ -5,7 +5,7 @@ parent: G
 nav_order:
 ---
 
-Bibliographies and Study Guides : Gassed up
+# Gassed up
 
 Bibliographies and Study Guides
 

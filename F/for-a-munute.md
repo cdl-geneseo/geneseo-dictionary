@@ -5,7 +5,7 @@ parent: F
 nav_order:
 ---
 
-Bibliographies and Study Guides : for-a-munute
+# for-a-munute
 
 Bibliographies and Study Guides
 

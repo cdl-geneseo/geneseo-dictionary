@@ -5,7 +5,7 @@ parent: T
 nav_order:
 ---
 
-Bibliographies and Study Guides : Tramp stamp
+# Tramp stamp
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: H
 nav_order:
 ---
 
-Bibliographies and Study Guides : Hardcore
+# Hardcore
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: A
 nav_order:
 ---
 
-Bibliographies and Study Guides : Awesome-sauce
+# Awesome-sauce
 
 Bibliographies and Study Guides
 

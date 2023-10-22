@@ -5,7 +5,7 @@ parent: T
 nav_order:
 ---
 
-Bibliographies and Study Guides : Traying
+# Traying
 
 Bibliographies and Study Guides
 

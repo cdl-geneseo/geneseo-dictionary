@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Bomb-dot-com
+# Bomb-dot-com
 
 Bibliographies and Study Guides
 

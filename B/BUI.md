@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : BUI
+# BUI
 
 Bibliographies and Study Guides
 

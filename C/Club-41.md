@@ -5,7 +5,7 @@ parent: C
 nav_order:
 ---
 
-Bibliographies and Study Guides : Club 41
+# Club 41
 
 Bibliographies and Study Guides
 

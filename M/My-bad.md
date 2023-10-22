@@ -5,7 +5,7 @@ parent: M
 nav_order:
 ---
 
-Bibliographies and Study Guides : My bad
+# My bad
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: T
 nav_order:
 ---
 
-Bibliographies and Study Guides : Two-spirit
+# Two-spirit
 
 Bibliographies and Study Guides
 

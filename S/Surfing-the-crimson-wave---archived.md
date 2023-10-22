@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Surfing the crimson wave - archived
+# Surfing the crimson wave - archived
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: V
 nav_order:
 ---
 
-Bibliographies and Study Guides : Victor E. Knight
+# Victor E. Knight
 
 Bibliographies and Study Guides
 

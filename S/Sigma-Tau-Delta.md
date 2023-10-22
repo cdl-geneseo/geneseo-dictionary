@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Sigma Tau Delta
+# Sigma Tau Delta
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Breaking the Seal
+# Breaking the Seal
 
 Bibliographies and Study Guides
 

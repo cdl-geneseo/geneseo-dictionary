@@ -5,7 +5,7 @@ parent: R
 nav_order:
 ---
 
-Bibliographies and Study Guides : Rocks
+# Rocks
 
 Bibliographies and Study Guides
 

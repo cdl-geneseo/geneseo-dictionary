@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Black Out
+# Black Out
 
 Bibliographies and Study Guides
 

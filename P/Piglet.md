@@ -5,7 +5,7 @@ parent: P
 nav_order:
 ---
 
-Bibliographies and Study Guides : Piglet
+# Piglet
 
 Bibliographies and Study Guides
 

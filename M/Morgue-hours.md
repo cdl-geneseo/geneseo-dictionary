@@ -5,7 +5,7 @@ parent: M
 nav_order:
 ---
 
-Bibliographies and Study Guides : Morgue hours
+# Morgue hours
 
 Bibliographies and Study Guides
 

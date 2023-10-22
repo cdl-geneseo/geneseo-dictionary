@@ -5,7 +5,7 @@ parent: R
 nav_order:
 ---
 
-Bibliographies and Study Guides : Rancho Viejo
+# Rancho Viejo
 
 Bibliographies and Study Guides
 

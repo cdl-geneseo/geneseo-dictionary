@@ -5,7 +5,7 @@ parent: K
 nav_order:
 ---
 
-Bibliographies and Study Guides : Knight Bus
+# Knight Bus
 
 Bibliographies and Study Guides
 

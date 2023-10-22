@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Slam pig
+# Slam pig
 
 Bibliographies and Study Guides
 

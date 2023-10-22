@@ -5,7 +5,7 @@ parent: G
 nav_order:
 ---
 
-Bibliographies and Study Guides : Gravity Bong
+# Gravity Bong
 
 Bibliographies and Study Guides
 

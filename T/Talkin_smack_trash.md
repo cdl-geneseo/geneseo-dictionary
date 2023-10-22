@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : Talkin' smack, trash
+# Talkin' smack, trash
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: J
 nav_order:
 ---
 
-Bibliographies and Study Guides : Jail bait
+# Jail bait
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Basher
+# Basher
 
 Bibliographies and Study Guides
 

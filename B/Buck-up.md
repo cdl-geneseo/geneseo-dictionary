@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Buck up
+# Buck up
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: T
 nav_order:
 ---
 
-Bibliographies and Study Guides : Two Shakes
+# Two Shakes
 
 Bibliographies and Study Guides
 

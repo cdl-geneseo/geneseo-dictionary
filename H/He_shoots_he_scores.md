@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : He shoots... he scores!
+# He shoots... he scores!
 
 Bibliographies and Study Guides
 

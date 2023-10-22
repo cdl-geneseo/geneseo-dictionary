@@ -5,7 +5,7 @@ parent: C
 nav_order:
 ---
 
-Bibliographies and Study Guides : Crap Paper
+# Crap Paper
 
 Bibliographies and Study Guides
 

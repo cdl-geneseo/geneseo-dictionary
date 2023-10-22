@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : Can't-get-it-upagous
+# Can't-get-it-upagous
 
 Bibliographies and Study Guides
 

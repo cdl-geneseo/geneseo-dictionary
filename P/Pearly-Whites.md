@@ -5,7 +5,7 @@ parent: P
 nav_order:
 ---
 
-Bibliographies and Study Guides : Pearly Whites
+# Pearly Whites
 
 Bibliographies and Study Guides
 

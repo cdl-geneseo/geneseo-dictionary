@@ -5,7 +5,7 @@ parent: C
 nav_order:
 ---
 
-Bibliographies and Study Guides : Cool Beans
+# Cool Beans
 
 Bibliographies and Study Guides
 

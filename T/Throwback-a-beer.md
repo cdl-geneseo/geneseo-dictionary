@@ -5,7 +5,7 @@ parent: T
 nav_order:
 ---
 
-Bibliographies and Study Guides : Throwback a beer
+# Throwback a beer
 
 Bibliographies and Study Guides
 

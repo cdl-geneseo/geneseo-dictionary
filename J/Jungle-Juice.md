@@ -5,7 +5,7 @@ parent: J
 nav_order:
 ---
 
-Bibliographies and Study Guides : Jungle Juice
+# Jungle Juice
 
 Bibliographies and Study Guides
 

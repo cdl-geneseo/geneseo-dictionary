@@ -5,7 +5,7 @@ parent: C
 nav_order:
 ---
 
-Bibliographies and Study Guides : Chill Pill
+# Chill Pill
 
 Bibliographies and Study Guides
 

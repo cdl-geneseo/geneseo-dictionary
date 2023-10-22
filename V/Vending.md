@@ -5,7 +5,7 @@ parent: V
 nav_order:
 ---
 
-Bibliographies and Study Guides : Vending
+# Vending
 
 Bibliographies and Study Guides
 

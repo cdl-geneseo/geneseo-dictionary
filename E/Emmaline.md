@@ -5,7 +5,7 @@ parent: E
 nav_order:
 ---
 
-Bibliographies and Study Guides : Emmaline
+# Emmaline
 
 Bibliographies and Study Guides
 

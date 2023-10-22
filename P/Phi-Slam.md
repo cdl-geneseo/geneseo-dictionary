@@ -5,7 +5,7 @@ parent: P
 nav_order:
 ---
 
-Bibliographies and Study Guides : Phi Slam
+# Phi Slam
 
 Bibliographies and Study Guides
 

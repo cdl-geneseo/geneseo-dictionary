@@ -5,7 +5,7 @@ parent: H
 nav_order:
 ---
 
-Bibliographies and Study Guides : Hot Mess
+# Hot Mess
 
 Bibliographies and Study Guides
 

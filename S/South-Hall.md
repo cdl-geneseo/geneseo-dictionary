@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : South Hall
+# South Hall
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: I
 nav_order:
 ---
 
-Bibliographies and Study Guides : InterVarsity Christian Fellowship
+# InterVarsity Christian Fellowship
 
 Bibliographies and Study Guides
 

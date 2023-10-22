@@ -5,7 +5,7 @@ parent: V
 nav_order:
 ---
 
-Bibliographies and Study Guides : View All Entries
+# View All Entries
 
 Bibliographies and Study Guides
 

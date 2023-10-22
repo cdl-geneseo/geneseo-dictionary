@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Bone
+# Bone
 
 Bibliographies and Study Guides
 

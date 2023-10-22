@@ -5,7 +5,7 @@ parent: A
 nav_order:
 ---
 
-Bibliographies and Study Guides : Asexual
+# Asexual
 
 Bibliographies and Study Guides
 

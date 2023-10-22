@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : Aunt Cookie's
+# Aunt Cookie's
 
 Bibliographies and Study Guides
 

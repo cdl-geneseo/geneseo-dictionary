@@ -5,7 +5,7 @@ parent: N
 nav_order:
 ---
 
-Bibliographies and Study Guides : Noob
+# Noob
 
 Bibliographies and Study Guides
 

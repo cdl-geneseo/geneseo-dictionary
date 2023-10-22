@@ -5,7 +5,7 @@ parent: T
 nav_order:
 ---
 
-Bibliographies and Study Guides : Touch Grass
+# Touch Grass
 
 Bibliographies and Study Guides
 

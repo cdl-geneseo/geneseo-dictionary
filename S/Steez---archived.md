@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Steez - archived
+# Steez - archived
 
 Bibliographies and Study Guides
 

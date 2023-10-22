@@ -5,7 +5,7 @@ parent: M
 nav_order:
 ---
 
-Bibliographies and Study Guides : Mac Salad
+# Mac Salad
 
 Bibliographies and Study Guides
 

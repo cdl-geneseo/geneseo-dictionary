@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : Ghettos, the
+# Ghettos, the
 
 Bibliographies and Study Guides
 

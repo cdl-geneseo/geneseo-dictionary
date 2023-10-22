@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Brodie Kid
+# Brodie Kid
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : ze or zir
+# ze or zir
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: F
 nav_order:
 ---
 
-Bibliographies and Study Guides : Frat Boy
+# Frat Boy
 
 Bibliographies and Study Guides
 

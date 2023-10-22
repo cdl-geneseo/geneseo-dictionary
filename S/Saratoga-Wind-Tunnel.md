@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Saratoga Wind Tunnel
+# Saratoga Wind Tunnel
 
 Bibliographies and Study Guides
 

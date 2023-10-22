@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Bed Spins
+# Bed Spins
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: U
 nav_order:
 ---
 
-Bibliographies and Study Guides : Unstable girl hair
+# Unstable girl hair
 
 Bibliographies and Study Guides
 

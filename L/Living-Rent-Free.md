@@ -5,7 +5,7 @@ parent: L
 nav_order:
 ---
 
-Bibliographies and Study Guides : Living Rent Free
+# Living Rent Free
 
 Bibliographies and Study Guides
 

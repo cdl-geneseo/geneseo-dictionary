@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : Cow, have a
+# Cow, have a
 
 Bibliographies and Study Guides
 

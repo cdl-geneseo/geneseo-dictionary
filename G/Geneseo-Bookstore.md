@@ -5,7 +5,7 @@ parent: G
 nav_order:
 ---
 
-Bibliographies and Study Guides : Geneseo Bookstore
+# Geneseo Bookstore
 
 Bibliographies and Study Guides
 

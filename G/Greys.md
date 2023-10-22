@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : Grey's
+# Grey's
 
 Bibliographies and Study Guides
 

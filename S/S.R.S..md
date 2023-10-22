@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : S.R.S.
+# S.R.S.
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: P
 nav_order:
 ---
 
-Bibliographies and Study Guides : Poke War
+# Poke War
 
 Bibliographies and Study Guides
 

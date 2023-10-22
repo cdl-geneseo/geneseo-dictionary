@@ -5,7 +5,7 @@ parent: N
 nav_order:
 ---
 
-Bibliographies and Study Guides : No me gusta
+# No me gusta
 
 Bibliographies and Study Guides
 

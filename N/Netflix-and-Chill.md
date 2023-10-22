@@ -5,7 +5,7 @@ parent: N
 nav_order:
 ---
 
-Bibliographies and Study Guides : Netflix and Chill
+# Netflix and Chill
 
 Bibliographies and Study Guides
 

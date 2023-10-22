@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Spooge - archived
+# Spooge - archived
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: K
 nav_order:
 ---
 
-Bibliographies and Study Guides : Kinetic Gallery
+# Kinetic Gallery
 
 Bibliographies and Study Guides
 

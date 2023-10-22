@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : Ballin'
+# Ballin'
 
 Bibliographies and Study Guides
 

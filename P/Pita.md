@@ -5,7 +5,7 @@ parent: P
 nav_order:
 ---
 
-Bibliographies and Study Guides : Pita
+# Pita
 
 Bibliographies and Study Guides
 

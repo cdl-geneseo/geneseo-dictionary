@@ -5,7 +5,7 @@ parent: P
 nav_order:
 ---
 
-Bibliographies and Study Guides : Pitcher
+# Pitcher
 
 Bibliographies and Study Guides
 

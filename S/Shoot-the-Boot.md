@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Shoot the Boot
+# Shoot the Boot
 
 Bibliographies and Study Guides
 

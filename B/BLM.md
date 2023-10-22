@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : BLM
+# BLM
 
 Bibliographies and Study Guides
 

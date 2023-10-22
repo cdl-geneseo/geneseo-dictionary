@@ -5,7 +5,7 @@ parent: C
 nav_order:
 ---
 
-Bibliographies and Study Guides : Crack head
+# Crack head
 
 Bibliographies and Study Guides
 

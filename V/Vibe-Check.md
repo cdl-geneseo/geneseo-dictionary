@@ -5,7 +5,7 @@ parent: V
 nav_order:
 ---
 
-Bibliographies and Study Guides : Vibe-Check
+# Vibe-Check
 
 Bibliographies and Study Guides
 

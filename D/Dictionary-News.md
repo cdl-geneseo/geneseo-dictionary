@@ -5,7 +5,7 @@ parent: D
 nav_order:
 ---
 
-Bibliographies and Study Guides : Dictionary News
+# Dictionary News
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: H
 nav_order:
 ---
 
-Bibliographies and Study Guides : Hub rat
+# Hub rat
 
 Bibliographies and Study Guides
 

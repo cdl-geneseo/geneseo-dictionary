@@ -5,7 +5,7 @@ parent: N
 nav_order:
 ---
 
-Bibliographies and Study Guides : Noodle Arms
+# Noodle Arms
 
 Bibliographies and Study Guides
 

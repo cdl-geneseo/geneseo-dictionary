@@ -5,7 +5,7 @@ parent: M
 nav_order:
 ---
 
-Bibliographies and Study Guides : Mouth-breather
+# Mouth-breather
 
 Bibliographies and Study Guides
 

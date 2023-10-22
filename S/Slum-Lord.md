@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Slum-Lord
+# Slum-Lord
 
 Bibliographies and Study Guides
 

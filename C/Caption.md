@@ -5,7 +5,7 @@ parent: C
 nav_order:
 ---
 
-Bibliographies and Study Guides : Caption
+# Caption
 
 Bibliographies and Study Guides
 

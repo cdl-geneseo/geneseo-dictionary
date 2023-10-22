@@ -5,7 +5,7 @@ parent: W
 nav_order:
 ---
 
-Bibliographies and Study Guides : Walk of Shame
+# Walk of Shame
 
 Bibliographies and Study Guides
 

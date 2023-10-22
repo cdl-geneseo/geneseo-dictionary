@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : L [Taking the L]
+# L [Taking the L]
 
 Bibliographies and Study Guides
 

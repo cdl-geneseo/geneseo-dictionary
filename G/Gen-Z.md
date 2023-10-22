@@ -5,7 +5,7 @@ parent: G
 nav_order:
 ---
 
-Bibliographies and Study Guides : Gen-Z
+# Gen-Z
 
 Bibliographies and Study Guides
 

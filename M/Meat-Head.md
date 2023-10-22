@@ -5,7 +5,7 @@ parent: M
 nav_order:
 ---
 
-Bibliographies and Study Guides : Meat Head
+# Meat Head
 
 Bibliographies and Study Guides
 

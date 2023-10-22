@@ -5,7 +5,7 @@ parent: C
 nav_order:
 ---
 
-Bibliographies and Study Guides : Cardiac Hill
+# Cardiac Hill
 
 Bibliographies and Study Guides
 

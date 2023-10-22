@@ -5,7 +5,7 @@ parent: N
 nav_order:
 ---
 
-Bibliographies and Study Guides : Nug or Nugget
+# Nug or Nugget
 
 Bibliographies and Study Guides
 

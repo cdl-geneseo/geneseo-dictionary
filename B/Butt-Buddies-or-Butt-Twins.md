@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Butt Buddies or Butt Twins
+# Butt Buddies or Butt Twins
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: G
 nav_order:
 ---
 
-Bibliographies and Study Guides : Good Vibes
+# Good Vibes
 
 Bibliographies and Study Guides
 

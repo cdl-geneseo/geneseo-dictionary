@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : Don't go DK
+# Don't go DK
 
 Bibliographies and Study Guides
 

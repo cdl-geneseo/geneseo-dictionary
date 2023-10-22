@@ -5,7 +5,7 @@ parent: U
 nav_order:
 ---
 
-Bibliographies and Study Guides : Uber
+# Uber
 
 Bibliographies and Study Guides
 

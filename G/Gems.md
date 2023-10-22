@@ -5,7 +5,7 @@ parent: G
 nav_order:
 ---
 
-Bibliographies and Study Guides : Gems
+# Gems
 
 Bibliographies and Study Guides
 

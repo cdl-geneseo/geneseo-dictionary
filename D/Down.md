@@ -5,7 +5,7 @@ parent: D
 nav_order:
 ---
 
-Bibliographies and Study Guides : Down
+# Down
 
 Bibliographies and Study Guides
 

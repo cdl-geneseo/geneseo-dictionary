@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Steubennian
+# Steubennian
 
 Bibliographies and Study Guides
 

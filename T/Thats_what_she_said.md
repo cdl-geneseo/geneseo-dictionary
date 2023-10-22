@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : That's what she said
+# That's what she said
 
 Bibliographies and Study Guides
 

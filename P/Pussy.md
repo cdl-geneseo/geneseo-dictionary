@@ -5,7 +5,7 @@ parent: P
 nav_order:
 ---
 
-Bibliographies and Study Guides : Pussy
+# Pussy
 
 Bibliographies and Study Guides
 

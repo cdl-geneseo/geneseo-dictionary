@@ -5,7 +5,7 @@ parent: D
 nav_order:
 ---
 
-Bibliographies and Study Guides : Dirty Sanchez
+# Dirty Sanchez
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : Rocked (v. or adj.)
+# Rocked (v. or adj.)
 
 Bibliographies and Study Guides
 

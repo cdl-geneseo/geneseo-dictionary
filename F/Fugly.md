@@ -5,7 +5,7 @@ parent: F
 nav_order:
 ---
 
-Bibliographies and Study Guides : Fugly
+# Fugly
 
 Bibliographies and Study Guides
 

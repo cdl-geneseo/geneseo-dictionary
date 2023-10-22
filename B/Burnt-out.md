@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Burnt-out
+# Burnt-out
 
 Bibliographies and Study Guides
 

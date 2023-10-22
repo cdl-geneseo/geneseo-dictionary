@@ -5,7 +5,7 @@ parent: P
 nav_order:
 ---
 
-Bibliographies and Study Guides : Puddle
+# Puddle
 
 Bibliographies and Study Guides
 

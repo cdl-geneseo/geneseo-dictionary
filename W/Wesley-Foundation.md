@@ -5,7 +5,7 @@ parent: W
 nav_order:
 ---
 
-Bibliographies and Study Guides : Wesley Foundation
+# Wesley Foundation
 
 Bibliographies and Study Guides
 

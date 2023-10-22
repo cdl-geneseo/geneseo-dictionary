@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Special Sauce - archived
+# Special Sauce - archived
 
 Bibliographies and Study Guides
 

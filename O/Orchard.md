@@ -5,7 +5,7 @@ parent: O
 nav_order:
 ---
 
-Bibliographies and Study Guides : Orchard
+# Orchard
 
 Bibliographies and Study Guides
 

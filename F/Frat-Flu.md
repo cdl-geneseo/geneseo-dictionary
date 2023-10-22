@@ -5,7 +5,7 @@ parent: F
 nav_order:
 ---
 
-Bibliographies and Study Guides : Frat Flu
+# Frat Flu
 
 Bibliographies and Study Guides
 

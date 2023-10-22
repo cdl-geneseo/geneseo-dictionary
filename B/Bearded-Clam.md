@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Bearded Clam
+# Bearded Clam
 
 Bibliographies and Study Guides
 

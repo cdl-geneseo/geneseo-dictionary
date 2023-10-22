@@ -5,7 +5,7 @@ parent: N
 nav_order:
 ---
 
-Bibliographies and Study Guides : Nip Slip
+# Nip Slip
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: G
 nav_order:
 ---
 
-Bibliographies and Study Guides : Gank
+# Gank
 
 Bibliographies and Study Guides
 

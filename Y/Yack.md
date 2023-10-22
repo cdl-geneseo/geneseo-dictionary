@@ -5,7 +5,7 @@ parent: Y
 nav_order:
 ---
 
-Bibliographies and Study Guides : Yack
+# Yack
 
 Bibliographies and Study Guides
 

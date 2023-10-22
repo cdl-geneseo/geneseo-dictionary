@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Slammed
+# Slammed
 
 Bibliographies and Study Guides
 

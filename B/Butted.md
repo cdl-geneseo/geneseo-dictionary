@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Butted
+# Butted
 
 Bibliographies and Study Guides
 

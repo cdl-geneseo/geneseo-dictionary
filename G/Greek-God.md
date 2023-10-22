@@ -5,7 +5,7 @@ parent: G
 nav_order:
 ---
 
-Bibliographies and Study Guides : Greek God
+# Greek God
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Bailey
+# Bailey
 
 Bibliographies and Study Guides
 

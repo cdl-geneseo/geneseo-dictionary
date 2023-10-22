@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Swole
+# Swole
 
 Bibliographies and Study Guides
 

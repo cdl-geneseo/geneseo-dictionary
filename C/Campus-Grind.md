@@ -5,7 +5,7 @@ parent: C
 nav_order:
 ---
 
-Bibliographies and Study Guides : Campus Grind
+# Campus Grind
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: N
 nav_order:
 ---
 
-Bibliographies and Study Guides : Noise Violation
+# Noise Violation
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: P
 nav_order:
 ---
 
-Bibliographies and Study Guides : Poptard
+# Poptard
 
 Bibliographies and Study Guides
 

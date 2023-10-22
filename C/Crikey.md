@@ -5,7 +5,7 @@ parent: C
 nav_order:
 ---
 
-Bibliographies and Study Guides : Crikey
+# Crikey
 
 Bibliographies and Study Guides
 

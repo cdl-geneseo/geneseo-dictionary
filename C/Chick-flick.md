@@ -5,7 +5,7 @@ parent: C
 nav_order:
 ---
 
-Bibliographies and Study Guides : Chick flick
+# Chick flick
 
 Bibliographies and Study Guides
 

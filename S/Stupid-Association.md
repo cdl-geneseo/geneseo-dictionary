@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Stupid Association
+# Stupid Association
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: H
 nav_order:
 ---
 
-Bibliographies and Study Guides : Half-Ass
+# Half-Ass
 
 Bibliographies and Study Guides
 

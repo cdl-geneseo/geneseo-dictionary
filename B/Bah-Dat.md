@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Bah-Dat
+# Bah-Dat
 
 Bibliographies and Study Guides
 

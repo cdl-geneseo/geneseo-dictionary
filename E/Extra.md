@@ -5,7 +5,7 @@ parent: E
 nav_order:
 ---
 
-Bibliographies and Study Guides : Extra
+# Extra
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: V
 nav_order:
 ---
 
-Bibliographies and Study Guides : Vein Pole
+# Vein Pole
 
 Bibliographies and Study Guides
 

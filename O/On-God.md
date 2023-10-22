@@ -5,7 +5,7 @@ parent: O
 nav_order:
 ---
 
-Bibliographies and Study Guides : On God
+# On God
 
 Bibliographies and Study Guides
 

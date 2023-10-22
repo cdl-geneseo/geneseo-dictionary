@@ -5,7 +5,7 @@ parent: O
 nav_order:
 ---
 
-Bibliographies and Study Guides : O face
+# O face
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: F
 nav_order:
 ---
 
-Bibliographies and Study Guides : Four Dogs
+# Four Dogs
 
 Bibliographies and Study Guides
 

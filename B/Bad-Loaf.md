@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Bad-Loaf
+# Bad-Loaf
 
 Bibliographies and Study Guides
 

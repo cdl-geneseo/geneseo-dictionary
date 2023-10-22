@@ -5,7 +5,7 @@ parent: P
 nav_order:
 ---
 
-Bibliographies and Study Guides : Pass out
+# Pass out
 
 Bibliographies and Study Guides
 

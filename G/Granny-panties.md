@@ -5,7 +5,7 @@ parent: G
 nav_order:
 ---
 
-Bibliographies and Study Guides : Granny panties
+# Granny panties
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: T
 nav_order:
 ---
 
-Bibliographies and Study Guides : Threshold
+# Threshold
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: K
 nav_order:
 ---
 
-Bibliographies and Study Guides : KINO
+# KINO
 
 Bibliographies and Study Guides
 

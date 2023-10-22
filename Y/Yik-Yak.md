@@ -5,7 +5,7 @@ parent: Y
 nav_order:
 ---
 
-Bibliographies and Study Guides : Yik Yak
+# Yik Yak
 
 Bibliographies and Study Guides
 

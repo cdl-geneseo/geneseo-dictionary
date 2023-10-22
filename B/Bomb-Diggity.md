@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Bomb Diggity
+# Bomb Diggity
 
 Bibliographies and Study Guides
 

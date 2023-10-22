@@ -5,7 +5,7 @@ parent: C
 nav_order:
 ---
 
-Bibliographies and Study Guides : Cock Block
+# Cock Block
 
 Bibliographies and Study Guides
 

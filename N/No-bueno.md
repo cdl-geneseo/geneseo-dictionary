@@ -5,7 +5,7 @@ parent: N
 nav_order:
 ---
 
-Bibliographies and Study Guides : No bueno
+# No bueno
 
 Bibliographies and Study Guides
 

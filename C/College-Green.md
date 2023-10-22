@@ -5,7 +5,7 @@ parent: C
 nav_order:
 ---
 
-Bibliographies and Study Guides : College Green
+# College Green
 
 Bibliographies and Study Guides
 

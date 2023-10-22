@@ -5,7 +5,7 @@ parent: T
 nav_order:
 ---
 
-Bibliographies and Study Guides : Techie Dance Concert
+# Techie Dance Concert
 
 Bibliographies and Study Guides
 

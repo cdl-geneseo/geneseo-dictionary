@@ -5,7 +5,7 @@ parent: V
 nav_order:
 ---
 
-Bibliographies and Study Guides : Vanilla
+# Vanilla
 
 Bibliographies and Study Guides
 

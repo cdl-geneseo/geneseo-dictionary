@@ -5,7 +5,7 @@ parent: F
 nav_order:
 ---
 
-Bibliographies and Study Guides : Flower Child
+# Flower Child
 
 Bibliographies and Study Guides
 

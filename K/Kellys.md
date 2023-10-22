@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : Kelly's
+# Kelly's
 
 Bibliographies and Study Guides
 

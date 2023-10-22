@@ -5,7 +5,7 @@ parent: Q
 nav_order:
 ---
 
-Bibliographies and Study Guides : Quidditch
+# Quidditch
 
 Bibliographies and Study Guides
 

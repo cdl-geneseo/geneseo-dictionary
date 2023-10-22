@@ -5,7 +5,7 @@ parent: M
 nav_order:
 ---
 
-Bibliographies and Study Guides : Main Moon
+# Main Moon
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Sundance Books
+# Sundance Books
 
 Bibliographies and Study Guides
 

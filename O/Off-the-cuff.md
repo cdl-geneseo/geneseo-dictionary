@@ -5,7 +5,7 @@ parent: O
 nav_order:
 ---
 
-Bibliographies and Study Guides : Off-the-cuff
+# Off-the-cuff
 
 Bibliographies and Study Guides
 

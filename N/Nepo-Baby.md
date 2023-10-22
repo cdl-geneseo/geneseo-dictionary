@@ -5,7 +5,7 @@ parent: N
 nav_order:
 ---
 
-Bibliographies and Study Guides : Nepo-Baby
+# Nepo-Baby
 
 Bibliographies and Study Guides
 

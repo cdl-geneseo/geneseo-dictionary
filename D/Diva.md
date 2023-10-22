@@ -5,7 +5,7 @@ parent: D
 nav_order:
 ---
 
-Bibliographies and Study Guides : Diva
+# Diva
 
 Bibliographies and Study Guides
 

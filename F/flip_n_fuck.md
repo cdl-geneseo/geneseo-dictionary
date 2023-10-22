@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : flip 'n fuck
+# flip 'n fuck
 
 Bibliographies and Study Guides
 

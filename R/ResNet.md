@@ -5,7 +5,7 @@ parent: R
 nav_order:
 ---
 
-Bibliographies and Study Guides : ResNet
+# ResNet
 
 Bibliographies and Study Guides
 

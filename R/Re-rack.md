@@ -5,7 +5,7 @@ parent: R
 nav_order:
 ---
 
-Bibliographies and Study Guides : Re-rack
+# Re-rack
 
 Bibliographies and Study Guides
 

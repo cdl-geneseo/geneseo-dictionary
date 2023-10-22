@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : Transition or Transitioning
+# Transition or Transitioning
 
 Bibliographies and Study Guides
 

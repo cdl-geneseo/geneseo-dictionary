@@ -5,7 +5,7 @@ parent: W
 nav_order:
 ---
 
-Bibliographies and Study Guides : Wide-clopse
+# Wide-clopse
 
 Bibliographies and Study Guides
 

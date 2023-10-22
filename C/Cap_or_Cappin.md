@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : Cap or Cappin'
+# Cap or Cappin'
 
 Bibliographies and Study Guides
 

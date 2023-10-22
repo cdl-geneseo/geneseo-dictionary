@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Shitcreek
+# Shitcreek
 
 Bibliographies and Study Guides
 

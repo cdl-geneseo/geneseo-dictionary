@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Spastic
+# Spastic
 
 Bibliographies and Study Guides
 

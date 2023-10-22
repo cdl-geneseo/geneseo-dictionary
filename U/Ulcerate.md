@@ -5,7 +5,7 @@ parent: U
 nav_order:
 ---
 
-Bibliographies and Study Guides : Ulcerate
+# Ulcerate
 
 Bibliographies and Study Guides
 

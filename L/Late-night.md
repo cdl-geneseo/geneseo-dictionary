@@ -5,7 +5,7 @@ parent: L
 nav_order:
 ---
 
-Bibliographies and Study Guides : Late night
+# Late night
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Sig Tau
+# Sig Tau
 
 Bibliographies and Study Guides
 

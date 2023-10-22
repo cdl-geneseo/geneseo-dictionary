@@ -5,7 +5,7 @@ parent: C
 nav_order:
 ---
 
-Bibliographies and Study Guides : Cothurnus
+# Cothurnus
 
 Bibliographies and Study Guides
 

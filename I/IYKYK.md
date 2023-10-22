@@ -5,7 +5,7 @@ parent: I
 nav_order:
 ---
 
-Bibliographies and Study Guides : IYKYK
+# IYKYK
 
 Bibliographies and Study Guides
 

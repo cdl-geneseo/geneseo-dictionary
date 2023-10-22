@@ -5,7 +5,7 @@ parent: G
 nav_order:
 ---
 
-Bibliographies and Study Guides : Good loaf
+# Good loaf
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: K
 nav_order:
 ---
 
-Bibliographies and Study Guides : Kanye 2020
+# Kanye 2020
 
 Bibliographies and Study Guides
 

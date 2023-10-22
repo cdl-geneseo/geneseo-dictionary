@@ -5,7 +5,7 @@ parent: D
 nav_order:
 ---
 
-Bibliographies and Study Guides : Denise Battles
+# Denise Battles
 
 Bibliographies and Study Guides
 

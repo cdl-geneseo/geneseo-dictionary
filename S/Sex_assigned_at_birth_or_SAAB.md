@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : Sex assigned at birth or SAAB
+# Sex assigned at birth or SAAB
 
 Bibliographies and Study Guides
 

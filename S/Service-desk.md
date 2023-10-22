@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Service desk
+# Service desk
 
 Bibliographies and Study Guides
 

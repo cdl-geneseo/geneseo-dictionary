@@ -5,7 +5,7 @@ parent: C
 nav_order:
 ---
 
-Bibliographies and Study Guides : Catch a buzz
+# Catch a buzz
 
 Bibliographies and Study Guides
 

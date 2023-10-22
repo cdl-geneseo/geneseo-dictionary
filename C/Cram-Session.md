@@ -5,7 +5,7 @@ parent: C
 nav_order:
 ---
 
-Bibliographies and Study Guides : Cram Session
+# Cram Session
 
 Bibliographies and Study Guides
 

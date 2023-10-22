@@ -5,7 +5,7 @@ parent: P
 nav_order:
 ---
 
-Bibliographies and Study Guides : Piss poor
+# Piss poor
 
 Bibliographies and Study Guides
 

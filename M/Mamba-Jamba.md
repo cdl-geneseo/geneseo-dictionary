@@ -5,7 +5,7 @@ parent: M
 nav_order:
 ---
 
-Bibliographies and Study Guides : Mamba Jamba
+# Mamba Jamba
 
 Bibliographies and Study Guides
 

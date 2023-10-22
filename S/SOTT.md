@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : SOTT
+# SOTT
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: N
 nav_order:
 ---
 
-Bibliographies and Study Guides : Nose candy
+# Nose candy
 
 Bibliographies and Study Guides
 

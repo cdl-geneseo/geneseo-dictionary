@@ -5,7 +5,7 @@ parent: W
 nav_order:
 ---
 
-Bibliographies and Study Guides : Wigger
+# Wigger
 
 Bibliographies and Study Guides
 

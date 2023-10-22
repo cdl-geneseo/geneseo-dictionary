@@ -5,7 +5,7 @@ parent: F
 nav_order:
 ---
 
-Bibliographies and Study Guides : Fro-ya
+# Fro-ya
 
 Bibliographies and Study Guides
 

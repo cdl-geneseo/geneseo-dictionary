@@ -5,7 +5,7 @@ parent: A
 nav_order:
 ---
 
-Bibliographies and Study Guides : Awkward Flag
+# Awkward Flag
 
 Bibliographies and Study Guides
 

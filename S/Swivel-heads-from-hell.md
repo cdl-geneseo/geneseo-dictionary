@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Swivel-heads from hell
+# Swivel-heads from hell
 
 Bibliographies and Study Guides
 

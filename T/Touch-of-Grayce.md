@@ -5,7 +5,7 @@ parent: T
 nav_order:
 ---
 
-Bibliographies and Study Guides : Touch of Grayce
+# Touch of Grayce
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : That's not my bag
+# That's not my bag
 
 Bibliographies and Study Guides
 

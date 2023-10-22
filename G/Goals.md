@@ -5,7 +5,7 @@ parent: G
 nav_order:
 ---
 
-Bibliographies and Study Guides : Goals
+# Goals
 
 Bibliographies and Study Guides
 

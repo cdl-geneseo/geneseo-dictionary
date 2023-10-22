@@ -5,7 +5,7 @@ parent: J
 nav_order:
 ---
 
-Bibliographies and Study Guides : Jones
+# Jones
 
 Bibliographies and Study Guides
 

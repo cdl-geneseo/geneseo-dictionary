@@ -5,7 +5,7 @@ parent: A
 nav_order:
 ---
 
-Bibliographies and Study Guides : Alice Austin
+# Alice Austin
 
 Bibliographies and Study Guides
 

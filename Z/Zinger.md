@@ -5,7 +5,7 @@ parent: Z
 nav_order:
 ---
 
-Bibliographies and Study Guides : Zinger
+# Zinger
 
 Bibliographies and Study Guides
 

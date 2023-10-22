@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Spill The Tea
+# Spill The Tea
 
 Bibliographies and Study Guides
 

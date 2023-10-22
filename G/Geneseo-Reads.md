@@ -5,7 +5,7 @@ parent: G
 nav_order:
 ---
 
-Bibliographies and Study Guides : Geneseo Reads
+# Geneseo Reads
 
 Bibliographies and Study Guides
 

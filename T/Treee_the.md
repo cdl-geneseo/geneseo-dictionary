@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : Treee, the
+# Treee, the
 
 Bibliographies and Study Guides
 

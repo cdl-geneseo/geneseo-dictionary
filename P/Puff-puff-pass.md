@@ -5,7 +5,7 @@ parent: P
 nav_order:
 ---
 
-Bibliographies and Study Guides : Puff puff pass
+# Puff puff pass
 
 Bibliographies and Study Guides
 

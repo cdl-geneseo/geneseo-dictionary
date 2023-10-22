@@ -5,7 +5,7 @@ parent: G
 nav_order:
 ---
 
-Bibliographies and Study Guides : Girlie-man
+# Girlie-man
 
 Bibliographies and Study Guides
 

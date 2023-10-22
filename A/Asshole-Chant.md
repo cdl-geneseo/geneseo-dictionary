@@ -5,7 +5,7 @@ parent: A
 nav_order:
 ---
 
-Bibliographies and Study Guides : Asshole Chant
+# Asshole Chant
 
 Bibliographies and Study Guides
 

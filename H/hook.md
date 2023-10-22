@@ -5,7 +5,7 @@ parent: H
 nav_order:
 ---
 
-Bibliographies and Study Guides : hook
+# hook
 
 Bibliographies and Study Guides
 

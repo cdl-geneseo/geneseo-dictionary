@@ -5,7 +5,7 @@ parent: A
 nav_order:
 ---
 
-Bibliographies and Study Guides : Are-moosa
+# Are-moosa
 
 Bibliographies and Study Guides
 

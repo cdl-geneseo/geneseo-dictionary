@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : Mia's
+# Mia's
 
 Bibliographies and Study Guides
 

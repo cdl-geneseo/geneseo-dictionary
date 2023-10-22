@@ -5,7 +5,7 @@ parent: P
 nav_order:
 ---
 
-Bibliographies and Study Guides : Polygamy
+# Polygamy
 
 Bibliographies and Study Guides
 

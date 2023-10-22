@@ -5,7 +5,7 @@ parent: Q
 nav_order:
 ---
 
-Bibliographies and Study Guides : Quiet Hours
+# Quiet Hours
 
 Bibliographies and Study Guides
 

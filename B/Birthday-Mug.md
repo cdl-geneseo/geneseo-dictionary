@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Birthday Mug
+# Birthday Mug
 
 Bibliographies and Study Guides
 

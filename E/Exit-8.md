@@ -5,7 +5,7 @@ parent: E
 nav_order:
 ---
 
-Bibliographies and Study Guides : Exit 8
+# Exit 8
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: N
 nav_order:
 ---
 
-Bibliographies and Study Guides : NBD
+# NBD
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: H
 nav_order:
 ---
 
-Bibliographies and Study Guides : Home Page
+# Home Page
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: R
 nav_order:
 ---
 
-Bibliographies and Study Guides : RT
+# RT
 
 Bibliographies and Study Guides
 

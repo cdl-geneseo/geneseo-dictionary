@@ -5,7 +5,7 @@ parent: H
 nav_order:
 ---
 
-Bibliographies and Study Guides : Hype
+# Hype
 
 Bibliographies and Study Guides
 

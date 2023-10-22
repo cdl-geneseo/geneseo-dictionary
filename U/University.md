@@ -5,7 +5,7 @@ parent: U
 nav_order:
 ---
 
-Bibliographies and Study Guides : University
+# University
 
 Bibliographies and Study Guides
 

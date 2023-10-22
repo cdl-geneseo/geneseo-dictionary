@@ -5,7 +5,7 @@ parent: C
 nav_order:
 ---
 
-Bibliographies and Study Guides : Chill out
+# Chill out
 
 Bibliographies and Study Guides
 

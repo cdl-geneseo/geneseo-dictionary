@@ -5,7 +5,7 @@ parent: E
 nav_order:
 ---
 
-Bibliographies and Study Guides : Epipen
+# Epipen
 
 Bibliographies and Study Guides
 

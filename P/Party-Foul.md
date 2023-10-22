@@ -5,7 +5,7 @@ parent: P
 nav_order:
 ---
 
-Bibliographies and Study Guides : Party Foul
+# Party Foul
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: H
 nav_order:
 ---
 
-Bibliographies and Study Guides : hook my thotch
+# hook my thotch
 
 Bibliographies and Study Guides
 

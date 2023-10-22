@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Barf Me
+# Barf Me
 
 Bibliographies and Study Guides
 

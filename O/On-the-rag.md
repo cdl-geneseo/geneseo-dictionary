@@ -5,7 +5,7 @@ parent: O
 nav_order:
 ---
 
-Bibliographies and Study Guides : On the rag
+# On the rag
 
 Bibliographies and Study Guides
 

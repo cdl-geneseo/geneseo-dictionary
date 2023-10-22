@@ -5,7 +5,7 @@ parent: P
 nav_order:
 ---
 
-Bibliographies and Study Guides : Phi Kap
+# Phi Kap
 
 Bibliographies and Study Guides
 

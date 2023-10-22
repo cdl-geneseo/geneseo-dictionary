@@ -5,7 +5,7 @@ parent: Z
 nav_order:
 ---
 
-Bibliographies and Study Guides : Zone out
+# Zone out
 
 Bibliographies and Study Guides
 

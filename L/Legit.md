@@ -5,7 +5,7 @@ parent: L
 nav_order:
 ---
 
-Bibliographies and Study Guides : Legit
+# Legit
 
 Bibliographies and Study Guides
 

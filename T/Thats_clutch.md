@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : That's clutch
+# That's clutch
 
 Bibliographies and Study Guides
 

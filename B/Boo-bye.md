@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Boo-bye
+# Boo-bye
 
 Bibliographies and Study Guides
 

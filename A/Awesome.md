@@ -5,7 +5,7 @@ parent: A
 nav_order:
 ---
 
-Bibliographies and Study Guides : Awesome
+# Awesome
 
 Bibliographies and Study Guides
 

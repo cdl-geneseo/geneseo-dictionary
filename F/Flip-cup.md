@@ -5,7 +5,7 @@ parent: F
 nav_order:
 ---
 
-Bibliographies and Study Guides : Flip-cup
+# Flip-cup
 
 Bibliographies and Study Guides
 

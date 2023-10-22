@@ -5,7 +5,7 @@ parent: Reports
 nav_order:
 ---
 
-Bibliographies and Study Guides : Report of Fall 2012 Group N-R
+# Report of Fall 2012 Group N-R
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: C
 nav_order:
 ---
 
-Bibliographies and Study Guides : Cheese or cheddar
+# Cheese or cheddar
 
 Bibliographies and Study Guides
 

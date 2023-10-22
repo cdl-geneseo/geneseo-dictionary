@@ -5,7 +5,7 @@ parent: O
 nav_order:
 ---
 
-Bibliographies and Study Guides : O.D.
+# O.D.
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : Latino Student Association (LSA)
+# Latino Student Association (LSA)
 
 Bibliographies and Study Guides
 

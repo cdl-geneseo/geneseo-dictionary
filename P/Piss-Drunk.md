@@ -5,7 +5,7 @@ parent: P
 nav_order:
 ---
 
-Bibliographies and Study Guides : Piss Drunk
+# Piss Drunk
 
 Bibliographies and Study Guides
 

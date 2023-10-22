@@ -5,7 +5,7 @@ parent: M
 nav_order:
 ---
 
-Bibliographies and Study Guides : Midnight Grind
+# Midnight Grind
 
 Bibliographies and Study Guides
 

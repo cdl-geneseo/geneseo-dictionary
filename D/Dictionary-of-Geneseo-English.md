@@ -5,7 +5,7 @@ parent: D
 nav_order:
 ---
 
-Bibliographies and Study Guides : Dictionary of Geneseo English
+# Dictionary of Geneseo English
 
 Bibliographies and Study Guides
 

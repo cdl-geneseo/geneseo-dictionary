@@ -5,7 +5,7 @@ parent: D
 nav_order:
 ---
 
-Bibliographies and Study Guides : Dropping Ass
+# Dropping Ass
 
 Bibliographies and Study Guides
 

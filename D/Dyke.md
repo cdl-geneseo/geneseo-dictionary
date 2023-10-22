@@ -5,7 +5,7 @@ parent: D
 nav_order:
 ---
 
-Bibliographies and Study Guides : Dyke
+# Dyke
 
 Bibliographies and Study Guides
 

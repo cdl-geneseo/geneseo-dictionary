@@ -5,7 +5,7 @@ parent: W
 nav_order:
 ---
 
-Bibliographies and Study Guides : Wheel Night
+# Wheel Night
 
 Bibliographies and Study Guides
 

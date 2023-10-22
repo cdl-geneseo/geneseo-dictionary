@@ -5,7 +5,7 @@ parent: Z
 nav_order:
 ---
 
-Bibliographies and Study Guides : Zonked
+# Zonked
 
 Bibliographies and Study Guides
 

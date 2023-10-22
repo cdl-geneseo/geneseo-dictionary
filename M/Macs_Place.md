@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : Mac's Place
+# Mac's Place
 
 Bibliographies and Study Guides
 

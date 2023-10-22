@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Special Talent
+# Special Talent
 
 Bibliographies and Study Guides
 

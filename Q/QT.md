@@ -5,7 +5,7 @@ parent: Q
 nav_order:
 ---
 
-Bibliographies and Study Guides : QT
+# QT
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: F
 nav_order:
 ---
 
-Bibliographies and Study Guides : Fuck-and-run
+# Fuck-and-run
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Brodie freak
+# Brodie freak
 
 Bibliographies and Study Guides
 

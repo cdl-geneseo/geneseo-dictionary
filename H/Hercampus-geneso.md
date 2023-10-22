@@ -5,7 +5,7 @@ parent: H
 nav_order:
 ---
 
-Bibliographies and Study Guides : Hercampus geneso
+# Hercampus geneso
 
 Bibliographies and Study Guides
 

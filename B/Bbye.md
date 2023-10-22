@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : B'bye
+# B'bye
 
 Bibliographies and Study Guides
 

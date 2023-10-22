@@ -5,7 +5,7 @@ parent: C
 nav_order:
 ---
 
-Bibliographies and Study Guides : Candy store
+# Candy store
 
 Bibliographies and Study Guides
 

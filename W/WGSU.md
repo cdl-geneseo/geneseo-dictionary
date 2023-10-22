@@ -5,7 +5,7 @@ parent: W
 nav_order:
 ---
 
-Bibliographies and Study Guides : WGSU
+# WGSU
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: P
 nav_order:
 ---
 
-Bibliographies and Study Guides : Postulant
+# Postulant
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Shit-faced
+# Shit-faced
 
 Bibliographies and Study Guides
 

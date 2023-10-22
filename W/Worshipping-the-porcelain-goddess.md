@@ -5,7 +5,7 @@ parent: W
 nav_order:
 ---
 
-Bibliographies and Study Guides : Worshipping the porcelain goddess
+# Worshipping the porcelain goddess
 
 Bibliographies and Study Guides
 

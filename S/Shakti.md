@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Shakti
+# Shakti
 
 Bibliographies and Study Guides
 

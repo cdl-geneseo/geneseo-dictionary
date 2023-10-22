@@ -5,7 +5,7 @@ parent: C
 nav_order:
 ---
 
-Bibliographies and Study Guides : Completing the Rainbow
+# Completing the Rainbow
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: R
 nav_order:
 ---
 
-Bibliographies and Study Guides : Res Life
+# Res Life
 
 Bibliographies and Study Guides
 

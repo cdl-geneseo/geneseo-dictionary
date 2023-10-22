@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Beer Pong
+# Beer Pong
 
 Bibliographies and Study Guides
 

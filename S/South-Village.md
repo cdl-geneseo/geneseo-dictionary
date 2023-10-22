@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : South Village
+# South Village
 
 Bibliographies and Study Guides
 

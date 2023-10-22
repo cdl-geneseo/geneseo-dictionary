@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Black Box
+# Black Box
 
 Bibliographies and Study Guides
 

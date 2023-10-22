@@ -5,7 +5,7 @@ parent: T
 nav_order:
 ---
 
-Bibliographies and Study Guides : TMI
+# TMI
 
 Bibliographies and Study Guides
 

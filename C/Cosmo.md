@@ -5,7 +5,7 @@ parent: C
 nav_order:
 ---
 
-Bibliographies and Study Guides : Cosmo
+# Cosmo
 
 Bibliographies and Study Guides
 

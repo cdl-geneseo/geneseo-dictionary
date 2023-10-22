@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Bar-Eat-O
+# Bar-Eat-O
 
 Bibliographies and Study Guides
 

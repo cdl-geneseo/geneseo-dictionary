@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Space ships
+# Space ships
 
 Bibliographies and Study Guides
 

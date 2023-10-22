@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : N't
+# N't
 
 Bibliographies and Study Guides
 

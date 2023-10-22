@@ -5,7 +5,7 @@ parent: C
 nav_order:
 ---
 
-Bibliographies and Study Guides : Chow Hound
+# Chow Hound
 
 Bibliographies and Study Guides
 

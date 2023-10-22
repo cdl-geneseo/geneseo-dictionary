@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Sweet - archived
+# Sweet - archived
 
 Bibliographies and Study Guides
 

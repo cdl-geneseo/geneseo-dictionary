@@ -5,7 +5,7 @@ parent: F
 nav_order:
 ---
 
-Bibliographies and Study Guides : Frat Shoes
+# Frat Shoes
 
 Bibliographies and Study Guides
 

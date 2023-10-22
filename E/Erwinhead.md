@@ -5,7 +5,7 @@ parent: E
 nav_order:
 ---
 
-Bibliographies and Study Guides : Erwinhead
+# Erwinhead
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : Cheesin'
+# Cheesin'
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: V
 nav_order:
 ---
 
-Bibliographies and Study Guides : Vegan
+# Vegan
 
 Bibliographies and Study Guides
 

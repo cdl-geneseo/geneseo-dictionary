@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : R. A. (superseded)
+# R. A. (superseded)
 
 Bibliographies and Study Guides
 

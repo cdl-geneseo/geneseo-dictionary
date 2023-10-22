@@ -5,7 +5,7 @@ parent: H
 nav_order:
 ---
 
-Bibliographies and Study Guides : Humans vs. Zombies
+# Humans vs. Zombies
 
 Bibliographies and Study Guides
 

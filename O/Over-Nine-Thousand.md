@@ -5,7 +5,7 @@ parent: O
 nav_order:
 ---
 
-Bibliographies and Study Guides : Over Nine Thousand
+# Over Nine Thousand
 
 Bibliographies and Study Guides
 

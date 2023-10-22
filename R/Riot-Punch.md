@@ -5,7 +5,7 @@ parent: R
 nav_order:
 ---
 
-Bibliographies and Study Guides : Riot Punch
+# Riot Punch
 
 Bibliographies and Study Guides
 

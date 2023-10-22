@@ -5,7 +5,7 @@ parent: J
 nav_order:
 ---
 
-Bibliographies and Study Guides : JK
+# JK
 
 Bibliographies and Study Guides
 

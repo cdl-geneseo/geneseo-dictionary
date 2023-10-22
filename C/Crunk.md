@@ -5,7 +5,7 @@ parent: C
 nav_order:
 ---
 
-Bibliographies and Study Guides : Crunk
+# Crunk
 
 Bibliographies and Study Guides
 

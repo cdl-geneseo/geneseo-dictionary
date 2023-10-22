@@ -5,7 +5,7 @@ parent: R
 nav_order:
 ---
 
-Bibliographies and Study Guides : Rape Lot
+# Rape Lot
 
 Bibliographies and Study Guides
 

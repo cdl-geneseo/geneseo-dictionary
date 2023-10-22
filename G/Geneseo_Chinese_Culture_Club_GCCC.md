@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : Geneseo Chinese Culture Club (GCCC)
+# Geneseo Chinese Culture Club (GCCC)
 
 Bibliographies and Study Guides
 

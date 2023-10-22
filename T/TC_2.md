@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : TC (2)
+# TC (2)
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: W
 nav_order:
 ---
 
-Bibliographies and Study Guides : Wine Wednesday
+# Wine Wednesday
 
 Bibliographies and Study Guides
 

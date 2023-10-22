@@ -5,7 +5,7 @@ parent: W
 nav_order:
 ---
 
-Bibliographies and Study Guides : WhatsUp-L Digest
+# WhatsUp-L Digest
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Boot Bucket
+# Boot Bucket
 
 Bibliographies and Study Guides
 

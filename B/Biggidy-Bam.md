@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Biggidy Bam
+# Biggidy Bam
 
 Bibliographies and Study Guides
 

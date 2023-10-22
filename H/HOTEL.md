@@ -5,7 +5,7 @@ parent: H
 nav_order:
 ---
 
-Bibliographies and Study Guides : HOTEL
+# HOTEL
 
 Bibliographies and Study Guides
 

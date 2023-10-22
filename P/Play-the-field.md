@@ -5,7 +5,7 @@ parent: P
 nav_order:
 ---
 
-Bibliographies and Study Guides : Play the field
+# Play the field
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : Miceli's
+# Miceli's
 
 Bibliographies and Study Guides
 

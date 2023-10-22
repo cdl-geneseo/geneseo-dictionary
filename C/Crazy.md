@@ -5,7 +5,7 @@ parent: C
 nav_order:
 ---
 
-Bibliographies and Study Guides : Crazy
+# Crazy
 
 Bibliographies and Study Guides
 

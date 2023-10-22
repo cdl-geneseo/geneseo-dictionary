@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Side-Eye
+# Side-Eye
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: L
 nav_order:
 ---
 
-Bibliographies and Study Guides : lol
+# lol
 
 Bibliographies and Study Guides
 

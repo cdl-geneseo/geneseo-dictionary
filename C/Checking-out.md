@@ -5,7 +5,7 @@ parent: C
 nav_order:
 ---
 
-Bibliographies and Study Guides : Checking out
+# Checking out
 
 Bibliographies and Study Guides
 

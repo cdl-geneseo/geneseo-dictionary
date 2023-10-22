@@ -5,7 +5,7 @@ parent: J
 nav_order:
 ---
 
-Bibliographies and Study Guides : Jazz Ensemble
+# Jazz Ensemble
 
 Bibliographies and Study Guides
 

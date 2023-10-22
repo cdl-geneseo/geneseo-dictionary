@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : Books &amp;Bytes
+# Books &amp;Bytes
 
 Bibliographies and Study Guides
 

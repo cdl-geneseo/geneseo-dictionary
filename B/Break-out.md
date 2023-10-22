@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Break out
+# Break out
 
 Bibliographies and Study Guides
 

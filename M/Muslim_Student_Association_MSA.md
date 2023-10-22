@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : Muslim Student Association (MSA)
+# Muslim Student Association (MSA)
 
 Bibliographies and Study Guides
 

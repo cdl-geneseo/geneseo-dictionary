@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Sad Panda
+# Sad Panda
 
 Bibliographies and Study Guides
 

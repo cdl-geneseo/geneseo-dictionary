@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Booted
+# Booted
 
 Bibliographies and Study Guides
 

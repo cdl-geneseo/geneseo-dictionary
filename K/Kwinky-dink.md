@@ -5,7 +5,7 @@ parent: K
 nav_order:
 ---
 
-Bibliographies and Study Guides : Kwinky-dink
+# Kwinky-dink
 
 Bibliographies and Study Guides
 

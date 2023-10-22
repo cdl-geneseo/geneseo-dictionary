@@ -5,7 +5,7 @@ parent: F
 nav_order:
 ---
 
-Bibliographies and Study Guides : Froo-froo
+# Froo-froo
 
 Bibliographies and Study Guides
 

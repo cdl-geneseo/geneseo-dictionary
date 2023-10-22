@@ -5,7 +5,7 @@ parent: C
 nav_order:
 ---
 
-Bibliographies and Study Guides : Circle of Death
+# Circle of Death
 
 Bibliographies and Study Guides
 

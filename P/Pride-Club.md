@@ -5,7 +5,7 @@ parent: P
 nav_order:
 ---
 
-Bibliographies and Study Guides : Pride Club
+# Pride Club
 
 Bibliographies and Study Guides
 

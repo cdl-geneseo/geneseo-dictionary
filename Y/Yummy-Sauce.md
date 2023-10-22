@@ -5,7 +5,7 @@ parent: Y
 nav_order:
 ---
 
-Bibliographies and Study Guides : Yummy Sauce
+# Yummy Sauce
 
 Bibliographies and Study Guides
 

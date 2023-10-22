@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Sturges - archived
+# Sturges - archived
 
 Bibliographies and Study Guides
 

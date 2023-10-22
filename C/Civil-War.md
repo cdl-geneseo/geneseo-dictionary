@@ -5,7 +5,7 @@ parent: C
 nav_order:
 ---
 
-Bibliographies and Study Guides : Civil War
+# Civil War
 
 Bibliographies and Study Guides
 

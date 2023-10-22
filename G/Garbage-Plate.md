@@ -5,7 +5,7 @@ parent: G
 nav_order:
 ---
 
-Bibliographies and Study Guides : Garbage Plate
+# Garbage Plate
 
 Bibliographies and Study Guides
 

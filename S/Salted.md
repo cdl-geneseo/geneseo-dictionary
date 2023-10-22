@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Salted
+# Salted
 
 Bibliographies and Study Guides
 

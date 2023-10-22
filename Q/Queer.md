@@ -5,7 +5,7 @@ parent: Q
 nav_order:
 ---
 
-Bibliographies and Study Guides : Queer
+# Queer
 
 Bibliographies and Study Guides
 

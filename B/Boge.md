@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Boge
+# Boge
 
 Bibliographies and Study Guides
 

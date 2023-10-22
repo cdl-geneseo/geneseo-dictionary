@@ -5,7 +5,7 @@ parent: C
 nav_order:
 ---
 
-Bibliographies and Study Guides : Castle Pong
+# Castle Pong
 
 Bibliographies and Study Guides
 

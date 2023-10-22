@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Biff
+# Biff
 
 Bibliographies and Study Guides
 

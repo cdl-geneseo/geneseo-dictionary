@@ -5,7 +5,7 @@ parent: N
 nav_order:
 ---
 
-Bibliographies and Study Guides : No homo
+# No homo
 
 Bibliographies and Study Guides
 

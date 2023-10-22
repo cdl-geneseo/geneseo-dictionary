@@ -5,7 +5,7 @@ parent: J
 nav_order:
 ---
 
-Bibliographies and Study Guides : Jame-o
+# Jame-o
 
 Bibliographies and Study Guides
 

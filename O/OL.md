@@ -5,7 +5,7 @@ parent: O
 nav_order:
 ---
 
-Bibliographies and Study Guides : OL
+# OL
 
 Bibliographies and Study Guides
 

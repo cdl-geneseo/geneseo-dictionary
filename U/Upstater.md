@@ -5,7 +5,7 @@ parent: U
 nav_order:
 ---
 
-Bibliographies and Study Guides : Upstater
+# Upstater
 
 Bibliographies and Study Guides
 

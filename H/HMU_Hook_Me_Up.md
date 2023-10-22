@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : HMU (Hook Me Up)
+# HMU (Hook Me Up)
 
 Bibliographies and Study Guides
 

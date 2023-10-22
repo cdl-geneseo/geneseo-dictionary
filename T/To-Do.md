@@ -5,7 +5,7 @@ parent: T
 nav_order:
 ---
 
-Bibliographies and Study Guides : To Do
+# To Do
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Shot off the boob
+# Shot off the boob
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : Prof pic or Pro pic
+# Prof pic or Pro pic
 
 Bibliographies and Study Guides
 

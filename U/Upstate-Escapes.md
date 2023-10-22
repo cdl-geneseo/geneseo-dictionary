@@ -5,7 +5,7 @@ parent: U
 nav_order:
 ---
 
-Bibliographies and Study Guides : Upstate Escapes
+# Upstate Escapes
 
 Bibliographies and Study Guides
 

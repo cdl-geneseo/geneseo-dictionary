@@ -5,7 +5,7 @@ parent: C
 nav_order:
 ---
 
-Bibliographies and Study Guides : College Union
+# College Union
 
 Bibliographies and Study Guides
 

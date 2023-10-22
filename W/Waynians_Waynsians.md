@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : Waynians, Waynsians
+# Waynians, Waynsians
 
 Bibliographies and Study Guides
 

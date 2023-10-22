@@ -5,7 +5,7 @@ parent: T
 nav_order:
 ---
 
-Bibliographies and Study Guides : Trans Fine By Me
+# Trans Fine By Me
 
 Bibliographies and Study Guides
 

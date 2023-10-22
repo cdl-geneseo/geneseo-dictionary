@@ -5,7 +5,7 @@ parent: J
 nav_order:
 ---
 
-Bibliographies and Study Guides : Jock Jail
+# Jock Jail
 
 Bibliographies and Study Guides
 

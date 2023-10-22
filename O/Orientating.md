@@ -5,7 +5,7 @@ parent: O
 nav_order:
 ---
 
-Bibliographies and Study Guides : Orientating
+# Orientating
 
 Bibliographies and Study Guides
 

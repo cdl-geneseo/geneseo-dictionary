@@ -5,7 +5,7 @@ parent: T
 nav_order:
 ---
 
-Bibliographies and Study Guides : Tree
+# Tree
 
 Bibliographies and Study Guides
 

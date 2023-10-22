@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Beer-Goggles
+# Beer-Goggles
 
 Bibliographies and Study Guides
 

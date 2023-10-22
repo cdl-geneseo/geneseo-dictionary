@@ -5,7 +5,7 @@ parent: A
 nav_order:
 ---
 
-Bibliographies and Study Guides : AGO
+# AGO
 
 Bibliographies and Study Guides
 

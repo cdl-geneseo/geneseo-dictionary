@@ -5,7 +5,7 @@ parent: G
 nav_order:
 ---
 
-Bibliographies and Study Guides : Goodnight Streaks
+# Goodnight Streaks
 
 Bibliographies and Study Guides
 

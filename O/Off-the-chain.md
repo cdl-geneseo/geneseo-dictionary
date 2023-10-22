@@ -5,7 +5,7 @@ parent: O
 nav_order:
 ---
 
-Bibliographies and Study Guides : Off-the-chain
+# Off-the-chain
 
 Bibliographies and Study Guides
 

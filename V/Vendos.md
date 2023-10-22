@@ -5,7 +5,7 @@ parent: V
 nav_order:
 ---
 
-Bibliographies and Study Guides : Vendos
+# Vendos
 
 Bibliographies and Study Guides
 

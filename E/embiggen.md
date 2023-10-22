@@ -5,7 +5,7 @@ parent: E
 nav_order:
 ---
 
-Bibliographies and Study Guides : embiggen
+# embiggen
 
 Bibliographies and Study Guides
 

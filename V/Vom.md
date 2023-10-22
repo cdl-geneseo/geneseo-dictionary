@@ -5,7 +5,7 @@ parent: V
 nav_order:
 ---
 
-Bibliographies and Study Guides : Vom
+# Vom
 
 Bibliographies and Study Guides
 

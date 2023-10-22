@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Spectrum
+# Spectrum
 
 Bibliographies and Study Guides
 

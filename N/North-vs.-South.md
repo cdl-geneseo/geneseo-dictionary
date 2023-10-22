@@ -5,7 +5,7 @@ parent: N
 nav_order:
 ---
 
-Bibliographies and Study Guides : North vs. South
+# North vs. South
 
 Bibliographies and Study Guides
 

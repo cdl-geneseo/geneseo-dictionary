@@ -5,7 +5,7 @@ parent: F
 nav_order:
 ---
 
-Bibliographies and Study Guides : Fruit-booter
+# Fruit-booter
 
 Bibliographies and Study Guides
 

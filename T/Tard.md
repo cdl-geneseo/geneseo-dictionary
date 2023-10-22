@@ -5,7 +5,7 @@ parent: T
 nav_order:
 ---
 
-Bibliographies and Study Guides : Tard
+# Tard
 
 Bibliographies and Study Guides
 

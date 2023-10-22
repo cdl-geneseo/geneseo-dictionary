@@ -5,7 +5,7 @@ parent: T
 nav_order:
 ---
 
-Bibliographies and Study Guides : Toolbag
+# Toolbag
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: O
 nav_order:
 ---
 
-Bibliographies and Study Guides : On a scale of
+# On a scale of
 
 Bibliographies and Study Guides
 

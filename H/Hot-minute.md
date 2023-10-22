@@ -5,7 +5,7 @@ parent: H
 nav_order:
 ---
 
-Bibliographies and Study Guides : Hot minute
+# Hot minute
 
 Bibliographies and Study Guides
 

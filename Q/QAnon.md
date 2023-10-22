@@ -5,7 +5,7 @@ parent: Q
 nav_order:
 ---
 
-Bibliographies and Study Guides : QAnon
+# QAnon
 
 Bibliographies and Study Guides
 

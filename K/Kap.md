@@ -5,7 +5,7 @@ parent: K
 nav_order:
 ---
 
-Bibliographies and Study Guides : Kap
+# Kap
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: C
 nav_order:
 ---
 
-Bibliographies and Study Guides : Crackhead Energy
+# Crackhead Energy
 
 Bibliographies and Study Guides
 

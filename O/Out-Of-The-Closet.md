@@ -5,7 +5,7 @@ parent: O
 nav_order:
 ---
 
-Bibliographies and Study Guides : Out Of The Closet
+# Out Of The Closet
 
 Bibliographies and Study Guides
 

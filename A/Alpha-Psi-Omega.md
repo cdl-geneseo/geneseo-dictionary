@@ -5,7 +5,7 @@ parent: A
 nav_order:
 ---
 
-Bibliographies and Study Guides : Alpha Psi Omega
+# Alpha Psi Omega
 
 Bibliographies and Study Guides
 

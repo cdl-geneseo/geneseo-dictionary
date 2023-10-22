@@ -5,7 +5,7 @@ parent: N
 nav_order:
 ---
 
-Bibliographies and Study Guides : No shave November
+# No shave November
 
 Bibliographies and Study Guides
 

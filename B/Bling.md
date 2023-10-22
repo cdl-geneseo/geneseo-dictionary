@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Bling
+# Bling
 
 Bibliographies and Study Guides
 

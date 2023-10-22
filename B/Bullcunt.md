@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Bullcunt
+# Bullcunt
 
 Bibliographies and Study Guides
 

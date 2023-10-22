@@ -5,7 +5,7 @@ parent: O
 nav_order:
 ---
 
-Bibliographies and Study Guides : One Knight
+# One Knight
 
 Bibliographies and Study Guides
 

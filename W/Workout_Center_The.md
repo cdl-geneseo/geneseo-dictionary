@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : Workout Center, The
+# Workout Center, The
 
 Bibliographies and Study Guides
 

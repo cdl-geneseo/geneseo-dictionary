@@ -1,11 +1,11 @@
 ---
-title: 'Rona
+title: Rona
 layout: default
 parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : 'Rona
+# 'Rona
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: A
 nav_order:
 ---
 
-Bibliographies and Study Guides : Add-Drop
+# Add-Drop
 
 Bibliographies and Study Guides
 

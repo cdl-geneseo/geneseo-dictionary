@@ -5,7 +5,7 @@ parent: J
 nav_order:
 ---
 
-Bibliographies and Study Guides : Juul
+# Juul
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: H
 nav_order:
 ---
 
-Bibliographies and Study Guides : Hell Week
+# Hell Week
 
 Bibliographies and Study Guides
 

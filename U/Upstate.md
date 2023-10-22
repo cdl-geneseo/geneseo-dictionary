@@ -5,7 +5,7 @@ parent: U
 nav_order:
 ---
 
-Bibliographies and Study Guides : Upstate
+# Upstate
 
 Bibliographies and Study Guides
 

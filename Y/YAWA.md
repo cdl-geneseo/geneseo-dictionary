@@ -5,7 +5,7 @@ parent: Y
 nav_order:
 ---
 
-Bibliographies and Study Guides : YAWA
+# YAWA
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: H
 nav_order:
 ---
 
-Bibliographies and Study Guides : hoed out
+# hoed out
 
 Bibliographies and Study Guides
 

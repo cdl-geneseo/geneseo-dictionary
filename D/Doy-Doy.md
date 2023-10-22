@@ -5,7 +5,7 @@ parent: D
 nav_order:
 ---
 
-Bibliographies and Study Guides : Doy-Doy
+# Doy-Doy
 
 Bibliographies and Study Guides
 

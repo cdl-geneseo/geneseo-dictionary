@@ -5,7 +5,7 @@ parent: U
 nav_order:
 ---
 
-Bibliographies and Study Guides : Under the Sun
+# Under the Sun
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: A
 nav_order:
 ---
 
-Bibliographies and Study Guides : Aight
+# Aight
 
 Bibliographies and Study Guides
 

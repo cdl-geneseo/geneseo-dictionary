@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : Obv or Obvi
+# Obv or Obvi
 
 Bibliographies and Study Guides
 

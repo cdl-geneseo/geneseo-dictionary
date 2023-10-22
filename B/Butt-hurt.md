@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Butt-hurt
+# Butt-hurt
 
 Bibliographies and Study Guides
 

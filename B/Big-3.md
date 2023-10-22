@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Big-3
+# Big-3
 
 Bibliographies and Study Guides
 

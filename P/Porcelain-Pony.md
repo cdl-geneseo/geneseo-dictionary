@@ -5,7 +5,7 @@ parent: P
 nav_order:
 ---
 
-Bibliographies and Study Guides : Porcelain Pony
+# Porcelain Pony
 
 Bibliographies and Study Guides
 

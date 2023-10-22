@@ -5,7 +5,7 @@ parent: C
 nav_order:
 ---
 
-Bibliographies and Study Guides : Campus Cash
+# Campus Cash
 
 Bibliographies and Study Guides
 

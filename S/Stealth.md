@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Stealth
+# Stealth
 
 Bibliographies and Study Guides
 

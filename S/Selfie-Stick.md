@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Selfie Stick
+# Selfie Stick
 
 Bibliographies and Study Guides
 

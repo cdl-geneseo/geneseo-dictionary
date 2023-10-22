@@ -5,7 +5,7 @@ parent: T
 nav_order:
 ---
 
-Bibliographies and Study Guides : Top Surgery
+# Top Surgery
 
 Bibliographies and Study Guides
 

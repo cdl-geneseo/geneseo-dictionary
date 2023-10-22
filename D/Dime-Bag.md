@@ -5,7 +5,7 @@ parent: D
 nav_order:
 ---
 
-Bibliographies and Study Guides : Dime Bag
+# Dime Bag
 
 Bibliographies and Study Guides
 

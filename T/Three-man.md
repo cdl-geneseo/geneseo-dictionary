@@ -5,7 +5,7 @@ parent: T
 nav_order:
 ---
 
-Bibliographies and Study Guides : Three-man
+# Three-man
 
 Bibliographies and Study Guides
 

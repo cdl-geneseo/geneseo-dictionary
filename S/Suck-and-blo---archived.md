@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Suck and blo - archived
+# Suck and blo - archived
 
 Bibliographies and Study Guides
 

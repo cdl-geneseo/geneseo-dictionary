@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : Southside Café
+# Southside Café
 
 Bibliographies and Study Guides
 

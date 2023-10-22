@@ -5,7 +5,7 @@ parent: R
 nav_order:
 ---
 
-Bibliographies and Study Guides : Rule 34
+# Rule 34
 
 Bibliographies and Study Guides
 

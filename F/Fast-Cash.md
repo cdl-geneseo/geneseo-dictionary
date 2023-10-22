@@ -5,7 +5,7 @@ parent: F
 nav_order:
 ---
 
-Bibliographies and Study Guides : Fast Cash
+# Fast Cash
 
 Bibliographies and Study Guides
 

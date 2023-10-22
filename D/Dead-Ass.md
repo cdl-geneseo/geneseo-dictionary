@@ -5,7 +5,7 @@ parent: D
 nav_order:
 ---
 
-Bibliographies and Study Guides : Dead Ass
+# Dead Ass
 
 Bibliographies and Study Guides
 

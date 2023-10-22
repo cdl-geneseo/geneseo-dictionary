@@ -5,7 +5,7 @@ parent: D
 nav_order:
 ---
 
-Bibliographies and Study Guides : Drug Rug
+# Drug Rug
 
 Bibliographies and Study Guides
 

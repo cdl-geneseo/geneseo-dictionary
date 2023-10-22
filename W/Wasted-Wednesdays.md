@@ -5,7 +5,7 @@ parent: W
 nav_order:
 ---
 
-Bibliographies and Study Guides : Wasted Wednesdays
+# Wasted Wednesdays
 
 Bibliographies and Study Guides
 

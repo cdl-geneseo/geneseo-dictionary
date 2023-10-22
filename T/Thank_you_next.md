@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : Thank you, next
+# Thank you, next
 
 Bibliographies and Study Guides
 

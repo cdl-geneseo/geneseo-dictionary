@@ -5,7 +5,7 @@ parent: W
 nav_order:
 ---
 
-Bibliographies and Study Guides : Wet Newspaper
+# Wet Newspaper
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: U
 nav_order:
 ---
 
-Bibliographies and Study Guides : Up the butt
+# Up the butt
 
 Bibliographies and Study Guides
 

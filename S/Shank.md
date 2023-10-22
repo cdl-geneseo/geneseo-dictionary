@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Shank
+# Shank
 
 Bibliographies and Study Guides
 

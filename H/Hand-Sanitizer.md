@@ -5,7 +5,7 @@ parent: H
 nav_order:
 ---
 
-Bibliographies and Study Guides : Hand Sanitizer
+# Hand Sanitizer
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : Drop (a log)
+# Drop (a log)
 
 Bibliographies and Study Guides
 

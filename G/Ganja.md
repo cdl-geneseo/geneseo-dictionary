@@ -5,7 +5,7 @@ parent: G
 nav_order:
 ---
 
-Bibliographies and Study Guides : Ganja
+# Ganja
 
 Bibliographies and Study Guides
 

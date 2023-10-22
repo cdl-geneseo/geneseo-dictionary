@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Sheesh
+# Sheesh
 
 Bibliographies and Study Guides
 

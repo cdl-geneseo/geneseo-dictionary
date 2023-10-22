@@ -5,7 +5,7 @@ parent: A
 nav_order:
 ---
 
-Bibliographies and Study Guides : Asada
+# Asada
 
 Bibliographies and Study Guides
 

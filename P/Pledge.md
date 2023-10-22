@@ -5,7 +5,7 @@ parent: P
 nav_order:
 ---
 
-Bibliographies and Study Guides : Pledge
+# Pledge
 
 Bibliographies and Study Guides
 

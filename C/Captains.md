@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : Captain's
+# Captain's
 
 Bibliographies and Study Guides
 

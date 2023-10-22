@@ -1,11 +1,11 @@
 ---
-title: 'Toga
+title: Toga
 layout: default
 parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : 'Toga
+# 'Toga
 
 Bibliographies and Study Guides
 

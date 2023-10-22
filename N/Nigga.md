@@ -5,7 +5,7 @@ parent: N
 nav_order:
 ---
 
-Bibliographies and Study Guides : Nigga
+# Nigga
 
 Bibliographies and Study Guides
 

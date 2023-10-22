@@ -5,7 +5,7 @@ parent: V
 nav_order:
 ---
 
-Bibliographies and Study Guides : Vaxaholic
+# Vaxaholic
 
 Bibliographies and Study Guides
 

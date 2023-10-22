@@ -5,7 +5,7 @@ parent: D
 nav_order:
 ---
 
-Bibliographies and Study Guides : Dome
+# Dome
 
 Bibliographies and Study Guides
 

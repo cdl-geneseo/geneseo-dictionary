@@ -5,7 +5,7 @@ parent: P
 nav_order:
 ---
 
-Bibliographies and Study Guides : Puck Slut
+# Puck Slut
 
 Bibliographies and Study Guides
 

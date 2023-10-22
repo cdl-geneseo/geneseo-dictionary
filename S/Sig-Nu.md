@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Sig Nu
+# Sig Nu
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: P
 nav_order:
 ---
 
-Bibliographies and Study Guides : Party Pooper
+# Party Pooper
 
 Bibliographies and Study Guides
 

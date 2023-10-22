@@ -5,7 +5,7 @@ parent: C
 nav_order:
 ---
 
-Bibliographies and Study Guides : Chichter Scale
+# Chichter Scale
 
 Bibliographies and Study Guides
 

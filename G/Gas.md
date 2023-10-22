@@ -5,7 +5,7 @@ parent: G
 nav_order:
 ---
 
-Bibliographies and Study Guides : Gas
+# Gas
 
 Bibliographies and Study Guides
 

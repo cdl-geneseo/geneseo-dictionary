@@ -5,7 +5,7 @@ parent: W
 nav_order:
 ---
 
-Bibliographies and Study Guides : WAC
+# WAC
 
 Bibliographies and Study Guides
 

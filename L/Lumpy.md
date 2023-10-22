@@ -5,7 +5,7 @@ parent: L
 nav_order:
 ---
 
-Bibliographies and Study Guides : Lumpy
+# Lumpy
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: P
 nav_order:
 ---
 
-Bibliographies and Study Guides : Pledge Master or Pledge Mistress
+# Pledge Master or Pledge Mistress
 
 Bibliographies and Study Guides
 

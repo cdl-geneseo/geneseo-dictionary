@@ -5,7 +5,7 @@ parent: A
 nav_order:
 ---
 
-Bibliographies and Study Guides : All About
+# All About
 
 Bibliographies and Study Guides
 

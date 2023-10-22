@@ -5,7 +5,7 @@ parent: M
 nav_order:
 ---
 
-Bibliographies and Study Guides : Mary Jane
+# Mary Jane
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: Z
 nav_order:
 ---
 
-Bibliographies and Study Guides : Ziggy-Zaggy
+# Ziggy-Zaggy
 
 Bibliographies and Study Guides
 

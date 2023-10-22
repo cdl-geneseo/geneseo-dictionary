@@ -5,7 +5,7 @@ parent: E
 nav_order:
 ---
 
-Bibliographies and Study Guides : Ella Cline Shear School of Education
+# Ella Cline Shear School of Education
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Seuss tree -archived
+# Seuss tree -archived
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: K
 nav_order:
 ---
 
-Bibliographies and Study Guides : Knightline
+# Knightline
 
 Bibliographies and Study Guides
 

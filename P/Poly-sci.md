@@ -5,7 +5,7 @@ parent: P
 nav_order:
 ---
 
-Bibliographies and Study Guides : Poly-sci
+# Poly-sci
 
 Bibliographies and Study Guides
 

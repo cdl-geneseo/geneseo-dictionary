@@ -5,7 +5,7 @@ parent: O
 nav_order:
 ---
 
-Bibliographies and Study Guides : Orientation
+# Orientation
 
 Bibliographies and Study Guides
 

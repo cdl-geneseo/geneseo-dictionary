@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Bump Uglies
+# Bump Uglies
 
 Bibliographies and Study Guides
 

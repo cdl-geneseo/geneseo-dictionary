@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Bodacious
+# Bodacious
 
 Bibliographies and Study Guides
 

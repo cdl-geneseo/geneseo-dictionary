@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Spring Break
+# Spring Break
 
 Bibliographies and Study Guides
 

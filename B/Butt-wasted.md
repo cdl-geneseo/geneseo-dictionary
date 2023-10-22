@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Butt-wasted
+# Butt-wasted
 
 Bibliographies and Study Guides
 

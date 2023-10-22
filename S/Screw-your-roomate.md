@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Screw your roomate
+# Screw your roomate
 
 Bibliographies and Study Guides
 

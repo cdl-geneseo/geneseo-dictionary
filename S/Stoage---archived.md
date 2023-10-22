@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Stoage - archived
+# Stoage - archived
 
 Bibliographies and Study Guides
 

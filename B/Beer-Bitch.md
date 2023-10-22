@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Beer Bitch
+# Beer Bitch
 
 Bibliographies and Study Guides
 

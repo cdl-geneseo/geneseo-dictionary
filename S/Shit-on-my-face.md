@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Shit on my face
+# Shit on my face
 
 Bibliographies and Study Guides
 

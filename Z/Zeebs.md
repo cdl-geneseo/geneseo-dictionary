@@ -5,7 +5,7 @@ parent: Z
 nav_order:
 ---
 
-Bibliographies and Study Guides : Zeebs
+# Zeebs
 
 Bibliographies and Study Guides
 

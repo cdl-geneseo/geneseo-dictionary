@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Swamp Ass
+# Swamp Ass
 
 Bibliographies and Study Guides
 

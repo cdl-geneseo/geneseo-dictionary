@@ -5,7 +5,7 @@ parent: R
 nav_order:
 ---
 
-Bibliographies and Study Guides : Recovering Catholic
+# Recovering Catholic
 
 Bibliographies and Study Guides
 

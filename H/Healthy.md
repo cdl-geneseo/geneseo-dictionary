@@ -5,7 +5,7 @@ parent: H
 nav_order:
 ---
 
-Bibliographies and Study Guides : Healthy
+# Healthy
 
 Bibliographies and Study Guides
 

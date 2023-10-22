@@ -5,7 +5,7 @@ parent: H
 nav_order:
 ---
 
-Bibliographies and Study Guides : Hamster
+# Hamster
 
 Bibliographies and Study Guides
 

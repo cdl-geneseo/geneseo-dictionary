@@ -5,7 +5,7 @@ parent: N
 nav_order:
 ---
 
-Bibliographies and Study Guides : NormaL
+# NormaL
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: P
 nav_order:
 ---
 
-Bibliographies and Study Guides : Post
+# Post
 
 Bibliographies and Study Guides
 

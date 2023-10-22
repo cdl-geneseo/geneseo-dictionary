@@ -5,7 +5,7 @@ parent: T
 nav_order:
 ---
 
-Bibliographies and Study Guides : Teresa House
+# Teresa House
 
 Bibliographies and Study Guides
 

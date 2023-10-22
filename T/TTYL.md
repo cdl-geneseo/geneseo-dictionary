@@ -5,7 +5,7 @@ parent: T
 nav_order:
 ---
 
-Bibliographies and Study Guides : TTYL
+# TTYL
 
 Bibliographies and Study Guides
 

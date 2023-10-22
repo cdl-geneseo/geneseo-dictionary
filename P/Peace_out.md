@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : Peace (out)
+# Peace (out)
 
 Bibliographies and Study Guides
 

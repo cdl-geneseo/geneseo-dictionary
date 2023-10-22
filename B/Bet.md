@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Bet
+# Bet
 
 Bibliographies and Study Guides
 

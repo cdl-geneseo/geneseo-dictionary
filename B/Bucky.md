@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Bucky
+# Bucky
 
 Bibliographies and Study Guides
 

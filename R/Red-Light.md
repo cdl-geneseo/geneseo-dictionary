@@ -5,7 +5,7 @@ parent: R
 nav_order:
 ---
 
-Bibliographies and Study Guides : Red Light
+# Red Light
 
 Bibliographies and Study Guides
 

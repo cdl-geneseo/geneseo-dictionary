@@ -5,7 +5,7 @@ parent: R
 nav_order:
 ---
 
-Bibliographies and Study Guides : Reddit
+# Reddit
 
 Bibliographies and Study Guides
 

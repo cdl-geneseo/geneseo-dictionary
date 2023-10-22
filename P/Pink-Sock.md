@@ -5,7 +5,7 @@ parent: P
 nav_order:
 ---
 
-Bibliographies and Study Guides : Pink Sock
+# Pink Sock
 
 Bibliographies and Study Guides
 

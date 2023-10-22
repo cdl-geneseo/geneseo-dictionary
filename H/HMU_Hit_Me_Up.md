@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : HMU (Hit Me Up)
+# HMU (Hit Me Up)
 
 Bibliographies and Study Guides
 

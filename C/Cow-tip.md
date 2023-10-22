@@ -5,7 +5,7 @@ parent: C
 nav_order:
 ---
 
-Bibliographies and Study Guides : Cow tip
+# Cow tip
 
 Bibliographies and Study Guides
 

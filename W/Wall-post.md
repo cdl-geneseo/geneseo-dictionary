@@ -5,7 +5,7 @@ parent: W
 nav_order:
 ---
 
-Bibliographies and Study Guides : Wall post
+# Wall post
 
 Bibliographies and Study Guides
 

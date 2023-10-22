@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Special K
+# Special K
 
 Bibliographies and Study Guides
 

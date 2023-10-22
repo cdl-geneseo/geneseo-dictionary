@@ -5,7 +5,7 @@ parent: P
 nav_order:
 ---
 
-Bibliographies and Study Guides : Pants
+# Pants
 
 Bibliographies and Study Guides
 

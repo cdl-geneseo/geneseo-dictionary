@@ -5,7 +5,7 @@ parent: C
 nav_order:
 ---
 
-Bibliographies and Study Guides : Coochie Cutters
+# Coochie Cutters
 
 Bibliographies and Study Guides
 

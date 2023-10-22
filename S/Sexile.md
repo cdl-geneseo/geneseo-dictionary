@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Sexile
+# Sexile
 
 Bibliographies and Study Guides
 

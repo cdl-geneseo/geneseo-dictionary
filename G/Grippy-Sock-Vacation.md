@@ -5,7 +5,7 @@ parent: G
 nav_order:
 ---
 
-Bibliographies and Study Guides : Grippy Sock Vacation
+# Grippy Sock Vacation
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Buckets
+# Buckets
 
 Bibliographies and Study Guides
 

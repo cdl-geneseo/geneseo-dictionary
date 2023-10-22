@@ -5,7 +5,7 @@ parent: P
 nav_order:
 ---
 
-Bibliographies and Study Guides : Pitcher race
+# Pitcher race
 
 Bibliographies and Study Guides
 

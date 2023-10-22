@@ -5,7 +5,7 @@ parent: O
 nav_order:
 ---
 
-Bibliographies and Study Guides : Obs
+# Obs
 
 Bibliographies and Study Guides
 

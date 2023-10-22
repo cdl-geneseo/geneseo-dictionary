@@ -5,7 +5,7 @@ parent: F
 nav_order:
 ---
 
-Bibliographies and Study Guides : Fried
+# Fried
 
 Bibliographies and Study Guides
 

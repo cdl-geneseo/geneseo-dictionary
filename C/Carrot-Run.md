@@ -5,7 +5,7 @@ parent: C
 nav_order:
 ---
 
-Bibliographies and Study Guides : Carrot Run
+# Carrot Run
 
 Bibliographies and Study Guides
 

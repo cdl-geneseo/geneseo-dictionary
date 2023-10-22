@@ -5,7 +5,7 @@ parent: H
 nav_order:
 ---
 
-Bibliographies and Study Guides : Humn
+# Humn
 
 Bibliographies and Study Guides
 

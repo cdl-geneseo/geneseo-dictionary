@@ -5,7 +5,7 @@ parent: G
 nav_order:
 ---
 
-Bibliographies and Study Guides : GEO
+# GEO
 
 Bibliographies and Study Guides
 

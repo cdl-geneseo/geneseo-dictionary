@@ -5,7 +5,7 @@ parent: H
 nav_order:
 ---
 
-Bibliographies and Study Guides : Heard@Geneseo
+# Heard@Geneseo
 
 Bibliographies and Study Guides
 

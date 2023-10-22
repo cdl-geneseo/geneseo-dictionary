@@ -5,7 +5,7 @@ parent: C
 nav_order:
 ---
 
-Bibliographies and Study Guides : Catch some second hand
+# Catch some second hand
 
 Bibliographies and Study Guides
 

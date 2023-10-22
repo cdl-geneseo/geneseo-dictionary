@@ -5,7 +5,7 @@ parent: A
 nav_order:
 ---
 
-Bibliographies and Study Guides : Awkward Turtle
+# Awkward Turtle
 
 Bibliographies and Study Guides
 

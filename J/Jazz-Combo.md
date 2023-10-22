@@ -5,7 +5,7 @@ parent: J
 nav_order:
 ---
 
-Bibliographies and Study Guides : Jazz Combo
+# Jazz Combo
 
 Bibliographies and Study Guides
 

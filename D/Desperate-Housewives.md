@@ -5,7 +5,7 @@ parent: D
 nav_order:
 ---
 
-Bibliographies and Study Guides : Desperate Housewives
+# Desperate Housewives
 
 Bibliographies and Study Guides
 

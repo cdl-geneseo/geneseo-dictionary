@@ -5,7 +5,7 @@ parent: C
 nav_order:
 ---
 
-Bibliographies and Study Guides : Conesus Lake
+# Conesus Lake
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: P
 nav_order:
 ---
 
-Bibliographies and Study Guides : Pea Brain
+# Pea Brain
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Belly Snake - archived
+# Belly Snake - archived
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: D
 nav_order:
 ---
 
-Bibliographies and Study Guides : Dead Freeze for Cancer
+# Dead Freeze for Cancer
 
 Bibliographies and Study Guides
 

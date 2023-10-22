@@ -5,7 +5,7 @@ parent: F
 nav_order:
 ---
 
-Bibliographies and Study Guides : Fuck-me-red
+# Fuck-me-red
 
 Bibliographies and Study Guides
 

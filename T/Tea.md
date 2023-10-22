@@ -5,7 +5,7 @@ parent: T
 nav_order:
 ---
 
-Bibliographies and Study Guides : Tea
+# Tea
 
 Bibliographies and Study Guides
 

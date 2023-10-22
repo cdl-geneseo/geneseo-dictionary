@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Bitch-ass
+# Bitch-ass
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : Mariazza's
+# Mariazza's
 
 Bibliographies and Study Guides
 

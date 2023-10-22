@@ -5,7 +5,7 @@ parent: C
 nav_order:
 ---
 
-Bibliographies and Study Guides : Cleveland Steamer
+# Cleveland Steamer
 
 Bibliographies and Study Guides
 

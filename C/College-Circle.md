@@ -5,7 +5,7 @@ parent: C
 nav_order:
 ---
 
-Bibliographies and Study Guides : College Circle
+# College Circle
 
 Bibliographies and Study Guides
 

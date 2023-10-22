@@ -5,7 +5,7 @@ parent: X
 nav_order:
 ---
 
-Bibliographies and Study Guides : XC
+# XC
 
 Bibliographies and Study Guides
 

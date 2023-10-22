@@ -5,7 +5,7 @@ parent: O
 nav_order:
 ---
 
-Bibliographies and Study Guides : Open container
+# Open container
 
 Bibliographies and Study Guides
 

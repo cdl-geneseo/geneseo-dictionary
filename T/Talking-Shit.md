@@ -5,7 +5,7 @@ parent: T
 nav_order:
 ---
 
-Bibliographies and Study Guides : Talking Shit
+# Talking Shit
 
 Bibliographies and Study Guides
 

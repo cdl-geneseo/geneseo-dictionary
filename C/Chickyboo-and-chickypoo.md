@@ -5,7 +5,7 @@ parent: C
 nav_order:
 ---
 
-Bibliographies and Study Guides : Chickyboo and chickypoo
+# Chickyboo and chickypoo
 
 Bibliographies and Study Guides
 

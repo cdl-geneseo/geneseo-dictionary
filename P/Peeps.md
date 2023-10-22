@@ -5,7 +5,7 @@ parent: P
 nav_order:
 ---
 
-Bibliographies and Study Guides : Peeps
+# Peeps
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Scenario
+# Scenario
 
 Bibliographies and Study Guides
 

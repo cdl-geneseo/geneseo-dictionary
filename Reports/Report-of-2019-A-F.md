@@ -1,11 +1,11 @@
 ---
-title: Group Report 2019: A-F
+title: Group Report 2019 A-F
 layout: default
 parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : Group Report 2019: A-F
+# Group Report 2019: A-F
 
 Bibliographies and Study Guides
 

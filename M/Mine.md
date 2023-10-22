@@ -5,7 +5,7 @@ parent: M
 nav_order:
 ---
 
-Bibliographies and Study Guides : Mine
+# Mine
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: G
 nav_order:
 ---
 
-Bibliographies and Study Guides : G-Number
+# G-Number
 
 Bibliographies and Study Guides
 

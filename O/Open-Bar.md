@@ -5,7 +5,7 @@ parent: O
 nav_order:
 ---
 
-Bibliographies and Study Guides : Open Bar
+# Open Bar
 
 Bibliographies and Study Guides
 

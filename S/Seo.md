@@ -1,11 +1,11 @@
 ---
-title: 'Seo
+title: Seo
 layout: default
 parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : 'Seo
+# 'Seo
 
 Bibliographies and Study Guides
 

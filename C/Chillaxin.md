@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : Chillaxin'
+# Chillaxin'
 
 Bibliographies and Study Guides
 

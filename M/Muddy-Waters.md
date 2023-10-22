@@ -5,7 +5,7 @@ parent: M
 nav_order:
 ---
 
-Bibliographies and Study Guides : Muddy Waters
+# Muddy Waters
 
 Bibliographies and Study Guides
 

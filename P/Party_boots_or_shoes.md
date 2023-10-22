@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : Party boots or shoes
+# Party boots or shoes
 
 Bibliographies and Study Guides
 

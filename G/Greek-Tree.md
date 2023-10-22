@@ -5,7 +5,7 @@ parent: G
 nav_order:
 ---
 
-Bibliographies and Study Guides : Greek Tree
+# Greek Tree
 
 Bibliographies and Study Guides
 

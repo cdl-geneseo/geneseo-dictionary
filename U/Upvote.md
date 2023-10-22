@@ -5,7 +5,7 @@ parent: U
 nav_order:
 ---
 
-Bibliographies and Study Guides : Upvote
+# Upvote
 
 Bibliographies and Study Guides
 

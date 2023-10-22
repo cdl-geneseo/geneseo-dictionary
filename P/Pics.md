@@ -5,7 +5,7 @@ parent: P
 nav_order:
 ---
 
-Bibliographies and Study Guides : Pics
+# Pics
 
 Bibliographies and Study Guides
 

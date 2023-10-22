@@ -5,7 +5,7 @@ parent: M
 nav_order:
 ---
 
-Bibliographies and Study Guides : MJ
+# MJ
 
 Bibliographies and Study Guides
 

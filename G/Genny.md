@@ -5,7 +5,7 @@ parent: G
 nav_order:
 ---
 
-Bibliographies and Study Guides : Genny
+# Genny
 
 Bibliographies and Study Guides
 

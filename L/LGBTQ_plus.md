@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : LGBTQ+
+# LGBTQ+
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: D
 nav_order:
 ---
 
-Bibliographies and Study Guides : Derailed
+# Derailed
 
 Bibliographies and Study Guides
 

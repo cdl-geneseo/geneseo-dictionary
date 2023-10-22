@@ -5,7 +5,7 @@ parent: F
 nav_order:
 ---
 
-Bibliographies and Study Guides : Flamer
+# Flamer
 
 Bibliographies and Study Guides
 

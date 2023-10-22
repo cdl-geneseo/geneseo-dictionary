@@ -5,7 +5,7 @@ parent: M
 nav_order:
 ---
 
-Bibliographies and Study Guides : Mycourses
+# Mycourses
 
 Bibliographies and Study Guides
 

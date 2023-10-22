@@ -5,7 +5,7 @@ parent: O
 nav_order:
 ---
 
-Bibliographies and Study Guides : On the reg
+# On the reg
 
 Bibliographies and Study Guides
 

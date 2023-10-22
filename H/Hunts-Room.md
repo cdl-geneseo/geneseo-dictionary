@@ -5,7 +5,7 @@ parent: H
 nav_order:
 ---
 
-Bibliographies and Study Guides : Hunts Room
+# Hunts Room
 
 Bibliographies and Study Guides
 

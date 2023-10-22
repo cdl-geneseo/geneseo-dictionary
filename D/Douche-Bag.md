@@ -5,7 +5,7 @@ parent: D
 nav_order:
 ---
 
-Bibliographies and Study Guides : Douche Bag
+# Douche Bag
 
 Bibliographies and Study Guides
 

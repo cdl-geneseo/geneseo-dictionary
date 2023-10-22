@@ -5,7 +5,7 @@ parent: C
 nav_order:
 ---
 
-Bibliographies and Study Guides : Cream Cheese
+# Cream Cheese
 
 Bibliographies and Study Guides
 

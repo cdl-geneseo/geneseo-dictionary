@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Stomach sadness
+# Stomach sadness
 
 Bibliographies and Study Guides
 

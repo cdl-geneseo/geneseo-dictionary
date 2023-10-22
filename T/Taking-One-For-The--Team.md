@@ -5,7 +5,7 @@ parent: T
 nav_order:
 ---
 
-Bibliographies and Study Guides : Taking One For The  Team
+# Taking One For The  Team
 
 Bibliographies and Study Guides
 

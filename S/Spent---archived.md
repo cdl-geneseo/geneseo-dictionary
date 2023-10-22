@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Spent - archived
+# Spent - archived
 
 Bibliographies and Study Guides
 

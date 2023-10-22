@@ -5,7 +5,7 @@ parent: J
 nav_order:
 ---
 
-Bibliographies and Study Guides : JFC
+# JFC
 
 Bibliographies and Study Guides
 

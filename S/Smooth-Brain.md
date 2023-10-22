@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Smooth Brain
+# Smooth Brain
 
 Bibliographies and Study Guides
 

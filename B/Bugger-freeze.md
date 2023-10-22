@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Bugger freeze
+# Bugger freeze
 
 Bibliographies and Study Guides
 

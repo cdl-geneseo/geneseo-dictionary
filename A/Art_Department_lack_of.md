@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : Art Department (lack of)
+# Art Department (lack of)
 
 Bibliographies and Study Guides
 

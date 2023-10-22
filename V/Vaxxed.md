@@ -5,7 +5,7 @@ parent: V
 nav_order:
 ---
 
-Bibliographies and Study Guides : Vaxxed
+# Vaxxed
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: Y
 nav_order:
 ---
 
-Bibliographies and Study Guides : Yuppy Food Stamps
+# Yuppy Food Stamps
 
 Bibliographies and Study Guides
 

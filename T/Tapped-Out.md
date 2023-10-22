@@ -5,7 +5,7 @@ parent: T
 nav_order:
 ---
 
-Bibliographies and Study Guides : Tapped-Out
+# Tapped-Out
 
 Bibliographies and Study Guides
 

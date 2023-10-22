@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Spliff - archived
+# Spliff - archived
 
 Bibliographies and Study Guides
 

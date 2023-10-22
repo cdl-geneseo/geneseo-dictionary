@@ -5,7 +5,7 @@ parent: C
 nav_order:
 ---
 
-Bibliographies and Study Guides : College Drive
+# College Drive
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Bun in the oven
+# Bun in the oven
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: M
 nav_order:
 ---
 
-Bibliographies and Study Guides : MiNT
+# MiNT
 
 Bibliographies and Study Guides
 

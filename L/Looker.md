@@ -5,7 +5,7 @@ parent: L
 nav_order:
 ---
 
-Bibliographies and Study Guides : Looker
+# Looker
 
 Bibliographies and Study Guides
 

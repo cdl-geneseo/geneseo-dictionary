@@ -5,7 +5,7 @@ parent: F
 nav_order:
 ---
 
-Bibliographies and Study Guides : Fuck-me-pants
+# Fuck-me-pants
 
 Bibliographies and Study Guides
 

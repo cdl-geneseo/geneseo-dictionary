@@ -5,7 +5,7 @@ parent: R
 nav_order:
 ---
 
-Bibliographies and Study Guides : RA-ing
+# RA-ing
 
 Bibliographies and Study Guides
 

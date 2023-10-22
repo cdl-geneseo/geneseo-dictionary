@@ -5,7 +5,7 @@ parent: F
 nav_order:
 ---
 
-Bibliographies and Study Guides : Fall 2008 Group Reports
+# Fall 2008 Group Reports
 
 Bibliographies and Study Guides
 

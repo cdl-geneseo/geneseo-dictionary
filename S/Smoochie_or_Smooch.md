@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : Smoochie or Smooch
+# Smoochie or Smooch
 
 Bibliographies and Study Guides
 

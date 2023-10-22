@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Blue Book
+# Blue Book
 
 Bibliographies and Study Guides
 

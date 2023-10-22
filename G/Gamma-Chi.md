@@ -5,7 +5,7 @@ parent: G
 nav_order:
 ---
 
-Bibliographies and Study Guides : Gamma Chi
+# Gamma Chi
 
 Bibliographies and Study Guides
 

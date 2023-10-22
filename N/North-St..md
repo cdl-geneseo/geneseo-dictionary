@@ -5,7 +5,7 @@ parent: N
 nav_order:
 ---
 
-Bibliographies and Study Guides : North St.
+# North St.
 
 Bibliographies and Study Guides
 

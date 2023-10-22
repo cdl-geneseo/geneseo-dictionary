@@ -5,7 +5,7 @@ parent: G
 nav_order:
 ---
 
-Bibliographies and Study Guides : GREAT Day
+# GREAT Day
 
 Bibliographies and Study Guides
 

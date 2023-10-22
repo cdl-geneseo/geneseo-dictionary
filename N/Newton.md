@@ -5,7 +5,7 @@ parent: N
 nav_order:
 ---
 
-Bibliographies and Study Guides : Newton
+# Newton
 
 Bibliographies and Study Guides
 

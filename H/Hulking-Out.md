@@ -5,7 +5,7 @@ parent: H
 nav_order:
 ---
 
-Bibliographies and Study Guides : Hulking Out
+# Hulking Out
 
 Bibliographies and Study Guides
 

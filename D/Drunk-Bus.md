@@ -5,7 +5,7 @@ parent: D
 nav_order:
 ---
 
-Bibliographies and Study Guides : Drunk Bus
+# Drunk Bus
 
 Bibliographies and Study Guides
 

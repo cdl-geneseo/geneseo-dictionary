@@ -5,7 +5,7 @@ parent: O
 nav_order:
 ---
 
-Bibliographies and Study Guides : Orgasmic
+# Orgasmic
 
 Bibliographies and Study Guides
 

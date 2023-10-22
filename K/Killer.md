@@ -5,7 +5,7 @@ parent: K
 nav_order:
 ---
 
-Bibliographies and Study Guides : Killer
+# Killer
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: C
 nav_order:
 ---
 
-Bibliographies and Study Guides : COVID-19
+# COVID-19
 
 Bibliographies and Study Guides
 

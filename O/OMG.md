@@ -5,7 +5,7 @@ parent: O
 nav_order:
 ---
 
-Bibliographies and Study Guides : OMG
+# OMG
 
 Bibliographies and Study Guides
 

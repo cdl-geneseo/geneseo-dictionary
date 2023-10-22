@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Booze Snooze
+# Booze Snooze
 
 Bibliographies and Study Guides
 

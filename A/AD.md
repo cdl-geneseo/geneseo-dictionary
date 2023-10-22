@@ -5,7 +5,7 @@ parent: A
 nav_order:
 ---
 
-Bibliographies and Study Guides : AD
+# AD
 
 Bibliographies and Study Guides
 

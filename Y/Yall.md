@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : Y'all
+# Y'all
 
 Bibliographies and Study Guides
 

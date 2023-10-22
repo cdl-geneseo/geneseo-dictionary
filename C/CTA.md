@@ -5,7 +5,7 @@ parent: C
 nav_order:
 ---
 
-Bibliographies and Study Guides : CTA
+# CTA
 
 Bibliographies and Study Guides
 

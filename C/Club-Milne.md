@@ -5,7 +5,7 @@ parent: C
 nav_order:
 ---
 
-Bibliographies and Study Guides : Club Milne
+# Club Milne
 
 Bibliographies and Study Guides
 

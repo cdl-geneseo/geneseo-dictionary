@@ -5,7 +5,7 @@ parent: D
 nav_order:
 ---
 
-Bibliographies and Study Guides : Daga
+# Daga
 
 Bibliographies and Study Guides
 

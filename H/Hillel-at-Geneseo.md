@@ -5,7 +5,7 @@ parent: H
 nav_order:
 ---
 
-Bibliographies and Study Guides : Hillel at Geneseo
+# Hillel at Geneseo
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Southside Boys
+# Southside Boys
 
 Bibliographies and Study Guides
 

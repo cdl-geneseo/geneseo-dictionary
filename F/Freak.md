@@ -5,7 +5,7 @@ parent: F
 nav_order:
 ---
 
-Bibliographies and Study Guides : Freak
+# Freak
 
 Bibliographies and Study Guides
 

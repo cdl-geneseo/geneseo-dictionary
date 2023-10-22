@@ -5,7 +5,7 @@ parent: C
 nav_order:
 ---
 
-Bibliographies and Study Guides : Crack the Spine
+# Crack the Spine
 
 Bibliographies and Study Guides
 

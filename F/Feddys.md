@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : Feddy's
+# Feddy's
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : Giovanna’s
+# Giovanna’s
 
 Bibliographies and Study Guides
 

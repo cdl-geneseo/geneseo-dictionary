@@ -5,7 +5,7 @@ parent: X
 nav_order:
 ---
 
-Bibliographies and Study Guides : Xanny
+# Xanny
 
 Bibliographies and Study Guides
 

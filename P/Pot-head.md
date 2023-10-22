@@ -5,7 +5,7 @@ parent: P
 nav_order:
 ---
 
-Bibliographies and Study Guides : Pot head
+# Pot head
 
 Bibliographies and Study Guides
 

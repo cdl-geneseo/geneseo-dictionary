@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : Force, the
+# Force, the
 
 Bibliographies and Study Guides
 

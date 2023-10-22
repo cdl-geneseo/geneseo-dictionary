@@ -5,7 +5,7 @@ parent: C
 nav_order:
 ---
 
-Bibliographies and Study Guides : Corner Pocket
+# Corner Pocket
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: T
 nav_order:
 ---
 
-Bibliographies and Study Guides : Throwback Thursday
+# Throwback Thursday
 
 Bibliographies and Study Guides
 

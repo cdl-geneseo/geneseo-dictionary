@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Butt pirate
+# Butt pirate
 
 Bibliographies and Study Guides
 

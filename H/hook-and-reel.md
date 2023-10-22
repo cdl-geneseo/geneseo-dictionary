@@ -5,7 +5,7 @@ parent: H
 nav_order:
 ---
 
-Bibliographies and Study Guides : hook and reel
+# hook and reel
 
 Bibliographies and Study Guides
 

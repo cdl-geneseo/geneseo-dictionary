@@ -5,7 +5,7 @@ parent: R
 nav_order:
 ---
 
-Bibliographies and Study Guides : Run and cover
+# Run and cover
 
 Bibliographies and Study Guides
 

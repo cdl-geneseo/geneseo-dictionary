@@ -5,7 +5,7 @@ parent: O
 nav_order:
 ---
 
-Bibliographies and Study Guides : One night stand
+# One night stand
 
 Bibliographies and Study Guides
 

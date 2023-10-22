@@ -5,7 +5,7 @@ parent: M
 nav_order:
 ---
 
-Bibliographies and Study Guides : Morgue
+# Morgue
 
 Bibliographies and Study Guides
 

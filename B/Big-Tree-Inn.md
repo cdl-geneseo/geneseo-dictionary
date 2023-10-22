@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Big Tree Inn
+# Big Tree Inn
 
 Bibliographies and Study Guides
 

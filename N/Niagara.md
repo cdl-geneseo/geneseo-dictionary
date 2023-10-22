@@ -5,7 +5,7 @@ parent: N
 nav_order:
 ---
 
-Bibliographies and Study Guides : Niagara
+# Niagara
 
 Bibliographies and Study Guides
 

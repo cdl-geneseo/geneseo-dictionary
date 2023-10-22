@@ -5,7 +5,7 @@ parent: C
 nav_order:
 ---
 
-Bibliographies and Study Guides : Cheeseball
+# Cheeseball
 
 Bibliographies and Study Guides
 

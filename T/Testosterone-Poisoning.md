@@ -5,7 +5,7 @@ parent: T
 nav_order:
 ---
 
-Bibliographies and Study Guides : Testosterone Poisoning
+# Testosterone Poisoning
 
 Bibliographies and Study Guides
 

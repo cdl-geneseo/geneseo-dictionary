@@ -5,7 +5,7 @@ parent: K
 nav_order:
 ---
 
-Bibliographies and Study Guides : Knight Spot
+# Knight Spot
 
 Bibliographies and Study Guides
 

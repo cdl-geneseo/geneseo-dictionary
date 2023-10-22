@@ -5,7 +5,7 @@ parent: G
 nav_order:
 ---
 
-Bibliographies and Study Guides : G-Town
+# G-Town
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: K
 nav_order:
 ---
 
-Bibliographies and Study Guides : Kewl
+# Kewl
 
 Bibliographies and Study Guides
 

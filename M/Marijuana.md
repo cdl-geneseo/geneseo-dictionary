@@ -5,7 +5,7 @@ parent: M
 nav_order:
 ---
 
-Bibliographies and Study Guides : Marijuana
+# Marijuana
 
 Bibliographies and Study Guides
 

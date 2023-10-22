@@ -5,7 +5,7 @@ parent: D
 nav_order:
 ---
 
-Bibliographies and Study Guides : Daga Swamp
+# Daga Swamp
 
 Bibliographies and Study Guides
 

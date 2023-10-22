@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Brown Out
+# Brown Out
 
 Bibliographies and Study Guides
 

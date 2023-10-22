@@ -5,7 +5,7 @@ parent: H
 nav_order:
 ---
 
-Bibliographies and Study Guides : Hit Up
+# Hit Up
 
 Bibliographies and Study Guides
 

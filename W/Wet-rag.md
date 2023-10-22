@@ -5,7 +5,7 @@ parent: W
 nav_order:
 ---
 
-Bibliographies and Study Guides : Wet rag
+# Wet rag
 
 Bibliographies and Study Guides
 

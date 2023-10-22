@@ -5,7 +5,7 @@ parent: L
 nav_order:
 ---
 
-Bibliographies and Study Guides : League of Legends
+# League of Legends
 
 Bibliographies and Study Guides
 

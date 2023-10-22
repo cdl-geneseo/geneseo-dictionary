@@ -5,7 +5,7 @@ parent: K
 nav_order:
 ---
 
-Bibliographies and Study Guides : Knob Job
+# Knob Job
 
 Bibliographies and Study Guides
 

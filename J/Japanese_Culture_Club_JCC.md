@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : Japanese Culture Club (JCC)
+# Japanese Culture Club (JCC)
 
 Bibliographies and Study Guides
 

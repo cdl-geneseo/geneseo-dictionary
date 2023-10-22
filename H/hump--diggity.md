@@ -5,7 +5,7 @@ parent: H
 nav_order:
 ---
 
-Bibliographies and Study Guides : hump- diggity
+# hump- diggity
 
 Bibliographies and Study Guides
 

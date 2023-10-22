@@ -5,7 +5,7 @@ parent: N
 nav_order:
 ---
 
-Bibliographies and Study Guides : No-Cap
+# No-Cap
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: D
 nav_order:
 ---
 
-Bibliographies and Study Guides : Dry
+# Dry
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : O RLY?
+# O RLY?
 
 Bibliographies and Study Guides
 

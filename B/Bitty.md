@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Bitty
+# Bitty
 
 Bibliographies and Study Guides
 

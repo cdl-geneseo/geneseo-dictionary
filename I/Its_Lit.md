@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : It's Lit
+# It's Lit
 
 Bibliographies and Study Guides
 

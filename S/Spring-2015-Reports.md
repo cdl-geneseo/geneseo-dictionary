@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Spring 2015 Reports
+# Spring 2015 Reports
 
 Bibliographies and Study Guides
 

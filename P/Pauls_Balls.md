@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : Paul's Balls
+# Paul's Balls
 
 Bibliographies and Study Guides
 

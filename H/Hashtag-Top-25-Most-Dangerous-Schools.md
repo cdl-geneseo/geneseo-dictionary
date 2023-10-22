@@ -5,7 +5,7 @@ parent: H
 nav_order:
 ---
 
-Bibliographies and Study Guides : Hashtag Top 25 Most Dangerous Schools
+# Hashtag Top 25 Most Dangerous Schools
 
 Bibliographies and Study Guides
 

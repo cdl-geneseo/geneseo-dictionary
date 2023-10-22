@@ -5,7 +5,7 @@ parent: M
 nav_order:
 ---
 
-Bibliographies and Study Guides : Molly
+# Molly
 
 Bibliographies and Study Guides
 

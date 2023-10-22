@@ -5,7 +5,7 @@ parent: G
 nav_order:
 ---
 
-Bibliographies and Study Guides : Ghosting
+# Ghosting
 
 Bibliographies and Study Guides
 

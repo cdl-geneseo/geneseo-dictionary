@@ -5,7 +5,7 @@ parent: G
 nav_order:
 ---
 
-Bibliographies and Study Guides : Good looks
+# Good looks
 
 Bibliographies and Study Guides
 

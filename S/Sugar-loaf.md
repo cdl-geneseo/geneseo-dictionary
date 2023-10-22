@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Sugar-loaf
+# Sugar-loaf
 
 Bibliographies and Study Guides
 

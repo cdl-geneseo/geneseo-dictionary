@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Breakfasts
+# Breakfasts
 
 Bibliographies and Study Guides
 

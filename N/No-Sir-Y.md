@@ -5,7 +5,7 @@ parent: N
 nav_order:
 ---
 
-Bibliographies and Study Guides : No-Sir-Y
+# No-Sir-Y
 
 Bibliographies and Study Guides
 

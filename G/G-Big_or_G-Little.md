@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : G-Big or G-Little
+# G-Big or G-Little
 
 Bibliographies and Study Guides
 

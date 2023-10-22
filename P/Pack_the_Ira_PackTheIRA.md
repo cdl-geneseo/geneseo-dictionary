@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : Pack the Ira (#PackTheIRA)
+# Pack the Ira (#PackTheIRA)
 
 Bibliographies and Study Guides
 

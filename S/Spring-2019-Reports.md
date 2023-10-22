@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Spring 2019 Reports
+# Spring 2019 Reports
 
 Bibliographies and Study Guides
 

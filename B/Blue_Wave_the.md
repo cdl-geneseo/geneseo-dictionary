@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : Blue Wave, the
+# Blue Wave, the
 
 Bibliographies and Study Guides
 

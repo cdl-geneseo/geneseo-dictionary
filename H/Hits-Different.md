@@ -5,7 +5,7 @@ parent: H
 nav_order:
 ---
 
-Bibliographies and Study Guides : Hits Different
+# Hits Different
 
 Bibliographies and Study Guides
 

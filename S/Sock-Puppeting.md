@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Sock Puppeting
+# Sock Puppeting
 
 Bibliographies and Study Guides
 

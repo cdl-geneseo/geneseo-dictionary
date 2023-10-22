@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : Cricket's
+# Cricket's
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: D
 nav_order:
 ---
 
-Bibliographies and Study Guides : Dictionary User Activity
+# Dictionary User Activity
 
 Bibliographies and Study Guides
 

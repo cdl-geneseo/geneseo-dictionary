@@ -5,7 +5,7 @@ parent: T
 nav_order:
 ---
 
-Bibliographies and Study Guides : Transgender
+# Transgender
 
 Bibliographies and Study Guides
 

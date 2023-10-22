@@ -5,7 +5,7 @@ parent: G
 nav_order:
 ---
 
-Bibliographies and Study Guides : Give it up
+# Give it up
 
 Bibliographies and Study Guides
 

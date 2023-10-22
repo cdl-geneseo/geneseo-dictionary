@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Boom
+# Boom
 
 Bibliographies and Study Guides
 

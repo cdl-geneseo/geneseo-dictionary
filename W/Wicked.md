@@ -5,7 +5,7 @@ parent: W
 nav_order:
 ---
 
-Bibliographies and Study Guides : Wicked
+# Wicked
 
 Bibliographies and Study Guides
 

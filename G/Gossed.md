@@ -5,7 +5,7 @@ parent: G
 nav_order:
 ---
 
-Bibliographies and Study Guides : Gossed
+# Gossed
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Book it
+# Book it
 
 Bibliographies and Study Guides
 

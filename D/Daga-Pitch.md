@@ -5,7 +5,7 @@ parent: D
 nav_order:
 ---
 
-Bibliographies and Study Guides : Daga Pitch
+# Daga Pitch
 
 Bibliographies and Study Guides
 

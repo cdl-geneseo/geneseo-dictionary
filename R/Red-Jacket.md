@@ -5,7 +5,7 @@ parent: R
 nav_order:
 ---
 
-Bibliographies and Study Guides : Red Jacket
+# Red Jacket
 
 Bibliographies and Study Guides
 

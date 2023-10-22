@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Bong hit
+# Bong hit
 
 Bibliographies and Study Guides
 

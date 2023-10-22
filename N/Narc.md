@@ -5,7 +5,7 @@ parent: N
 nav_order:
 ---
 
-Bibliographies and Study Guides : Narc
+# Narc
 
 Bibliographies and Study Guides
 

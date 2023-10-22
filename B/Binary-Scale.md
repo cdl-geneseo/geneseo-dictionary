@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Binary Scale
+# Binary Scale
 
 Bibliographies and Study Guides
 

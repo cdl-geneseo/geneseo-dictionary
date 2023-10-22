@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Blow Off
+# Blow Off
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Sexcapade
+# Sexcapade
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: C
 nav_order:
 ---
 
-Bibliographies and Study Guides : Chestnut Street
+# Chestnut Street
 
 Bibliographies and Study Guides
 

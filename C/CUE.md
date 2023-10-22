@@ -5,7 +5,7 @@ parent: C
 nav_order:
 ---
 
-Bibliographies and Study Guides : CUE
+# CUE
 
 Bibliographies and Study Guides
 

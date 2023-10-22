@@ -5,7 +5,7 @@ parent: T
 nav_order:
 ---
 
-Bibliographies and Study Guides : Tits Magee
+# Tits Magee
 
 Bibliographies and Study Guides
 

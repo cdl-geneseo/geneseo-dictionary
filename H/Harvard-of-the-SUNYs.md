@@ -5,7 +5,7 @@ parent: H
 nav_order:
 ---
 
-Bibliographies and Study Guides : Harvard of the SUNYs
+# Harvard of the SUNYs
 
 Bibliographies and Study Guides
 

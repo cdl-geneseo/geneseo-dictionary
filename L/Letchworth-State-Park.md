@@ -5,7 +5,7 @@ parent: L
 nav_order:
 ---
 
-Bibliographies and Study Guides : Letchworth State Park
+# Letchworth State Park
 
 Bibliographies and Study Guides
 

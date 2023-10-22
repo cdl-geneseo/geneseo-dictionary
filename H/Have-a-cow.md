@@ -5,7 +5,7 @@ parent: H
 nav_order:
 ---
 
-Bibliographies and Study Guides : Have a cow
+# Have a cow
 
 Bibliographies and Study Guides
 

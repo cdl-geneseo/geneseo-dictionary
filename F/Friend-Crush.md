@@ -5,7 +5,7 @@ parent: F
 nav_order:
 ---
 
-Bibliographies and Study Guides : Friend Crush
+# Friend Crush
 
 Bibliographies and Study Guides
 

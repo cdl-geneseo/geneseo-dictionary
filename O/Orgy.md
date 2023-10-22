@@ -5,7 +5,7 @@ parent: O
 nav_order:
 ---
 
-Bibliographies and Study Guides : Orgy
+# Orgy
 
 Bibliographies and Study Guides
 

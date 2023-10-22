@@ -5,7 +5,7 @@ parent: X
 nav_order:
 ---
 
-Bibliographies and Study Guides : XOXO
+# XOXO
 
 Bibliographies and Study Guides
 

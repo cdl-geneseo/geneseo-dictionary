@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : RA (Umbrella Entry)
+# RA (Umbrella Entry)
 
 Bibliographies and Study Guides
 

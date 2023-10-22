@@ -5,7 +5,7 @@ parent: H
 nav_order:
 ---
 
-Bibliographies and Study Guides : Harsh out
+# Harsh out
 
 Bibliographies and Study Guides
 

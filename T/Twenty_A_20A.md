@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : Twenty A (20A)
+# Twenty A (20A)
 
 Bibliographies and Study Guides
 

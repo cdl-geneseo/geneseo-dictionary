@@ -5,7 +5,7 @@ parent: N
 nav_order:
 ---
 
-Bibliographies and Study Guides : Naked Lap
+# Naked Lap
 
 Bibliographies and Study Guides
 

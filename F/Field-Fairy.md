@@ -5,7 +5,7 @@ parent: F
 nav_order:
 ---
 
-Bibliographies and Study Guides : Field Fairy
+# Field Fairy
 
 Bibliographies and Study Guides
 

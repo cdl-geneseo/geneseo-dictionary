@@ -5,7 +5,7 @@ parent: N
 nav_order:
 ---
 
-Bibliographies and Study Guides : North
+# North
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: T
 nav_order:
 ---
 
-Bibliographies and Study Guides : Technicolor Yawn
+# Technicolor Yawn
 
 Bibliographies and Study Guides
 

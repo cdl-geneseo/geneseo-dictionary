@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Sexual Orientation
+# Sexual Orientation
 
 Bibliographies and Study Guides
 

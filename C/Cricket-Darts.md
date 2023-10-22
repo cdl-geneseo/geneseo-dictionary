@@ -5,7 +5,7 @@ parent: C
 nav_order:
 ---
 
-Bibliographies and Study Guides : Cricket Darts
+# Cricket Darts
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: C
 nav_order:
 ---
 
-Bibliographies and Study Guides : Center Street
+# Center Street
 
 Bibliographies and Study Guides
 

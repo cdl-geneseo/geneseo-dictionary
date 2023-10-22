@@ -5,7 +5,7 @@ parent: B
 nav_order:
 ---
 
-Bibliographies and Study Guides : Blow Chunks
+# Blow Chunks
 
 Bibliographies and Study Guides
 

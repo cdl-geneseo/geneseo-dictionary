@@ -5,7 +5,7 @@ parent: N
 nav_order:
 ---
 
-Bibliographies and Study Guides : Nonpology
+# Nonpology
 
 Bibliographies and Study Guides
 

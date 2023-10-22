@@ -5,7 +5,7 @@ parent: R
 nav_order:
 ---
 
-Bibliographies and Study Guides : Retail Dollars
+# Retail Dollars
 
 Bibliographies and Study Guides
 

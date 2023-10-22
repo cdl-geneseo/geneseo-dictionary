@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Shit a brick
+# Shit a brick
 
 Bibliographies and Study Guides
 

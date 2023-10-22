@@ -5,7 +5,7 @@ parent: E
 nav_order:
 ---
 
-Bibliographies and Study Guides : East Bumblefuck
+# East Bumblefuck
 
 Bibliographies and Study Guides
 

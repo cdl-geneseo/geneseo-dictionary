@@ -5,7 +5,7 @@ parent: V
 nav_order:
 ---
 
-Bibliographies and Study Guides : Vegan Nuggets
+# Vegan Nuggets
 
 Bibliographies and Study Guides
 

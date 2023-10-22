@@ -5,7 +5,7 @@ parent: K
 nav_order:
 ---
 
-Bibliographies and Study Guides : Krunk juice
+# Krunk juice
 
 Bibliographies and Study Guides
 

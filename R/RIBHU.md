@@ -5,7 +5,7 @@ parent: R
 nav_order:
 ---
 
-Bibliographies and Study Guides : RIBHU
+# RIBHU
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: Y
 nav_order:
 ---
 
-Bibliographies and Study Guides : Yassss
+# Yassss
 
 Bibliographies and Study Guides
 

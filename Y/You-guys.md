@@ -5,7 +5,7 @@ parent: Y
 nav_order:
 ---
 
-Bibliographies and Study Guides : You guys
+# You guys
 
 Bibliographies and Study Guides
 

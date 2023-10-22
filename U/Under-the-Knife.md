@@ -5,7 +5,7 @@ parent: U
 nav_order:
 ---
 
-Bibliographies and Study Guides : Under the Knife
+# Under the Knife
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: N
 nav_order:
 ---
 
-Bibliographies and Study Guides : Nympho
+# Nympho
 
 Bibliographies and Study Guides
 

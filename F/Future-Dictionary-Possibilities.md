@@ -5,7 +5,7 @@ parent: F
 nav_order:
 ---
 
-Bibliographies and Study Guides : Future Dictionary Possibilities
+# Future Dictionary Possibilities
 
 Bibliographies and Study Guides
 

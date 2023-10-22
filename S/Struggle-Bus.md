@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Struggle Bus
+# Struggle Bus
 
 Bibliographies and Study Guides
 

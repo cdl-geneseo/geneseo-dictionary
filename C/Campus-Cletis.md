@@ -5,7 +5,7 @@ parent: C
 nav_order:
 ---
 
-Bibliographies and Study Guides : Campus Cletis
+# Campus Cletis
 
 Bibliographies and Study Guides
 

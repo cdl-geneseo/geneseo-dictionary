@@ -5,7 +5,7 @@ parent: D
 nav_order:
 ---
 
-Bibliographies and Study Guides : Dean of Students
+# Dean of Students
 
 Bibliographies and Study Guides
 

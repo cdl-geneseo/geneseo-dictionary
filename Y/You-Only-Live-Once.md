@@ -5,7 +5,7 @@ parent: Y
 nav_order:
 ---
 
-Bibliographies and Study Guides : You Only Live Once
+# You Only Live Once
 
 Bibliographies and Study Guides
 

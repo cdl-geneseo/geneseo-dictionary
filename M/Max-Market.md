@@ -5,7 +5,7 @@ parent: M
 nav_order:
 ---
 
-Bibliographies and Study Guides : Max Market
+# Max Market
 
 Bibliographies and Study Guides
 

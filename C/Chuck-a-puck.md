@@ -5,7 +5,7 @@ parent: C
 nav_order:
 ---
 
-Bibliographies and Study Guides : Chuck-a-puck
+# Chuck-a-puck
 
 Bibliographies and Study Guides
 

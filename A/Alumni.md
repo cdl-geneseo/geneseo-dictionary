@@ -5,7 +5,7 @@ parent: A
 nav_order:
 ---
 
-Bibliographies and Study Guides : Alumni
+# Alumni
 
 Bibliographies and Study Guides
 

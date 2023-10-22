@@ -5,7 +5,7 @@ parent: T
 nav_order:
 ---
 
-Bibliographies and Study Guides : Transphobia
+# Transphobia
 
 Bibliographies and Study Guides
 

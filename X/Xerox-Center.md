@@ -5,7 +5,7 @@ parent: X
 nav_order:
 ---
 
-Bibliographies and Study Guides : Xerox Center
+# Xerox Center
 
 Bibliographies and Study Guides
 

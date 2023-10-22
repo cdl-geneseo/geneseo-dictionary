@@ -5,7 +5,7 @@ parent: G
 nav_order:
 ---
 
-Bibliographies and Study Guides : Green out
+# Green out
 
 Bibliographies and Study Guides
 

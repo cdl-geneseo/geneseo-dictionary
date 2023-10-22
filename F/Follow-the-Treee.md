@@ -5,7 +5,7 @@ parent: F
 nav_order:
 ---
 
-Bibliographies and Study Guides : Follow the Treee
+# Follow the Treee
 
 Bibliographies and Study Guides
 

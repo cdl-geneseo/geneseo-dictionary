@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Shaq diesel
+# Shaq diesel
 
 Bibliographies and Study Guides
 

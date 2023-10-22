@@ -5,7 +5,7 @@ parent: O
 nav_order:
 ---
 
-Bibliographies and Study Guides : One shot
+# One shot
 
 Bibliographies and Study Guides
 

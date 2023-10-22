@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : Writer's Block
+# Writer's Block
 
 Bibliographies and Study Guides
 

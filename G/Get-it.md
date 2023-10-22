@@ -5,7 +5,7 @@ parent: G
 nav_order:
 ---
 
-Bibliographies and Study Guides : Get it
+# Get it
 
 Bibliographies and Study Guides
 

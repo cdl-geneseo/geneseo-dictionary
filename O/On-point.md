@@ -5,7 +5,7 @@ parent: O
 nav_order:
 ---
 
-Bibliographies and Study Guides : On point
+# On point
 
 Bibliographies and Study Guides
 

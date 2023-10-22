@@ -5,7 +5,7 @@ parent: N
 nav_order:
 ---
 
-Bibliographies and Study Guides : Nom Nom Nom
+# Nom Nom Nom
 
 Bibliographies and Study Guides
 

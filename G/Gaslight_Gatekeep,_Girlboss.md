@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : Gaslight, Gatekeep, Girlboss
+# Gaslight, Gatekeep, Girlboss
 
 Bibliographies and Study Guides
 

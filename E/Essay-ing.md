@@ -5,7 +5,7 @@ parent: E
 nav_order:
 ---
 
-Bibliographies and Study Guides : Essay-ing
+# Essay-ing
 
 Bibliographies and Study Guides
 

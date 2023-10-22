@@ -5,7 +5,7 @@ parent: D
 nav_order:
 ---
 
-Bibliographies and Study Guides : Dick-tease
+# Dick-tease
 
 Bibliographies and Study Guides
 

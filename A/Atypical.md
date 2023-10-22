@@ -5,7 +5,7 @@ parent: A
 nav_order:
 ---
 
-Bibliographies and Study Guides : Atypical
+# Atypical
 
 Bibliographies and Study Guides
 

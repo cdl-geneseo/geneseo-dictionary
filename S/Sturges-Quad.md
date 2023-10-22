@@ -5,7 +5,7 @@ parent: S
 nav_order:
 ---
 
-Bibliographies and Study Guides : Sturges Quad
+# Sturges Quad
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: V
 nav_order:
 ---
 
-Bibliographies and Study Guides : Veg Out
+# Veg Out
 
 Bibliographies and Study Guides
 

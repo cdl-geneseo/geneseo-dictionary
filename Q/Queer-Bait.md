@@ -5,7 +5,7 @@ parent: Q
 nav_order:
 ---
 
-Bibliographies and Study Guides : Queer Bait
+# Queer Bait
 
 Bibliographies and Study Guides
 

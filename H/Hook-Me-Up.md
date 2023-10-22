@@ -5,7 +5,7 @@ parent: H
 nav_order:
 ---
 
-Bibliographies and Study Guides : Hook Me Up
+# Hook Me Up
 
 Bibliographies and Study Guides
 

@@ -5,7 +5,7 @@ parent: T
 nav_order:
 ---
 
-Bibliographies and Study Guides : Third Wheel
+# Third Wheel
 
 Bibliographies and Study Guides
 

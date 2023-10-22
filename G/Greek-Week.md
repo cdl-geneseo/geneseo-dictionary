@@ -5,7 +5,7 @@ parent: G
 nav_order:
 ---
 
-Bibliographies and Study Guides : Greek Week
+# Greek Week
 
 Bibliographies and Study Guides
 

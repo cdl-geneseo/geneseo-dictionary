@@ -5,7 +5,7 @@ parent: N
 nav_order:
 ---
 
-Bibliographies and Study Guides : Nature walk
+# Nature walk
 
 Bibliographies and Study Guides
 

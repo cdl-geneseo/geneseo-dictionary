@@ -5,7 +5,7 @@ parent: T
 nav_order:
 ---
 
-Bibliographies and Study Guides : Twisted
+# Twisted
 
 Bibliographies and Study Guides
 

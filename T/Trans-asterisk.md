@@ -5,7 +5,7 @@ parent: Unsorted
 nav_order:
 ---
 
-Bibliographies and Study Guides : Trans*
+# Trans*
 
 Bibliographies and Study Guides
 
