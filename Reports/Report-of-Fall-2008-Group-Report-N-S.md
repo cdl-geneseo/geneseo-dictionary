@@ -1,0 +1,58 @@
+---
+title: Report of Fall 2008 Group Report N-S
+layout: default
+parent: Reports
+nav_order:
+---
+
+Bibliographies and Study Guides : Report of Fall 2008 Group Report N-S
+
+Bibliographies and Study Guides
+
+Dictionary of Geneseo English
+
+Fall 2008 Group Reports
+
+Bibliographies and Study Guides : Report of Fall 2008 Group Report N-S
+
+Created by  Unknown User (arh11), last modified on Dec 02, 2008
+
+For Fall 2008's History of the English Language class, we - Emily Rose, Laura, and Allison - took responsibility for the N-S section of the Geneseo Dictionary project. Through this semester, we compiled a list of all usages of slang and interesting phrases we heard around campus, going door to door around the dorms and Main Street, discovering new words and taking note of the obsolete. Through surveys, e-mails, Facebook, and peer-to-peer meetings at the library, we compiled a substantial list of words to add to our chapter of the ever-changing language of SUNY Geneseo. 
+
+Our investigation of new words was heavily influenced by language terms and slangs made popular over the Internet. Even in the last five years, technological advances in Internet communication have advanced so much so as to have a tremendous impact on our slang and vocabulary. After uploading all of the previous words to the new Geneseo Wiki, we divided the group up; Laura was in charge of placing the new words we agreed upon into the Wiki, Emily Rose compiled the research needed for the surveys, and Allison recorded each meeting between the group members, writing down what was agreed on and which words were going to be used, to be e-mailed to the other two group members after the meeting was over.
+
+The primary method of research we used was a survey, written by Emily Rose and passed around a percentage of the student body by going door-to-door with surveys in our respective housing quarters. 
+
+Survey
+
+Word:
+
+Have you ever heard of this word? Y/N
+
+In Geneseo? Y/N
+
+Elsewhere? Y/N
+
+Other comments on where this word is most often used:
+
+Have you heard any alternate definitions for this word?
+
+Have you heard any words that you believe are specific to Geneseo?
+
+Using this survey, we were able to compile a substantial amount of slang terms and phrases to add to the 2008 Wiki, including a handful of words that are native to SUNY Geneseo or the greater college area. Our Added Words included;
+
+Narc, Nicklebag, Nonpology, N00b, Orgo, Over Nine Thousand, Pansexual, Pics, Piddle, Piddlepot, Postulant, QQ, Queer, Rainbow, RL, ROFLMAO, RTFM, Rule 34, Schmedium, Sexcapade, Sexploit, Shitcreek, Shoot the Boot, Side Boob, Snatch, Snorlax, Sock Puppeting, Sodomy Lot, Speechie, Spoon, Steubennian, and Subzone. 
+
+In addition to passing around the survey to a number of Geneseo students, we also gathered words from fellow classmates, who graciously sent around class-wide e-mails to share words they found that we might have missed. &quot;Subzone&quot; became one of the more recent additions, sent in via e-mail by another member of the class who discovered it at Pizza Paul's, a place our group members didn't frequently visit. 
+
+To search for new words, we set out to new places and associations, in order to discover words spoken by our target group; young college students, particularly heavy partiers. For this reason, we picked up the word &quot;postulant&quot;, discovered at a fraternity party. Going to clubs, bars, and student organizations helped to widen our vocabulary list (although questioning the club attendees about their usage of slang didn't help to increase our positive public image.)
+
+Finally, the Internet also played a great deal into our search for new slang terms; RL, RTFM, and Rule 34 are all terms invented and made popular because of the access the vast majority of college students have of the Internet.
+
+Sending around the same survey, we were also able to determine and mark the words which we found were obsolete or no longer in use. Because of the especially high turn-over population rate in a college (a completely fresh group of 5,000 students every four years), slang is constantly changing and old words fall out of use as often as new words are invented and popularized. For this reason, we were able to mark down phrases such as &quot;surfing the crimson wave&quot; and &quot;stewed&quot; as obsolete or archaic, while words like &quot;super-senior&quot; were reevaluated and determined to be still in use by those students who were polled.  
+
+Throughout the semester, we visited many different spots on campus and off, going to places where vocabulary was being invented on a day-to-day basis; the library, the restaurants on Main Street, the Fraternities and Sororities, the bars, the clubs, and the classrooms. In all of these places we found strange, new words thrown in with everyday use, proving to us that the English language - at least in Geneseo - is far from stagnant. 
+
+Document generated by Confluence on May 22, 2023 12:35
+
+Atlassian

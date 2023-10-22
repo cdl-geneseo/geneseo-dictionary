@@ -5,7 +5,17 @@ parent: B
 nav_order:
 ---
 
-# Bagged
+Bibliographies and Study Guides : Bagged
+
+Bibliographies and Study Guides
+
+Dictionary of Geneseo English
+
+View All Entries
+
+A-D
+
+Bibliographies and Study Guides : Bagged
 
 Created by  Zachary Arthur, last modified by  Unknown User (kla8) on Nov 20, 2012
 
