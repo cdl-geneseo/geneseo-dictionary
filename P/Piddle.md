@@ -7,16 +7,6 @@ nav_order:
 
 # Piddle
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Piddle
-
 Created by  Unknown User (lav4), last modified on Dec 01, 2008
 
 Verb: To urinate. Example &quot;Guys, I really have to piddle.&quot; 

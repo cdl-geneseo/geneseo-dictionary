@@ -7,16 +7,6 @@ nav_order:
 
 # Ra (superseded)
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Ra (superseded)
-
 Created by  Unknown User (lav4), last modified by  Aurora Merwin on Apr 09, 2023
 
 (n.)\'r\ acronym of endearment for Resident Assistant. &quot;I'm going down to the service desk to visit Ra Joe since he's on duty tonight.&quot; Source: Dictionary of Geneseo English 2006. Obsolete Fall 2006. Dinki.

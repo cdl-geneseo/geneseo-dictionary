@@ -7,16 +7,6 @@ nav_order:
 
 # Mac Salad
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Mac Salad
-
 Created by  Unknown User (erg5), last modified by  Unknown User (msc5) on Nov 16, 2012
 
 n. Abbreviation for macaroni salad.“I love mac salad.”100% of those surveyed know this food, but only 30% believe it has local origins.As of 2012, 88% of students surveyed knew the word and 0% believed it to be of local origin.(Craft, G-M, 2012)

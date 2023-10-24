@@ -7,16 +7,6 @@ nav_order:
 
 # Piddle Pot
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Piddle Pot
-
 Created by  Unknown User (lav4), last modified by  Unknown User (lah15) on Nov 15, 2010
 
 Noun: a toilet. Example &quot;Hang on, we have to wait for Emily. She's on the piddle pot.&quot; Obsolete as of Fall 2010 (Hanson).

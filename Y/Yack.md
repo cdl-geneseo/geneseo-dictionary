@@ -7,16 +7,6 @@ nav_order:
 
 # Yack
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Yack
-
 Created by  Unknown User (kmh28), last modified on Dec 01, 2008
 
 (verb) Other spellings &quot;yac&quot;, &quot;yak&quot;. To vomit.

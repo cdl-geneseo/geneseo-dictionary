@@ -7,16 +7,6 @@ nav_order:
 
 # elf
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : elf
-
 Created by  Unknown User (met6), last modified by  Unknown User (kec3) on Nov 29, 2010
 
 Noun or Adjective [elf] A petite female nymphomaniac; &quot;All the guys like her because she's an elf.&quot; According to Spring, 2001, &quot;He's dating an elf.&quot; As found in the New York Times, September 10, 2000; &quot;'You know, I almost didn't come,' said Niki Botelho-Pabros, a 3-foot-6 performer who was dressed for the night in a leopard-print bikini top with leather dominatrix armbands and combat boots. Dragging on a Marlboro Light, Ms. Botelho-Pabros said: 'I thought it would be exploitative and I tend to stay away from that stimga type of elf and clown job.'&quot;

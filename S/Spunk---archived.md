@@ -7,16 +7,6 @@ nav_order:
 
 # Spunk - archived
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Spunk - archived
-
 Created by  Unknown User (arh11), last modified by  Graham Drake on Jan 14, 2015
 
 \spnk\: 1. (v) To ejaculate 2. (nn) semen. &quot;Spunk is not fun to talk about.&quot;A similar definition appears at http://www.urbandictionary.com/define.php?term=spunk; the entry is probably not specific to Geneseo.

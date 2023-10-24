@@ -7,16 +7,6 @@ nav_order:
 
 # Franklin Street
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Franklin Street
-
 Created by  Unknown User (jys1), last modified by  Unknown User (meg23) on Apr 15, 2019
 
 Pronunciation: ˈfraŋ-klən ˈstrētn. A street located within Geneseo's campus. Notable locations on this street are the Interfaith Center and Delta Kappa Tau.&quot;I was on Franklin Street last night after the DK party.&quot;(J Serbalik, A-F, 2019).

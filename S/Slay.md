@@ -7,16 +7,6 @@ nav_order:
 
 # Slay
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Slay
-
 Created by  Kayla Stewart on May 04, 2023
 
 (adj) 1. Popular expression most commonly used by the LGBTQIA+ community. (verb) 2. To perform exceptionally well or to achieve a great success in a particular activity.Example: &quot;Did you see Jackie's performance? She slayed the entire time!&quot; (Stewart, S-Z, 2023) 

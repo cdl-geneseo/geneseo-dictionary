@@ -7,16 +7,6 @@ nav_order:
 
 # Twitterstorm
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Twitterstorm
-
 Created by  Unknown User (mtr7) on Apr 29, 2015
 
 When there are a lot of tweets about a certain topic within a short period of time (usually within a couple of hours).  &quot;With everything going on in Baltimore, there has been a twitterstorm about the riots&quot;.  Romig, S-Z, 2015.

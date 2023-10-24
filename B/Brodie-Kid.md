@@ -7,16 +7,6 @@ nav_order:
 
 # Brodie Kid
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Brodie Kid
-
 Created by  Unknown User (tjc13), last modified on Nov 24, 2008
 
 noun- a student that spends all their time in Brodie due their involvement in some aspect of the School of the Arts.  Synonym of Brodie-ite and Brodie-rat and Brodie freak.

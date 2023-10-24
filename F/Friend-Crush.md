@@ -7,16 +7,6 @@ nav_order:
 
 # Friend Crush
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Friend Crush
-
 Created by  Unknown User (crk4), last modified on Dec 02, 2008
 
 Friend Crush: noun refers to a person with whom one would like to be non-sexual friends, or the accompanying feeling in reference to the same person.

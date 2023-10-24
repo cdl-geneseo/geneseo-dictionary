@@ -7,16 +7,6 @@ nav_order:
 
 # Schmutt
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Schmutt
-
 Created by  Unknown User (lav4), last modified on Oct 28, 2008
 
 (v)in card playing, to take unfairly. &quot;I hate when people try to schmutt in poker. It's one of those things I cannot stand.&quot; Source: Dictionary of Geneseo English 1996. Obsolete in 2006. Dilluvio

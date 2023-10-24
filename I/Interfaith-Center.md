@@ -7,16 +7,6 @@ nav_order:
 
 # Interfaith Center
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Interfaith Center
-
 Created by  Unknown User (jw33) on Apr 28, 2015
 
 Interfaith Center - n. A place on campus dedicated to cross faith relations and religious tolerance amongst students. Also available for meetings and receptions.&quot;The Muslim Student Association is hosting a prayer service for Ramadan at the Interfaith Center.&quot;As of 2015, 69% of students surveyed knew this place, 31.5% believed this was of local origins.(Whelehan G-M, 2015)

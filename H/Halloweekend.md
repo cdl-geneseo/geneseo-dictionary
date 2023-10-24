@@ -7,16 +7,6 @@ nav_order:
 
 # Halloweekend
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Halloweekend
-
 Created by  Unknown User (nac16) on Dec 11, 2020
 
 n. Weekend of Halloween, featuring costume themed-parties. Source: Dictionary of Geneseo English, Fall 2020, ChojnackiAs of 2020, 83.7% of students surveyed know the word.83.7% of students surveyed know the word. Of those surveyed, 67.4% believed it originated elsewhere. (Chojnacki, G-M, 2020)

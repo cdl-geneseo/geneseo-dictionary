@@ -7,16 +7,6 @@ nav_order:
 
 # Creepster
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Creepster
-
 Created by  Unknown User (tjc13), last modified on Nov 24, 2008
 
 noun- a variation of creeper, a sketchy person who makes people uneasy

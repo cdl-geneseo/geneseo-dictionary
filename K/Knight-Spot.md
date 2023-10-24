@@ -7,16 +7,6 @@ nav_order:
 
 # Knight Spot
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Knight Spot
-
 Created by  Unknown User (est1), last modified by  Unknown User (mee2) on Nov 16, 2012
 
 n. Room located in Blake A that is used for a variety of different functions on campus. On Friday and Saturday nights the area is reserved as a dance club for students. The room is also reserved for special events2006-12-14T21:01:30ZMMarcantonioAs of 2012, 100% of students surveyed knew this word and 100% believed it to be of local origin.(Eichas, G-M, 2012)  

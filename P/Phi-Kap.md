@@ -7,16 +7,6 @@ nav_order:
 
 # Phi Kap
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Phi Kap
-
 Created by  Unknown User (ram19) on Nov 20, 2012
 
 (n.) Someone who is a member of the Phi Kappa Chi fraternity, or in reference to the whole fraternity.Ex. The Phi Kaps are having a party tonight.Ex. He’s done pledging, and now he’s a Phi Kap.As of 2012, this word received an average of 3.31 out of 5, 1 being an unknown word, and 5 being a word heard and used frequently.(Miller, N-R, 2012)

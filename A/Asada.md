@@ -7,16 +7,6 @@ nav_order:
 
 # Asada
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Asada
-
 Created by  Unknown User (ms61), last modified on May 08, 2015
 
 The taco and burrito station at &quot;Fusion Market&quot; in College Union.

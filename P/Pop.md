@@ -7,16 +7,6 @@ nav_order:
 
 # Pop
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Pop
-
 Created by  Unknown User (kmo12) on Apr 29, 2015
 
 (n.) carbonated soft drink. synonym for soda. Not Geneseo specific but included because in the Geneseo community saying soda or pop is a contested issue and signifies where people are from. (K Owen, N-R, 2015)

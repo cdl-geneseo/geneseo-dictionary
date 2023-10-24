@@ -7,16 +7,6 @@ nav_order:
 
 # Korye
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Korye
-
 Created by  Unknown User (vas3), last modified on Apr 28, 2015
 
 noun. Ghanaian dancing or a Ghanain dance and drumming group. Used in Geneseo to denote the campus group.&quot;Korye put on a great show at the Ghana Gala this year.&quot;15% of students surveyed were familiar with the term.  Of those surveyed 0% believed the word was of local origin.(Sigl, G-M, 2015)

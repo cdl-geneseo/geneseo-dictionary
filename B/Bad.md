@@ -7,16 +7,6 @@ nav_order:
 
 # Bad
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Bad
-
 Created by  Zachary Arthur, last modified on Sep 18, 2008
 
 AJ: My fault/my bad. F94 AJ-No change 

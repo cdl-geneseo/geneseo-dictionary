@@ -7,16 +7,6 @@ nav_order:
 
 # Half-Ass
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Half-Ass
-
 Created by  Unknown User (erg5), last modified by  Unknown User (jcf10) on Nov 16, 2012
 
 1) v. to put little or halfhearted effort into a task; to perform incompletely ex. “He half-assed that presentation.”ex. “That project looks half-assed.”As of 2012, 100% of students surveyed know this word. 0% believe it is of local origins.(Flynn, G-M, 2012)

@@ -7,16 +7,6 @@ nav_order:
 
 # Rager
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Rager
-
 Created by  Unknown User (afl1), last modified by  Quentin Wall on Nov 29, 2020
 
 (n.) A large party where drugs and alcohol are consumed, often in excess. Bro I lost my wallet, keys, and self respect at that rager last night.(Wall, Q-T, 2020)

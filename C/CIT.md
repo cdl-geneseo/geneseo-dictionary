@@ -7,16 +7,6 @@ nav_order:
 
 # CIT
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : CIT
-
 Created by  Unknown User (tjc13), last modified on Oct 05, 2008
 
 CIT (NN): acronym for Computer Information Technology, office in [[South Hall]] that fixes student computers, regulates computers and techology on campus and offers computer help. Definition of approximately 84% of those surveyed. (F06) (new word) Unknown by approximately 16% of those surveyed.

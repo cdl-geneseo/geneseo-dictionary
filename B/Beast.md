@@ -7,16 +7,6 @@ nav_order:
 
 # Beast
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Beast
-
 Created by  Zachary Arthur, last modified on Sep 18, 2008
 
 NN: Milwakee's Best; &quot;This beer sucks. It must not be the beast.&quot; F92 NN-46% of the students surveyed identified this term as Milwaukee's Best. 

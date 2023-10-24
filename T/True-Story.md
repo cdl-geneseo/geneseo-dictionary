@@ -7,16 +7,6 @@ nav_order:
 
 # True Story
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : True Story
-
 Created by  Unknown User (kmh28), last modified on Dec 02, 2008
 
 (noun) Affirmative comment for when someone is &quot;right on&quot;; in agreement with a statement.

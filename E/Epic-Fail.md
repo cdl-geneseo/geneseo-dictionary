@@ -7,16 +7,6 @@ nav_order:
 
 # Epic Fail
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Epic Fail
-
 Created by  Unknown User (jfw3), last modified on Dec 02, 2008
 
 Epic Fail:noun: to make an attempt and come up short, usually in some humiliating setting such as tripping in the cafeteria and spilling ALL the food on your tray, a friend would then say, &quot;Epic Fail&quot;.

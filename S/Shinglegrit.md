@@ -7,16 +7,6 @@ nav_order:
 
 # Shinglegrit
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Shinglegrit
-
 Created by  Unknown User (arh11), last modified on Sep 28, 2008
 
 (n.) Euphemism for &quot;shit&quot;. &quot;Shinglegrit! I overslept and missed my exam.&quot; S95. Source: Dictionary of Geneseo English 1995. Obsolete Fall 2006. Adams.

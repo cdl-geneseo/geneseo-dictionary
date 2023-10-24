@@ -7,16 +7,6 @@ nav_order:
 
 # Boomer
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Boomer
-
 Created by  Zachary Arthur, last modified on Sep 23, 2008
 
 NN: Psychedelic mushroom: &quot;man, she's into boomers.&quot; F92 NN: Obs. F06 

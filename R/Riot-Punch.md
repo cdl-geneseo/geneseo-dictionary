@@ -7,16 +7,6 @@ nav_order:
 
 # Riot Punch
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Riot Punch
-
 Created by  Unknown User (gmm6), last modified by  Unknown User (cam37) on Nov 20, 2012
 
 (n.)  An alcoholic beverage that consists of various liquors and Kool-Aid.  The drink is said to induce riotous behavior.  It is also known as &quot;Jungle Juice.&quot;  This is not specific to Geneseo.  Similar definitions can be found in the Urban Dictionary.  &quot;I started punching people immediately after I downed that Riot Punch.&quot;  Martinelli, N-R, 2010. Obsolete Fall 2012. Montelli, N-R, 2012.

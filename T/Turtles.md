@@ -7,16 +7,6 @@ nav_order:
 
 # Turtles
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Turtles
-
 Created by  Unknown User (kmh28), last modified on Dec 02, 2008
 
 (noun) The individual creamers served by Geneseo Family Restaurant. When in the saucer that usually accompanies them, they are referred to as &quot;turtles in a half shell&quot;.

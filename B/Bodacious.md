@@ -7,16 +7,6 @@ nav_order:
 
 # Bodacious
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Bodacious
-
 Created by  Zachary Arthur, last modified on Sep 23, 2008
 
 AJ: Blend of &quot;bold&quot; and &quot;audacious&quot; (RH 1835-1845). Great; &quot;Bodacious haircut--where did you get it?&quot; F92 AJ-falling out of use. Only 29% of the students surveyed identified this term. S99 AJ: Only 50% of sudents have identified with this term. F06 

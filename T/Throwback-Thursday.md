@@ -7,16 +7,6 @@ nav_order:
 
 # Throwback Thursday
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Throwback Thursday
-
 Created by  Unknown User (mtr7) on Apr 27, 2015
 
 Sometimes abbreviated &quot;#tbt&quot;, especially on Facebook.  This is usually used as an excuse to post something from the past such as a photo or video.  &quot;Did you see how much weight he lost from his #tbt on Facebook?&quot;.  Romig, S-Z, 2015.

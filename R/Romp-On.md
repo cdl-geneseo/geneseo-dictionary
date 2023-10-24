@@ -7,16 +7,6 @@ nav_order:
 
 # Romp On
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Romp On
-
 Created by  Unknown User (lav4), last modified on Oct 28, 2008
 
 (vp) 1) to move, cover the ground easily and rapidly 2) to get in (or home), to win a race or prize with the greatest of ease. &quot;Geneseo hockey got its romp on against Fredonia.&quot; Source: Dictionary of Geneseo English 2002. Obsolete Fall 2006. Dinki.

@@ -7,16 +7,6 @@ nav_order:
 
 # WE
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : WE
-
 Created by  Unknown User (kmh28), last modified on Dec 02, 2008
 
 Also seen as w/e.Abbreviation of &quot;whatever&quot;; used primarily on the internet.

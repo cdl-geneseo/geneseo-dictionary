@@ -7,16 +7,6 @@ nav_order:
 
 # Brodie-ite
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Brodie-ite
-
 Created by  Unknown User (tjc13), last modified on Nov 24, 2008
 
 1. NN: Person who spends time in Brode, the arts building. 2. NN: Person avante-garde in dress and with artistic tendencies; &quot;Stunning clothes, eh? He must be a Brodie-ite.&quot;F90 NN-Almost Obs. (F92) Said to be replaced by ''Brodie rat'' and ''brodie freak'' with same two meanings. S94 NN-Obs. S99 NN: Identified by students, but shown to be falling out of usage in speech. F06 D.McGiveron

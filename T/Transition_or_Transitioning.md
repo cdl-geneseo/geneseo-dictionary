@@ -7,16 +7,6 @@ nav_order:
 
 # Transition or Transitioning
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Transition or Transitioning
-
 Created by  Kayla Stewart on May 04, 2023
 
 (noun,verb)  1. The process of switching from living as one gender to another. 2. The process of going through medical and/or social changes to match one's gender expression and physical appearance.Example: &quot;After years of struggling with gender dysphoria, Sarah decided to start transitioning with the support of her friends and family.&quot; (Stewart, S-Z, 2023) 

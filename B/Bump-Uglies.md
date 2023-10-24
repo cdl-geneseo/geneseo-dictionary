@@ -7,16 +7,6 @@ nav_order:
 
 # Bump Uglies
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Bump Uglies
-
 Created by  Unknown User (bli2), last modified on Nov 28, 2008
 
 Bump uglies: Verb- To have sex. &quot;Me and my girl are gonna bump uglies tonight.&quot; 83% of people surveyed were familiar with this term. BIervese, 2008  

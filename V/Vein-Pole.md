@@ -7,16 +7,6 @@ nav_order:
 
 # Vein Pole
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Vein Pole
-
 Created by  Unknown User (kmh28), last modified by  Jack Katz on May 07, 2022
 
 (noun) Penis.Inferred to be used by Fraternal Organizations/Greek Life.2008: While most could deduce the meaning of this term, the majority of people surveyed do not use this in conversation.Source: Geneseo Dictionary 2006. STulowiecki

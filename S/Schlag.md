@@ -7,16 +7,6 @@ nav_order:
 
 # Schlag
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Schlag
-
 Created by  Unknown User (lav4), last modified by  Unknown User (mtr7) on Apr 29, 2015
 
 (v) to drink inexpensive beer from a keg, as in &quot;We're going over to Omega to schlag some Genny Light.&quot; Source Dictionary of Geneseo English 2002. DilluvioObsolete.  Romig, S-Z, 2015.

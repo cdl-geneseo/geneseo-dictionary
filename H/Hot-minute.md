@@ -7,16 +7,6 @@ nav_order:
 
 # Hot minute
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Hot minute
-
 Created by  Unknown User (mrp13) on Apr 13, 2015
 
 Hot minute – n. a long, though unfixed period of time “Where have you been? I haven’t seen you in a hot minute.”“Since I moved off campus, I haven’t been to MJ in a hot minute”As of 2015, 68% of students surveyed know this word. 7% believe it is of local origins.(Powell, G-L, 2015)

@@ -7,16 +7,6 @@ nav_order:
 
 # Under the Sun
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Under the Sun
-
 Created by  Unknown User (kmh28), last modified by  Unknown User (met10) on Apr 29, 2015
 
 (noun) The college bookstore where you can buy school supplies and Geneseo merchandise, located in the College Union.&quot;If you're going to Under the Sun, could you pick up a few blue books for me?&quot; Source: Geneseo Dictionary 2006. FNeveldine.Not sure that this this still in use, as the bookstore doesn't go by this name anymore. 4/12 students in a survey said they knew the phrase but were unable to define it. M. Turner S-Z 2015

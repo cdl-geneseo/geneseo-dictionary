@@ -7,16 +7,6 @@ nav_order:
 
 # Bun in the oven
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Bun in the oven
-
 Created by  Unknown User (tjc13), last modified on Nov 24, 2008
 
 NN: Pregnant. F92, but known to be much earlier general slang. bun in the oven: Obs. S99.

@@ -7,16 +7,6 @@ nav_order:
 
 # No shave November
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : No shave November
-
 Created by  Unknown User (ajm3), last modified on Nov 15, 2010
 
 (phr.) An occasion starting November 1st and ending November 30th during which participants do not shave their facial hair. &quot;I can't shave; it's no shave November!&quot;. Source: Dictionary of Geneseo English. Fall 2010. A. Moak. N-R.

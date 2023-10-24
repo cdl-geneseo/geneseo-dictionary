@@ -7,16 +7,6 @@ nav_order:
 
 # Tn
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Tn
-
 Created by  Unknown User (vs7) on Apr 29, 2015
 
 (abbr.) noun. tonight Are you going out tn?Savallo S-Z (2015)

@@ -7,16 +7,6 @@ nav_order:
 
 # Word
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Word
-
 Created by  Unknown User (kmh28), last modified on Dec 01, 2008
 
 (noun) Truth.

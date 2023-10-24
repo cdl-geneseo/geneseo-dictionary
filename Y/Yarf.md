@@ -7,16 +7,6 @@ nav_order:
 
 # Yarf
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Yarf
-
 Created by  Unknown User (kmh28), last modified by  Unknown User (eim1) on Apr 01, 2019
 
 (verb) To vomit; a blend of yack and barf.2008: Recognizable, but not in common use.Source: Geneseo Dictionary 2006. SHelsher. Originally from Revised Dictionary of Geneseo English Spring 1999.2019: Still recognizable–replaced by the more heavily used term, &quot;Boot.&quot; Medina, S-Z, 2019.

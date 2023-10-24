@@ -7,16 +7,6 @@ nav_order:
 
 # Stupid Center
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Stupid Center
-
 Created by  Graham Drake, last modified on Jan 14, 2015
 
 Stupid Center: (noun) A study center for students who were accepted based on their athletic ability.  &quot;He's a jock, he has to go to the Stupid Center.&quot;

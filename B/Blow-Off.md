@@ -7,16 +7,6 @@ nav_order:
 
 # Blow Off
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Blow Off
-
 Created by  Zachary Arthur, last modified by  Graham Drake on Dec 16, 2008
 
 1.NN: Easy thing; &quot;There's no worry in the course, it's a complete blow off.&quot; F92 2.VB: To exert minimal effort; &quot;I blew it off and still got an A.&quot; F92 VB-85% of males surveyed reported to use this term occasionally. S99

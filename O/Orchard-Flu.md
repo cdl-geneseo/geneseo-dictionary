@@ -7,16 +7,6 @@ nav_order:
 
 # Orchard Flu
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Orchard Flu
-
 Created by  Jacob Schlau, last modified on May 07, 2022
 
 Orchard Flu: (n.) sickness transmitted from partying out on Orchard St. &quot;I think I got the Orchard Flu from drinking out of a random Solo cup.&quot; As of 2022, &quot;Orchard Flu&quot; is very familiar with Geneseo students, averaging a score of 4.1 out of 5, with 1 representing a word unknown to Geneseo students and 5 representing a word used daily among students. J. Schlau 2022

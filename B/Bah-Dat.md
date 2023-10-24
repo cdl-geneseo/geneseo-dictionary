@@ -7,16 +7,6 @@ nav_order:
 
 # Bah-Dat
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Bah-Dat
-
 Created by  Zachary Arthur, last modified on Sep 18, 2008
 
 NN: Stupid idea/what the hell. Used humorously; &quot;Scott voiced a hearty bah-dat in response to Sarah's incoherent statement.&quot; S96 NN-Obs. F92 

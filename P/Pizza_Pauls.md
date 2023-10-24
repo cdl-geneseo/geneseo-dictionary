@@ -7,16 +7,6 @@ nav_order:
 
 # Pizza Paul's
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Pizza Paul's
-
 Created by  Unknown User (ajm3), last modified on Nov 30, 2010
 
 1. (n.) A pizzeria on Geneseo's Main Street. Famous for its variation on garlic bread with cheese, known as &quot;Paul's Balls&quot;. &quot;Let's go to Pizza Paul's after the IB&quot;. A. Moak 2010

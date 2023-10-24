@@ -7,16 +7,6 @@ nav_order:
 
 # Completing the Rainbow
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Completing the Rainbow
-
 Created by  Unknown User (tjc13), last modified on Nov 24, 2008
 
 noun- the successful gathering of all possible &quot;stripes&quot; by a sorority sister, having successfully had sex with at least one member of each fraternity or men's sports team on campus.

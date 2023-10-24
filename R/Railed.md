@@ -7,16 +7,6 @@ nav_order:
 
 # Railed
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Railed
-
 Created by  Unknown User (lav4), last modified on Oct 28, 2008
 
 (v.) past tense of &quot;to rail&quot;, a derogatory term meaning to engage in sexual intercourse. &quot;I railed that bitch all night long.&quot; Source: Geneseo Dictionary 2006. A similar definition appears at http://www.urbandictionary.com/define.php?term=railed ; the entry is probably not specific to Geneseo. Dinki.

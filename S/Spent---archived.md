@@ -7,16 +7,6 @@ nav_order:
 
 # Spent - archived
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Spent - archived
-
 Created by  Unknown User (arh11), last modified by  Graham Drake on Jan 14, 2015
 
 (adj) 1. Tired, worn-out &quot;I'm not going to the bar, man... I'm spent.&quot; 2. no money left on meal plan. &quot;My silver plan is spent, so I'm going to Pizza Hut.&quot;A similar definition appears at http://www.urbandictionary.com/define.php?term=spent; the entry is probably not specific to Geneseo.

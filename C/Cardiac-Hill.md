@@ -7,16 +7,6 @@ nav_order:
 
 # Cardiac Hill
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Cardiac Hill
-
 Created by  Unknown User (tjc13), last modified by  Unknown User (kla8) on Nov 20, 2012
 
 NN: Steep walkway leading up from dorms to Sturges Quad by way of the pavillion; &quot;Amy fell on Cardiac Hill from all that slush.&quot; F90. Term said to be used on there campuses and testified to for Cornell at least from the 60's on. Cardiac Hill: term refers to the hill from northside to the Hub and Sturges. KTousey This word is still in use. 70% of students surveyed are familiar with this term.Those surveyed identified Cardiac Hill as either the hill between MJ and Sturges Quad that was recently leveled or the hill running along University Ave.  Fall 2008.80% identified this as the Sturges/Milne hill.    K. Andryshak, 2012

@@ -7,16 +7,6 @@ nav_order:
 
 # Yutz
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Yutz
-
 Created by  Unknown User (kmh28), last modified on Dec 01, 2008
 
 (noun) Nerd.

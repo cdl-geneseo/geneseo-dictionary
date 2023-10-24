@@ -7,16 +7,6 @@ nav_order:
 
 # hook my thotch
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : hook my thotch
-
 Created by  Unknown User (met6), last modified by  Unknown User (jcf10) on Nov 18, 2012
 
 1) v. phrase. To meet, become well acquainted, engage in sexual relations with2) v. phrase. To please someone in a non-sexual way; to retrieve an object for someoneSource: Dictionary of Geneseo English, Spring 1999 - Kocher- 2006 Of those surveyed in 2008, 0% recognized the word, and 0% learned the word in Geneseo.Talbot, 2008As of 2012, 0% of students surveyed know this phrase.(Flynn, G-M, 2012)

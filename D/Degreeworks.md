@@ -7,16 +7,6 @@ nav_order:
 
 # Degreeworks
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Degreeworks
-
 Created by  Megan Rumore on May 07, 2022
 
 (noun) program that provides reports for students on what criteria they still have to complete before graduating.  100% of those surveyed were familiar with this word. (Rumore, A-F, 2022)

@@ -7,16 +7,6 @@ nav_order:
 
 # Headies
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Headies
-
 Created by  Unknown User (met6), last modified by  Unknown User (aof1) on Apr 27, 2015
 
 n. Particularly potent marijuanaTalbot, 2008 As of 2012, 7.5% of students surveyed know this word. 0% believe it is of local origin.(Flynn, G-M, 2012)97% of Geneseo students surveyed did not know this word. Out of those surveyed, 0% believed that &quot;headies&quot; had Geneseo origins.(Fox, G-M, 2012)

@@ -7,16 +7,6 @@ nav_order:
 
 # Addies
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Addies
-
 Created by  Unknown User (tjc13), last modified on Dec 02, 2008
 
 noun- shortened form of the word Adderol, a study drug that is consumed in vast quantities by students in an attempt to transfer an equal, if not greater, vast quantity of information into their brains during the wee hours of the night in hopes of getting into either medical, law, pharmaceutical, or some other highly competitive graduate program that everyone else is applying to.  New word 2008.

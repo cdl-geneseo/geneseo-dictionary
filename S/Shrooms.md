@@ -7,16 +7,6 @@ nav_order:
 
 # Shrooms
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Shrooms
-
 Created by  Unknown User (arh11), last modified on Sep 28, 2008
 
 (n.) Mushrooms ingested for hallucinagenic effects. &quot;I am pissed off about Billy. The kid is smoking weed and doing shrooms!&quot; Probably non-specific to Geneseo. A similar definition can be found on Urban Dictionary [http://www.urbandictionary.com/define.php?term=shrooms] Source: Dictionary of Geneseo English 2001. Dilluvio

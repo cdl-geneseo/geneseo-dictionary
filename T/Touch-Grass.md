@@ -7,16 +7,6 @@ nav_order:
 
 # Touch Grass
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Touch Grass
-
 Created by  Sage Kearney on May 05, 2023
 
 (expression)Term used to express when someone has spent too much time online. “Get off your phone and go touch some grass”. (Kearney, s-z, 2023)

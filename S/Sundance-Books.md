@@ -7,16 +7,6 @@ nav_order:
 
 # Sundance Books
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Sundance Books
-
 Created by  Graham Drake, last modified on Jan 14, 2015
 
 Sundance Books: (noun) A bookstore, located to the east of Brodie Hall.  &quot;I always get ripped off at Sundance Books... $125 for a paperback? C'mon!&quot;

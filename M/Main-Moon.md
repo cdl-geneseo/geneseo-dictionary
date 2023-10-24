@@ -7,16 +7,6 @@ nav_order:
 
 # Main Moon
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Main Moon
-
 Created by  Unknown User (est1), last modified by  Unknown User (msc5) on Nov 19, 2012
 
 2006-12-11T10:23:09ZSValentineMain Moon n. *1. a Chinese restaurant located on Main Street. (Submitted by SValentine)As of 2012, 100% knew the word and 100% believed it to be of local origin.(Craft, G-M, 2012)

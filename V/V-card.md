@@ -7,16 +7,6 @@ nav_order:
 
 # V-card
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : V-card
-
 Created by  Unknown User (kmh28), last modified on Nov 24, 2008
 
 (noun) A person's virginity, most commonly a girl's.

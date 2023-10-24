@@ -7,16 +7,6 @@ nav_order:
 
 # Itch
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Itch
-
 Created by  Unknown User (krk5), last modified by  Unknown User (spe1) on Nov 20, 2012
 
 v. to scratch. Used interchangeably with the verb &quot;scratch.&quot; n. an uncomfortable sensation on the skin causing the desire to scratch. Not Geneseo-specific.Source: Dictionary of Geneseo English, Fall 2006, Winkelman.Also: n. a strong desire or urge, and v. to strongly desire or yearn, e.g. &quot;He's itching to get home.&quot;As of 2012, 100% of students surveyed know this word. 0% believe it is of local origins.(Endress, G-M, 2012)

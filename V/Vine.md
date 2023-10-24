@@ -7,16 +7,6 @@ nav_order:
 
 # Vine
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Vine
-
 Created by  Unknown User (mtr7), last modified by  Jack Katz on May 07, 2022
 
 Phone app that allows people to take 7 second videos of themselves.  Has become a sort of challenge between people to try and make the best video that they can in 7 seconds.  This is something that is used around the world, but students felt that it was important to include it in the dictionary.  Commonly used in the expression &quot;do it for the vine&quot;.  &quot;That was a crazy stunt that he pulled, but he did it for the vine&quot;.  Romig, S-Z, 2015.

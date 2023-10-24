@@ -7,16 +7,6 @@ nav_order:
 
 # Awesome-sauce
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Awesome-sauce
-
 Created by  Unknown User (ms61) on May 08, 2015
 
 Something &quot;beyond awesome&quot;.

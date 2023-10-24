@@ -7,16 +7,6 @@ nav_order:
 
 # T'aint
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : T'aint
-
 Created by  Unknown User (kmh28), last modified by  Jack Katz on May 07, 2022
 
 T'aint: a shortened way of saying it and ain't.&quot;T'aint important.&quot;Might be more of a speech pattern than a word, the blending of it and ain't in spoken communication.  M. Turner  S-Z 2015Source: VMishra 2006

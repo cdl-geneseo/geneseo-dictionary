@@ -7,16 +7,6 @@ nav_order:
 
 # Creeper
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Creeper
-
 Created by  Unknown User (bli2), last modified by  Unknown User (kec3) on Nov 29, 2010
 
 Creeper: /kriper/ Used when making reference to a male who is acting in a suspicious, unattractive, and annoying manner when around an attractive female; usually used when the male ignores conventional/accepted behavior to meet girls. &quot;Did you see the way Justin was staring at her? He was definitely being a creeper,&quot; taken from student conversation F02. All of ''Lexis-Nexis'' searches of the NY Times and University Wire failed to pull up references to creeper; most references were to the movie Jeepers Creepers and creeper in the traditional sense of the word (related to nature). A similar definition is found in the American Heritage Dictionary 1992 3rd ed, with creeper originating as Black English, used Oct. 1911 to refer to a man who commits adultery with another man's wife. This early definition shows the change that creeper undertook. Although it is now used with more freedom, its meaning has undergone little change. But: No evidence given for capital beginning this item. KTousey Only 10% of students surveyed were familiar with this term. Obs. F06 KTousey

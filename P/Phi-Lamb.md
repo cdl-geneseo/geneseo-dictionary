@@ -7,16 +7,6 @@ nav_order:
 
 # Phi Lamb
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Phi Lamb
-
 Created by  Jacob Schlau, last modified on May 07, 2022
 
 Phi Lamb (n.): A local sorority at SUNY Geneseo, established 1964, shortened version of 'Phi Lambda Chi.' Can refer to an individual member or the sorority as a whole. As of 2022, &quot;Phi Lamb&quot; is still in use among Geneseo students, averaging a score of 3.3 out of 5, with 1 representing a word unknown to Geneseo students and 5 representing a word used daily among students. J. Schlau 2022

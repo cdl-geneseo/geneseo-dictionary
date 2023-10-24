@@ -7,16 +7,6 @@ nav_order:
 
 # Zoom
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Zoom
-
 Created by  Unknown User (igf1) on Oct 29, 2020
 
 (noun) Can also be used as a verb in &quot;Zooming&quot;. A software commonly used during the 2020 Corona Virus pandemic to connect students to Geneseo faculty in online classes. Also used for recreational activities and interacting with peers. &quot;What classes do you have today?&quot; &quot;Well, I've got to be on Zoom at 8:30 for Math.&quot; (Fazio, U-Z 2020)

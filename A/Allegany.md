@@ -7,16 +7,6 @@ nav_order:
 
 # Allegany
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Allegany
-
 Created by  Unknown User (dsb5) on Apr 28, 2015
 
 noun – Residence hall on north side of campus100% of students were familiar with this term

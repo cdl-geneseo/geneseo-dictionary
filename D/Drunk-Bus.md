@@ -7,16 +7,6 @@ nav_order:
 
 # Drunk Bus
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Drunk Bus
-
 Created by  Unknown User (bli2), last modified by  Unknown User (kla8) on Nov 20, 2012
 
 Drunk bus (NN): refers to the Geneseo Livingston Area Transportation Service (LATS) bus, which runs an especially late route on Fridays and Saturdays. Students who wish to go to an off campus bar or party for the purposes of drinking can avoid driving in an intoxicated state by taking this bus, so it is often very crowded on these late routes.100% of those surveyed defined this word. (New word) (F06) == Related Links == [http://www.geneseo.edu/CMS/display.php?page=771&amp;dpt=transport&quot;Drunk Bus&quot; Schedules] LTiszenkel100% of participants correctly identified this word    K. Andryshak, 2012

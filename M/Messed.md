@@ -7,16 +7,6 @@ nav_order:
 
 # Messed
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Messed
-
 Created by  Unknown User (est1), last modified by  Unknown User (msc5) on Nov 19, 2012
 
 2006-12-11T10:26:00ZSValentineMessed [ms'd] adj. Distraught, out of control. Source: Dictionary of Geneseo English 1998 (Submitted by SValentine)As of 2012, 58% knew the word and 0% believed it to be of local origin.(Craft, G-M, 2012)

@@ -7,16 +7,6 @@ nav_order:
 
 # Narc
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Narc
-
 Created by  Unknown User (lav4), last modified by  Unknown User (baj2) on Nov 20, 2012
 
 1) noun: Short for a Narcotics officer. A member of Law Enforcement that enforces drug laws. (Obsolete, 2012. Joyce)  2) noun: A person who is not a member of Law Enforcement but turns you into the police for doing or dealing drugs.

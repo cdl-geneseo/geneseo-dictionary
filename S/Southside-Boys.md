@@ -7,16 +7,6 @@ nav_order:
 
 # Southside Boys
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Southside Boys
-
 Created by  Unknown User (ejr7) on Nov 16, 2012
 
 n. An all-male a cappella group on the Geneseo campus.&quot;I heard the Southside Boys perform last night.&quot;EReck, S-Z, 2012

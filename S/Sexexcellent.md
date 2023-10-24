@@ -7,16 +7,6 @@ nav_order:
 
 # Sexexcellent
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Sexexcellent
-
 Created by  Unknown User (arh11), last modified on Sep 28, 2008
 
 (n.) \skskslnt\ Awesome. &quot;I got an A on my first paper for that ultra-tough class! Thats sexexcellent.&quot; Source: Dictionary of Geneseo English 2001. Dilluvio

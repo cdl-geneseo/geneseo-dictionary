@@ -7,16 +7,6 @@ nav_order:
 
 # Bake
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Bake
-
 Created by  Zachary Arthur, last modified by  Graham Drake on Dec 15, 2008
 
 1. VB: To smoke marijuana. S92 2. AJ: Stoned; &quot;I went to Cral's on Saturday and got baked.&quot; F92 VB-43% of the students surveyed identified this as the act of smoking marijuana.

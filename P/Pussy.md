@@ -7,16 +7,6 @@ nav_order:
 
 # Pussy
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Pussy
-
 Created by  Unknown User (ssw2) on Apr 29, 2015
 
 (n.) A slang term for vagina.(adj.) A term used to taunt someone into doing something by insinuating that they are cowardly or a loser. “Stop being such a pussy and chug your drink.” (Wilcoxen, N-R, 2015).

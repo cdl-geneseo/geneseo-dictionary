@@ -7,16 +7,6 @@ nav_order:
 
 # Road Soda
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Road Soda
-
 Created by  Unknown User (igf1) on Oct 27, 2020
 
 (slang) - An alcoholic beverage (usually beer or perhaps malt liquor) consumed inside a moving vehicle.This beverage can be consumed by passenger, driver, or both. Road sodas are illegal in most states due to open container laws. Still they are widely enjoyed as evidenced by all beer cans littering rural roadsides. Let's grab a six pack before we leave, there's nowhere to stop on the way and it's a boring trip without any road sodas.(Toussaint, Q-T, 2020)

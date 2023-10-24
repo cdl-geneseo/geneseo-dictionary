@@ -7,16 +7,6 @@ nav_order:
 
 # Tik Tok
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Tik Tok
-
 Created by  Unknown User (mre4) on May 07, 2022
 
 (noun). A social media app centered around short videos.&quot;Did you see that new dance trend on Tik Tok?&quot;Edmond, S-Z, 2022

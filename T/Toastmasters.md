@@ -7,16 +7,6 @@ nav_order:
 
 # Toastmasters
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Toastmasters
-
 Created by  Unknown User (eo7) on Nov 16, 2012
 
 n. A club for public speaking.&quot;Toastmasters master toasts.&quot;EOberdorf, S-Z, 2012

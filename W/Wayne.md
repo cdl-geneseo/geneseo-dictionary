@@ -7,16 +7,6 @@ nav_order:
 
 # Wayne
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Wayne
-
 Created by  Unknown User (eo7), last modified on Nov 16, 2012
 
 n. A residential building on campus in the South Village &quot;I never go to Wayne if I can avoid it.&quot;EOberdorf, S-Z, 2012

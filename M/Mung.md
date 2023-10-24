@@ -7,16 +7,6 @@ nav_order:
 
 # Mung
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Mung
-
 Created by  Unknown User (krk5), last modified by  Unknown User (rch7) on Apr 13, 2019
 
 n. Filth or dirt.Source: Dictionary of Geneseo English, Fall 2006, WinkelmanObsolete as of 2008. Obsolescence remains through 2019. Specific to Geneseo.As of 2012, 0% knew the word and 0% believed it to be of local origin. Obsolete as of 2012.(Craft, G-M, 2012)

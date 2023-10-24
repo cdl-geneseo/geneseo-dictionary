@@ -7,16 +7,6 @@ nav_order:
 
 # Special Sauce
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Special Sauce
-
 Created by  Graham Drake, last modified on Jan 14, 2015
 
 Page creator: Unknown User (arh11)Date: Sep 28, 2008 17:52Text: (n.) The sauce that the hot dog ladies put on hot dogs. &quot;Please put extra special sauce on my hot dog.&quot; Source: Dictionary of Geneseo English 2001. A similar definition appears at http://www.urbandictionary.com/define.php?term=special+sauce; the entry is probably not specific to Geneseo. Obsolete Fall 2006.

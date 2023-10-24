@@ -7,16 +7,6 @@ nav_order:
 
 # Beer Pong
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Beer Pong
-
 Created by  Zachary Arthur, last modified by  Unknown User (kla8) on Nov 20, 2012
 
 NN: Drinking game, its object to bounce ping-pong ball into opponents strategically placed filled beer cups. If successful, opponent must drink beer in cup. First to drink all cups loses; &quot;I was playing beer pong so well last night I didn't even get drunk. I sank every ball.&quot; S95 NN-85% of the students surveyed identified this as a drinking game.Usage has increased, 100% of participants correctly identified this word.    K. Andryshak, 2012

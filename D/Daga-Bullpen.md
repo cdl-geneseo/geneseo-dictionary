@@ -7,16 +7,6 @@ nav_order:
 
 # Daga Bullpen
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Daga Bullpen
-
 Created by  Unknown User (hjn1), last modified by  Unknown User (meg23) on Apr 15, 2019
 
 The open field outside of Onondaga Hall on the Southside of campus. Here, club teams regularly practice when its nice out, and students will sometimes sit out there to hangout or get work done&quot;Hey do you want to go play volleyball at the Bullpen today?&quot;(Nicchi, A-F, 2019). 

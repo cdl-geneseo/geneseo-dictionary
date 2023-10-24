@@ -7,16 +7,6 @@ nav_order:
 
 # Queer Bait
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Queer Bait
-
 Created by  Unknown User (lav4), last modified by  Unknown User (afl1) on Nov 20, 2012
 
 (n.) Heterosexual male who attracts male homosexuals. &quot;Tony was a hit at the party last night - he's a real queer bait.&quot; S92. Source: Dictionary of Geneseo English 2006. A similar definition found on http://www.urbandictionary.com ; entry probably not specific to Geneseo. Adams. (obsolete 2012).

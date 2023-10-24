@@ -7,16 +7,6 @@ nav_order:
 
 # Biatch
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Biatch
-
 Created by  Zachary Arthur, last modified on Sep 23, 2008
 
 NN-New way of pronouncing the word &quot;bitch.&quot; 

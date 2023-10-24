@@ -7,16 +7,6 @@ nav_order:
 
 # Piss poor
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Piss poor
-
 Created by  Unknown User (lah15), last modified on Nov 15, 2010
 
 (adj.) Bad, inadequate. &quot;The auto mechanic charged me way too much for the piss poor job he did. My engine still barely runs.&quot; This phrase is not Geneseo specific; A similar definition can be found in the Urban Dictionary. Hanson.

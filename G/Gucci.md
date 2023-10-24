@@ -7,16 +7,6 @@ nav_order:
 
 # Gucci
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Gucci
-
 Created by  Unknown User (amb61), last modified on Apr 15, 2019
 
 Adjective. Used to describe people who are relaxed, good, or in the state of mind of “it’s whatever.” “Hey how’s it going?’ Everything's gucci.’” As of 2019, 96% of SUNY Geneseo students surveyed know this word. 0% of students surveyed believed it originated from Geneseo. (Banaszak, G-M, 2019)

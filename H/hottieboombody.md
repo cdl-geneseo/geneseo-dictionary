@@ -7,16 +7,6 @@ nav_order:
 
 # hottieboombody
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : hottieboombody
-
 Created by  Unknown User (met6), last modified by  Unknown User (vas3) on Apr 28, 2015
 
 Adjective [h tibumb ti] Good looking guy with a nice butt; &quot;Oh my God! Quick, the hootieboombody is bending over!&quot;Source: Dictionary of Geneseo English, Spring 2001 - Kocher- 2006Of those surveyed in 2008, 18.2% knew the word, and 0% learned it in Geneseo.Talbot, 2008 As of 2012, 20% of students surveyed know this word. 0% believe it is of local origins.(Endress, G-M, 2012)As of 2015 10% of students surveyed were familiar with this term.  0% believe it is of local origins.(Sigl, G-M, 2015)

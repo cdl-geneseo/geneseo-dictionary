@@ -7,16 +7,6 @@ nav_order:
 
 # Sup
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Sup
-
 Created by  Unknown User (arh11), last modified on Sep 21, 2008
 
 Sup: (exclamation) A shortened version of the greeting &quot;What's up?&quot;. Not specific to Geneseo.

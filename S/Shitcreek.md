@@ -7,16 +7,6 @@ nav_order:
 
 # Shitcreek
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Shitcreek
-
 Created by  Unknown User (lav4), last modified on Dec 01, 2008
 
 noun: collocation of up/in shitcreek. Metaphor for being in deep trouble.

@@ -7,16 +7,6 @@ nav_order:
 
 # Douche Bag
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Douche Bag
-
 Created by  Unknown User (bli2), last modified on Nov 27, 2008
 
 douche bag (adj.): an idiot or jackass. 90% of students surveyed use this term. F06. KTousey

@@ -7,16 +7,6 @@ nav_order:
 
 # Chump
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Chump
-
 Created by  Unknown User (tjc13), last modified on Oct 05, 2008
 
 Chump (NN): jerk, loser, punk, idiot, or wise-ass. Definition of approximately 70% of those surveyed. (F06) (new word) Unknown by approximately 30% of those surveyed.

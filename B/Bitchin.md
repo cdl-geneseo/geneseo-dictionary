@@ -7,16 +7,6 @@ nav_order:
 
 # Bitchin
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Bitchin
-
 Created by  Zachary Arthur, last modified on Sep 23, 2008
 
 AJ: Terrific; &quot;That Corvette is bitchin.&quot; F92 AJ-falling out of use. Only 22% of the students surveyed identified this term. S99 AJ-71% of students still identify with this term as meaning awesome/cool. F06 

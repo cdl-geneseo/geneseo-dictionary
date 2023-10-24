@@ -7,16 +7,6 @@ nav_order:
 
 # Belly Snake
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Belly Snake
-
 Created by  Graham Drake, last modified on Jan 14, 2015
 
 Fecal matter.  Originally created 2006.Page creator: Unknown User (zma1)Date: Sep 18, 2008 14:37  Comments: Unknown User (mcc14) Unfortunately, no one that we interviewed in the Fall of 2012 expressed any familiarity with the term &quot;Belly Snake.&quot; It seems as though this word is dead. (sad) (M.Cordella, A-F, 2012)q Nov 20, 2012

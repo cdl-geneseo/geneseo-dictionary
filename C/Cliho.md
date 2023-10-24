@@ -7,16 +7,6 @@ nav_order:
 
 # Cliho
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Cliho
-
 Created by  Unknown User (tjc13), last modified on Oct 05, 2008
 
 NN A Derogatory term for members of the Clio sorority suggesting sexual promiscuity. &quot;We saw all the Clihos picking up guys at the bar last night.&quot; Not found in HDAS, NDAS, OED, RH, W3, AH or LN. S01 Source: Geneseo Dictionary of English, Spring 2001

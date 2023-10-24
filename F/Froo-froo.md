@@ -7,16 +7,6 @@ nav_order:
 
 # Froo-froo
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Froo-froo
-
 Created by  Unknown User (crk4), last modified on Dec 02, 2008
 
 ''Noun '' Edge of ripped out spiral notebook paper; &quot;Don't hand in your paper with ''froo-froos'' on it.&quot; The word was called &quot;obsolete&quot; in Fall of '98. Results: 5% of those surveyed knew this word, and 50% of the people that knew the word, learned the word at Geneseo. Conclusion: This word is local to Geneseo, and its use is very limited but it is not obsolete. 

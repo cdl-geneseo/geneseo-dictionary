@@ -7,16 +7,6 @@ nav_order:
 
 # Scrub
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Scrub
-
 Created by  Unknown User (hgf1) on Apr 03, 2019
 
 (n.) Someone who mooches off of others and doesn't have anything going for them in their lives. &quot;I can't date him because he's a scrub.&quot; Not Geneseo specific.(Fuller, S and U, 2019)

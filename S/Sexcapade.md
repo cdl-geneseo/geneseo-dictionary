@@ -7,16 +7,6 @@ nav_order:
 
 # Sexcapade
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Sexcapade
-
 Created by  Unknown User (lav4), last modified by  Unknown User (mtr7) on Apr 29, 2015
 
 noun: similar to sexploit; a noteworthy sexual encounter, but more frivolous and playful; not to be hidden, but rather bragged aboutObsolete. Although people were able to recognize this word and give a definition, most people said that they wouldn't use it in conversation anymore.  Romig, S-Z, 2015.

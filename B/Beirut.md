@@ -7,16 +7,6 @@ nav_order:
 
 # Beirut
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Beirut
-
 Created by  Unknown User (ms61) on May 08, 2015
 
 A different name for the popular drinking game &quot;Beer Pong&quot;

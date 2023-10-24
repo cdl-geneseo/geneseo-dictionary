@@ -7,16 +7,6 @@ nav_order:
 
 # Bunny
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Bunny
-
 Created by  Unknown User (tjc13), last modified on Nov 24, 2008
 
 NN: Easy thing; &quot;If you can do this, the test will be a bunny.&quot; S95. bunny:Obs. S99.  Fall 2008-Obs.

@@ -7,16 +7,6 @@ nav_order:
 
 # Follow the Treee
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Follow the Treee
-
 Created by  Unknown User (crk4), last modified by  Unknown User (tno1) on Aug 23, 2012
 
 Follow the Treee: noun; event during the Fall semester of 2008 in which, during a power outage, some students holding a tree branch inspired a march through campus and Main Street. The students were disbanded by police, but small remnants coalesced again, sans branch.&quot;My friends and I followed the treee all the way to Main Street!&quot;85% of people surveyed knew this phrase.(Klein, E-H, 2008)

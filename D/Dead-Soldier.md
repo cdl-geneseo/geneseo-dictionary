@@ -7,16 +7,6 @@ nav_order:
 
 # Dead Soldier
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Dead Soldier
-
 Created by  Unknown User (bli2), last modified on Nov 28, 2008
 
 Dead Soldier: Noun- an empty beer can/bottle. 70% of people surveyed were familiar with this term. BIervese, 2008 

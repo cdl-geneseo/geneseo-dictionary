@@ -7,16 +7,6 @@ nav_order:
 
 # Speech Buddy
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Speech Buddy
-
 Created by  Unknown User (mtr7) on Apr 29, 2015
 
 Someone who has been paired up with an international student to ease cultural shock and improve language abilities.  Part of the speech buddy program coordinated by Professor Belyakov.  &quot;I was so excited to be a speech buddy to someone from Brazil!&quot;.  Romig, S-Z, 2015.

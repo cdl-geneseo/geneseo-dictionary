@@ -7,16 +7,6 @@ nav_order:
 
 # Cheesin'
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Cheesin'
-
 Created by  Unknown User (tjc13), last modified on Oct 05, 2008
 
 VB: To be estatic; &quot;She asked him out and he's been cheesin' since then.&quot; F92 cheesin': Obs.F98

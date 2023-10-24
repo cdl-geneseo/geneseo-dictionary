@@ -7,16 +7,6 @@ nav_order:
 
 # Cooter
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Cooter
-
 Created by  Unknown User (bli2), last modified on Sep 21, 2008
 
 cooter (NN) - another word for vagina. %50 of those surveyed indicated familiarity with the term Source: Dictionary of Geneseo English, Fall 1998 Simmington Cooter (NN): Slang term for a female's vagina. Definition of approximately 42% of those surveyed. (F06) Unknown by approximately 58% of those surveyed. (F06) Simmington

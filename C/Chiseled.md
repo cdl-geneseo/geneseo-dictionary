@@ -7,16 +7,6 @@ nav_order:
 
 # Chiseled
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Chiseled
-
 Created by  Unknown User (tjc13), last modified on Oct 05, 2008
 
 AJ: Muscular, physically fit; &quot;Ed is really chiseled.&quot; S94 chiseled (AJ) - has a positive connotation about appearance. Source: Dictionary of Geneseo English, Fall 1998 Simmington Chiseled (AJ): to have a good physique, usually characteristic of a male's face or muscular/[[ripped]] abdominal muscles. Definition of approximately 93% of those surveyed. (F06) Unknown by approximately 7% of those surveyed. (F06)

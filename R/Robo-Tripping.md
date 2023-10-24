@@ -7,16 +7,6 @@ nav_order:
 
 # Robo Tripping
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Robo Tripping
-
 Created by  Unknown User (ram19), last modified by  Unknown User (lm23) on Apr 29, 2015
 
 (n.) A state of inebriation induced by Robitussin.  This entry is not Geneseo specific. (Major 2015)(Miller, N-R, 2012)

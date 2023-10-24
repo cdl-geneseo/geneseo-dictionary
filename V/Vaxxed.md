@@ -7,16 +7,6 @@ nav_order:
 
 # Vaxxed
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Vaxxed
-
 Created by  Emily Ecija on May 05, 2022
 
 (adjective) describing someone who is vaccinated against a specific disease, typically used in regard to the COVID-19 vaccine.&quot;Did you get the vaccine?&quot; &quot;Yeah, I'm vaxxed.&quot;(Ecija, S-Z, 2022)

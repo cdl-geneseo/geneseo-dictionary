@@ -7,16 +7,6 @@ nav_order:
 
 # Herb
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Herb
-
 Created by  Unknown User (met6), last modified by  Unknown User (mrp13) on Apr 13, 2015
 
 1) n. Marijuana2) n. A derogatory term, especially for African-Americans, Hispanics, or menSource: Dictionary of Geneseo English, Spring 1999 - Kocher- 2006Of those surveyed in 2008, 65.9% knew the word, and of those, 6.8% learned it in Geneseo.Talbot, 2008. As of 2012, 72.5% of students surveyed know this word. 0% believe it is of local origins.(Flynn, G-M, 2012)3) n. a loser, a “douchebag”, a poser. Tries to act cool, but their efforts often backfire, resulting in ridicule.“That kid is such a herb. He showed up to this party uninvited, talking about how much he works out and how many girls want to date him.”As of 2015, 67% of students polled know the word. 21% believe it is of local origins.(Powell, G-L, 2015)

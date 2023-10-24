@@ -7,16 +7,6 @@ nav_order:
 
 # Buck up
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Buck up
-
 Created by  Unknown User (tjc13), last modified on Nov 24, 2008
 
 VB: To put up money; &quot;Everybody pitch in a few dollars. We're goin to buck up for the keg.&quot; S95 VB-54% of surveyed studetns identified this term as the act of &quot;Putting up money&quot;. S99 VB: To cheer up. 79% of students identified this new usage.

@@ -7,16 +7,6 @@ nav_order:
 
 # Draft
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Draft
-
 Created by  Unknown User (bli2), last modified on Nov 27, 2008
 
 NN- A glass of tap beer; usually sold/served as part of a drink special at a bar or club. Clipped form of draft beer. &quot;For the responsible 21-yr old there will be $2 bottles and $.50 Drafts until 2a.m.&quot; - The Lamron &quot;Dance the night away at one of Rochester's hottest night spots,&quot; February 1, 2001, pp. 8. No record of this term turned up in a LexisNexis search of either the New York Times or the University Wire. Source: Geneseo Dictionary of English, Spring 2001. -Mitchinson

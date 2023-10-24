@@ -7,16 +7,6 @@ nav_order:
 
 # On point
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : On point
-
 Created by  Unknown User (ssw2), last modified on Apr 28, 2015
 
 (adj.) A way to express approval that can be used in a wide variety of settings. A way of saying something is perfect. “Your outfit is on point” or “That buffalo chicken wing dip was on point.” Not Geneseo specific. (Wilcoxen, N-R, 2015).

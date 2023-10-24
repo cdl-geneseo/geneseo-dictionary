@@ -7,16 +7,6 @@ nav_order:
 
 # Goner
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Goner
-
 Created by  Unknown User (crk4), last modified by  Unknown User (rgg2) on Nov 19, 2012
 
 n. Very intoxicated person; &quot;Pete is a ''goner'', he just passed out.&quot; Results: 53% of those surveyed knew this word, but most of these people did not learn this word at Geneseo. Conclusion: This word has moderate usage and is not local to Geneseo. Source: Dictionary of Geneseo English, Spring 1999 - Kocher Results: 62% of those surveyed knew this word in 2006, and of those who recognized this word 13% believed it to be specific to Geneseo. Conclusion: This word continues to have moderate usage and does not appear to be local to Geneseo.-C Adam55% of students surveyed knew this word, and 0% of these students had learned the word at Geneseo. Although the majority of students knew this word, not one of them had learned it at Geneseo, thus leading me to conclude this word did not originate in Geneseo.(Klein, E-H, 2008)As of 2012, 50% of students surveyed know this word, 0% believe it is of local origins.(Goodwin, G-M, 2012)

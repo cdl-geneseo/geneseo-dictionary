@@ -7,16 +7,6 @@ nav_order:
 
 # Extra
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Extra
-
 Created by  Unknown User (hea4), last modified by  Mia Gennaro on May 03, 2023
 
 adjec.Pronunciation: Amer. ek-struha word describing over the top or dramatic behavior. Ex. &quot;I can't believe she made her boyfriend take a picture of her food for Instagram.&quot; &quot;I know, she's so extra.&quot; This word is not Geneseo specific. (Ali, A-F, 2019) adjective - 1. Can be used to describe an excess amount of something, Ex. &quot;We have an extra amount of food.&quot; 2. Over dramatic behavior from an individual, Ex. &quot;Can you believe her, she is being so extra&quot; 3. Brand of chewing gum, Ex. “Can I have a stick of extra?” (Gennaro, A-F, 2023)

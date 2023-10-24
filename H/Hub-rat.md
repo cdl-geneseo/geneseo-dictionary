@@ -7,16 +7,6 @@ nav_order:
 
 # Hub rat
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Hub rat
-
 Created by  Unknown User (met6), last modified by  Unknown User (vas3) on Apr 28, 2015
 
 Noun Frequenter of Hub dining hall; &quot;She just got in [a sorority] last month and she's already a Hub rat.&quot;Source: Dictionary of Geneseo English, Fall 1994 - Kocher- 2006Of those surveyed in 2008, 6.8% knew the word, and 2.3% learned it in Geneseo.In 2015  0% of Geneseo students surveyed were familiar with the word. Of those surveyed 0% believed it to be of local origin. (Sigl, G-M, 2015)

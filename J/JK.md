@@ -7,16 +7,6 @@ nav_order:
 
 # JK
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : JK
-
 Created by  Unknown User (crl12), last modified on Apr 15, 2019
 
 (interjection) acronym for &quot;just kidding&quot;. Originally used in digital text communication, the term is now spoken aloud. I am going to do so well on this test. JK, I've been partying all weekend!As of 2019, 100% of students surveyed knew this word and 0% of students surveyed believed this word to be of local origin. (Luquer, 2019)

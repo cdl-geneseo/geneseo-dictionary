@@ -7,16 +7,6 @@ nav_order:
 
 # Damn Straight
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Damn Straight
-
 Created by  Unknown User (bli2), last modified on Sep 21, 2008
 
 AV: Correct; &quot;Damn straight I won't.&quot; F92 damn straight (AV) - No change Source: Dictionary of Geneseo English, Spring 1999 Simmington Damn straight (AV): No change. Definition of approximately 94% of those surveyed. (F06) Unknown by approximately 7% of those surveyed. (F06) Simmington, D. McGiveron

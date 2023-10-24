@@ -7,16 +7,6 @@ nav_order:
 
 # Putnam
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Putnam
-
 Created by  Unknown User (gmm6), last modified on Sep 30, 2010
 
 (n.)  An abbreviation that is used to refer to the Putnam Residence Hall.  &quot;I'm heading over to Putnam.&quot;  Martinelli, N-R, 2010.

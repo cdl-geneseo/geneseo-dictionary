@@ -7,16 +7,6 @@ nav_order:
 
 # Steazy
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Steazy
-
 Created by  Anne Baranello, last modified on Dec 13, 2020
 
 Uproariously awesome, cool, trendy, or boujee. Used as an adjective to describe objects, items of clothing, or someone's overall vibe. (Baranello, S-Z 2020)

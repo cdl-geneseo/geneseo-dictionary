@@ -7,16 +7,6 @@ nav_order:
 
 # GAGG
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : GAGG
-
 Created by  Unknown User (crk4), last modified by  Unknown User (rgg2) on Nov 16, 2012
 
 Noun Acronym for the Geneseo Area Gaming GroupSource: Dictionary of Geneseo English, Fall 2000 - Kocher36% of students surveyed knew this word, and 56% of these students had learned the word at Geneseo.(Klein, E-H, 2008)As of 2012, 27% of students surveyed know this word, 100% believe it is of local origins.(Goodwin, G-M, 2012)

@@ -7,16 +7,6 @@ nav_order:
 
 # Blackball
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Blackball
-
 Created by  Zachary Arthur, last modified on Sep 23, 2008
 
 blkbl/, /blkbal/ VB- In fraternity or sorority usage, vote against, as in, &quot;We are going to be blackballing tonight.&quot; F02 No direct object needed, distinguishing this usage from negative vote in OED, RH, W3, AH NDAS. 

@@ -7,16 +7,6 @@ nav_order:
 
 # Bust
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Bust
-
 Created by  Unknown User (tjc13), last modified by  Unknown User (kla8) on Nov 20, 2012
 
 NN: Unfair situation. F94 bust: No ChangeFall 2008- None of those surveyed were able to identify this term.  Term is obsolete.Obs. 2012 -K. Andryshak

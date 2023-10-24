@@ -7,16 +7,6 @@ nav_order:
 
 # Swamp
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Swamp
-
 Created by  Tess Woitaszek on Dec 11, 2020
 
 n. A slang term for one's place, area, or territory.As of 2020, 23.1% heard / used the word frequently, 46.2% heard / used it on occasion, and 30.8% never heard / used it.(Woodard, N-R, 2020)

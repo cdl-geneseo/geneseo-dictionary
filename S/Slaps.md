@@ -7,16 +7,6 @@ nav_order:
 
 # Slaps
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Slaps
-
 Created by  Anne Baranello, last modified on Dec 13, 2020
 
 Used to describe something (often forms of media such as music and/or food) that someone considers to be really good. Is equivalent in definition and usage of the slang phrase &quot;to go hard&quot;. Example: &quot;Man, this song slaps! Justin Bieber has never released bad music.&quot; &quot;This mac&amp;cheese slaps. I haven't had it in so long.&quot; (Baranello, S-Z 2020)

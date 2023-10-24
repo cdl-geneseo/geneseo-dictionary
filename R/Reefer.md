@@ -7,16 +7,6 @@ nav_order:
 
 # Reefer
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Reefer
-
 Created by  Unknown User (cam37) on Nov 20, 2012
 
 (n.) marijuana. &quot;He's gonna go smoke some reefer.&quot; Montelli, N-R, 2012.

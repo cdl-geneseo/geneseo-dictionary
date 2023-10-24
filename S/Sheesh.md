@@ -7,16 +7,6 @@ nav_order:
 
 # Sheesh
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Sheesh
-
 Created by  Sage Kearney on May 05, 2023
 
 (expression)Term used to express either surprise or support in a more abrupt manner. “Sheesh man, you did a great job! I could never have handled that customer like that.” (Kearney, s-z, 2023).

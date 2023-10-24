@@ -7,16 +7,6 @@ nav_order:
 
 # On fleek
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : On fleek
-
 Created by  Unknown User (ssw2), last modified on Apr 28, 2015
 
 (adj.) To look good, see ‘on point.’Students also reported a notable usage of this term in reference to eyebrows, “just got my eyebrows done, they're on fleek.” Not Geneseo specific. (Wilcoxen, N-R, 2015)

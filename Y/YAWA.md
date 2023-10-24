@@ -7,16 +7,6 @@ nav_order:
 
 # YAWA
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : YAWA
-
 Created by  Unknown User (kmh28), last modified on Dec 01, 2008
 
 (noun) Acronym for &quot;You Ask We Answer&quot;. Appears as a regular section of the Lamron and is comprised of questions from students that are answered by the Health and Counseling Center professionals on campus.

@@ -7,16 +7,6 @@ nav_order:
 
 # Rotation
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Rotation
-
 Created by  Unknown User (lav4), last modified by  Unknown User (gmm6) on Dec 05, 2010
 
 (v.) Passing a joint. &quot;Lets get the rotation going with this spliff.&quot; Source: Dictionary of Geneseo English 2001. A similar definition appears at http://www.urbandictionary.com/define.php?term=rotation ; the entry is probably not specific to Geneseo. Dinki.  As of Fall 2010, 46% of the students surveyed were familiar with this term.  This may be attributed to the varying social communities that make up the student body.  Martinelli, N-R.

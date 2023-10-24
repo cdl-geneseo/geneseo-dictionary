@@ -7,16 +7,6 @@ nav_order:
 
 # Cancel
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Cancel
-
 Created by  Megan Rumore on May 07, 2022
 
 (verb) a form of ostracism when someone is thrown out of a social or professional circle.  90% of those we surveyed knew this word. (verb) to stop or end something. 8% of those surveyed knew this word by this meaning. 2% were not familiar with the word at all.  (Rumore, A-F, 2022)

@@ -7,16 +7,6 @@ nav_order:
 
 # Wesley Foundation
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Wesley Foundation
-
 Created by  Unknown User (kmh28), last modified on Nov 24, 2008
 
 (noun) A United Methodist Ministry to the SUNY Geneseo Campus.

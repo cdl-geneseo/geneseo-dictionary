@@ -7,16 +7,6 @@ nav_order:
 
 # Crows
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Crows
-
 Created by  Unknown User (bli2), last modified on Sep 21, 2008
 
 Crows (NN) - No change Source: Dictionary of Geneseo English, Fall 1998 Simmington Crows (NN): Alpha Chi Rho (AXP) national fraternity; live on Orchard Street; its popular philanthropy is the annual Deep Freeze for Cancer; called the &quot;original&quot; red light party; known for its high GPA. Definition of approximately 79% of those surveyed. (F06) Unknown by approximately 21% of those surveyed. (F06) Simmington

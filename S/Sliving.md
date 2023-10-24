@@ -7,16 +7,6 @@ nav_order:
 
 # Sliving
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Sliving
-
 Created by  Sage Kearney on May 05, 2023
 
 (expression)Term used to describe someone living their best life. “Look at you! Sliving it up at college, I see!”. (Kearney, s-z, 2023)

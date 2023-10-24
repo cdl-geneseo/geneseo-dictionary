@@ -7,16 +7,6 @@ nav_order:
 
 # UPD
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : UPD
-
 Created by  Unknown User (kmh28), last modified by  Heather Heckman on May 06, 2022
 
 (noun) Acronym for &quot;University Police Department&quot;&quot;If you climb a tree on campus after dark someone will call UPD thinking that you're drunk.&quot;UP (noun) Acronym for University Police.&quot;Stop acting like such an idiot, UP is up the street.&quot;

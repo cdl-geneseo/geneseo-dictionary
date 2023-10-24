@@ -7,16 +7,6 @@ nav_order:
 
 # Beef
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Beef
-
 Created by  Zachary Arthur, last modified by  Unknown User (jmb53) on Nov 20, 2012
 
 NN: Problem or conflict, used by minorities in NYC but by friends in Geneseo (though no convincingly suggested by example); &quot;you want beef, kid?&quot; S96 NN-No changeJ.Boselli, 2012: Despite being known and understood by 100% of participants, as of late the term has declined in popularity, as 80% of those surveyed were confused as to the context of the word.

@@ -7,16 +7,6 @@ nav_order:
 
 # O face
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : O face
-
 Created by  Unknown User (lah15), last modified by  Unknown User (jrr11) on Apr 07, 2019
 
 (n.) The face one makes during sexual climax. This phrase is not Geneseo specific. First used in the film Office Space, written and directed by Mike Judge (1999). &quot;I'm thinking I might take that new chick from Logistics. If things go well I might be showing her my O-face. 'Oh... Oh... Oh!' You know what I'm talkin' about. 'Oh!'&quot; Hanson. Obsolete 2019. (Rogers, N-R, 2019)

@@ -7,16 +7,6 @@ nav_order:
 
 # Run and cover
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Run and cover
-
 Created by  Unknown User (lav4), last modified on Oct 28, 2008
 
 (n.) When an undesirable girl or boy comes to you in a bar, a friend comes over and offers to buy you a shot, thus you escape from the situation. &quot;If your ex-girlfriend walks in, Ill do the run and cover for you.&quot; Source: Dictionary of Geneseo English 2001. Obsolete 2006. Dinki.

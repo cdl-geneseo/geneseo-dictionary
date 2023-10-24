@@ -7,16 +7,6 @@ nav_order:
 
 # Hunts Room
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Hunts Room
-
 Created by  Marissa Maxwell on May 02, 2023
 
 A boujee conference room located in the Union.As of 2023, 75% of students surveyed have heard of this term, and about 75% of students believe it is fairly often or very often used on campus. 

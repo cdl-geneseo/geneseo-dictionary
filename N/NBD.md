@@ -7,16 +7,6 @@ nav_order:
 
 # NBD
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : NBD
-
 Created by  Unknown User (ajm3), last modified on Nov 15, 2010
 
 (abbrv.) Abbreviation for the phrase &quot;No Big Deal.&quot; &quot;I only have a little homework to do. NBD.&quot; Source: Dictionary of Geneseo English. Fall 2010. A. Moak. N-R.

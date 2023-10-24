@@ -7,16 +7,6 @@ nav_order:
 
 # Awesome
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Awesome
-
 Created by  Zachary Arthur, last modified on Sep 17, 2008
 
 AJ: Terrific or great; &quot;What an awesome party.&quot; F92 AJ-95% of the students surveyed reported to use this term all of the time. 

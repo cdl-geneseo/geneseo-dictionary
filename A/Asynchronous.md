@@ -7,16 +7,6 @@ nav_order:
 
 # Asynchronous
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Asynchronous
-
 Created by  Chloe Smith on May 07, 2022
 
 ā-ˈsiŋ-krə-nəsadj. A form of online learning that allows you to learn at your own schedule; &quot;my online class is asynchronous.&quot;88% of the people surveyed believe that this is the definition of &quot;asynchronous&quot; (C. Smith, 2022).

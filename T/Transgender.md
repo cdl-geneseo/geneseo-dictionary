@@ -7,16 +7,6 @@ nav_order:
 
 # Transgender
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Transgender
-
 Created by  David Sweeney, last modified on May 05, 2023
 
 (adj.) 1. Gender description for someone who has transitioned from living as one gender to another. (Sweeney, S-Z, 2023)Example: &quot;My favorite artist is also a transgender activist.&quot;

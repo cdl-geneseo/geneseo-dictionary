@@ -7,16 +7,6 @@ nav_order:
 
 # Circle of Death
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Circle of Death
-
 Created by  Unknown User (tjc13), last modified on Nov 24, 2008
 
 noun- a drinking game incorporating a deck of cards, a group of people, a table, and a lot of shouting and screaming.

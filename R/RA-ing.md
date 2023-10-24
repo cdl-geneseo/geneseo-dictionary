@@ -7,16 +7,6 @@ nav_order:
 
 # RA-ing
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : RA-ing
-
 Created by  Unknown User (lav4), last modified on Oct 28, 2008
 
 (v.) \r-a-ing\ Performing the duties of an R.A. &quot;Nancy's RA-ing in Wyoming Hall next year.&quot; Source: Geneseo Dictionary 2006. Dinki.

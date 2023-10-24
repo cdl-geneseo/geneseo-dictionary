@@ -7,16 +7,6 @@ nav_order:
 
 # Swag
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Swag
-
 Created by  Unknown User (eo7), last modified on Nov 16, 2012
 
 n. 1. Shortened form of Swagger.  a desirable object.  2.  n. An avaunt guard and desirable personality.1. &quot;Look at my swag!&quot;2. &quot;He’s got mad swag.&quot;EOberdorf, S-Z, 2012

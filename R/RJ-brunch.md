@@ -7,16 +7,6 @@ nav_order:
 
 # RJ brunch
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : RJ brunch
-
 Created by  Unknown User (cam37) on Nov 20, 2012
 
 (n.) brunch served at Red Jacket Dining Hall on Saturdays and Sundays. Also &quot;RJ breakfast&quot;. &quot;I'm going to get RJ brunch.&quot; Montelli, N-R, 2012.

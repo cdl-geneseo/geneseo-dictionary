@@ -7,16 +7,6 @@ nav_order:
 
 # Rocks the planet
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Rocks the planet
-
 Created by  Unknown User (lav4), last modified by  Unknown User (ram19) on Nov 21, 2012
 
 (adj.) Extremely good, or desirable. &quot;Her body rocks the planet.&quot; Submitted: 2006. Obsolete 2006. Dinki. Obsolete as of 2012. (Miller, N-R, 2012).

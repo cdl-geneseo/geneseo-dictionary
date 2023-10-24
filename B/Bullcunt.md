@@ -7,16 +7,6 @@ nav_order:
 
 # Bullcunt
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Bullcunt
-
 Created by  Unknown User (tjc13), last modified on Nov 24, 2008
 
 Interjection- variation of bullshit.  New term Fall 2008

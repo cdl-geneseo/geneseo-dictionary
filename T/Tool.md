@@ -7,16 +7,6 @@ nav_order:
 
 # Tool
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Tool
-
 Created by  Unknown User (kmh28), last modified on Dec 02, 2008
 
 (noun) Male who believes himself to be extraordinary (to women), but is actually unappealing to women.

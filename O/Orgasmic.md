@@ -7,16 +7,6 @@ nav_order:
 
 # Orgasmic
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Orgasmic
-
 Created by  Unknown User (omh1) on Nov 20, 2012
 
 (adj.) figurative, to be very exciting or arousing, &quot;the film was an orgasmic swirl of color and sound.&quot; Horowitz 2012

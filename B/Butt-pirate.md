@@ -7,16 +7,6 @@ nav_order:
 
 # Butt pirate
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Butt pirate
-
 Created by  Unknown User (tjc13), last modified on Oct 05, 2008
 
 Butt Pirate (NN): 35% of people surveyed identified it as a derogatory term for a gay male. 25% identified it as people who enjoy having anal sex.

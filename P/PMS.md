@@ -7,16 +7,6 @@ nav_order:
 
 # PMS
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : PMS
-
 Created by  Unknown User (ac45) on Apr 07, 2019
 
 (n.) Premenstrual Syndrome. A time in which a female experiences certain symptoms the week before her period. Karen is experiencing PMS (v.) The action of “PMSing”“Karen is definitely PMSing, she is very irritable” (A Chen, N-R, 2019).

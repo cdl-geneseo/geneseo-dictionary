@@ -7,16 +7,6 @@ nav_order:
 
 # Lucky
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Lucky
-
 Created by  Unknown User (krk5), last modified by  Unknown User (mee2) on Nov 20, 2012
 
 n. Meaning sex, as in &quot;getting lucky&quot;, getting a person to have sexual intercourse.Source: Dictionary of Geneseo English, Fall 2006, Crane.As of 2012, 100% of students surveyed knew this word and 0% believed it to be of local origin.(Eichas, G-M, 2012) 

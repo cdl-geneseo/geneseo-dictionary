@@ -7,16 +7,6 @@ nav_order:
 
 # Chill Pill
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Chill Pill
-
 Created by  Unknown User (tjc13), last modified on Oct 05, 2008
 
 NN: Hypothetical relaxant; &quot;Hey man, relax, take a chill pill!&quot; F92 chill Pill (NN) - No change Source: Dictionary of Geneseo English, Fall 1998 Simmington Chill Pill (NN): No change. Known by 100% of those surveyed.

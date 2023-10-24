@@ -7,16 +7,6 @@ nav_order:
 
 # Ice Knights
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Ice Knights
-
 Created by  Unknown User (krk5), last modified by  Unknown User (spe1) on Nov 20, 2012
 
 n.: The nickname of the SUNY Geneseo ice hockey team. Source: Dictionary of Geneseo English, Fall 2006, Winkelman.As of 2012, 95% of students surveyed know this word. 95% believe it is of local origins.(Endress, G-M, 2012)

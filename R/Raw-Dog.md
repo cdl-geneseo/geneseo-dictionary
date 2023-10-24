@@ -7,16 +7,6 @@ nav_order:
 
 # Raw Dog
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Raw Dog
-
 Created by  Unknown User (ajm3), last modified on Nov 30, 2010
 
 1. (v.) To have sex with someone without using protection, such as a diaphragm or condom. Derogatory. &quot;I can't believe I raw dogged that girl last night.&quot; A. Moak 2010

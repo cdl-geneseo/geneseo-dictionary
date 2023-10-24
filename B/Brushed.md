@@ -7,16 +7,6 @@ nav_order:
 
 # Brushed
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Brushed
-
 Created by  Josephine Hastings, last modified on May 04, 2023
 
 Verb: (br-uh-sh-d) If someone opens a SnapChat or text message and does not respond. Ex: &quot;Jimmy brushed me!&quot; &quot;That's so rude! The least he could do is respond!&quot;Also associated/has the same meaning as 'ghosted' and 'left on read'.85.7% of students have heard of this word or used it before, but 100% of the students from around Rochester say they use this at least once a week. (Hastings, A-F, 2023)

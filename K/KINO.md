@@ -7,16 +7,6 @@ nav_order:
 
 # KINO
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : KINO
-
 Created by  Unknown User (est1), last modified by  Unknown User (mee2) on Nov 16, 2012
 
 n. A place on campus where films are shown, usually on Sunday nights.Gross2006-12-10T22:38:06ZKWinkelmanAs of 2012, 70% of students surveyed knew this word and 70% believed it to be of local origin.(Eichas, G-M, 2012)  

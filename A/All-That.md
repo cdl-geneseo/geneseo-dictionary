@@ -7,16 +7,6 @@ nav_order:
 
 # All That
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : All That
-
 Created by  Zachary Arthur, last modified on Sep 16, 2008
 
 NN-The best; &quot;listen to her bragging. I bet she thinks she's all that&quot;; possible influence from talk shows like Ricki Lake. S95 NN-No change. 

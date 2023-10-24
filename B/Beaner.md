@@ -7,16 +7,6 @@ nav_order:
 
 # Beaner
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Beaner
-
 Created by  Zachary Arthur, last modified by  Graham Drake on Dec 16, 2008
 
 (bi:n-r) n. A racist term for a person of Hispanic descent. F06

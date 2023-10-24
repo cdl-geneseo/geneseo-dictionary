@@ -7,16 +7,6 @@ nav_order:
 
 # Tumbleweeds
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Tumbleweeds
-
 Created by  Unknown User (klf16) on Apr 29, 2015
 
 adj. describing a desolate place. &quot;I went in and the place was tumbleweeds&quot; Freeman 2015

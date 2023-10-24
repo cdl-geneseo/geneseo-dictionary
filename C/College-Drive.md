@@ -7,16 +7,6 @@ nav_order:
 
 # College Drive
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : College Drive
-
 Created by  Unknown User (bli2), last modified by  Graham Drake on Dec 16, 2008
 
 College Drive (NN): street on campus. The College Circle, Brodie Hall, and Welles Hall are along it.  Definition of approximately 40% of those surveyed. (F06) (new word) Unknown by approximately 60% of those surveyed. (F06) Simmington

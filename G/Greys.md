@@ -7,16 +7,6 @@ nav_order:
 
 # Grey's
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Grey's
-
 Created by  Unknown User (crk4), last modified by  Unknown User (cmf9) on Nov 19, 2012
 
 Grey's: noun/ abbreviation used to describe the popular television drama Grey's Anatomy&quot;Do you want to come over to my house to watch Grey's tonight?&quot;Although this word is not limited to Geneseo of college students, the show is a popular topic of discussion and many students will watch the show together.(Klein, E-H, 2008)As of 2012, 27% of students surveyed knew this word, 0% believe it is of local origin.(Felice, G-M, 2012)

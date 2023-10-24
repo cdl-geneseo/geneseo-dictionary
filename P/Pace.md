@@ -7,16 +7,6 @@ nav_order:
 
 # Pace
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Pace
-
 Created by  Unknown User (gmm6), last modified by  Unknown User (ram19) on Nov 20, 2012
 
 (interj.)  A farewell statement.  Also, a variation of &quot;peace&quot; or &quot;peace out&quot;; &quot;I better get going.&quot;  &quot;Alright, pace.&quot;  Similar definitions can be found in the Urban Dictionary.  Usage not specific to Geneseo.  Martinelli, N-R, 2010. Obsolete as of Fall 2012 (Miller, N-R, 2012)

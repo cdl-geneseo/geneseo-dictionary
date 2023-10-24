@@ -7,16 +7,6 @@ nav_order:
 
 # Bitch-ass
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Bitch-ass
-
 Created by  Unknown User (ab21), last modified on Nov 16, 2010
 
 Noun. Strong emphasis of the noun &quot;bitch.&quot; Could refer to both gender. Example: &quot;Shut up bitch-ass!&quot;

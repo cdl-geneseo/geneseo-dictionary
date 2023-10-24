@@ -7,16 +7,6 @@ nav_order:
 
 # Twitter
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Twitter
-
 Created by  Unknown User (mtr7) on Apr 29, 2015
 
 Phone app that is used to post messages of 150 characters or less so that other people can see and interact with.  Even though this is something that is used around the world, many students said that this should be included because it is an important part of their day to day lives.  &quot;Yea, Kim Harvey is always on Twitter because she loves promoting the Weeks of Welcome&quot;. Romig, S-Z, 2015. 

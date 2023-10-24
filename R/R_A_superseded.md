@@ -7,16 +7,6 @@ nav_order:
 
 # R. A. (superseded)
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : R. A. (superseded)
-
 Created by  Unknown User (lav4), last modified by  Aurora Merwin on Apr 09, 2023
 
 (n.) \r-a\ acronym for Resident Assistant dorm counselor. &quot;My roommate is so loud that I'm going to talk to my R.A. about switching rooms.&quot; F90. Source: Dictionary of Geneseo English 2006. A similar definition appears at http://www.urbandictionary.com/define.php?term=ra ; the entry is probably not specific to Geneseo. (Dinki)

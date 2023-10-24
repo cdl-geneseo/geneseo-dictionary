@@ -7,16 +7,6 @@ nav_order:
 
 # UAA
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : UAA
-
 Created by  Unknown User (kmh28), last modified on Nov 24, 2008
 
 Undergraduate Alumni Association. (noun) A student organization that maintains the link between past and present Geneseo students.

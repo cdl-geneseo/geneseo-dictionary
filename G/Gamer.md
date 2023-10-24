@@ -7,16 +7,6 @@ nav_order:
 
 # Gamer
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Gamer
-
 Created by  Unknown User (crk4), last modified by  Unknown User (rgg2) on Nov 16, 2012
 
 n. Refers to one who plays various computer or card games; &quot;You're a ''gamer'' aren't you? Come on, admit it! You've played D&amp;D before, maybe even own the books and dice.&quot;Source: Dictionary of Geneseo English, Fall 2000 - Kocher75% of students surveyed knew this word, and 0% of these students had learned the word at Geneseo. This word is not original to Geneseo, nor is it restricted to college campuses.(Klein, E-H, 2008)As of 2012, 100% of students surveyed know this word, 0% believe it is of local origins.(Goodwin, G-M, 2012)

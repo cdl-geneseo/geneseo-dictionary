@@ -7,16 +7,6 @@ nav_order:
 
 # Crap Paper
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Crap Paper
-
 Created by  Unknown User (bli2), last modified by  Unknown User (kla8) on Nov 20, 2012
 
 NN: '''The Lamron''', Geneseo's school paper; &quot;We, the students at Geneseo, know not to take the Crap-paper as any serious attempt at journalism.&quot; Quotation marks around the term suggests possible meologism. F94 Crap-paper (NN) - Obs. Source: Dictionary of Geneseo English, Fall 1998 Simmington Crap-paper (NN): toilet paper. Definition of approximately 14% of those surveyed. (F06) Unknown by approximately 86% of those surveyed. (F06) Simmington, D. McGiveron This term is relatively obsolete now. It's usage is very rare and it's current definition is drastically different from it's original recorded entry. Simmington (F06) Completely obsolete, 2012. K. Andryshak

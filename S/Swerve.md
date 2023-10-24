@@ -7,16 +7,6 @@ nav_order:
 
 # Swerve
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Swerve
-
 Created by  Graham Drake, last modified on Jan 14, 2015
 
 Swerve:  To make a pass at someone. &quot;Check out that freshman! Joe, go get your swerve on!'  A similar definition appears at http://www.urbandictionary.com/define.php?term=swerve; the entry is probably not specific to Geneseo.

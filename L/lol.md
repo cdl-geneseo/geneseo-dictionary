@@ -7,16 +7,6 @@ nav_order:
 
 # lol
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : lol
-
 Created by  Unknown User (spc14) on Apr 15, 2019
 
 v. acronym for &quot;laugh out loud&quot;, typically used in a sarcastic way or when a person feels a lull in a texting conversation. &quot;I'm gonna die during this test, lol&quot;As of 2019, 99% of students surveyed knew this word and 0% of students surveyed believed this word was of local origin. (Cannioto, 2019)

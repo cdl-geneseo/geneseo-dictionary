@@ -7,16 +7,6 @@ nav_order:
 
 # Pinterest
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Pinterest
-
 Created by  Unknown User (ram19) on Nov 19, 2012
 
 n. The name of the website that is used to reblog images. Ex. The house on this website is so cool, I'm going to post in on my Pinterest.As of 2012, this word received an average of 3.42 out of 5 on student surveys, 1 being an unknown word and 5 being a word commonly used and heard.(Miller, N-R, 2012) 

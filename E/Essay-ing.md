@@ -7,16 +7,6 @@ nav_order:
 
 # Essay-ing
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Essay-ing
-
 Created by  Unknown User (met6), last modified by  Unknown User (kla8) on Nov 20, 2012
 
 Verb.  The action of writing an essay. Usage: &quot;What did you do today?&quot; &quot;Oh, I've been essay-ing all day long now, and I'm still not finished.&quot;Talbot, E-H 2008  Only 19% of participants correctly identified this word, usage is declining.   K. Andryshak, 2012

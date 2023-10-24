@@ -7,16 +7,6 @@ nav_order:
 
 # King
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : King
-
 Created by  Unknown User (cjk14) on Dec 11, 2020
 
 n. Refers to someone who represents the male gender well. Frequently used to uplift downtrodden men, such as in the phrase, “Your crown is falling king”.As of 2020, 85% of students surveyed were familiar with this word. Of those surveyed, 82% believe it originated elsewhere. (Kane 2020)

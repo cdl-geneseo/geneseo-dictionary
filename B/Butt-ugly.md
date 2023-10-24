@@ -7,16 +7,6 @@ nav_order:
 
 # Butt-ugly
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Butt-ugly
-
 Created by  Unknown User (tjc13), last modified on Oct 05, 2008
 
 AJ: Extremely unattractive; &quot;Tom Petty is butt-ugly.&quot; F92 butt-ugly: 47% of those surveyed identified term as a negative description of physical appearance.KTousey This term still in use. No change in meaning. 80% of students survyed identified this term.

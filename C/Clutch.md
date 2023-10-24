@@ -7,16 +7,6 @@ nav_order:
 
 # Clutch
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Clutch
-
 Created by  Unknown User (bli2), last modified by  Unknown User (kec3) on Nov 29, 2010
 
 clutch (AJ) - no change Source: Dictionary of Geneseo English, Fall 1998 Simmington Clutch (AJ): of utmost importance, [[awesome]], cool, [[sweet]] deal (e.g. &quot;That's clutch!&quot;) Definition of approximately 42% of those surveyed. (F06) Clutch (VB): to grasp or hold tightly. Definition of approximately 14% of those surveyed. (F06) Clutch (NN): a driving term. Definition of approximately 7% of those surveyed. (F06) Unknown by approximately 28% of those surveyed. (F06) Simmington

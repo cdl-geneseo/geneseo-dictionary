@@ -7,16 +7,6 @@ nav_order:
 
 # Daga Rock
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Daga Rock
-
 Created by  Sara French on May 07, 2022
 
 n. The rock on the northern side of Onondaga Hall, usually serves as a meet up point for students who live on South Campus.Based on survey results, 34% of participants could identify this term. (S. French, A-F, 2022).

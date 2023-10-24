@@ -7,16 +7,6 @@ nav_order:
 
 # Boo-bye
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Boo-bye
-
 Created by  Zachary Arthur, last modified by  Unknown User (jmb53) on Nov 20, 2012
 
 IN: Dismissal of something, similar to &quot;whatever&quot;. Said to be derived from SNL sketch. See also ''b'bye''. F94 IN: Obs. S99 IN: Obs. F06J.Boselli, 2012: Only 13% of participants could identify the term, leading us to affirm its state as an obsolete term.  

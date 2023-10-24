@@ -7,16 +7,6 @@ nav_order:
 
 # Stomach sadness
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Stomach sadness
-
 Created by  Unknown User (arh11), last modified on Sep 21, 2008
 
 Stomach sadness: (noun) Stomach pains, often accompanied by diarrhea (euphemistic); 

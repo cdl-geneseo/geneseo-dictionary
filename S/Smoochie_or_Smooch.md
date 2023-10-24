@@ -7,16 +7,6 @@ nav_order:
 
 # Smoochie or Smooch
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Smoochie or Smooch
-
 Created by  Kayla Stewart on May 04, 2023
 
 (adj) 1. New York City Slang; mostly used towards women in a derogatory manner– i.e. a woman who is known for having multiple partners. Example: &quot;Jessica is definitely a smoochie, she's slept around with half of the town.'&quot; (Stewart, S-Z, 2023) 

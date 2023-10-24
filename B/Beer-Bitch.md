@@ -7,16 +7,6 @@ nav_order:
 
 # Beer Bitch
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Beer Bitch
-
 Created by  Unknown User (bli2), last modified on Nov 28, 2008
 
 Beer Bitch: Noun- The person sitting closest to the cooler or refrigerator at a party whose job it is to grab another beer when yours runs out. The most important person in drinking games. 87% of people surveyed were familiar with this term. BIervese, 2008

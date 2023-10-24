@@ -7,16 +7,6 @@ nav_order:
 
 # Over
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Over
-
 Created by  Unknown User (lah15), last modified by  Unknown User (dma7) on Apr 26, 2015
 
 (n.) a person who is over the age of twenty-one and therefore can legally gain entrance to bars and consume alcohol; “I can’t believe that Kelly got into the IB as an over last night; her fake ID is so bad.” Submitted 2010. Usage is specific to Geneseo. Hanson.(adj.) To be fed up with something, to no longer have interest in it; &quot;Don't worry about it, I'm over it.&quot; Anderson, N-R, 2015

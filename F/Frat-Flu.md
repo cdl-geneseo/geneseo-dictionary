@@ -7,16 +7,6 @@ nav_order:
 
 # Frat Flu
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Frat Flu
-
 Created by  Mia Gennaro on May 03, 2023
 
 (noun) 1. used to describe a specific type of sickness that is developed while going to the frats on the weekend; consists of a cough that normally lasts for about two weeks along with congestion, Ex. &quot;I've been coughing for two weeks since I went out, I might have the frat flu.&quot; (Gennaro, A-F, 2023). 

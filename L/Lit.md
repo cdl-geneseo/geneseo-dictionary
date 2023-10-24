@@ -7,16 +7,6 @@ nav_order:
 
 # Lit
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Lit
-
 Created by  Unknown User (spc14), last modified on Apr 15, 2019
 
 adj. used to describe something that is especially amazing and turned up. &quot;This party is lit!&quot;adj. used to describe someone who is intoxicated. See turnt. &quot;He's so lit, he can't even walk.&quot;As of 2019, 99% of students surveyed knew this word and less than 2% believe it is of local origin. (Cannioto, 2019)

@@ -7,16 +7,6 @@ nav_order:
 
 # Screw your roomate
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Screw your roomate
-
 Created by  Unknown User (arh11), last modified on Sep 28, 2008
 
 Verb Phrase: To do anything which may affect your roomate in a negative way. &quot;John Screwed his roomate the other night when he left their door unlocked. The bandits made off with a ton of their stuff.&quot; Source: Dictionary of Geneseo English 1996.Dilluvio

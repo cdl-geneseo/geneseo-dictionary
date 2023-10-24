@@ -7,16 +7,6 @@ nav_order:
 
 # Worshipping the porcelain goddess
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Worshipping the porcelain goddess
-
 Created by  Unknown User (kmh28), last modified by  Unknown User (mtr7) on Apr 28, 2015
 
 (phrase) Vomiting.2006: Recognized by 94% of those surveyed, while 0% of those believed it to be specific to Geneseo.2008: Definable, but not commonly used. 2015: No one was able to define the term and so no one was able to use it in a conversation.  Obsolete.  Romig, S-Z, 2015.&quot;After a long night of partying, Josh spent the next morning worshipping the porcelain goddess.&quot;Source: Geneseo Dictionary 2006. SHelsher. Originally from Revised Dictionary of Geneseo English Spring 1999.

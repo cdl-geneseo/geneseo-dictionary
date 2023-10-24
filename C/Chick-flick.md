@@ -7,16 +7,6 @@ nav_order:
 
 # Chick flick
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Chick flick
-
 Created by  Unknown User (tjc13), last modified on Oct 05, 2008
 
 (New word) Chick flick (NN): a movie, usually a romantic comedy or drama, that is enjoyed by females. Usually has a lot of emotions and love with little action and tends to have a happy and love-filled ending. Defintion of approximately 96% of those surveyed. (F06) Chick flick (NN): a gender norm for &quot;females&quot; about how to release a cigarette. Definition of approximately 4% of those surveyed.

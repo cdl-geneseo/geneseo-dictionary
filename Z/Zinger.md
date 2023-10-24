@@ -7,16 +7,6 @@ nav_order:
 
 # Zinger
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Zinger
-
 Created by  Unknown User (kmh28), last modified by  Unknown User (eim1) on Apr 01, 2019
 
 2008: (noun) A witty comment.&quot;That was a real zinger - I never could have thought of that so quickly!&quot;2019: Recognizable, but no longer in use. Medina, S-Z, 2019.

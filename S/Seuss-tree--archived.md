@@ -7,16 +7,6 @@ nav_order:
 
 # Seuss tree -archived
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Seuss tree -archived
-
 Created by  Unknown User (arh11), last modified by  Graham Drake on Jan 14, 2015
 
 Seuss tree \sus tr\: (noun) The blue spruce tree in Sturges Quad, resembling the tree from Dr. Seuss' &quot;The Grinch who stole Christmas&quot;. &quot;I vomited in the Seuss Tree walking home from the party last night.&quot;

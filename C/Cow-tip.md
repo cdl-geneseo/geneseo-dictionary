@@ -7,16 +7,6 @@ nav_order:
 
 # Cow tip
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Cow tip
-
 Created by  Unknown User (bli2), last modified on Sep 21, 2008
 
 VB: To tip cows over when they are sleeping; &quot;Yeah, cow-tipping is like the only thing to do in Geneseo.&quot; F92 cow tip (VB) - No change Source: Dictionary of Geneseo English, Fall 1998 Simmington Cow tip (VB): No change. Definition of approximately 65% of those surveyed. (F06) Unknown by approximately 35% of those surveyed. (F06) Simmington, D. McGiveron

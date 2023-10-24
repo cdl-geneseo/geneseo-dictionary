@@ -7,16 +7,6 @@ nav_order:
 
 # Fives
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Fives
-
 Created by  Unknown User (jfw3), last modified on Sep 09, 2008
 
 n. A practice used, most often when there are more people present than the number of acceptable seats, to retain one's seat when a phone call or bathroom stop is in order. The much more time-efficient shorthand for saying &quot;I reserve this seat for the next five minutes.&quot;

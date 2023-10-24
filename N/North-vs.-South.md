@@ -7,16 +7,6 @@ nav_order:
 
 # North vs. South
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : North vs. South
-
 Created by  Unknown User (era6), last modified by  Unknown User (mem32) on Nov 20, 2012
 
 North vs. South(n.) Annual snowball fight between students living on the North and South sides of campus; I got hit in the face with a snowball at the North vs. South. Source: Dictionary of Geneseo English 2001. Bates (Obsolete, 2012)(phr.) Refers to the common friendly competitive feelings between the students living on Northside and the students living on Southside of campus.(McNiffe, N-R, 2012)

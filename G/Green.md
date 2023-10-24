@@ -7,16 +7,6 @@ nav_order:
 
 # Green
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Green
-
 Created by  Unknown User (crk4), last modified by  Unknown User (cmf9) on Nov 19, 2012
 
 Green: noun  1. The open area located in upper campus, surrounded by academic and administrative buildings. Frequented by students in the warmer months, for activities including but not limited to studying, Frisbee, sunbathing, and socializing;&quot;Do you want to meet me up by the Green for some studying and Frisbee?&quot;75% of students knew this term.As of 2012 58% of students surveyed knew this word, 35% believe it is of local origin.(Felice, G-M, 2012)2. A pseudonym for marijuana.&quot;Do you have any green for the party tonight?&quot;50% of students surveyed knew this term.(Klein, E-H, 2008)

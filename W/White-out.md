@@ -7,16 +7,6 @@ nav_order:
 
 # White-out
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : White-out
-
 Created by  Unknown User (kmh28), last modified on Dec 01, 2008
 
 (noun) Planned event at a hockey game where all supporters of the Geneseo Ice Knights wear white to distract the opposing team.

@@ -7,16 +7,6 @@ nav_order:
 
 # Grippy Sock Vacation
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Grippy Sock Vacation
-
 Created by  Marissa Maxwell on May 05, 2023
 
 A phrase used to describe time spent in a mental hospital.As of 2023, 60% of students surveyed have heard of this phrase and about 35% think that this is fairly often or very often used on campus. 

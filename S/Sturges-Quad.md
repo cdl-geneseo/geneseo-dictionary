@@ -7,16 +7,6 @@ nav_order:
 
 # Sturges Quad
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Sturges Quad
-
 Created by  Unknown User (ejr7) on Nov 16, 2012
 
 n. The land in front of the Sturges academic building.&quot;The Suess Spruce is in the Sturges Quad.&quot;EReck, S-Z, 2012

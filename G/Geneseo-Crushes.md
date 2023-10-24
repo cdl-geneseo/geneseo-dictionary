@@ -7,16 +7,6 @@ nav_order:
 
 # Geneseo Crushes
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Geneseo Crushes
-
 Created by  Unknown User (mrp13) on Apr 28, 2015
 
 n. 1. A community on Facebook where Geneseo students anonymously post crushes for their fellow students. N. 2. Students in the Geneseo community can receive a &quot;Geneseo Crush&quot; if someone anonymously fills out the appropriate form online, mentioning them by name or description. The crush will then be posted in the Geneseo Crushes page. Students actively check the Geneseo Crushes page, tagging people they recognize.&quot;Did you check Geneseo Crushes? It was updated today!&quot;&quot;I can't believe I finally got a Geneseo Crush!&quot;As of 2015, 100% of students surveyed know the word. 100% believe it is unique to Geneseo.(Powell, G-M, 2015)

@@ -7,16 +7,6 @@ nav_order:
 
 # It's Lit
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : It's Lit
-
 Created by  Unknown User (aof1) on Apr 27, 2015
 
 A phrase to express promising excitemente.g. &quot;There's a party at Jenny's, it's lit!&quot;90% of Geneseo students surveyed knew this word. Out of those surveyed, 0% believed that the phrase was specific to Geneseo.(Fox, G-M, 2015)

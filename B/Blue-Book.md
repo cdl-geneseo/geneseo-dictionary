@@ -7,16 +7,6 @@ nav_order:
 
 # Blue Book
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Blue Book
-
 Created by  Zachary Arthur, last modified on Sep 23, 2008
 
 NN: 73% of the students surveyed identified this term as the booklet used to write essays in for a test. F06 

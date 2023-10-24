@@ -7,16 +7,6 @@ nav_order:
 
 # Threshold
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Threshold
-
 Created by  Unknown User (aet10) on Oct 30, 2020
 
 Nouna strip of wood, metal, or stone forming the bottom of a doorway and crossed in entering a house or roomHe stood on the threshold of Sheila's bedroom. (Toussaint, S-Z, 2020) 

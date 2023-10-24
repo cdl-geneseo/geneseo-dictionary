@@ -7,16 +7,6 @@ nav_order:
 
 # Slammed
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Slammed
-
 Created by  Unknown User (mtr7), last modified on Apr 29, 2015
 
 Verb used to describe a large amount of something, usually homework.  &quot;I have five finals in two days, I've been so slammed with studying and work lately!&quot;.  Romig, S-Z, 2015.Verb/Noun: a way in which to refer to someone being dissed. &quot;Oh wow you just got slammed!&quot; (Freeman, S-Z, 2015)

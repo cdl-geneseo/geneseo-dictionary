@@ -7,16 +7,6 @@ nav_order:
 
 # Drunchies
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Drunchies
-
 Created by  Unknown User (bli2), last modified on Nov 27, 2008
 
 drunchies (NN): alcohol-exclusive derivative of [[munchies]] (2nd definition). It is a sensation characterized by strong hunger, brought on by the consumption of alcohol. 60% of those surveyed defined this word. (New word) (F06) LTiszenkel

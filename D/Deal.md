@@ -7,16 +7,6 @@ nav_order:
 
 # Deal
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Deal
-
 Created by  Unknown User (bli2), last modified on Sep 21, 2008
 
 VB: To get over it; &quot;So she dumped you. Deal, there are other babes.&quot; Probable clipping of ''Deal with it''. F94 deal (VB) - No change Source: Dictionary of Geneseo English, Fall 1998 Simmington Deal (VB): to divy something up, such as the playing cards before a card game; short for &quot;deal with it&quot;; to sell drugs. Definition of approximately 42% of those surveyed. (F06) Deal (NN): the problem, story, situation, plan, agreement. Definition of approximately 35% of those surveyed. (F06) Unknown by approximately 14% of those surveyed. (F06) Simmington, D. McGiveron

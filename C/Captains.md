@@ -7,16 +7,6 @@ nav_order:
 
 # Captain's
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Captain's
-
 Created by  Zachary Arthur, last modified on Nov 24, 2008
 
 NN Refers to Captain Morgan's Rum; &quot;Hey man, could I have a sip of your captain's?&quot;

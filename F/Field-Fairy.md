@@ -7,16 +7,6 @@ nav_order:
 
 # Field Fairy
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Field Fairy
-
 Created by  Unknown User (met6), last modified on Dec 01, 2008
 
 Noun. A soccer player.

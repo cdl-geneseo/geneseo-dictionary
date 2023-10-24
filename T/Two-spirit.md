@@ -7,16 +7,6 @@ nav_order:
 
 # Two-spirit
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Two-spirit
-
 Created by  David Sweeney, last modified on May 05, 2023
 
 (noun) 1. Umbrella term traditionally within Native American communities (Sweeney, S-Z, 2023)Example: &quot;Many indigenous people identify with being two-spirit.&quot;

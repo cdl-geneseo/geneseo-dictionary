@@ -7,16 +7,6 @@ nav_order:
 
 # Court Street
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Court Street
-
 Created by  Unknown User (bli2), last modified on Sep 21, 2008
 
 Court Street (NN): street alongside Geneseo's north campus where many students live off-campus; many Greek organizations reside on/off of this street; many apartment complexes are off of this street; street that intersects Main Street, North Street, and the road that goes to Avon. Definition of approximately 93% of those surveyed. (F06) (new word) Unknown by approximately 7% of those surveyed. (F06) Simmington

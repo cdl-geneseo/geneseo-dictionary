@@ -7,16 +7,6 @@ nav_order:
 
 # Swamp Ass
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Swamp Ass
-
 Created by  Unknown User (olr2) on Apr 16, 2019
 
 (n.) The feeling of having a very sweaty ass. Source: Dictionary of Geneseo English 2019. (Root, Olivia (S-Z) 2019)

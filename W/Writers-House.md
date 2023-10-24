@@ -7,16 +7,6 @@ nav_order:
 
 # Writers House
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Writers House
-
 Created by  Unknown User (kmh28), last modified on Dec 02, 2008
 
 (noun) The newly built Seneca Hall; will house students who applied to be a part of a community of writers, comprised of all majors.

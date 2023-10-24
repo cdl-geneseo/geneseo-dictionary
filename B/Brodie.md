@@ -7,16 +7,6 @@ nav_order:
 
 # Brodie
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Brodie
-
 Created by  Unknown User (kec3), last modified on Nov 29, 2010
 
 KChapman, 2010:  Brodie Hall, Building at the North side of College Circle, bordered on the East by Park St. Brodie Hall houses SUNY Geneseo's Fine Arts Department.

@@ -7,16 +7,6 @@ nav_order:
 
 # QP
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : QP
-
 Created by  Unknown User (lav4), last modified by  Unknown User (gmm6) on Nov 15, 2010
 
 (adj.) A quarter pound of a drug. Lets go halves on that QP of Northern Lights. Source: Dictionary of Geneseo English 2006. A similar definition appears at http://www.urbandictionary.com/ ; entry probably not specific to Geneseo. Adams.  Obsolete as of Fall 2010.  Martinelli, N-R.

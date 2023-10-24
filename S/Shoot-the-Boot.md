@@ -7,16 +7,6 @@ nav_order:
 
 # Shoot the Boot
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Shoot the Boot
-
 Created by  Unknown User (lav4), last modified by  Unknown User (klf16) on Apr 29, 2015
 
 Verb:to drink from a shoe or boot that is filled with beer, spit and usually mucus that is drunk by an individual that makes a mistake in the singing of a drinking song as a means of punishment. Example &quot;Last night Ricky had to shoot the boot. It was so gross!&quot;Possibly Obsolete (2015) K. Freeman. 

@@ -7,16 +7,6 @@ nav_order:
 
 # BJ
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : BJ
-
 Created by  Zachary Arthur, last modified on Sep 23, 2008
 
 NN: Literally a blow job-oral sex for a male. Identified by 80% of the students. F06 

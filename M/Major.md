@@ -7,16 +7,6 @@ nav_order:
 
 # Major
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Major
-
 Created by  Unknown User (est1), last modified by  Unknown User (msc5) on Nov 19, 2012
 
 2006-12-11T10:23:38ZSValentineMajor [mey-jer] adj. *1. important; &quot;I've got a major exam on Thursday.&quot; Submitted by SValentineAs of 2012, 100% knew the word and 0% believed it to be of local origin.(Craft, G-M, 2012)

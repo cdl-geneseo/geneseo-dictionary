@@ -7,10 +7,6 @@ nav_order: 0
 
 # Report of Fall 2006 A-D Group
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
 Fall 2006 Group Reports
 
 Bibliographies and Study Guides : Report of Fall 2006 A-D Group

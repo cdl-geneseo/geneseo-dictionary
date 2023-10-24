@@ -7,16 +7,6 @@ nav_order:
 
 # Kewl
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Kewl
-
 Created by  Unknown User (krk5), last modified by  Unknown User (mee2) on Nov 16, 2012
 
 /ku:l/ adj. or interj. Alternative spelling of &quot;cool&quot; reflecting the pronunciation. Most frequently used in text messages and instant messages.Source: Dictionary of Geneseo English, Fall 2006, WinkelmanNot specific to Geneseo.As of 2012, 95% of students surveyed knew this word and 3% believed it to be of local origin.(Eichas, G-M, 2012) 

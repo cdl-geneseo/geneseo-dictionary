@@ -7,16 +7,6 @@ nav_order:
 
 # Booze Snooze
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Booze Snooze
-
 Created by  Unknown User (bli2), last modified on Nov 28, 2008
 
 Booze Snooze: Noun- A nap taken early in the afternoon to prepare for the night's party, after you've already been drinking. 67% of people surveyed were familiar with this term. BIervese, 2008 

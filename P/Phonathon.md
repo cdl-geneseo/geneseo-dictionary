@@ -7,16 +7,6 @@ nav_order:
 
 # Phonathon
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Phonathon
-
 Created by  Unknown User (ram19) on Nov 20, 2012
 
 (n.) When a group of people get together and all make calls, usually to raise funds, administer surveys, or spread information.Ex. The sorority is holding a phonathon tonight to try to get money from alumni.As of 2012, this word received an average rating of 2.13 out of 5 on student surveys, 1 being an unknown word, and 5 being a word heard and used frequently.(Miller, N-R, 2012)

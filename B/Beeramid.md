@@ -7,16 +7,6 @@ nav_order:
 
 # Beeramid
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Beeramid
-
 Created by  Zachary Arthur, last modified on Sep 18, 2008
 
 /birmd/ NN- Drinking game similar to beer pong. &quot;Who wants to play some beeramid?&quot; Two teams play with ten cups each. The first six are set up in the same triangular shape as in beer pong, the next three are balanced in a second tier of cups while the last cup is placed in a third tier balanced on top of the previous two tiers. A ping pong ball is tossed at the cups as in beer pong and the object of the game is to sink all of the cups. If a ball hits a cup on either the second or third tier and falls into any cups below it, all those cups must be consumed. F 02 (said to be as early as F 94 at Geneseo, but no evidence given). Earlier elsewhere: &quot;The guys with the most impressive room, a real showplace with a first-floor window on the courtyard, had hit upon the brilliant design theme of building a '''beeramid''' of drained Bud cans on the mantel that cleverly picked up the patriotic colors of the Interstate 95 sign on the wall. Genius.&quot; Samantha Bennett: &quot;It's not Martha Stewart Decor, but it will do&quot; (on early 90's college experience); 17 Feb 1999 ''Pittsburgh Post-Gazette'' Metro S5. 

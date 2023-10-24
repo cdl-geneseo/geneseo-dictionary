@@ -7,16 +7,6 @@ nav_order:
 
 # Fried
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Fried
-
 Created by  Unknown User (jmb63) on Apr 15, 2019
 
 Adj: How one may feel after smoking a lot of marijuana. &quot;Bro I smoked so much that I still feel fried!&quot;

@@ -7,16 +7,6 @@ nav_order:
 
 # Wretch
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Wretch
-
 Created by  Unknown User (kmh28), last modified on Dec 01, 2008
 
 (noun) Nickname for the Letchworth dining hall where &quot;letch&quot; is made &quot;wretch&quot;; implies that it is undesirable.

@@ -7,16 +7,6 @@ nav_order:
 
 # O.
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : O.
-
 Created by  Unknown User (ajm3), last modified by  Unknown User (jrr11) on Apr 07, 2019
 
 1. (n) Referencing to an ounce of marijuana. Can also be applied to measurements of other drugs as well. &quot;Can you get me an O of marijuana?&quot;. A. Moak 2010 Obsolete. (Rogers, N-R, 2019)

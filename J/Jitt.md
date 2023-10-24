@@ -7,16 +7,6 @@ nav_order:
 
 # Jitt
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Jitt
-
 Created by  Unknown User (wlf1), last modified by  Unknown User (jtd8) on May 07, 2019
 
 Jitt: n. acronym for &quot;just in time teaching,&quot; used most frequently by biology students.  This word has become obsolete.Likely specific to Geneseo.As of 2012, 5% of students surveyed know this word. 5% believe it is of local origins.(Endress, G-M, 2012)As of 2019, 0% of students surveyed know this word. 0% believe it is of local origins.(Dilcher, G-M, 2019) 

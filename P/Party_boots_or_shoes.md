@@ -7,16 +7,6 @@ nav_order:
 
 # Party boots or shoes
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Party boots or shoes
-
 Created by  Unknown User (era6), last modified by  Unknown User (dma7) on Apr 26, 2015
 
 Party boots/TKE boots(n.) Something worn to parties or the TKE house to protect your good clothes; &quot;I've got my party boots on for the PIGS house tonight!&quot; Source: Dictionary of Geneseo English 2001. Obsolete Fall 2006. Bates. As of 2012, word changed from &quot;Party boots/TKE shoes&quot; to &quot;Party Shoes.&quot; (Miller, N-R, 2012). Obsolete Spring 2015 (Anderson, N-R, 2015).

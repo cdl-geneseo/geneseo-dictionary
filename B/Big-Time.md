@@ -7,16 +7,6 @@ nav_order:
 
 # Big Time
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Big Time
-
 Created by  Zachary Arthur, last modified by  Unknown User (kec3) on Nov 29, 2010
 
 AV: A lot; &quot;He messed up big time.&quot; F92 AV-falling out of use. 40% of the students surveyed identified this as a good performance. S99

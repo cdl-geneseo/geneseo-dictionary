@@ -7,16 +7,6 @@ nav_order:
 
 # Buttplug
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Buttplug
-
 Created by  Unknown User (tjc13), last modified on Oct 05, 2008
 
 NN: Stupid person; &quot;You buttplug! You don't wasch colors with whites.&quot; S95 buttplug: Obs. S99

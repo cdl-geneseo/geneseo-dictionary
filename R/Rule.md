@@ -7,16 +7,6 @@ nav_order:
 
 # Rule
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Rule
-
 Created by  Unknown User (ram19) on Nov 20, 2012
 
 (adj.) Awesome, amazingEx. That professor rules, she's so nice.(Miller, N-R, 2012)

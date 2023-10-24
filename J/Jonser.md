@@ -7,16 +7,6 @@ nav_order:
 
 # Jonser
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Jonser
-
 Created by  Unknown User (wlf1), last modified by  Unknown User (spe1) on Nov 20, 2012
 
 Jonser: n. The instigator of a joke; a person who participates in joking or kidding, usually in a lighthearted manner.As of 2012, 40% of students surveyed know this word. 0% believe it is of local origins.(Endress, G-M, 2012)

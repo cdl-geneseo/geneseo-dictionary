@@ -7,16 +7,6 @@ nav_order:
 
 # Obliterated
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Obliterated
-
 Created by  Unknown User (lah15), last modified on Nov 15, 2010
 
 (adj.) Extremely intoxicated. Probably not Geneseo specific; A similar definition can be found on the Urban Dictionary. &quot;I can't remember anything that happened last night. I was obliterated.&quot; Hanson.

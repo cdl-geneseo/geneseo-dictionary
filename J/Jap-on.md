@@ -7,16 +7,6 @@ nav_order:
 
 # Jap on
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Jap on
-
 Created by  Unknown User (wlf1), last modified by  Unknown User (spe1) on Nov 20, 2012
 
 Jap on:1. v. to cancel a date or appointment, usually at the last minute2. v. to fail to show up without giving notice; to &quot;stand up.&quot;Both definitions of this word appear to be obsolete. As of 2012, 0% of students surveyed know this word. 0% believe it is of local origins.(Endress, G-M, 2012)

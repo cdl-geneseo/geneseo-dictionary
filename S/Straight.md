@@ -7,16 +7,6 @@ nav_order:
 
 # Straight
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Straight
-
 Created by  Sage Kearney on May 05, 2023
 
 (Adj.)Term used to describe the sexual orientation of someone who is not attracted to the same gender. Another term used to describe this is “heterosexual”. &quot;Thank you for the compliment but I'm actually straight&quot;. (Kearney, s-z, 2023).  

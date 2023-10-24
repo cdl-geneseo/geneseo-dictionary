@@ -7,16 +7,6 @@ nav_order:
 
 # Hater
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Hater
-
 Created by  Unknown User (crk4), last modified by  Unknown User (jcf10) on Nov 18, 2012
 
 n. One who casts judgments before hearing all of the information on the topic, and is known to be a negative person in general&quot;Jess was being such a hater when she refused to see the new James Bond movie.&quot;As of 2012, 100% of students surveyed know this word. 0% believe it is of local origins.(Flynn, G-M, 2012)60% of students surveyed knew this term.(Klein, E-H, 2008)

@@ -7,16 +7,6 @@ nav_order:
 
 # One Knight
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : One Knight
-
 Created by  Lily Nelson, last modified on May 05, 2023
 
 One Knight is popularly seen through out campus. This phrase refers to Geneseo's mission to provide a supportive and inclusive environment. 

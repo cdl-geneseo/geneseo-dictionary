@@ -7,16 +7,6 @@ nav_order:
 
 # Snapchat
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Snapchat
-
 Created by  Unknown User (mtr7) on Apr 27, 2015
 
 Name of the social media device that allows people to send pictures to others that will only last for a few seconds.  Although this is used by people worldwide, many students in our surveys wanted this to be included in this dictionary because they feel that it is an important part of their lives.  Furthermore, the word &quot;snap&quot; has adopted another meaning because of Snapchat so it is important to note its origin here.  &quot;How do you not have Snapchat, everyone in our generation has that, right&quot;.  Romig, S-Z, 2015.

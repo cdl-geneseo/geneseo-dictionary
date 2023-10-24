@@ -7,16 +7,6 @@ nav_order:
 
 # Canine
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Canine
-
 Created by  Unknown User (tjc13), last modified on Oct 05, 2008
 
 NN. sexual position otherwise referred to as &quot;doggy-style.&quot; As in &quot;She started out on top, and then we went canine for awhile.&quot; Only 5% of particants surveyed identified the term by this meaning, and when asked, had said it was a term associated with the Geneseo Men's Soccer or Lacrosse teams.

@@ -7,16 +7,6 @@ nav_order:
 
 # Biznatch
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Biznatch
-
 Created by  Zachary Arthur, last modified by  Unknown User (jmb53) on Nov 20, 2012
 
 AJ- new word meaning something gross. S99J.Boselli, 2012: n. 1. An non-expletive alternative to &quot;bitch.&quot; Considered to be relatively euphemistic.  75% of those surveyed were familiar with and could define the term, but not in adjective sense of the word. 

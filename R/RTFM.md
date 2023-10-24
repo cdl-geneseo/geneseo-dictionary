@@ -7,16 +7,6 @@ nav_order:
 
 # RTFM
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : RTFM
-
 Created by  Unknown User (lav4), last modified by  Unknown User (gmm6) on Nov 15, 2010
 
 Acronym: Read The Fucking Manual, used online when someone asks a question with an obvious answer.  Obsolete as of Fall 2010.  Martinelli, N-R.

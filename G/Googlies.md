@@ -7,16 +7,6 @@ nav_order:
 
 # Googlies
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Googlies
-
 Created by  Unknown User (crk4), last modified by  Unknown User (spc14) on Apr 10, 2019
 
 n. Mucous-like build-up at inner corner of the eyes; &quot;Wipe your eyes, you have ''googlies'' in them.&quot; Results: 15% of those surveyed knew this word; and 50% of the people that knew the word, learned the word at Geneseo. Conclusion: This word is not local to Geneseo, and its use is somewhat limited. Source: Dictionary of Geneseo English, Spring 1999 - Kocher Results: 16% of those surveyed knew this word in 2006, and of those who recognized the word, 0% believe the word to be specific to Geneseo. Conclusion: This word has limited use and is not specific to Geneseo.-C Adam5% of students surveyed knew this word, and 50% of these students had learned the word at Geneseo.(Klein, E-H, 2008)As of 2012, 2% of students surveyed know this word, 100% believe it is of local origins.(Goodwin, G-M, 2012)As of 2019, 0% of students surveyed knew this word. 9.1% of students surveyed believe this word originated in Geneseo. This word is obsolete. (Cannioto, G-M, 2019) 

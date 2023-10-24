@@ -7,16 +7,6 @@ nav_order:
 
 # Stan
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Stan
-
 Created by  Sage Kearney on May 05, 2023
 
 (expression) To express affirmation, support, or to express advocacy for a person (typically celebrities) or events. “I stan Harry Styles so hard” (Kearney, s-z, 2023).

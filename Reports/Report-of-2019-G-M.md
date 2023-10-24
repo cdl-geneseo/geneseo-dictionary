@@ -7,10 +7,6 @@ nav_order: 19
 
 # Group Reports 2019: G-M
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
 Spring 2019 Reports
 
 Bibliographies and Study Guides : Group Reports 2019: G-M

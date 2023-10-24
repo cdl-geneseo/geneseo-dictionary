@@ -7,16 +7,6 @@ nav_order:
 
 # Kanye 2020
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Kanye 2020
-
 Created by  Unknown User (cjk14) on Dec 11, 2020
 
 n. Tagline for the presidential campaign of controversial rapper Kanye West. Often shouted out zealously by youth who are too irresponsible to develop their own political opinions.As of 2020, 76% of students surveyed were familiar with this word. Of those surveyed, 97% believe it originated elsewhere. (Kane 2020)

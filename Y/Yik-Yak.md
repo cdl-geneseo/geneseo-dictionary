@@ -7,16 +7,6 @@ nav_order:
 
 # Yik Yak
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Yik Yak
-
 Created by  Unknown User (mtr7), last modified by  Unknown User (eim1) on Apr 01, 2019
 
 2015: Phone app that allows people to anonymously post.  Geneseo specific because the range of the posting rules on the app is only a few miles so it covers all students living off and on campus.  Although this app is used worldwide many students thought that it should be included in this dictionary because it is such a vital part of their lives.  &quot;Did you see the post about the police cars outside of Daga yesterday on Yik Yak?&quot;.  Romig, S-Z, 2015.2019: (n.). Obsolete–the app has since been deleted, so while people remember the name it is no longer in regular use. Medina, S-Z, 2019. 

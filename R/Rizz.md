@@ -7,16 +7,6 @@ nav_order:
 
 # Rizz
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Rizz
-
 Created by  Aurora Merwin on May 05, 2023
 
 (noun) This term is slang that is short for charisma. Usually used in reference to the ability to pick up a romantic/sexual partner. (Merwin, N-R, 2023)

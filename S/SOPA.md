@@ -7,16 +7,6 @@ nav_order:
 
 # SOPA
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : SOPA
-
 Created by  Unknown User (arh11), last modified on Sep 28, 2008
 
 NN Acronym for School of Performing Arts Latter consolidation of Geneseo's Departments of Dance, Music, and Theater; S95 but not known to all Geneseo Students. &quot;Brodie is the home of the SOPA.&quot; Source: Dictionary of Geneseo English 1996. Specific to Geneseo. Dilluvio

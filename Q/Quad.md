@@ -7,16 +7,6 @@ nav_order:
 
 # Quad
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Quad
-
 Created by  Unknown User (lav4), last modified by  Unknown User (afl1) on Nov 20, 2012
 
 (n.) Outdoor area of Geneseo campus. Lets play some Frisbee on the quad. Source: Dictionary of Geneseo English 2006. A similar definition appears at http://www.urbandictionary.com/ ; entry probably not specific to Geneseo. Adams.(n.) An area housing four suites in certain residence halls. (Littman, N-R, 2012)

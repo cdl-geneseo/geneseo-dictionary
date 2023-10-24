@@ -7,16 +7,6 @@ nav_order:
 
 # Daga Swamp
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Daga Swamp
-
 Created by  Unknown User (kla8) on Nov 19, 2012
 
 n. Pronunciation: Amer. / dȯgə swɒmp  1. Vandalism act in which one covers a sink drain with paper towels and runs the water indefinitely. Named after Onondaga Hall, where the act was first performed.” “As an RA, I can tell you that cleaning up after a Daga Swamp is rough work.”K. Andryshak, 2012

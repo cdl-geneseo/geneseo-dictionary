@@ -7,16 +7,6 @@ nav_order:
 
 # He shoots... he scores!
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : He shoots... he scores!
-
 Created by  Unknown User (met6), last modified by  Unknown User (jcf10) on Nov 18, 2012
 
 v. phrase Denotes accomplishment, especially in sports or in sexual advancesSource: Dictionary of Geneseo English, Spring 1999 - Kocher- 2006 Of those surveyed in 2008, 79.6% recognized the word, and 0% learned the word in Geneseo.Talbot, 2008As of 2012, 77.5% of students surveyed know this phrase. 0% believe it is of local origins.(Flynn, G-M, 2012)

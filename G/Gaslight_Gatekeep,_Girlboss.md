@@ -7,16 +7,6 @@ nav_order:
 
 # Gaslight, Gatekeep, Girlboss
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Gaslight, Gatekeep, Girlboss
-
 Created by  Mollie McMullan on May 05, 2023
 
 This phrase is almost exclusively used ironically, and references the structure and flatness of “live, laugh, love” in order to parody &quot;toxic, usually white feminism.&quot; (Abad-Santos). 99.5% of those surveyed knew this term. (McMullan, G-M, 2023)Abad-Santos, Alex. “The death of the girlboss.” Vox. https://www.vox.com/22466574/gaslight-gatekeep-girlboss-meaning 

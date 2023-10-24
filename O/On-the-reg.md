@@ -7,16 +7,6 @@ nav_order:
 
 # On the reg
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : On the reg
-
 Created by  Unknown User (omh1) on Nov 20, 2012
 
 (adj.) To do something regularly, usually positive; &quot;I'm in such a better mood since I've been getting it on the reg.&quot; Horowitz 2012

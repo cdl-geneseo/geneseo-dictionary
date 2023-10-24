@@ -7,16 +7,6 @@ nav_order:
 
 # Steubennery
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Steubennery
-
 Created by  Unknown User (arh11), last modified on Sep 28, 2008
 
 Steubennery: (noun) Blend of Steuben (dorm) and nunnery, through citation only barely supports this blending; &quot;She lives in Steubennery on North Side of the campus&quot;; F91, according to a S94 reporter's informant; based in part on Steuben being a male-deficient all-female dorm, F91, according to S94s other informant, who's advice was &quot;If you want a girlfriend, go hang out in Steuben.&quot; Specific to Geneseo.

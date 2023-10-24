@@ -7,16 +7,6 @@ nav_order:
 
 # BAMF
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : BAMF
-
 Created by  Zachary Arthur, last modified on Nov 24, 2008
 
 Noun: A bad ass mother fucker; &quot;Wow that guy is a bamf.&quot;

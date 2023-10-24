@@ -7,16 +7,6 @@ nav_order:
 
 # Bagged
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Bagged
-
 Created by  Zachary Arthur, last modified by  Unknown User (kla8) on Nov 20, 2012
 
 VB: To have sex with; &quot;Bill bagged Jill after the party.&quot; F94 VB-43% of the students surveyed identified this as the act of having sex.Obsolete, less than 5% were able to identify this term. K. Andryshak, 2012

@@ -7,16 +7,6 @@ nav_order:
 
 # Steubennian
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Steubennian
-
 Created by  Unknown User (lav4), last modified by  Unknown User (mtr7) on Apr 27, 2015
 
 Noun: term used by the R.A.'s of Steuben Hall to refer to the dorm residents (thought to have replaced Steubennunery)Some students recognized that Steubennian was referring to someone who lives in Steuben, however most students did not know what this meant and would not use it in everyday conversation even if they did.  Obsolete.  Romig, S-Z, 2015.

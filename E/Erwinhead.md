@@ -7,16 +7,6 @@ nav_order:
 
 # Erwinhead
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Erwinhead
-
 Created by  Unknown User (met6), last modified on Sep 09, 2008
 
 Noun 1. One who works in Erwin Hall, often an administrator; used pejoratively: &quot;I got a letter from the Dean the other day about my unacceptable conduct. Now I have to go and deal with all theerwinheads.&quot; - and neutrally; &quot;When I was reading in the quad yesterday afternoon, I saw all the erwinheads leaving to go to lunch.&quot;

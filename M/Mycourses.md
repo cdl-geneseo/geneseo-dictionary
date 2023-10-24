@@ -7,16 +7,6 @@ nav_order:
 
 # Mycourses
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Mycourses
-
 Created by  Unknown User (erg5), last modified by  Unknown User (rch7) on Apr 13, 2019
 
 n. A website that displays the current course load of an individuals; Course instructors may post information pertaining to their respective classes.&quot;I lost my syllabus; I guess I'll see if the professor posted it on Mycourses.&quot;100% of those surveyed know this word and 100% believe it is of local origins.As of 2012, 100% of students surveyed knew the word and 100% believed it to be of local origin.(Craft, G-M, 2012)The site Mycourses is no longer in use, but the phrase is not entirely obsolete as many students still remember it. 43.8% of students surveyed knew the word and 75% believe it to be of local origins. (Hirschhorn, G-M, 2019)

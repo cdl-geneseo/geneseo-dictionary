@@ -7,16 +7,6 @@ nav_order:
 
 # Chip Matthews
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Chip Matthews
-
 Created by  Unknown User (tjc13), last modified on Oct 05, 2008
 
 Chip Matthews (NN): Manager of the College Union who sends out emails and writes to the What's Up Digest about goings on in the CU. Known for making life difficult for organizations who wish to use the CU for meetings, storage, etc. Definition of approximately 72% of those surveyed. (F06) (new word) Unknown by approximately 28% of those surveyed. (F06) Simmington It seemed like the people who did not know who Mr. Matthews was were those who were not in organizations that used the Union.

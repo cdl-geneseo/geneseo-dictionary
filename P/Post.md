@@ -7,16 +7,6 @@ nav_order:
 
 # Post
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Post
-
 Created by  Unknown User (afl1), last modified on Nov 20, 2012
 
 (v.) To submit something on a website.(n.) A submission made onto a website.(Littman, N-R, 2012)

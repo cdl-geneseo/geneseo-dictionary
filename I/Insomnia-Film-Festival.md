@@ -7,16 +7,6 @@ nav_order:
 
 # Insomnia Film Festival
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Insomnia Film Festival
-
 Created by  Unknown User (jve2) on Apr 28, 2015
 
 n. A festival in which competing Geneseo students have a day (24 hours) to create and present a short film.&quot;Are you going to the Insomnia Film Festival this year?&quot;As of 2015, 85% knew the word.(Eckert, G-M 2015)

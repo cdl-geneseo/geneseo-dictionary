@@ -7,16 +7,6 @@ nav_order:
 
 # Chode
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Chode
-
 Created by  Zachary Arthur, last modified on Nov 24, 2008
 
 Noun: A penis that is wider than it is long; &quot;Ew I bet that guy has a chode.&quot;

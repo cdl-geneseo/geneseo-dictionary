@@ -7,16 +7,6 @@ nav_order:
 
 # Pound
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Pound
-
 Created by  Unknown User (era6), last modified by  Unknown User (afl1) on Nov 20, 2012
 
 Pound(v.) To chug an alcoholic beverage. &quot;You better pound that drink, pussy.&quot; Source: Dictionary of Geneseo English 1999. A similar definition appears at http://www.urbandictionary.com/ ; entry probably not specific to Geneseo. Adams. (Littman, N-R, 2012)

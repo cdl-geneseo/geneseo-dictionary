@@ -7,16 +7,6 @@ nav_order:
 
 # Megabed
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Megabed
-
 Created by  Marissa Maxwell, last modified on May 02, 2023
 
 Two twin beds pushed together in a dorm.As of 2023, 85% of students surveyed have heard of this term, and around 83% believe that it is fairly often or often used on campus. 

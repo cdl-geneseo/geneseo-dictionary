@@ -7,16 +7,6 @@ nav_order:
 
 # Rancho Viejo
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Rancho Viejo
-
 Created by  Unknown User (ac45) on Apr 07, 2019
 
 (n.) A Mexican Restaurant located at 4262 Lakeville Rd, Geneseo, NY. “I’m so hungover, can we please get Rancho?” (A Chen, N-R, 2019). 

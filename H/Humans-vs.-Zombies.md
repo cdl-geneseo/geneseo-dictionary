@@ -7,16 +7,6 @@ nav_order:
 
 # Humans vs. Zombies
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Humans vs. Zombies
-
 Created by  Unknown User (erg5), last modified by  Unknown User (spe1) on Nov 20, 2012
 
 Humans vs. Zombies n. a cos-play game, similar to tag, in which the weapon-carrying Humans try to avoid being caught by Zombies, marked by a bandana on their heads or arms.“Those kids are playing Humans vs. Zombies on the College Green.”100% of those surveyed have heard of this game and 100% believe it is of local origins.As of 2012, 95% of students surveyed know this word. 40% believe it is of local origins.(Endress, G-M, 2012)

@@ -7,16 +7,6 @@ nav_order:
 
 # Fuck-and-run
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Fuck-and-run
-
 Created by  Unknown User (kla8) on Nov 19, 2012
 
 n. Pronunciation: Amer. / fək-ən(d)-rən 1. One-night stand. “Remember that guy from the IB last night? Talk about a fuck-and-run.”K. Andryshak, 2012

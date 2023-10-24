@@ -7,16 +7,6 @@ nav_order:
 
 # Newton
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Newton
-
 Created by  Unknown User (gmm6), last modified on Sep 30, 2010
 
 (n.)  An abbreviation that is used to refer to the Newton Lecture Hall.  &quot;I gotta head up to Newton for my psych class.&quot;  Martinelli, N-R, 2010.

@@ -7,16 +7,6 @@ nav_order:
 
 # Dane Cook
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Dane Cook
-
 Created by  Unknown User (bli2), last modified on Sep 21, 2008
 
 Dane Cook (NN): a very popular comedian. Definition of approximately 86% of those surveyed. (F06) (new word) Unknown by approximately 14% of those surveyed. (F06) Simmington

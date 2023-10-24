@@ -7,16 +7,6 @@ nav_order:
 
 # WhatsUp-L Digest
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : WhatsUp-L Digest
-
 Created by  Unknown User (kmh28), last modified on Dec 01, 2008
 
 (noun) Daily e-mail sent out by the school. It is a forum for different groups to announce upcoming events and activities. Also referred to as the &quot;WhatsUp List&quot;

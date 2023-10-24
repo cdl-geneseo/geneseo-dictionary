@@ -7,11 +7,11 @@ nav_order:
 
 # Spring 2015 Reports
 
-Bibliographies and Study Guides
 
-Dictionary of Geneseo English
 
-Bibliographies and Study Guides : Spring 2015 Reports
+
+
+
 
 Created by  Graham Drake, last modified on Mar 22, 2019
 

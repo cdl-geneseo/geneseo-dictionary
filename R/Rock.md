@@ -7,16 +7,6 @@ nav_order:
 
 # Rock
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Rock
-
 Created by  Unknown User (gmm6), last modified on Nov 30, 2010
 
 (vb.)  To use something effectively.  It is often used sarcastically.  Usage is not specific to Geneseo.  Similar definitions can be found in the Urban Dictionary.  &quot;Wow, you're rocking those suspenders, man.&quot;  Martinelli, N-R, 2010.

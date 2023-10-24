@@ -7,16 +7,6 @@ nav_order:
 
 # Flex
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Flex
-
 Created by  Unknown User (ms61), last modified by  Unknown User (meg23) on Apr 15, 2019
 
 N. Part of the Geneseo student meal plan that is used at vending machines. Can be used as regular meal plan money when students run out of their original meal plan.ex: &quot;Hey do you have any extra flex? I wanted to get some chips.&quot;V. To show off an object or quality about oneself. ex: &quot;Stop flexing for Instagram. You don't even have good muscles.&quot;(J. Serbalik, A-F, 2019).

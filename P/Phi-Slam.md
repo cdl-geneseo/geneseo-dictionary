@@ -7,16 +7,6 @@ nav_order:
 
 # Phi Slam
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Phi Slam
-
 Created by  Unknown User (era6), last modified by  Unknown User (lah15) on Nov 15, 2010
 
 Phi Slam

@@ -7,16 +7,6 @@ nav_order:
 
 # Suite
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Suite
-
 Created by  Unknown User (mtr7) on Apr 29, 2015
 
 One of the type of living situations that on-campus students can utilize.  There are six and eight person suites that are located on north and south campus.  Romig, S-Z, 2015. 

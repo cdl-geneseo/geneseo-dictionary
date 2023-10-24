@@ -7,16 +7,6 @@ nav_order:
 
 # Drop (a log)
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Drop (a log)
-
 Created by  Unknown User (bli2), last modified on Nov 27, 2008
 
 VB: To move one's bowels. F94 VB - Obs. F98 Brognano, D. McGiveron

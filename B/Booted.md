@@ -7,16 +7,6 @@ nav_order:
 
 # Booted
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Booted
-
 Created by  Zachary Arthur, last modified by  Graham Drake on Dec 18, 2010
 
 AJ: Heavily intoxicated; &quot;I was so booted last night, I can't remember a thing.&quot; S95 AJ-63% of the students surveyed identified this as the act of vomiting. S99 AJ: Falling out of usage. 36% of students surveyed identified this as the act of vomiting. F06 

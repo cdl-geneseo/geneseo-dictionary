@@ -7,16 +7,6 @@ nav_order:
 
 # Chickyboo and chickypoo
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Chickyboo and chickypoo
-
 Created by  Unknown User (tjc13), last modified on Oct 05, 2008
 
 NN: Girl; &quot;Okay, thanks chickyboos. See you later.&quot; F90 Nearly Obs. F92 chickyboo and chickypoo - Obs. Source: Dictionary of Geneseo English, Fall 1998. Simmington Chickyboo and Chickypoo (NN): a nickname for a female friend, similar to &quot;girl&quot; as in &quot;Hey girl&quot; or &quot;Hey chickypoo.&quot; Definition of approximately 21% of those surveyed. Unknown by approximately 79% of those surveyed.

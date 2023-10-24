@@ -7,16 +7,6 @@ nav_order:
 
 # Obv or Obvi
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Obv or Obvi
-
 Created by  Unknown User (mem32) on Nov 20, 2012
 
 (abbv.) - Common abbreviations for the word &quot;obviously.&quot;(McNiffe, N-R, 2012)

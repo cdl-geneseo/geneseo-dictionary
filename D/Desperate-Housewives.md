@@ -7,16 +7,6 @@ nav_order:
 
 # Desperate Housewives
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Desperate Housewives
-
 Created by  Unknown User (bli2), last modified by  Graham Drake on Dec 21, 2010
 
 Desperate Housewives (NN): Sunday night television show on ABC about suburban women who live dramatic lives. Definition of approximately 93% of those surveyed. (F06) (new word) Unknown by approximately 7% of those surveyed. (F06) Simmington This word was chosen to be added to the Wiki due to its popularity among students according to the Facebook Pulse. Simmington (F06)

@@ -7,16 +7,6 @@ nav_order:
 
 # Bootknockin'
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Bootknockin'
-
 Created by  Zachary Arthur, last modified on Sep 23, 2008
 
 VB: To have sex. Term identified by 54% of those surveyed. F06 

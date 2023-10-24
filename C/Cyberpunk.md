@@ -7,16 +7,6 @@ nav_order:
 
 # Cyberpunk
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Cyberpunk
-
 Created by  Unknown User (bli2), last modified on Sep 21, 2008
 
 NN: Radical left-winger; &quot;She's a cyberpunk; don't get involved.&quot; F92 cyberpunk (NN) - Falling out of use. Source: Dictionary of Geneseo English, Spring 1999 Simmington Cyberpunk (NN): computer junkie. Definition of approximately 21% of those surveyed. (F06) Unknown by approximately 79% of those surveyed. (F06) Simmington, D. McGiveron

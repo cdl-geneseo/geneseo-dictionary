@@ -7,16 +7,6 @@ nav_order:
 
 # Whineass
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Whineass
-
 Created by  Unknown User (kmh28), last modified by  Kayla Stewart on May 04, 2023
 
 (noun) One who whines.2015: Declining in use still, but still recognized by some. M. Turner S-Z 2015 2008: Recognizable and definable, but not often used.&quot;Quit being such a whineass and just finish your paper already!&quot;Source: Source: Geneseo Dictionary 2006. ANicodemi.2023: Many did not recognize this word, but a select few use it still. (Stewart, S-Z, 2023) 

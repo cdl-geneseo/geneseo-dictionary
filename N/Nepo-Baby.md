@@ -7,16 +7,6 @@ nav_order:
 
 # Nepo-Baby
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Nepo-Baby
-
 Created by  Aurora Merwin on May 05, 2023
 
 (noun) reference to a child who is famous or got into their position because of their parents position or success. Derived from nepotism(n). (Merwin, N-R, 2023)

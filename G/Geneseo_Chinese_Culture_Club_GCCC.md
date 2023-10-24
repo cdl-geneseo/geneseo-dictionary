@@ -7,16 +7,6 @@ nav_order:
 
 # Geneseo Chinese Culture Club (GCCC)
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Geneseo Chinese Culture Club (GCCC)
-
 Created by  Unknown User (adb10), last modified on Apr 28, 2015
 
 (noun)The Geneseo Chinese Culture Club welcomes everyone in the SUNY Geneseo community to join in the exploration, and experiencing of the Chinese culture in which they celebrate traditions, old and new. They strive to achieve this goal through weekly meetings, and events such as the Mid-Autumn Festival and China Night. Both the meetings and the events differ in their subject matter, but one thing is for certain, fun always awaits! (http://www.geneseo.edu/~ace/gccc.html) As of 2015, 93.75% of the students heard this word, and 75% believe it is locally specific. (Bonetto, G-M, 2015)

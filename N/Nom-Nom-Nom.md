@@ -7,16 +7,6 @@ nav_order:
 
 # Nom Nom Nom
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Nom Nom Nom
-
 Created by  Unknown User (ajm3), last modified on Nov 30, 2010
 
 1. (phr.) The sound someone makes when one is thoroughly enjoying food. A. Moak 2010.

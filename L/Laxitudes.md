@@ -7,16 +7,6 @@ nav_order:
 
 # Laxitudes
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Laxitudes
-
 Created by  Unknown User (krk5), last modified by  Unknown User (mp31) on Apr 12, 2019
 
 n. Members of the women's lacrosse team, said to be of dubious sexual morals.Source: Dictionary of Geneseo English, Fall 2006, KalluschSpecific to Geneseo.As of 2010, 20% of those surveyed know the word. The word appears to have limited usage.(Fishkin, G-M, 2010)As of 2012, 13% of students surveyed knew this word and 0% believed it to be of local origin.(Eichas, G-M, 2012) As of 2019, 8% of students surveyed said they knew this word, but none provided the original definition. The term is used more to describe a relaxed attitude generally. Under 1% believed it originated in Geneseo, most likely because there is no longer a connection with the women's lacrosse team here. (Pigliacelli, 2019)

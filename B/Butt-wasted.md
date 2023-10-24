@@ -7,16 +7,6 @@ nav_order:
 
 # Butt-wasted
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Butt-wasted
-
 Created by  Unknown User (tjc13), last modified by  Unknown User (kla8) on Nov 20, 2012
 
 adj. 1. Very drunk&quot;I went to Phi Kaps and got butt-wasted on Saturday. I don't remember anything.&quot;F92 F94-Said to be Obs. butt-wasted: Falling out of use, while 34% of people identified the term, they stated it is used rarely.KTousey This word was found to be obselete. Only 10% of students familiar with this term6% of students surveyed guessed at this meaning drunk, but were not sure. Therefore, Obs. 2012 -K. Andryshak

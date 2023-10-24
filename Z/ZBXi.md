@@ -7,16 +7,6 @@ nav_order:
 
 # ZBXi
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : ZBXi
-
 Created by  Unknown User (kmh28), last modified on Dec 01, 2008
 
 (noun) Abbreviation for Zeta Beta Xi, a Geneseo fraternity. Can also be used for the location of the frat house.

@@ -7,16 +7,6 @@ nav_order:
 
 # Poke War
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Poke War
-
 Created by  Unknown User (ram19) on Nov 20, 2012
 
 (n.) When two people continuously poke each other on facebook as a race to see who can poke back the fastest.Ex. I started a poke war with my sister yesterday, and I'm totally winnng.(Miller, N-R, 2012)

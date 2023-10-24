@@ -7,16 +7,6 @@ nav_order:
 
 # FARI
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : FARI
-
 Created by  Unknown User (crk4), last modified on Dec 02, 2008
 
 FARI: noun acronym standing for &quot;Fighting Against Racial Injustice,&quot; a club on the Geneseo campus.

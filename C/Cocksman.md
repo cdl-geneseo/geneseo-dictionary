@@ -7,16 +7,6 @@ nav_order:
 
 # Cocksman
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Cocksman
-
 Created by  Unknown User (bli2), last modified on Sep 21, 2008
 
 Cocksman (NN): guy who goes out to meet women and hook up. Definition of approximately 10% of those surveyed. (F06) (new word) Unknown by approximately 90% of those surveyed. (F06) Simmington

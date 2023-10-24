@@ -7,16 +7,6 @@ nav_order:
 
 # 'Seo
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : 'Seo
-
 Created by  Unknown User (arh11), last modified on Sep 28, 2008
 
 (n.) nickname for Geneseo as used in The Lamron column, &quot;Sex and the 'Seo&quot;. Source: Dictionary of Geneseo English 2006. Dilluvio.

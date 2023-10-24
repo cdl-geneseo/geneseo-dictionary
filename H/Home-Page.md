@@ -7,16 +7,6 @@ nav_order:
 
 # Home Page
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Home Page
-
 Created by  Lauren Silverman on Dec 11, 2020
 
 the primary page of a website; usually has links to specific sections of the website, as well as key information about the organization that the website represents.As of 2020, 86% of students surveyed know the word.86% of students surveyed know the word. Of those surveyed, 79.1% believed it originated elsewhere.(Silverman, G-M, 2020)

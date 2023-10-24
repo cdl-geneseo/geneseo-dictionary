@@ -7,16 +7,6 @@ nav_order:
 
 # Eleven
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Eleven
-
 Created by  Unknown User (jfw3), last modified on Sep 09, 2008
 
 Eleven

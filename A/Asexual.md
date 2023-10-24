@@ -7,16 +7,6 @@ nav_order:
 
 # Asexual
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Asexual
-
 Created by  Unknown User (tjc13), last modified on Nov 24, 2008
 
 Noun- an individual whom does not have sex, not out of personal choice or preference, but instead due to the individual being lazy, unmotivated, shy or unlucky.  In this case it is not used in reference to sexuality.  &quot;Mike is unlucky with the ladies, he is such an asexual.&quot;  New term Fall 2008.

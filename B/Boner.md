@@ -7,16 +7,6 @@ nav_order:
 
 # Boner
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Boner
-
 Created by  Unknown User (kla8) on Nov 19, 2012
 
 n. Pronunciation: Amer. / boʊ-nər  1. A male erection. “It is not uncommon to hide a boner using a textbook.”K. Andryshak, 2012

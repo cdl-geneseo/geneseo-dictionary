@@ -7,16 +7,6 @@ nav_order:
 
 # Flip-cup
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Flip-cup
-
 Created by  Unknown User (kla8) on Nov 19, 2012
 
 n. Pronunciation: Amer. / flɪp-kəp 1. Drinking game played by two teams of variable number. Each team member must 1) finish his beer, 2) invert his cup on the game surface (typically a folding ping-pong table), and 3) flip it right-side up using only the tip of a finger before the next team member may begin. The first team to have each member successfully accomplish this wins.  “I bought a new ping-pong table for Flip-cup!”K. Andryshak, 2012

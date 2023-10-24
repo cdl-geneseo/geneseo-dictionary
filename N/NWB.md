@@ -7,16 +7,6 @@ nav_order:
 
 # NWB
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : NWB
-
 Created by  Unknown User (ajm3), last modified by  Unknown User (mem32) on Nov 20, 2012
 
 1. (n) Colloquial spelling of &quot;noob&quot;, usually seen in texting and online gaming. Refers to someone inexperienced at something, usually in online gaming. &quot;Stop being such a NWB&quot; A. Moak 2010 (Obsolete, 2012)(McNiffe, N-R, 2012)

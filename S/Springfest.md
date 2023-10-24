@@ -7,16 +7,6 @@ nav_order:
 
 # Springfest
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Springfest
-
 Created by  Unknown User (eo7) on Nov 16, 2012
 
 n. A spring celebration held annually in Geneseo.&quot;Joe has four tie-dyed shirts from Springfest.&quot;EOberdorf, S-Z, 2012

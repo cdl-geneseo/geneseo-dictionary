@@ -7,16 +7,6 @@ nav_order:
 
 # Fire
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Fire
-
 Created by  Unknown User (met6), last modified by  Unknown User (jmb53) on Nov 20, 2012
 
 adj. 1.Used to describe something of great quality, esp. marijuana or cocaine.Usage: &quot;Try some of this, man, this shit is fire&quot; Talbot, E-H, 2008, edited by J.Boselli, 2012  KChapman and ABelliard, 2010:  Definitely still in use at Geneseo, recognized by nearly everyone in the &quot;party&quot; crowd that was interviewed.

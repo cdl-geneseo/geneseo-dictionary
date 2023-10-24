@@ -7,16 +7,6 @@ nav_order:
 
 # Subtoga
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Subtoga
-
 Created by  Unknown User (met6), last modified on Nov 23, 2008
 
 A portmanteau of Saratoga terrace and Steuben residence halls, since they share an RD.

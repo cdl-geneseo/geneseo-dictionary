@@ -7,16 +7,6 @@ nav_order:
 
 # Aunt Cookie's
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Aunt Cookie's
-
 Created by  Unknown User (kla8) on Nov 19, 2012
 
 n.  Pronunciation: Amer. / ænt-, æ̇nt-  1. A submarine sandwich shop on Main Street in Geneseo. “Can we go to Aunt Cookie’s for lunch?”K. Andryshak, 2012

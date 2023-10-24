@@ -7,16 +7,6 @@ nav_order:
 
 # Rocked
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Rocked
-
 Created by  Unknown User (lav4), last modified on Oct 28, 2008
 
 (adj.) Drunk. &quot;I got rocked off that Pabst Blue Ribbon.&quot; Source: Dictionary of Geneseo English 2001. Obsolete Fall 2006. Dinki.

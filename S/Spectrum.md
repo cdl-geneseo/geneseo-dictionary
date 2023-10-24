@@ -7,16 +7,6 @@ nav_order:
 
 # Spectrum
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Spectrum
-
 Created by  Unknown User (ejr7) on Nov 16, 2012
 
 n. Name of the Geneseo women’s choir.&quot;I auditioned for Spectrum and was accepted!&quot;EReck, S-Z, 2012

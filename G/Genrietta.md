@@ -7,16 +7,6 @@ nav_order:
 
 # Genrietta
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Genrietta
-
 Created by  Unknown User (crk4), last modified by  Unknown User (cmf9) on Nov 19, 2012
 
 noun- This is a new word as of 2006 and refers to the commercial building up of the town of Geneseo, relating it to Henrietta. Seen on signs throughout Geneseo which read, &quot;Geneseo Yes, Genrietta No&quot;. Results: 46% of those surveyed recognized this word in 2006. Conclusion: This word is familiar to a moderate population in Geneseo and is likely to maintain, increase or lose its presence based on the development of the town of Geneseo.-C Adam48% of students surveyed knew this word, and 90% of these students had learned the word at Geneseo. This word has originated in Geneseo, although most likely not from the college students present in the town. Through contact with residents of the town, this vocabulary has entered the lexicon of students, many of who are not from the Geneseo area.(Klein, E-H, 2008)As of 2012, 0% of students surveyed knew this word, results were inconclusive on locality.(Felice, G-M, 2012)

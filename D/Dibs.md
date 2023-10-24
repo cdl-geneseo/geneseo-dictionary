@@ -7,16 +7,6 @@ nav_order:
 
 # Dibs
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Dibs
-
 Created by  Unknown User (bli2), last modified on Nov 24, 2008
 
 dibs (vb): a person claims something for their own. F06. KTousey

@@ -7,16 +7,6 @@ nav_order:
 
 # Leech
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Leech
-
 Created by  Unknown User (krk5), last modified by  Unknown User (mee2) on Nov 19, 2012
 
 1. n. One who clings.As of 2012, 85% of students surveyed knew this word and 5% believed it to be of local origin.(Eichas, G-M, 2012) 2. n. One who deprives the giver of money, cigarettes, etc.Source: Dictionary of Geneseo English, Fall 2006, KalluschAs of 2012, 85% of students surveyed knew this word and 5% believed it to be of local origin.(Eichas, G-M, 2012)  

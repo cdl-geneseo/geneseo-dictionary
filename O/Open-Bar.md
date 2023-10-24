@@ -7,16 +7,6 @@ nav_order:
 
 # Open Bar
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Open Bar
-
 Created by  Lily Nelson on May 05, 2023
 
 A bar at some type of function where the drinks have previously been paid for either by the host or those who are attending.

@@ -7,16 +7,6 @@ nav_order:
 
 # Geneseomemes
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Geneseomemes
-
 Created by  Unknown User (nac16) on Dec 11, 2020
 
 n. A student-run instagram account featuring joking posts about Geneseo.Source: Dictionary of Geneseo English, Fall 2020, ChojnackiAs of 2020, 86% of students surveyed know the word.86% of students surveyed know the word. Of those surveyed, 90.7% believed it originated in Geneseo. (Chojnacki, G-M, 2020)

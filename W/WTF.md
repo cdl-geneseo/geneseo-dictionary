@@ -7,16 +7,6 @@ nav_order:
 
 # WTF
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : WTF
-
 Created by  Unknown User (kmh28), last modified on Dec 02, 2008
 
 (phrase) Acronym for &quot;what the f*ck&quot;. Used to express disbelief or shock. Originated on internet, now commonly used verbally, as well. Variations include &quot;what the eff?&quot;

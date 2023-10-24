@@ -7,16 +7,6 @@ nav_order:
 
 # Boom
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Boom
-
 Created by  Zachary Arthur, last modified on Sep 23, 2008
 
 1. IN: See, I'm right; &quot;Boom, I told you Jeffrey Dahmer was killed this morning--you never believe me.&quot; F94 2. VB: To hit. F94 Usages 1 and 2 now obsolete. 1 person identified the term as cocaine and 21% of students identified the word as a loud noise. F06 

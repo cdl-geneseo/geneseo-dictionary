@@ -7,16 +7,6 @@ nav_order:
 
 # Dirty Sanchez
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Dirty Sanchez
-
 Created by  Unknown User (bli2), last modified on Nov 27, 2008
 
 dirty sanchez (vb): during sex a male will stick his finger in the female's anus and will wipe it along her upper lip. 70% of students surveyed use this term. F06. KTousey

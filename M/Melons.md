@@ -7,16 +7,6 @@ nav_order:
 
 # Melons
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Melons
-
 Created by  Unknown User (est1), last modified by  Unknown User (msc5) on Nov 19, 2012
 
 2006-12-11T10:25:46ZSValentineMelons [mel-uhns] n. A woman's breasts. Source: Dictionary of Geneseo English 1998 (Submitted by SValentine)As of 2012, 98% knew the word and 3% believed it to be of local origin.(Craft, G-M, 2012)

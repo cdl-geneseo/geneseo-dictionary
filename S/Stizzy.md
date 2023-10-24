@@ -7,16 +7,6 @@ nav_order:
 
 # Stizzy
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Stizzy
-
 Created by  Anne Baranello, last modified on Dec 13, 2020
 
 Noun/AdjectiveUsed to describe someone who is too high to smoke any more marijuana. Also used to refer to the wax/thc pens that people use to get high (though not in reference to actual joints). (Baranello, S-Z 2020)

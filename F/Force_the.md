@@ -7,16 +7,6 @@ nav_order:
 
 # Force, the
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Force, the
-
 Created by  Unknown User (jfw3), last modified by  Unknown User (met6) on Sep 14, 2008
 
 Noun Alcoholic drink combining beer, pink lemonade, and vodka; &quot;Hey Leaf, I have the beer for the The Force.&quot;

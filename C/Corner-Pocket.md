@@ -7,16 +7,6 @@ nav_order:
 
 # Corner Pocket
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Corner Pocket
-
 Created by  Unknown User (bli2), last modified on Sep 21, 2008
 
 Corner Pocket (NN): place on the second floor of the College Union (behind the Campus Grind and next to [[GUS]]) where pool/billiards, ping-pong, air hockey, Dance Dance Revolution and other games are available at no cost so students can hang out with friends. Definition of approximately 88% of those surveyed. (F06) (new word) Unknown by approximately 12% of those surveyed. (F06) Simmington

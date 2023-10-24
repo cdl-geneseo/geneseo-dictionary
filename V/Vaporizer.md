@@ -7,16 +7,6 @@ nav_order:
 
 # Vaporizer
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Vaporizer
-
 Created by  Unknown User (prv2), last modified on Dec 07, 2010
 
 (N) - A device that super-heats Marijuana into vapor, both increasing and preserving higher than ordinary levels of the hallucinogen THC. Smoked much like a hookah.

@@ -7,16 +7,6 @@ nav_order:
 
 # Ella Cline Shear School of Education
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Ella Cline Shear School of Education
-
 Created by  Unknown User (met6), last modified by  Mia Gennaro on May 04, 2023
 
 (noun) Department within SUNY Geneseo dedicated to the education of students pursuing early childhood, childhood, and adolescent certifications.MMarcantonio 2006(noun) - 1. School of Education specifically in SUNY Geneseo that prepares future teachers for the realities of school and education, Ex. &quot;I just applied to the Ella Cline Shear School of Education where I have to maintain a 2.75 GPA to stay in the program.&quot; (Gennaro, A-F, 2023)

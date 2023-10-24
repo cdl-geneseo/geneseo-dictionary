@@ -7,16 +7,6 @@ nav_order:
 
 # Chotch
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Chotch
-
 Created by  Unknown User (tjc13), last modified on Oct 05, 2008
 
 // NN- Someone who is weak-minded; a boy who acts like a girl in a heterosexual way. This term is used frequently among the members of the Geneseo Blue Wave, as in, &quot;Ryan stayed in tonight; he's such a chotch!&quot; F01 BUT: No evidence given that this item is a year or more old

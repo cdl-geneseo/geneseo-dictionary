@@ -7,16 +7,6 @@ nav_order:
 
 # Courtside
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Courtside
-
 Created by  Unknown User (bli2), last modified on Sep 21, 2008
 
 Courtside (NN): red apartment complex off of [[Court Street]] where many students live. Definition of approximately 72% of those surveyed. (F06) (new word) Unknown by approximately 28% of those surveyed. (F06) Simmington

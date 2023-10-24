@@ -7,16 +7,6 @@ nav_order:
 
 # Can't-get-it-upagous
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Can't-get-it-upagous
-
 Created by  Unknown User (tjc13), last modified by  Unknown User (jmb53) on Nov 20, 2012
 
 noun- an alternative name for the Seuss Tree located in the Sturges Quad, so named for its resemblance to a semi-erect penis. New word Fall 2008.J.Boselli, 2012: 2. colloq. term for impotence, erectile dysfunction, or &quot;whiskey dick.&quot; Though only 20% of those surveyed could identify the term, those were responses were in this new sense of the word.

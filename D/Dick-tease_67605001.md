@@ -7,16 +7,6 @@ nav_order:
 
 # Dick-tease
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Dick-tease
-
 Created by  Unknown User (ab21), last modified on Nov 16, 2010
 
 Feminine Noun. Not as pejorative as a &quot;vamp.&quot; Term inspired from the verb &quot;to strip tease&quot; meaning that the girl turns the man on but has no intentions of concluding. She is only teasing. Same idea with here. Example: &quot;Don't lose your time with her, she's a dick-tease.&quot;

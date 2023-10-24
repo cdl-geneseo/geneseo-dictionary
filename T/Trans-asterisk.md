@@ -7,16 +7,6 @@ nav_order:
 
 # Trans*
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Trans*
-
 Created by  Sage Kearney on May 05, 2023
 
 (adj.) Umbrella term for representing those of the trans community. &quot;I wasn't born as a girl, I'm trans&quot;. (Kearney, s-z, 2023).

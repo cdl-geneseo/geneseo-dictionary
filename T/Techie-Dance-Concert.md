@@ -7,16 +7,6 @@ nav_order:
 
 # Techie Dance Concert
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Techie Dance Concert
-
 Created by  Unknown User (alu1), last modified by  Unknown User (mtr7) on Apr 28, 2015
 
 Performed after the Geneseo Dance Ensemble's concert every semester, the backstage crew and stage managers will re-enact the dance numbers in the concert for the entertainment of the dancers who have just performed. Source: Brodie School of the ArtsNo one from our surveys was able to identify what a Techie Dance Concert was and so none of them felt comfortable using it conversation.  Obsolete.  Romig, S-Z, 2015.

@@ -7,16 +7,6 @@ nav_order:
 
 # Snatch
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Snatch
-
 Created by  Unknown User (lav4), last modified on Dec 01, 2008
 
 Noun: A slang term for the female genitalia.

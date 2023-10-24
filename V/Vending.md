@@ -7,16 +7,6 @@ nav_order:
 
 # Vending
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Vending
-
 Created by  Unknown User (kmh28), last modified by  Unknown User (met10) on Apr 28, 2015
 
 (verb) Going to the vending machine for food.&quot;I'm vending, want anything?&quot;Source: Geneseo Dictionary 2006. Nicodemi.Update: also can be used as a noun to refer to the location of the vending machines. &quot;I'm going to vending, want anything?&quot;  M. Turner S-Z 2015

@@ -7,16 +7,6 @@ nav_order:
 
 # Friend
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Friend
-
 Created by  Unknown User (crk4), last modified on Dec 02, 2008
 
 Friend: verb to request the status of &quot;friend&quot; with someone on Facebook

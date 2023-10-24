@@ -7,16 +7,6 @@ nav_order:
 
 # Ciggy
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Ciggy
-
 Created by  Unknown User (aa48) on Dec 10, 2020
 
 Noun- a shortened term for cigarette

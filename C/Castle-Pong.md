@@ -7,16 +7,6 @@ nav_order:
 
 # Castle Pong
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Castle Pong
-
 Created by  Zachary Arthur, last modified on Nov 24, 2008
 
 Noun: A variant of beer pong where cups are stacked on top of each other; &quot;We have a while still, do you guys want to play Castle Pong?&quot;

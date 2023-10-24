@@ -7,16 +7,6 @@ nav_order:
 
 # Bitch
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Bitch
-
 Created by  Zachary Arthur, last modified on Sep 23, 2008
 
 /b/ VB- do something disappointing. One friend to another after third friend had left the bar with his girlfriend: &quot;Yeah, he definitely bitched.&quot; F02; OED: V: To behave bitchily towards a person: &quot;She'd been bitched by everyone else so that she wouldn't be surprised to have me leaver her there in the rain.&quot; 

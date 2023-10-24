@@ -7,16 +7,6 @@ nav_order:
 
 # Booty
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Booty
-
 Created by  Zachary Arthur, last modified on Sep 23, 2008
 
 NN: Female sexual parts-Ass. F92. Equivalent to ''boot'', but in song &quot;Shake That Booty,&quot; it doesn't mean sexual act. NN-72% of the students surveyed identified this as the posterior of a female. S99 

@@ -7,16 +7,6 @@ nav_order:
 
 # Wads
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Wads
-
 Created by  Unknown User (kmh28), last modified by  Unknown User (mcw10) on Apr 14, 2019
 
 (proper noun) Abbreviation used for both Wadsworth Building and Wadsworth Street.&quot;I'm heading up Wads tonight, want to join?&quot;Source: Geneseo Dictionary 2006. FNeveldine.(N) Abbreviation for Wadsworth Street, which intersects University Drive next to Newton Hall. No longer relevant to refer to the Wadsworth Auditorium, as there are four locations in Geneseo bearing the Wadsworth name: Wadsworth Street, Wadsworth Auditorium, Wadsworth Library, and the Wadsworth Homestead. Because the library and the homestead are not often visited by students, the street took priority in bearing the nickname in the simplest form. See &quot;Wads Aud&quot; for the abbreviation of Wadsworth Auditorium on the Geneseo Campus.Mary Wrynn. S-Z. 2019

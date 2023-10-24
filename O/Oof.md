@@ -7,16 +7,6 @@ nav_order:
 
 # Oof
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Oof
-
 Created by  Aurora Merwin on May 05, 2023
 
 (Exclamation) Used frequently to express sympathy and is used as a recognition of something difficult. It is widely used when someone can't think of anything else to say but feels obligated too. It has no set definition but is instead used as a conversational tool. (Merwin, N-R, 2023) 

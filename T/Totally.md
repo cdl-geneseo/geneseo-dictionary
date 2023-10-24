@@ -7,16 +7,6 @@ nav_order:
 
 # Totally
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Totally
-
 Created by  Unknown User (kmh28), last modified on Dec 02, 2008
 
 (adv) Beyond normal.

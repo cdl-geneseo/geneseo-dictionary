@@ -7,16 +7,6 @@ nav_order:
 
 # Stylin'
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Stylin'
-
 Created by  Unknown User (arh11), last modified on Sep 21, 2008
 
 Stylin': (Adj) Cool; hip. &quot;The show was definitely stylin&quot;; F90. Not specific to Geneseo. 

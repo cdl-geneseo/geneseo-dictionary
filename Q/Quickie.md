@@ -7,16 +7,6 @@ nav_order:
 
 # Quickie
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Quickie
-
 Created by  Unknown User (lav4), last modified on Oct 28, 2008
 
 (n.) A brief session of something, e.g. drinking, x-box gaming, or sex. &quot;Let's go out to Kelly's for a quickie after class.&quot; Source: Dictionary of Geneseo English 2006. A similar definition appears at http://www.urbandictionary.com/ ; entry probably not specific to Geneseo. Adams.

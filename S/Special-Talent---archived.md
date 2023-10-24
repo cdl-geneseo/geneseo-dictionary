@@ -7,16 +7,6 @@ nav_order:
 
 # Special Talent - archived
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Special Talent - archived
-
 Created by  Unknown User (arh11), last modified by  Graham Drake on Jan 14, 2015
 
 (n.) Students let in with lower grades on athletics who are forced to attend study hall. &quot;He gets good grades just because he's special talent.&quot; Source: Dictionary of Geneseo English 2001. Obsolete Fall 2006.  ST.

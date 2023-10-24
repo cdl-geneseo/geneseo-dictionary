@@ -7,16 +7,6 @@ nav_order:
 
 # Sweet - archived
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Sweet - archived
-
 Created by  Unknown User (arh11), last modified by  Graham Drake on Jan 14, 2015
 
 Sweet: (adj) A positive reaction to a situation or statement. &quot;'I aced the test'...'Sweet!'&quot;  A similar definition appears at http://www.urbandictionary.com/define.php?term=sweet; the entry is probably not specific to Geneseo.

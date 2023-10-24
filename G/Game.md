@@ -7,16 +7,6 @@ nav_order:
 
 # Game
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Game
-
 Created by  Unknown User (iif1), last modified by  Unknown User (rgg2) on Nov 16, 2012
 
 Game: 1. adj. up for anything“Do you want to go to class? Yeah, I’m game”100% of those surveyed know this word, 100% of these do not think the word is of local originsAs of 2012, 100% of students surveyed know this word, 0% believe it is of local origins.(Goodwin, G-M, 2012)2. n. The ability to easily pick up women.&quot;Look at all the women he has. He must have game.&quot;As of 2012, 50% of students surveyed know this word, 0% believe it is of local origins.(Goodwin, G-M, 2012)

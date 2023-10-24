@@ -7,16 +7,6 @@ nav_order:
 
 # Heard@Geneseo
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Heard@Geneseo
-
 Created by  Unknown User (djb25), last modified on Apr 28, 2015
 
 Heard at Geneseo - n. A service learning project that records the many stories of the Geneseo senior citizens.&quot;Did you read that Heard@Geneseo Facebook post? It was pretty interesting.&quot;As of 2015, 100% of students surveyed know this word. 87.5% believe it is of local origins.(Barcacel Peña, G-M, 2015)

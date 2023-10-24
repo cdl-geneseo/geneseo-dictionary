@@ -7,16 +7,6 @@ nav_order:
 
 # NerdRageQuit
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : NerdRageQuit
-
 Created by  Unknown User (ajm3), last modified by  Unknown User (baj2) on Nov 20, 2012
 
 1. (v.) To quit something prematurely due to excessive failure. Usually refers to online gaming. &quot;We were doing really well last game until you had to NerdRageQuit&quot;. A. Moak 2010Obsolete, 2012. Joyce

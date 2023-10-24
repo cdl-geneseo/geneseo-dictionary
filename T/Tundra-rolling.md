@@ -7,16 +7,6 @@ nav_order:
 
 # Tundra-rolling
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Tundra-rolling
-
 Created by  Unknown User (kmh28), last modified by  Unknown User (mtr7) on Apr 29, 2015
 
 (noun) Sport of rolling down the tundra's hill.&quot;Word of advice: tundra-rolling isn't a good idea if you're feeling nauseous.&quot;Source: Geneseo Dictionary 2006. Nicodemi.Obsolete. No one knew what this meant, but many thought that it had to do with the space between the townhouses.  Romig, S-Z, 2015.

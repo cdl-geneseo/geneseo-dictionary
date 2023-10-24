@@ -7,16 +7,6 @@ nav_order:
 
 # Sick
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Sick
-
 Created by  Unknown User (arh11), last modified on Sep 28, 2008
 
 (adj) Awesome. &quot;I just got Madden 07... it's sick!&quot; Probably non-specific to Geneseo. A similar definition can be found on Urban Dictionary[http://www.urbandictionary.com/define.php?term=sick] Source: Dictionary of Geneseo English 2006. Dilluvio

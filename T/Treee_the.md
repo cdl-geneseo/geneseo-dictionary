@@ -7,16 +7,6 @@ nav_order:
 
 # Treee, the
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Treee, the
-
 Created by  Unknown User (kmh28), last modified on Dec 01, 2008
 
 (noun) Refers to the broken tree branch that was followed around Geneseo during a blackout in September 2008. Chants of &quot;Follow the treee!&quot; could be heard across campus.

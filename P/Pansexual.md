@@ -7,16 +7,6 @@ nav_order:
 
 # Pansexual
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Pansexual
-
 Created by  Unknown User (lav4), last modified by  Unknown User (ram19) on Nov 20, 2012
 
 Noun: A person who is sexually interested in other people regardless of gender including males, females, transexuals, transvestites, hermaphrodites and androgynous people.  Example: Jesse is a pansexual. Geneseo usage shows significant decrease as of Fall 2010 with 55% of people surveyed reporting this word as unfamiliar or obsolete. Obselete as of Fall 2012 (Miller, N-R, 2012)

@@ -7,16 +7,6 @@ nav_order:
 
 # Selfie
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Selfie
-
 Created by  Unknown User (mtr7) on Apr 29, 2015
 
 Noun that refers to a picture that is taken of the user, by the user.  Made popular by Snapchat.  &quot;OMG, you look so cute take a selfie with me&quot;.  Romig, S-Z, 2015.

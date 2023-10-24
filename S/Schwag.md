@@ -7,16 +7,6 @@ nav_order:
 
 # Schwag
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Schwag
-
 Created by  Unknown User (lav4), last modified on Oct 28, 2008
 
 \shwg\  a type of marijuana. Source: Dictionary of Geneseo English 2001. &quot;Yo man, I wanna get high, can you pass the schwag?&quot; a similar definition appears at Urban Dictionary [http://www.urbandictionary.com/define.php?term=schwag]The entry is probably not specific to Geneseo. Dilluvio

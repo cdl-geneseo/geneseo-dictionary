@@ -7,16 +7,6 @@ nav_order:
 
 # Loaf
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Loaf
-
 Created by  Unknown User (krk5), last modified by  Unknown User (ajs58) on Apr 15, 2019
 
 n. A lazy person.Source: Dictionary of Geneseo English, Fall 2006, Crane.As of 2012, 33% of students surveyed knew this word and 0% believed it to be of local origin.(Eichas, G-M, 2012) 75% of the Geneseo students surveyed said they knew the word with this definition, but 0% believed it to be of local origin.(Shutes, G-M, 2019)     2. n. Feces, in the collocation &quot;to pinch out a loaf&quot;.         As of 2010, 0% of those surveyed know the first definition and 15% of those surveyed know the second definition of the word. The first definition appears to be obsolete and the second appears to have limited     usage        (Fishkin, G-M, 2010)        As of 2012, 33% of students surveyed knew this word and 0% believed it to be of local origin.       (Eichas, G-M, 2012)         25% of the Geneseo students surveyed said that they knew the word with this definition. Of those surveyed, 0% believed it to be of local origin.        (Shutes, G-M, 2019)

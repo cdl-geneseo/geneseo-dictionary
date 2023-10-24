@@ -7,16 +7,6 @@ nav_order:
 
 # Knights
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Knights
-
 Created by  Unknown User (est1), last modified by  Unknown User (mee2) on Nov 16, 2012
 
 n. [ntz] The mascot for any Geneseo variety team.2006-12-10T22:39:59ZKWinkelmanAs of 2012, 98% of students surveyed knew this word and 65% believed it to be of local origin.(Eichas, G-M, 2012)n. The nickname for any Geneseo varsity team.GrossAs of 2012, 98% of students surveyed knew this word and 65% believed it to be of local origin.(Eichas, G-M, 2012)  

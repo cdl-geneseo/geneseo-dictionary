@@ -7,16 +7,6 @@ nav_order:
 
 # Die
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Die
-
 Created by  Unknown User (bli2), last modified on Nov 27, 2008
 
 1. VB: To sleep heavily. F94 2. VB: To get drunk. F94 3. VB: To laugh uncontrollably; &quot;I died when I heard that that loser actually got a job.&quot; F94 VB - 80% of those surveyed used the term to mean &quot;freak out about something&quot; rather than as a statement to someone they hate. Brognano, D. McGiveron

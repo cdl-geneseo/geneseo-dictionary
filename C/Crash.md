@@ -7,16 +7,6 @@ nav_order:
 
 # Crash
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Crash
-
 Created by  Unknown User (kla8) on Nov 19, 2012
 
 v. Pronunciation: Amer. / kræʃ  1. To sleep, especially after a stressful event. “When I get home after class I am going to crash.”K. Andryshak, 2012

@@ -7,16 +7,6 @@ nav_order:
 
 # University
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : University
-
 Created by  Unknown User (kmh28), last modified on Nov 24, 2008
 
 (proper noun) refers to University Drive, a street running through campus.

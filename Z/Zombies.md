@@ -7,16 +7,6 @@ nav_order:
 
 # Zombies
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Zombies
-
 Created by  Unknown User (eo7) on Nov 16, 2012
 
 n. The antagonists from the Humans versus Zombies games.  &quot;Reuben wanted to start the game as a Zombie but wasn’t picked.&quot;EOberdorf, S-Z, 2012

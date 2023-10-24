@@ -7,16 +7,6 @@ nav_order:
 
 # Crack the Spine
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Crack the Spine
-
 Created by  Unknown User (bli2), last modified by  Unknown User (kla8) on Nov 20, 2012
 
 Crack the Spine: Verb: Open a book for the first time. &quot;My final is tomorrow and I still haven't cracked the spine.&quot; 87% of people surveyed were familiar with this term. BIervese, 2008 Becoming obsolete- 12% of participants correctly identified this term.   K. Andryshak, 2012

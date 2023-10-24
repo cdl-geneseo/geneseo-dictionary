@@ -7,16 +7,6 @@ nav_order:
 
 # Blitzed
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Blitzed
-
 Created by  Zachary Arthur, last modified on Sep 23, 2008
 
 AJ: Drunk; &quot;Are you going to get blitzed tonight?&quot; S92 AJ-46% of the students surveyed identified this as being excessively intoxicated. S99 

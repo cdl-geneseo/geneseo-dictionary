@@ -7,16 +7,6 @@ nav_order:
 
 # Weggies
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Weggies
-
 Created by  Unknown User (kmh28), last modified on Nov 24, 2008
 
 (noun) Nickname for Wegman's Supermarket.

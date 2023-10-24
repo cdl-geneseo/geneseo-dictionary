@@ -7,16 +7,6 @@ nav_order:
 
 # BUI
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : BUI
-
 Created by  Unknown User (bli2), last modified by  Unknown User (jmb63) on Apr 15, 2019
 
 BUI - Acronym Biking Under the Influence. When you get drunk and try to ride a bike. &quot;Careful, you don't wanna get a BUI tonight.&quot; 73% of people surveyed were familair with this term. BIervese, 2008  J. Bloom, A-F, 2019: This term has gone obsolete. 

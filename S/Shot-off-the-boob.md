@@ -7,16 +7,6 @@ nav_order:
 
 # Shot off the boob
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Shot off the boob
-
 Created by  Unknown User (arh11), last modified on Sep 28, 2008
 
 (vp.) a conversational digression. &quot;Let's not shoot off the boob here John, I am trying to ask you something important.&quot; Source: Dictionary of Geneseo English 2006 (Dilluvio)

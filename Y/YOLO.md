@@ -7,16 +7,6 @@ nav_order:
 
 # YOLO
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : YOLO
-
 Created by  Kayla Stewart on May 04, 2023
 
 (acronym) 1. Stands for “you only live once” typically used as a term of encouragement. 2. A popular phrase that encourages people to take risks and live life to the fullest.Example: &quot;I decided to book the spontaneous trip to Europe because, as they say, YOLO!&quot; (Stewart, S-Z, 2023) 

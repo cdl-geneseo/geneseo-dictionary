@@ -7,16 +7,6 @@ nav_order:
 
 # Noodle Arms
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Noodle Arms
-
 Created by  Unknown User (ac45) on Apr 07, 2019
 
 (n.) A lack of arm strength, either due to heavy exertion or a general lack of arm strength.“I can’t carry that crap, I’ve got noodle arms!”(A Chen, N-R, 2019). 

@@ -7,16 +7,6 @@ nav_order:
 
 # Wig
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Wig
-
 Created by  Carver Kozlowski on Apr 07, 2019
 
 (noun) usually used as a figure of speech within a phrase such as, &quot;My wig is snatched&quot;, indicating shock and surprise. &quot;Wig&quot; can also be used as an exclamatory, similar to the word &quot;wow,&quot; expressing shock or surprise. The phrase has been growing in popularity over the past 2 years.Carver Kozlowski, S-Z, 2019.

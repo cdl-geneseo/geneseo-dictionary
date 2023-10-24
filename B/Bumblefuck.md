@@ -7,16 +7,6 @@ nav_order:
 
 # Bumblefuck
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Bumblefuck
-
 Created by  Unknown User (tjc13), last modified on Nov 24, 2008
 
 NN: Middle of nowhere; &quot;All the spaces in Lot H were taken so I'm out in bumblefuck.&quot; Also ''East Bumblefuck''. F92 ''Buttscratch'' said to be the new alternative. F94 Bumblefuck: 57% of those surveyed idendified term as the middle of nowhere. NN: 50% of students surveyed identified this term to mean the middle of nowhere

@@ -7,16 +7,6 @@ nav_order:
 
 # Zonked
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Zonked
-
 Created by  Unknown User (kmh28), last modified by  Unknown User (eim1) on Apr 01, 2019
 
 (adj) Exhausted.2008: Definable but not in common use.2015: Returning to common use, 15/49 students polled not only recognized it but gave the definition listed here M. Turner S-Z 2015&quot;I don't care if it's only 7:30, I'm zonked and I'm going to bed.&quot;Source: Geneseo Dictionary 2006. VMishra. Originally from Revised Geneseo English Dictionary Spring 1999.2019: Recognizable, but not in common use. Medina, S-Z, 2019. 

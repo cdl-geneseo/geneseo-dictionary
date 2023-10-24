@@ -7,16 +7,6 @@ nav_order:
 
 # Slam pig
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Slam pig
-
 Created by  Unknown User (arh11), last modified on Sep 28, 2008
 
 A loose or easy woman. &quot;I think you should get yourself tested, your girlfriend is a slam-pig.&quot; Source: Dictionary of Geneseo English 2006. Non-specific to Geneseo, a similar definition can be found on Urban Dictionary [http://www.urbandictionary.com/define.php?term=SLAM+PIG] Dilluvio

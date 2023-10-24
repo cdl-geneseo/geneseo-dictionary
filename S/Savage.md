@@ -7,16 +7,6 @@ nav_order:
 
 # Savage
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Savage
-
 Created by  Sage Kearney, last modified on May 05, 2023
 
 (adj.) Term used to describe someone who expresses no guilt for their actions. “Standing up to your professor like that was so savage” (Kearney, s-z, 2023) 

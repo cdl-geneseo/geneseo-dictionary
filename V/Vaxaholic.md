@@ -7,16 +7,6 @@ nav_order:
 
 # Vaxaholic
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Vaxaholic
-
 Created by  Unknown User (kmh28), last modified by  Unknown User (clc18) on Apr 10, 2019
 
 (noun) Someone who is addicted to spending large amounts of time on the VAX computer to interact with people or play games.Also known as: VAX rat or VAX addict.Obsolete 2008. Some people (mainly modern gamers) were aware of VAX, but no longer refer to it in conversation.Source: Geneseo Dictionary 2006. Nicodemi. This term remains obsolete on the Geneseo campus. This could be due to the fact that the company stopped manufacturing the computers in 2005. Only one student out of 97 had heard of the word before.   Clare Corbett, Group S-Z, 2019

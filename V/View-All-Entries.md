@@ -7,11 +7,11 @@ nav_order:
 
 # View All Entries
 
-Bibliographies and Study Guides
 
-Dictionary of Geneseo English
 
-Bibliographies and Study Guides : View All Entries
+
+
+
 
 Created by  Paul Schacht, last modified on Sep 18, 2008
 

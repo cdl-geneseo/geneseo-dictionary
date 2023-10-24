@@ -7,16 +7,6 @@ nav_order:
 
 # Randy
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Randy
-
 Created by  Unknown User (gmm6), last modified by  Unknown User (afl1) on Nov 20, 2012
 
 (adj.)  Having a strong desire for sex.  This phrase is not specific to Geneseo.  Similar definitions can be found in the Urban Dictionary.  Martinelli, N-R, 2010. (obsolete 2012).

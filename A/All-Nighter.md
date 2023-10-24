@@ -7,16 +7,6 @@ nav_order:
 
 # All-Nighter
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : All-Nighter
-
 Created by  Megan Rumore on May 07, 2022
 
 (noun) when you stay awake for a whole night and then go on as usual the next day.  98% of people surveyed knew this term. 2% knew the term but could not define it.  (Rumore, A-F, 2022)  

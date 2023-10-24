@@ -7,16 +7,6 @@ nav_order:
 
 # Hot sec
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Hot sec
-
 Created by  Unknown User (mrp13) on Apr 13, 2015
 
 Hot sec – n. a short period of time, not to be taken literally, opposite of “hot minute”“I’ll be there in a hot sec”As of 2015, 94% of students surveyed know this word. 5% believe it is of local origins.(Powell, G-L, 2015)

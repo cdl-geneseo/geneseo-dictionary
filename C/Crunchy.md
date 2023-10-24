@@ -7,16 +7,6 @@ nav_order:
 
 # Crunchy
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Crunchy
-
 Created by  Unknown User (bli2), last modified by  Unknown User (kla8) on Nov 20, 2012
 
 AJ: Into enviromental issues characterized by hippie-type clothing; &quot;Michele's friends with all the crunchy people.&quot; F92 crunchy (AJ) - Obs. Source: Dictionary of Geneseo English, Fall 1998 Simmington Crunchy (AJ): food that crunches, such as peanut butter or nuts. Definition of approximately 35% of those surveyed. (F06) Unknown by approximately 65% of those surveyed. (F06) Simmington, D. McGiveron This word has resurfaced with a meaning that is drastically different from it's original recorded definition. Simmington (F06) Completely obsolete, K. Andryshak 2012

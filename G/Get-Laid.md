@@ -7,16 +7,6 @@ nav_order:
 
 # Get Laid
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Get Laid
-
 Created by  Unknown User (met6), last modified by  Unknown User (saf7) on Nov 19, 2012
 
 Verb.  To have sex with someone, usually used when the sex is casual.  Rarely used in reference to having sex with a girlfriend or boyfriend.Usage: &quot;why does Dave look so happy today?&quot; &quot;Oh, he finally got laid last night&quot;Talbot, E-H, 2008 As of 2012, 93% of students surveyed know this word and 0% believe it is of local origin.(Fischer, G-M, 2012)

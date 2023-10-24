@@ -7,16 +7,6 @@ nav_order:
 
 # Goo- Number
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Goo- Number
-
 Created by  Unknown User (crk4), last modified by  Unknown User (spc14) on Apr 10, 2019
 
 Goo Number: see G-number(Klein, E-H, 2008)As of 2019, 35.3% of students surveyed knew this word. 81.8% of students surveyed believe this word originated in Geneseo. (Cannioto, G-M, 2019)

@@ -7,16 +7,6 @@ nav_order:
 
 # Shields Up
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Shields Up
-
 Created by  Unknown User (mre4), last modified on May 07, 2022
 
 Phrase created by Suny Geneseo to encourage students to wear their masks.&quot;We got another email telling us &quot;Shields up, knights!&quot;Edmond, S-Z, 2022

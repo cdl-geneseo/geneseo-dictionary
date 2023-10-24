@@ -7,16 +7,6 @@ nav_order:
 
 # Shag
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Shag
-
 Created by  Unknown User (arh11), last modified by  Unknown User (amb51) on Apr 29, 2015
 
 (v) \shag\ : to have sex. &quot;DUDE! I saw you the other night with Betsy and you were in a hurry. Were you on your way home to shag?&quot; Source: Dictionary of Geneseo English 2001. Probably not specific to Geneseo, a similar definition can be found on Urban Dictionary [http://www.urbandictionary.com/define.php?term=shag]Obsolete in 2006(Dilluvio)(N) Definition: a fluffy carpet. &quot;Hey man, can we go pick up a shag for the dorm room?&quot; Bettina S-Z 2015 

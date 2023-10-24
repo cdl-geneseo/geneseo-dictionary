@@ -7,16 +7,6 @@ nav_order:
 
 # IDK
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : IDK
-
 Created by  Amanda Neri, last modified on Dec 11, 2020
 
 IDKadj. IDK stands for “I don’t know”. Being in a state of uncertainty. Source: Dictionary of Geneseo English, Fall 2020, NeriAs of 2020, 82% of students surveyed know the word(Neri, G-M, 2020)  82% of students surveyed know the word. Of those surveyed, 94% believed it originated elsewhere. (Neri, G-M, 2020)

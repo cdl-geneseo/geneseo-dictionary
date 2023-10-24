@@ -7,16 +7,6 @@ nav_order:
 
 # South Side
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : South Side
-
 Created by  Unknown User (arh11), last modified on Sep 28, 2008
 
 NN Quad built in 1960s (Wayne, Onondaga, Nassau, Niagara, Suffolk residence halls, and Red Jacket dining hall); &quot;Why don't we move to South Side next year?&quot; F92; Lamron use suggested but not cited, F92; obs. F94. Source: Dictionary of Geneseo English 1996 Dilluvio

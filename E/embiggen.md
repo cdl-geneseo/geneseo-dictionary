@@ -7,16 +7,6 @@ nav_order:
 
 # embiggen
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : embiggen
-
 Created by  Unknown User (met6), last modified by  Unknown User (jmb53) on Nov 20, 2012
 
 Verb To enlarge or expand, Fall 2000. Usually employed to create a contrast with academia. &quot;My professor expects me to embiggen my paper because it's only three pages.&quot; Bound morpheme prefix &quot;em-&quot; (in) plus &quot;big&quot; plus derivational morpheme &quot;-en&quot; (verb maker).Source: Dictionary of Geneseo English, Spring 2001 - Kocher 2006J.Boselli, 2012: Growing obsolete. Only 13% could identify the term.

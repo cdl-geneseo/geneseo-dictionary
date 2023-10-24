@@ -7,16 +7,6 @@ nav_order:
 
 # Living Rent Free
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Living Rent Free
-
 Created by  Bianca Volpe on May 07, 2022
 
 n. When a person is constantly thinking about something.&quot;Lizzo's music is living rent free in my head &quot; Based on survey result, 100% of students could define the word; 11% believe the word is specific to Geneseo. (B. Volpe, 2022)

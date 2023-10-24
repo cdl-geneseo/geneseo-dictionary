@@ -7,16 +7,6 @@ nav_order:
 
 # Thicc
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Thicc
-
 Created by  Unknown User (igf1) on Oct 29, 2020
 
 (adj) - A variation on the word &quot;thick&quot; used by students from various campuses such as Nazareth, RIT, and Geneseo. Used both sexually and humorously, it refers to a person often being full-figured or large. Wow, you're looking pretty thicc in those jeans.(Fazio, Q-T, 2020)

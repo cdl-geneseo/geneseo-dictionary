@@ -7,16 +7,6 @@ nav_order:
 
 # Hand Sanitizer
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Hand Sanitizer
-
 Created by  Unknown User (nac16) on Dec 11, 2020
 
 n. Product used to disinfect one’s hands, alcohol-based.Source: Dictionary of Geneseo English, Fall 2020, ChojnackiAs of 2020, 93% of students surveyed know the word.93% of students surveyed know the word. Of those surveyed, 93% believed it originated elsewhere. (Chojnacki, G-M, 2020)

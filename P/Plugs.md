@@ -7,16 +7,6 @@ nav_order:
 
 # Plugs
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Plugs
-
 Created by  Unknown User (sjh21), last modified on Apr 09, 2019
 
 (v.) to promote something, especially events or social media (transitive)She plugs the Orchesis concert every chance she gets. (Holsberg, N-R, 2019)

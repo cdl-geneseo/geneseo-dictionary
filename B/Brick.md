@@ -7,16 +7,6 @@ nav_order:
 
 # Brick
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Brick
-
 Created by  Unknown User (tjc13), last modified on Nov 24, 2008
 
 New word suggested by group, but have insufficient information to define. F06 D. McGiveron

@@ -7,16 +7,6 @@ nav_order:
 
 # Black Box
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Black Box
-
 Created by  Megan Rumore on May 07, 2022
 
 (noun) theatre in Brodie Hall. 64% of survey takers knew this term and 4% knew it but could not define it.  32% were not familiar with this term. (Rumore, A-F, 2022)

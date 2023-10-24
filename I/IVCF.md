@@ -7,16 +7,6 @@ nav_order:
 
 # IVCF
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : IVCF
-
 Created by  Unknown User (krk5), last modified by  Unknown User (spe1) on Nov 20, 2012
 
 N., abbrev. Inter-Varsity Christian Fellowship. Religious organization of students on campus affiliated with Christianity, dedicated to meeting in small and large groups for prayer and discussion.Source: Dictionary of Geneseo English, Fall 2006, Marcantonio.As of 2010, 0% of students surveyed know the word. This word is either obsolete or limited in usage.(Fishkin, G-M, 2010)As of 2012, 85% of students surveyed know this word. 35% believe it is of local origins.(Endress, G-M, 2012)

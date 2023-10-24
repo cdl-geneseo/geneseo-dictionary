@@ -7,16 +7,6 @@ nav_order:
 
 # Lightweight
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Lightweight
-
 Created by  Unknown User (krk5), last modified by  Unknown User (mee2) on Nov 19, 2012
 
 1. n. A person who becomes intoxicated easily.As of 2012, 100% of students surveyed knew this word and 5% believed it to be of local origin.(Eichas, G-M, 2012)  2. n. A small-framed person.Source: Dictionary of Geneseo English, Fall 2006, Crane.As of 2012, 100% of students surveyed knew this word and 5% believed it to be of local origin.(Eichas, G-M, 2012) 

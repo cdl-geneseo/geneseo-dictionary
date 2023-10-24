@@ -7,16 +7,6 @@ nav_order:
 
 # Orchard
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Orchard
-
 Created by  Jacob Schlau, last modified on May 07, 2022
 
 Orchard: (n.) street located off of Court St where much of the college greek life resides. &quot;I had to walk my suitemate all the way back home from Orchard.&quot; As of 2022, &quot;Orchard&quot; is very familiar with Geneseo students, averaging a score of 4.7 out of 5, with 1 representing a word unknown to Geneseo students and 5 representing a word used daily among students. J. Schlau 2022

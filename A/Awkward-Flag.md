@@ -7,16 +7,6 @@ nav_order:
 
 # Awkward Flag
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Awkward Flag
-
 Created by  Zachary Arthur, last modified by  Unknown User (kec3) on Nov 29, 2010
 
 (NN): imaginary flag a person waves when experiencing an embarrassing situation. (F06)

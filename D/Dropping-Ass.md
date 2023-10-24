@@ -7,16 +7,6 @@ nav_order:
 
 # Dropping Ass
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Dropping Ass
-
 Created by  Unknown User (bli2), last modified on Nov 28, 2008
 
 Dropping Ass: Verb- A  violent bowel movement which typically occurs after a weekend of  bar food and beer, &quot;Don't go in the bathroom, I just dropped ass.&quot; 80% of people surveyed were familiar with this term. BIervese, 2008 

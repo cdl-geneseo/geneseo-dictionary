@@ -7,16 +7,6 @@ nav_order:
 
 # Granny panties
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Granny panties
-
 Created by  Unknown User (crk4), last modified by  Unknown User (saf7) on Nov 19, 2012
 
 n - this word is new in 2006 and refers to female underwear which sits high on the waist and may be baggy in the butt region. Can you believe she's wearing ''granny panties''? Results: 92% of those surveyed knew this word in 2006, and of those who recognized this word 0% believed it to be specific to Geneseo. Conclusion: This word is widely known but not specific to Geneseo.-C Adam82% of students surveyed knew this word, and 0% of these students had learned the word at Geneseo. Although a large percentage of students knew this word, no students learned the term in Geneseo.(Klein, E-H, 2008)As of 2012, 80% of students surveyed know of this word, of which 0% believe it to be of local origin.(Fischer, G-M, 2012)

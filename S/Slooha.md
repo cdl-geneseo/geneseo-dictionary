@@ -7,16 +7,6 @@ nav_order:
 
 # Slooha
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Slooha
-
 Created by  Unknown User (amb51) on Apr 29, 2015
 
 (N) Definition: A male or female who has sex with strangers. &quot;Vicky I can't believe you went home with that guy that you don't know! You're such a slooha!&quot; Bettin S-Z 2015

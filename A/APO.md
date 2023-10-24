@@ -7,16 +7,6 @@ nav_order:
 
 # APO
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : APO
-
 Created by  Unknown User (jmb53) on Nov 19, 2012
 
 n. Pronunciation: Amer. / ə-ˈpiː-ˈoʊ 1. Acronym form of Alpha Phi Omega, a national co-ed service fraternity founded in 1925 founded on the principles of leadership, friendship, and service. Geneseo’s chapter, Alpha Beta Xi, was founded in Spring 1986. Colors are royal blue and old glory gold. “Each member of APO completes a minimum of 24 hours of community service a semester.”J. Boselli, 2012

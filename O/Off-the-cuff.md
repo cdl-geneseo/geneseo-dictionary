@@ -7,16 +7,6 @@ nav_order:
 
 # Off-the-cuff
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Off-the-cuff
-
 Created by  Unknown User (era6), last modified on Sep 16, 2008
 
 Off-the-cuff

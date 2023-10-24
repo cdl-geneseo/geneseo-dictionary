@@ -7,16 +7,6 @@ nav_order:
 
 # Bite
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Bite
-
 Created by  Zachary Arthur, last modified on Sep 23, 2008
 
 VB: To be awful; &quot;This assignment really bites. It's so hard.&quot; F92 VB- 42% of the students surveyed identified this as an unfortunate circumstance. S99 

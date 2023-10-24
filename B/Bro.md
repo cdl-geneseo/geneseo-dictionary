@@ -7,16 +7,6 @@ nav_order:
 
 # Bro
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Bro
-
 Created by  Zachary Arthur, last modified on Nov 24, 2008
 
 NN A person from Long Island who thinks he is the man and says &quot;bro&quot; to everyone; &quot;Oh my God that guy is such a bro.&quot;

@@ -7,16 +7,6 @@ nav_order:
 
 # Kwinky-dink
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Kwinky-dink
-
 Created by  Unknown User (est1), last modified by  Unknown User (mee2) on Nov 19, 2012
 
 n. Slang abbreviation for coincidence. &quot;Wow! What a kwinky-dink.&quot; 2006-11-29T08:13:40ZSubmitted by KKalluschAs of 2012, 55% of students surveyed knew this word and 8% believed it to be of local origin.(Eichas, G-M, 2012) 

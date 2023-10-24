@@ -7,16 +7,6 @@ nav_order:
 
 # Sig Nu
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Sig Nu
-
 Created by  Unknown User (clp11), last modified on Sep 27, 2010
 
 (Proper Noun) A fraternity on campus. &quot;We had a party at the Sig Nu house last night. That fraternity really knows how to party!&quot; Pullano, S-Z, 2010.

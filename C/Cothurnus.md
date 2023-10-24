@@ -7,16 +7,6 @@ nav_order:
 
 # Cothurnus
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Cothurnus
-
 Created by  Unknown User (bli2), last modified by  Unknown User (ms61) on May 08, 2015
 
 Student theatre organization run by the Theatre Department. Organization used to provide aspects of theatre and production experience to students involved with the Theatre Department.

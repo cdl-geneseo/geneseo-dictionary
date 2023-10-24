@@ -7,16 +7,6 @@ nav_order:
 
 # Binary Scale
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Binary Scale
-
 Created by  Zachary Arthur, last modified by  Unknown User (kla8) on Nov 20, 2012
 
 n.A scale used by guys to rate girls either a 1 or a 0 with a 1 meaning they would have sex with them and a 0 meaning they would not &quot;She is a close call but I'll give her a 1 on the binary scale.&quot;29% of people surveyed knew this term. 2008.2% of those surveyed in 2012 defined the term correctly, rendering it almost obsolete. -K.Andryshak, 2012

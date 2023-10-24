@@ -7,16 +7,6 @@ nav_order:
 
 # Side Boob
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Side Boob
-
 Created by  Unknown User (lav4), last modified on Dec 01, 2008
 
 Noun: What is seen when a topless woman (or very fat man) turn far enough to the side to see the breast, but not the nipple. Many movies, in order to keep a PG-13 rating, show only side boob. Braless women who wear sleeveless t-shirts are notorious for side boob. 

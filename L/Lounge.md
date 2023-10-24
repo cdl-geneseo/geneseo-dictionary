@@ -7,16 +7,6 @@ nav_order:
 
 # Lounge
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Lounge
-
 Created by  Unknown User (krk5), last modified by  Unknown User (mee2) on Nov 20, 2012
 
 v. To relax.Source: Dictionary of Geneseo English, Fall 2006, WinkelmanAs of 2012, 100% of students surveyed knew this word and 0% believed it to be of local origin.(Eichas, G-M, 2012) 

@@ -7,16 +7,6 @@ nav_order:
 
 # Brita
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Brita
-
 Created by  Unknown User (tjc13), last modified on Nov 24, 2008
 
 /brd/ NN: any water purification pitcher, not simply Brita trade-marked pitcher; &quot;Remember to keep the Brita filled.&quot;

@@ -7,16 +7,6 @@ nav_order:
 
 # Gassed up
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Gassed up
-
 Created by  Unknown User (mp31), last modified on Apr 15, 2019
 
 V. Past tense: Flattering someone with praise, so that they have a &quot;big head.&quot;&quot;Alex is too gassed up, he's just getting cocky now.&quot;As of 2019, 76% of students surveyed knew this term and under 2% believed it to be of local origin. (Pigliacell, 2019)

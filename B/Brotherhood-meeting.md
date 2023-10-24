@@ -7,16 +7,6 @@ nav_order:
 
 # Brotherhood meeting
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Brotherhood meeting
-
 Created by  Unknown User (jmb53) on Nov 19, 2012
 
 n.Pronunciation: Americ. / brəðərhʊd mitɪŋ 1. Gathering of fraternity members to discuss relevant issues. Typically at regular intervals.“At this Sunday’s brotherhood meeting we will discuss crossing the pledges.”J. Boselli, 2012

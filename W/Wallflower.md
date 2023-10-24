@@ -7,16 +7,6 @@ nav_order:
 
 # Wallflower
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Wallflower
-
 Created by  Kayla Stewart on May 04, 2023
 
 (adj) 1. A person who tends to be shy, introverted, or socially awkward, and tends to avoid social situations or interaction with others.&quot;Carly was such a wallflower at the party, we should try talking to her next time.&quot; (Stewart, S-Z, 2023) 

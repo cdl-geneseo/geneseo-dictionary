@@ -7,16 +7,6 @@ nav_order:
 
 # TC (2)
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : TC (2)
-
 Created by  Unknown User (kmh28), last modified on Dec 01, 2008
 
 (noun) Acronym for Triathlon Club, a newly formed (as of Fall 2008) club that groups together those interested in performing in triathlons.

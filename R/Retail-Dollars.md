@@ -7,16 +7,6 @@ nav_order:
 
 # Retail Dollars
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Retail Dollars
-
 Created by  Aurora Merwin on May 05, 2023
 
 (noun) Money put onto a students ID Card that can be used at specific campus locations and for vending machines. It is a specific part of the dining system at SUNY Geneseo. Also known to be shortened to Retail. (Merwin, N-R, 2023)

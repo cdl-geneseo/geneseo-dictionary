@@ -7,16 +7,6 @@ nav_order:
 
 # Special Talent
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Special Talent
-
 Created by  Graham Drake, last modified on Jan 14, 2015
 
 Comments: Unknown User (clp11) As of fall 2010, this phrase has ceased to be obsolete, and is used with the same meaning that it was previously. Pullano, S-Z, 2010. Nov 23, 2010Unknown User (ram17) This is a particularly difficult entry, in that &quot;special talent&quot; is neither widely recognized nor entirely obsolete. I can understand why the 2006 and 2010 groups believed it was obsolete because even in our survey only 18 out of 86 people responded with the correct definition. It would seem that, at the very least, &quot;special talent&quot; is not a common phrase and is especially unused outside of athletic circles. Geneseo is not known for its athletics, which might be why the phrase has so little presence on campus. I feel quite certain, however, that student athletes recognize the phrase and still use it in its correct context. RMyers, S-Z, 2012. Nov 20, 2012

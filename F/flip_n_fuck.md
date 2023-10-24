@@ -7,16 +7,6 @@ nav_order:
 
 # flip 'n fuck
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : flip 'n fuck
-
 Created by  Unknown User (jfw3), last modified by  Unknown User (kla8) on Nov 20, 2012
 
 Noun Futon; &quot;The first thing we'll need for the new apartment is a flip 'n' fuck.&quot; Source: Dictionary of Geneseo English, Spring 1999 - Kocher-2006KChapman and ABelliard, 2010:  We could not find anyone who still used the term.  It is listed in the Urban Dictionary as the small, chairlike foam version of a futon.Completely obsolete, 2012.   K.Andryshak

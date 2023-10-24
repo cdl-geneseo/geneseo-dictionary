@@ -7,16 +7,6 @@ nav_order:
 
 # Cricket's
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Cricket's
-
 Created by  Unknown User (ms61) on May 08, 2015
 
 The coffee place that replaced &quot;Muddy Waters&quot; on Main Street

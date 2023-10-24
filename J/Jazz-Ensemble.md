@@ -7,16 +7,6 @@ nav_order:
 
 # Jazz Ensemble
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Jazz Ensemble
-
 Created by  Unknown User (jw33) on Apr 28, 2015
 
 Jazz Ensemble - n. A group of students who come together to transcribe, play, and listen to jazz music for credit at SUNY Geneseo.&quot;We went to the Jazz Ensemble to see Diego play bass guitar.&quot;As of 2015, 93.8% of students surveyed know this word. 0% believe it is of local origins.(Whelehan, G-M, 2015)

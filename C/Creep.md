@@ -7,16 +7,6 @@ nav_order:
 
 # Creep
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Creep
-
 Created by  Unknown User (bli2), last modified on Sep 21, 2008
 
 VB The act of following around a member of the opposite sex that you find attractive. &quot;That guy is hot, I am going to creep on him.&quot; -- overheard at the I.B. S01 RH-- VB to sneak up behind someone or without someone's knowledge W3-- VB the closest definition I could find here: to go, or enter stealthily or secretly HDAS- VB The escape stealthily, to abscond. First used in 1942. Source: Geneseo Dictionary of English, Spring 2001. -Mitchinson

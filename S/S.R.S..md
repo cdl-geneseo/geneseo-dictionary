@@ -7,16 +7,6 @@ nav_order:
 
 # S.R.S.
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : S.R.S.
-
 Created by  Unknown User (arh11), last modified on Sep 28, 2008
 
 S.R.S. (noun) Acronym for Sperm Retention Syndrome, hypothetical nervous male equivalent (in female usage only?)to PMS, Post Menstrual Syndrome; &quot;Don't mind him-- he's just suffering from S.R.S.&quot; S94.

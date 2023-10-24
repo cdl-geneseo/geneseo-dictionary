@@ -7,16 +7,6 @@ nav_order:
 
 # Bed Spins
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Bed Spins
-
 Created by  Zachary Arthur, last modified by  Graham Drake on Dec 17, 2010
 
 NN: Drunken state in which room appears to move; &quot;I think I had a few too many at Dan's because I had bed spins all last night.&quot; F92 NN-No change 

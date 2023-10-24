@@ -7,16 +7,6 @@ nav_order:
 
 # Red Jacket
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Red Jacket
-
 Created by  Unknown User (lav4), last modified on Oct 28, 2008
 
 (n.) Dining hall serving residence halls in the south village of the Geneseo campus. See also &quot;RJ&quot; &quot;Rumor has it there are laxatives in the food at Red Jacket.&quot; Submitted 2006. Dinki.

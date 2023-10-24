@@ -7,16 +7,6 @@ nav_order:
 
 # Side-Eye
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Side-Eye
-
 Created by  Unknown User (mr38) on Nov 02, 2020
 
 The side-eye is slang referring to quiet disapproval of someone. When someone gives you the side-eye, it means they looked at you from the corner of their eye with obvious disapproval without saying anything.Jessica just gave me the side-eye after I talked to my ex. (Rockwell, Q-T, 2020) 

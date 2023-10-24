@@ -7,16 +7,6 @@ nav_order:
 
 # MAC
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : MAC
-
 Created by  Unknown User (iif1), last modified by  Unknown User (msc5) on Nov 16, 2012
 
 n. Acronym for the local Geneseo organization Men of Action and Change.“Those guys are all in MAC.”100% of those surveyed know the word and 100% believe it is of local origins.As of 2012, 95% of students surveyed knew this word and 0% believed it to be of local origin.(Craft, G-M, 2012) 

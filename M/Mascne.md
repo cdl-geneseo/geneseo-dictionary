@@ -7,16 +7,6 @@ nav_order:
 
 # Mascne
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Mascne
-
 Created by  Genevieve Moulton on May 06, 2022
 
 n. acne in the lower face region, specifically caused by wearing a mask‘With the new mask mandate, my mascne has gotten so bad.&quot;Based on survey results, 89.1% of participants knew this word and could define this word. It is used fairly frequently in 2022.  2.2% of participants believe this word is specific to Geneseo.(G.Moulton, G-M, 2022)

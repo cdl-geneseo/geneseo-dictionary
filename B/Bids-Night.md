@@ -7,16 +7,6 @@ nav_order:
 
 # Bids Night
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Bids Night
-
 Created by  Unknown User (kla8) on Nov 19, 2012
 
 n. Pronunciation: Amer. / bɪds-naɪt 1. The campus-wide event in which Greek organizations present rushes with membership invitations. Typically begins at sundown. “Do you hear the chants around campus? It must be Bids Night.”K. Andryshak, 2012

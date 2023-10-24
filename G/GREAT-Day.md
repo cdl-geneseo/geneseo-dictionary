@@ -7,16 +7,6 @@ nav_order:
 
 # GREAT Day
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : GREAT Day
-
 Created by  Unknown User (jfw3), last modified by  Unknown User (saf7) on Nov 19, 2012
 
 GREAT Day: noun; acronym for Geneseo Recognizing Excellence, Achievement, and Talent, a day dedicated to the research and scholarship of students through presentations of their work.Wonderland, 2008 ~Word found by Tom CardotAs of 2012, 73% of students surveyed know this word, of which 66% believe it to be of local origin.(Fischer, G-M, 2012)

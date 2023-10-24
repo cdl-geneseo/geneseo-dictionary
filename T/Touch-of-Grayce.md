@@ -7,16 +7,6 @@ nav_order:
 
 # Touch of Grayce
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Touch of Grayce
-
 Created by  Unknown User (eo7) on Nov 16, 2012
 
 n. A store on Main Street.&quot;I need to buy a gift from Touch of Grayce.&quot;EOberdorf, S-Z, 2012

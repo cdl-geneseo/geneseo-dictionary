@@ -7,16 +7,6 @@ nav_order:
 
 # Late night
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Late night
-
 Created by  Unknown User (krk5), last modified by  Unknown User (mee2) on Nov 19, 2012
 
 n. Dining services on campus from 9p.m. until 11p.m., Sunday through Thursday.Source: Dictionary of Geneseo English, Fall 2006, KalluschAs of 2012, 58% of students surveyed knew this word and 55% believed it to be of local origin.(Eichas, G-M, 2012) 

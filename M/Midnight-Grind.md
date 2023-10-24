@@ -7,16 +7,6 @@ nav_order:
 
 # Midnight Grind
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Midnight Grind
-
 Created by  Unknown User (est1), last modified by  Unknown User (msc5) on Nov 19, 2012
 
 2006-12-11T10:25:18ZSValentine(obs) n. Dining services provided between the hours of 11 p.m. and 1 a.m. Monday through Thursday evenings. Source: Dictionary of Geneseo English 1998 (Posted by JGoodspeed)As of 2012, 15% knew the word and 15% believed it to be of local origin.(Craft, G-M, 2012)

@@ -7,16 +7,6 @@ nav_order:
 
 # Crikey
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Crikey
-
 Created by  Unknown User (bli2), last modified by  Graham Drake on May 09, 2015
 
 crikey (adj.): an exclamation used to show suprise made popluar by the late Steve Erwin. 60% of students surveyed use this word. F06. KTousey

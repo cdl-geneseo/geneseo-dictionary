@@ -7,16 +7,6 @@ nav_order:
 
 # Simp
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Simp
-
 Created by  David Sweeney, last modified on May 05, 2023
 
 (Adj.) 1. Term used to poke fun at those who go above and beyond for someone to express romantic interest in them (Sweeney, S-Z, 2023)Example: “Wow, you ditched us to bring her flowers when she was done working? You’re such a simp.”

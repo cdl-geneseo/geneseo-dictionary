@@ -7,16 +7,6 @@ nav_order:
 
 # Spliff - archived
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Spliff - archived
-
 Created by  Unknown User (arh11), last modified by  Graham Drake on Jan 14, 2015
 
 \splif\: (noun) A filter for a marijuana cigarette. &quot;Excuse while I light my spliff&quot; - Bob Marley. A similar definition appears at http://www.urbandictionary.com/define.php?term=spliff; the entry is probably not specific to Geneseo.

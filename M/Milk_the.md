@@ -7,16 +7,6 @@ nav_order:
 
 # Milk, the
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Milk, the
-
 Created by  Unknown User (rch7) on Apr 15, 2019
 
 The Milk refers to the MLC or math learning center. It is of limited use and can be inferred that it is used mostly among math students.Of students surveyed, 10% know the word and 18% believe it to be of local origin.

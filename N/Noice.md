@@ -7,16 +7,6 @@ nav_order:
 
 # Noice
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Noice
-
 Created by  Unknown User (ajm3), last modified by  Unknown User (baj2) on Nov 20, 2012
 
 1. (exclm.) Derived from the word &quot;nice&quot;. Used to express joy, shock, amazement. &quot;I just got a new car today!&quot; &quot;Noice!&quot; A. Moak 2010Obsolete, 2012. Joyce

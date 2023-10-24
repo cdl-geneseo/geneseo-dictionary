@@ -7,16 +7,6 @@ nav_order:
 
 # Double Fisting
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Double Fisting
-
 Created by  Unknown User (bli2), last modified on Nov 27, 2008
 
 double fisting (vb): when a person holds an alcoholic beverage in each hand. 60% of students survyed use this term. F06. KTousey

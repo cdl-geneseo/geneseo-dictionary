@@ -7,16 +7,6 @@ nav_order:
 
 # Surfing the crimson wave - archived
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Surfing the crimson wave - archived
-
 Created by  Unknown User (arh11), last modified by  Graham Drake on Jan 14, 2015
 
 Surfing the crimson wave: (vp) to menstruate. &quot;No action for you, since she's surfing the crimson wave.&quot;  A similar definition appears at http://www.urbandictionary.com/define.php?term=surfing+the+crimson+waveDinki; the entry is probably not specific to Geneseo.

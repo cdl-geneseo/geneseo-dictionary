@@ -7,16 +7,6 @@ nav_order:
 
 # Chungus
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Chungus
-
 Created by  Unknown User (aa48) on Dec 10, 2020
 
 Noun- also referred to as “big chungus;” a bigger, clumsier person who can be considered an oaf; if you don’t know a chungus, it’s probably you

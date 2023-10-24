@@ -7,16 +7,6 @@ nav_order:
 
 # Omega
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Omega
-
 Created by  Unknown User (gmm6), last modified by  Unknown User (jrr11) on Apr 07, 2019
 
 1. (n.)  An abbreviation of the Omega Beta Psi fraternity.  Source: Geneseo Inter-Greek Council.;2. (n.)  An abbreviation of the Omega Grill, a restaurant in Geneseo. Obsolete 2019.Martinelli, N-R, 2010. (Rogers, N-R, 2019)

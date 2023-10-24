@@ -7,16 +7,6 @@ nav_order:
 
 # Break out
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Break out
-
 Created by  Unknown User (tjc13), last modified on Nov 24, 2008
 
 VB: To leave a place or situation; &quot;I want to go home--let's break out.&quot; In OED in this sense. S96 VB-64% of the students surveyed identified this term as the growth of pimples.

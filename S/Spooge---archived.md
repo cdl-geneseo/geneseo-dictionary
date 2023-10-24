@@ -7,16 +7,6 @@ nav_order:
 
 # Spooge - archived
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Spooge - archived
-
 Created by  Unknown User (arh11), last modified by  Graham Drake on Jan 14, 2015
 
 \ spu\: 1. (v) to ejaculate 2. (noun) semen. &quot;There's spooge all over his bed sheets.&quot; A similar definition appears at http://www.urbandictionary.com/define.php?term=spooge; the entry is probably not specific to Geneseo.

@@ -7,16 +7,6 @@ nav_order:
 
 # Genowhere
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Genowhere
-
 Created by  Unknown User (vas3), last modified on Apr 28, 2015
 
 Noun. Disparaging nickname for Geneseo do to its rural location.&quot;It sucks going to college in Genowhere.&quot;30%  of Geneseo students surveyed were familiar with the term. Of those surveyed 30% believed the word to be of local origin.(Sigl G-M, 2015)

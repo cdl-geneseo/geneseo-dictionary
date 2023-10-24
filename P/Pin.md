@@ -7,16 +7,6 @@ nav_order:
 
 # Pin
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Pin
-
 Created by  Unknown User (ram19) on Nov 20, 2012
 
 (v.) To post images on Pinterest.Ex. I pinned a ton of different hairstyles today.(Miller, N-R, 2012)

@@ -7,16 +7,6 @@ nav_order:
 
 # Care
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Care
-
 Created by  Unknown User (tjc13), last modified on Oct 05, 2008
 
 V. to show no feeling towards or remorse. Said sarcastically i.e. &quot;Did you study for your finals?&quot; &quot;Care about finals.&quot; 15% of those surveyed identified this term, most of whom associated it with the Geneseo Men's Soccer and Lacrosse teams.

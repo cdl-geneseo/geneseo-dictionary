@@ -7,16 +7,6 @@ nav_order:
 
 # Lame
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Lame
-
 Created by  Unknown User (krk5), last modified by  Unknown User (mee2) on Nov 19, 2012
 
 adj. Attributed to things boring, annoying, or frustrating.Source: Dictionary of Geneseo English, Fall 2006, KalluschAs of 2012, 100% of students surveyed knew this word and 3% believed it to be of local origin.(Eichas, G-M, 2012) 

@@ -7,16 +7,6 @@ nav_order:
 
 # Campus Cletis
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Campus Cletis
-
 Created by  Unknown User (tjc13), last modified on Oct 05, 2008
 
 NN: Geneseo Public Safety Personnel; &quot;Did you see all the Campus Cletis around the arena? The place was swamped with thim.&quot; S94 Campus Cletis: Obs. F98

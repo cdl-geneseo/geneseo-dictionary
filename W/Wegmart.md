@@ -7,16 +7,6 @@ nav_order:
 
 # Wegmart
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Wegmart
-
 Created by  Unknown User (kmh28), last modified by  Unknown User (amb51) on Apr 29, 2015
 
 (noun) Conjunction of Wegman's and WalMart; usually used when referring to a shopping trip that includes stops at both stores. Also used sarcastically to highlight the lack of shopping options in Geneseo.&quot;Wegmart run....let's go!&quot;2008: Recognized, but not used oftenSource: Geneseo Dictionary 2006. SHelser.Obsolete. While Wegmart is indeed still used ironically, 30/32 of the participants surveyed stated that they would not use the phrase in colloquial speak. Bettina. S-Z 2015

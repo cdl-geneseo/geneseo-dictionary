@@ -7,16 +7,6 @@ nav_order:
 
 # honk
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : honk
-
 Created by  Unknown User (met6), last modified by  Unknown User (jcf10) on Nov 18, 2012
 
 1. Verb, to vomit 2. Noun, a hickSource: Dictionary of Geneseo English, Spring 1999 - Kocher- 2006 Of those surveyed in 2008, 9.1% recognized the word, and 0% learned the word in Geneseo.Talbot, 2008As of 2012, 0% of students surveyed know this word.(Flynn, G-M, 2012)

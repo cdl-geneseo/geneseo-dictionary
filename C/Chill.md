@@ -7,16 +7,6 @@ nav_order:
 
 # Chill
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Chill
-
 Created by  Unknown User (tjc13), last modified on Oct 05, 2008
 
 VB: Clip of ''chill out'' meaning to Relax; &quot;I'm just going to sit here and chill.&quot; F92 chill: (VB) - to relax (ADJ) - something that is good, ex. &quot;that's chill&quot; Source: Dictionary of Geneseo English, Fall 1998 Simmington Chill (VB): to calm down or relax by doing mindless activities with or without friends or other people. Definition of 92% of those surveyed. (F06) Chill (ADJ): down-to-earth, cool, relaxed. Definition of approximately 8% of those surveyed. (F06) Chill (VB): to let food settle from the high temperature it was just cooking at or to make cold. Secondary definition of approximately 14% of those surveyed. (F06) Simmington, D. McGiveron Because we did not list a part of speech on the paper survey, we got many different definitions for this word

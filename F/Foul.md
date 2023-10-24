@@ -7,16 +7,6 @@ nav_order:
 
 # Foul
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Foul
-
 Created by  Unknown User (jfw3), last modified on Sep 09, 2008
 
 Adjective Terrible, referring to a person or utterance; &quot;You are so foul.&quot; or &quot;That was so foul.&quot;

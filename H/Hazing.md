@@ -7,16 +7,6 @@ nav_order:
 
 # Hazing
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Hazing
-
 Created by  Unknown User (iif1), last modified by  Abraham Brooks on May 07, 2022
 
 n. (1) Any illegal initiation activity which occurs when new members are inducted into certain organizations, especially fraternities/sororities and sports teamsEx. - &quot;Making new members walk around for a day with a blindfold is hazing&quot; As of 2012, 100% of students surveyed know this word. 0% believe it is of local origins.(Flynn, G-M, 2012)As of 2022, 83.3% of students knew this definition; 0% believe it is Geneseo specific.(A. Brooks, G-M, 2022)n. (2) Any social coercion or pressure to drink or use substances in order to be accepted into the social groupEx. - &quot;If you don't commit to the cult's hazing ritual, you will be forever ashamed!&quot;As of 2022, 62.5% of students knew this definition; 0% believe it is Geneseo specific.(A. Brooks, G-M, 2022)n. (3) the act of having any condition other than goodness, decency, or competence as a requisite for inclusionEx. - &quot;Hazing is good, yo, trust me&quot;As of 2022, 25% of students knew this definition; 0% believe it is Geneseo specific.(A. Brooks, G-M, 2022)

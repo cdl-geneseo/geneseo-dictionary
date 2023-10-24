@@ -7,16 +7,6 @@ nav_order:
 
 # IDC
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : IDC
-
 Created by  Amanda Neri on Dec 11, 2020
 
 IDCadj. IDC stands for “I don’t care”. Being in the state of having no concern. Source: Dictionary of Geneseo English, Fall 2020, NeriAs of 2020, 82% of students surveyed know the word(Neri, G-M, 2020)  82% of students surveyed know the word. Of those surveyed, 94% believed it originated elsewhere. (Neri, G-M, 2020)

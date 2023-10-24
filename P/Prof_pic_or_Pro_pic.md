@@ -7,16 +7,6 @@ nav_order:
 
 # Prof pic or Pro pic
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Prof pic  or  Pro pic
-
 Created by  Unknown User (afl1), last modified by  Unknown User (ssw2) on Apr 28, 2015
 
 (n.) A picture designated to appear as the default image on one's Facebook (abbreviation for profile picture).(Littman, N-R, 2012)

@@ -7,16 +7,6 @@ nav_order:
 
 # Brodie rat
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Brodie rat
-
 Created by  Unknown User (tjc13), last modified by  Unknown User (kla8) on Nov 20, 2012
 
 n. 38% of people surveyed identified this term as students who frequent Brodie. See also ''Brodie-ite''.S99 NN: Identified by students, but shown to be falling out of usage in speech.Fall 2008-Term is falling out of use in favor of term &quot;Brodie-kid&quot;.31% of those surveyed correctly identified this term, showing it is becoming obsolete. -K. Andryshak, 2012

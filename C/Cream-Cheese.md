@@ -7,16 +7,6 @@ nav_order:
 
 # Cream Cheese
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Cream Cheese
-
 Created by  Unknown User (bli2), last modified by  Unknown User (kec3) on Nov 29, 2010
 
 /krim ciz/ AJ easy; painless; trouble-free; effortless; uncomplicated &quot;My boss pays me to horse around all day; my job is cream cheese.&quot; ''The Lamron Horoscopes'', February 1, 2001 p.9 Source: Geneseo Dictionary of English, Spring 2001. -Mitchinson

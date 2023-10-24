@@ -7,16 +7,6 @@ nav_order:
 
 # Cheeseball
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Cheeseball
-
 Created by  Unknown User (tjc13), last modified on Oct 05, 2008
 
 1. NN: Corny person; &quot;He cries during Life Goes on--what ca in say? He's a cheeseball.&quot; F92 2. AJ: Corny; &quot;The ad was so cheeseball and I started laughing.&quot; F92 cheeseball: has a negative connotation reffering to someone. KTousey Obs. F06 Only 10% of students surveyed familar with this term F06.

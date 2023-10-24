@@ -7,16 +7,6 @@ nav_order:
 
 # CTA
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : CTA
-
 Created by  Unknown User (tjc13), last modified on Nov 24, 2008
 
 noun- Classroom Technology Assistant, a job position in Milne library that helps with the technologies used in the library classrooms. 

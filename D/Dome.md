@@ -7,16 +7,6 @@ nav_order:
 
 # Dome
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Dome
-
 Created by  Unknown User (bli2), last modified on Nov 27, 2008
 
 NN- term synonymous with &quot;head&quot; implying oral sex. 15% of participants identified the term just by the word, but when used in context, 55% were able to recognize its meaning. (F06) KMitchinson

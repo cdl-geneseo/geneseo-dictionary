@@ -7,16 +7,6 @@ nav_order:
 
 # Thank you, next
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Thank you, next
-
 Created by  David Sweeney, last modified on May 05, 2023
 
 (expression) Term drawing from the lyric/ title of the song “Thank You, Next” by Ariana Grande that is also used to describe disinterest in a romantic relationship while simultaneously expressing desire to move onto the next person and experience. (Sweeney, S-Z, 2023)Example: “He had his chance. Thank you, next”

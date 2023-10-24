@@ -7,16 +7,6 @@ nav_order:
 
 # Top Surgery
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Top Surgery
-
 Created by  Kayla Stewart on May 04, 2023
 
 (noun) 1. A gender reassignment surgery open for those who wish for the construction of a male-type chest, or breast augmentation for a female-type chest.Example: &quot;Cam felt so much better after getting his top surgery, he feels more confident with his identity.&quot; (Stewart, S-Z, 2023) 

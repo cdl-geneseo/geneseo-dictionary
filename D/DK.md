@@ -7,16 +7,6 @@ nav_order:
 
 # DK
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : DK
-
 Created by  Unknown User (bli2), last modified on Nov 27, 2008
 
 DK (NN): 1. The Delta Kappa Tau fraternity in [[Geneseo]]. 2. A member of the Delta Kappa Tau fraternity in Geneseo. 72% of those surveyed defined this word. (New word) (F06) LTiszenkel

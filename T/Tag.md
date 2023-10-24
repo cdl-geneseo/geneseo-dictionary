@@ -7,16 +7,6 @@ nav_order:
 
 # Tag
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Tag
-
 Created by  Unknown User (kmh28), last modified on Dec 02, 2008
 
 (verb) To mark someone as being in a picture on Facebook so it can be seen on that person's profile.

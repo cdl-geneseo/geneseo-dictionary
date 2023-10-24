@@ -7,16 +7,6 @@ nav_order:
 
 # Hydroflask
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Hydroflask
-
 Created by  Lauren Silverman on Dec 11, 2020
 
 a brand of metal water bottles made popular for their durability aesthetic look.Source: Dictionary of Geneseo English, Fall 2020, SilvermanAs of 2020, 97.7% of students surveyed were familiar with this term. Of those surveyed, 90.7% believe it has originated elsewhere.(Silverman, G-M, 2020)

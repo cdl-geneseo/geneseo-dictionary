@@ -7,16 +7,6 @@ nav_order:
 
 # Bowl
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Bowl
-
 Created by  Zachary Arthur, last modified by  Unknown User (jys1) on Apr 14, 2019
 
 NN: A smoking device, used primarily for weed. Identified by 80% of those surveyed. F06N. Any round dish that can be used for storing small items or in the kitchen to serve food. 

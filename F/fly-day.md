@@ -7,16 +7,6 @@ nav_order:
 
 # fly-day
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : fly-day
-
 Created by  Unknown User (jfw3), last modified on Sep 09, 2008
 
 Noun A day when students get transported on a bus to an undisclosed destination and drink and listen to local bands - also referred to as an event; &quot;I got so wasted at fly-day yesterday.&quot;

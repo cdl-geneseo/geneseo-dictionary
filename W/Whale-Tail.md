@@ -7,16 +7,6 @@ nav_order:
 
 # Whale Tail
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Whale Tail
-
 Created by  Unknown User (kmh28), last modified on Dec 01, 2008
 
 (noun) Refers to a thong hanging out over jeans; (mostly) pertains to women. Derives from the shape of the thong; looks like a whale's tail sticking out of the water.

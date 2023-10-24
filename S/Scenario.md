@@ -7,16 +7,6 @@ nav_order:
 
 # Scenario
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Scenario
-
 Created by  Unknown User (eo7) on Nov 16, 2012
 
 n. Residence life staff from Seneca residence hall and Ontario residence hall.&quot;Scenario has the best programs.&quot;EOberdorf, S-Z, 2012

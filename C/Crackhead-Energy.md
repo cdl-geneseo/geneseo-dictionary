@@ -7,16 +7,6 @@ nav_order:
 
 # Crackhead Energy
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Crackhead Energy
-
 Created by  Unknown User (aa48) on Dec 10, 2020
 
 Noun- a hyperbolic term to describe girls that think they are quirky or different because they laugh obnoxiously or behave otherwise inappropriately in public settings

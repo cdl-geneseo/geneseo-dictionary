@@ -7,16 +7,6 @@ nav_order:
 
 # Feddy's
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Feddy's
-
 Created by  Unknown User (jfw3), last modified on Sep 09, 2008
 
 Feddy's

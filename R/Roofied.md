@@ -7,16 +7,6 @@ nav_order:
 
 # Roofied
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Roofied
-
 Created by  Unknown User (ram19), last modified by  Unknown User (lm23) on Apr 29, 2015
 
 (v.) To drug someone without his/her knowledge.Ex. I can't believe he roofied that girl.(Miller, N-R, 2012) This entry is not Geneseo specific (Major 2015).

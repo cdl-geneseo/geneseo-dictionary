@@ -7,16 +7,6 @@ nav_order:
 
 # Ogle
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Ogle
-
 Created by  Unknown User (ajm3), last modified by  Unknown User (mem32) on Nov 20, 2012
 
 1. (v) To touch rudely, perversely. Syn. To fondle. &quot;That person just ogled your dog&quot;. A. Moak 2010 (Obsolete, 2012)2. (v.) The act of &quot;ogling&quot; at someone.3. (v.) To stare at someone in amazement.(McNiffe, N-R, 2012)

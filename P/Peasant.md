@@ -7,16 +7,6 @@ nav_order:
 
 # Peasant
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Peasant
-
 Created by  Unknown User (dma7) on Apr 26, 2015
 
 (n.) Somebody who is of a low social status, often used in a joking manner. &quot;Bow down, peasants!&quot; (Anderson, N-R, 2015).

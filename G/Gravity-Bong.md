@@ -7,16 +7,6 @@ nav_order:
 
 # Gravity Bong
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Gravity Bong
-
 Created by  Unknown User (erg5), last modified by  Unknown User (saf7) on Nov 19, 2012
 
 Gravity Bong n. a bong, typically homemade, that uses water pressure to create a vacuum that draws in smoke.“He smokes his gravity bong before he goes to bed.”100% of those surveyed know this word, but 0% believe it is of local originsAs of 2012, 28% of students surveyed know this word, of which 0% believe it to be of local origin.(Fischer, G-M, 2012)

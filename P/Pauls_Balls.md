@@ -7,16 +7,6 @@ nav_order:
 
 # Paul's Balls
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Paul's Balls
-
 Created by  Unknown User (ajm3), last modified on Nov 30, 2010
 
 1. (n.) Pizza Paul's garlic bread. Contains of garlic bread dough rolled into a sphere with a layer of cheese on top. &quot;I've got a craving for Paul's balls.&quot; A. Moak 2010

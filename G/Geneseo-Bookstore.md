@@ -7,16 +7,6 @@ nav_order:
 
 # Geneseo Bookstore
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Geneseo Bookstore
-
 Created by  Unknown User (nac16) on Dec 11, 2020
 
 n. A store with Geneseo apparel and school supplies located in Macvittie Union, on Geneseo’s campus.Source: Dictionary of Geneseo English, Fall 2020, ChojnackiAs of 2020, 88.4% of students surveyed know the word.88.4% of students surveyed know the word. Of those surveyed, 95.3% believed it originated in Geneseo. (Chojnacki, G-M, 2020)

@@ -7,16 +7,6 @@ nav_order:
 
 # Corthurnus
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Corthurnus
-
 Created by  Unknown User (ab21), last modified on Nov 30, 2010
 
 K.Chapman, A. Belliard, 2010 : Proper noun referring to Geneseo's drama club.

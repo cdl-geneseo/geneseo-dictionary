@@ -7,16 +7,6 @@ nav_order:
 
 # Twerk
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Twerk
-
 Created by  Unknown User (mtr7) on Apr 29, 2015
 
 Verb that describes a specific type of dance.  Usually involves the person squatting while thrusting their hips quickly.  &quot;Do you see those dance moves, that guy can really twerk!&quot;.  Romig, S-Z, 2015.

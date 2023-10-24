@@ -7,16 +7,6 @@ nav_order:
 
 # Grundle
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Grundle
-
 Created by  Unknown User (erg5), last modified by  Unknown User (spc14) on Apr 10, 2019
 
 Grundle n. A part of the body in between the male or female genetalia and the rectum; it is also referred to as the perineum&quot;My grundle is quite itchy in these wool stockings.&quot;60% of the people surveyed know this word, but 0% believe it is of local origins.As of 2012, 22% of students surveyed knew this word, 2% believe it is of local origin.(Felice, G-M, 2012)As of 2019, 0% of students surveyed knew this word. 9.1% believe it originated in Geneseo. This word is obsolete. (Cannioto, G-M, 2019)

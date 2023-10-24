@@ -7,16 +7,6 @@ nav_order:
 
 # NormaL
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : NormaL
-
 Created by  Unknown User (era6), last modified by  Unknown User (mem32) on Nov 20, 2012
 
 NormaL(n.) Annual Geneseo publication that parodies the Lamron; &quot;The normaL is normally not very funny.&quot; Source: Dictionary of Geneseo English 2001. Bates. (Obsolete, 2012)(McNiffe, N-R, 2012)

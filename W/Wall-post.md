@@ -7,16 +7,6 @@ nav_order:
 
 # Wall post
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Wall post
-
 Created by  Unknown User (alu1), last modified on Dec 02, 2008
 
 Comments left by friends on one's Facebook profile.

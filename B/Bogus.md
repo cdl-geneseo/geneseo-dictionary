@@ -7,16 +7,6 @@ nav_order:
 
 # Bogus
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Bogus
-
 Created by  Zachary Arthur, last modified on Sep 23, 2008
 
 AJ: Ridiculous; &quot;He wanted the paper by this Friday--that's so bogus.&quot; F92 AJ-falling out of use. Only 22% of the students surveyed identified this term. S99 AJ: 93% of students surveyed this term. F06 

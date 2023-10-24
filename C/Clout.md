@@ -7,16 +7,6 @@ nav_order:
 
 # Clout
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Clout
-
 Created by  Unknown User (aa48) on Dec 10, 2020
 
 Noun- used to describe someone's popularity or fame

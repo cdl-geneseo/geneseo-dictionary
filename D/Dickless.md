@@ -7,16 +7,6 @@ nav_order:
 
 # Dickless
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Dickless
-
 Created by  Unknown User (bli2), last modified on Nov 27, 2008
 
 AJ: Gutless; &quot;And God forbid he call her--Jon's so dickless.&quot; F92 dickless (AJ) - No change Source: Dictionary of Geneseo English, Fall 1998 Simmington Dickless (AJ): equivalent to calling someone a wuss, coward, pussy, pansy or wimp. Definition of approximately 42% of those surveyed. (F06) Unknown by approximately 58% of those surveyed. (F06) Simmington, D. McGiveron

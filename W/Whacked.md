@@ -7,16 +7,6 @@ nav_order:
 
 # Whacked
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Whacked
-
 Created by  Unknown User (kmh28), last modified on Nov 24, 2008
 
 (adj) Very tired, drunk, or stoned

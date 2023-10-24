@@ -7,16 +7,6 @@ nav_order:
 
 # Space ships
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Space ships
-
 Created by  Sage Kearney on May 05, 2023
 
 (noun) The rolling chairs in Welles Hall. &quot;I rode the spaceships from the back of the room to the front to get a better view of the screen&quot;.(Kearney, s-z, 2023).

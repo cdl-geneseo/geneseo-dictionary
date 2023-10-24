@@ -7,16 +7,6 @@ nav_order:
 
 # Ciao
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Ciao
-
 Created by  Unknown User (tjc13), last modified on Oct 05, 2008
 
 IN: Goodbye (Italian expression adopted by jet-setters in the 70s; sometimes spessed &quot;chow&quot; by non-Italian speaking Geneseo lexicographers). F92 ciao (IN) - Falling out of use. Less than 22% of those surveyed cited hearing the term more than never. Source: Dictionary of Geneseo English, Fall 1998 Simmington Ciao (IN): goodbye. Definition of approximately 72% of those surveyed. (F06) Unknown by approximately 28% of those surveyed.

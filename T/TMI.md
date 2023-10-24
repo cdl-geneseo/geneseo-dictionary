@@ -7,16 +7,6 @@ nav_order:
 
 # TMI
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : TMI
-
 Created by  Unknown User (kmh28), last modified on Dec 02, 2008
 
 (phrase) Acronym for &quot;too much information&quot;. Originally from internet use, now commonly heard in speech, as well.

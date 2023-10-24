@@ -7,16 +7,6 @@ nav_order:
 
 # ISC
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : ISC
-
 Created by  Unknown User (krk5), last modified by  Unknown User (spe1) on Nov 20, 2012
 
 n. The acronym for &quot;Integrated Science Center&quot;, an updated form of ISF, see below.As of 2012, 95% of students surveyed know this word. 95% believe it is of local origins.(Endress, G-M, 2012)

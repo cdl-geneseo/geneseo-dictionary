@@ -7,16 +7,6 @@ nav_order:
 
 # Lumpy
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Lumpy
-
 Created by  Unknown User (iif1), last modified by  Unknown User (ajs58) on Apr 15, 2019
 
 n. A drink offered at The Vital Spot, the bar’s own version of a “dirty water.” “They ordered a lumpy at the Vital&quot;66% of those surveyed know the word, of these 100% believe it is of local origins.As of 2012, 38% of students surveyed knew this word and 38% believed it to be of local origin.(Eichas, G-M, 2012) As of 2019, 75% of those surveyed know the word. Of these, 0% believe it to be of local origin.However, those who said they knew the word were defining the word as “uneven, bumpy, or the opposite of smooth” and 0% of those surveyed said they knew the word as the drink offered at The Vital Spot. Therefore, it can be inferred that the word is obsolete in this context.(Shutes, G-M, 2019)

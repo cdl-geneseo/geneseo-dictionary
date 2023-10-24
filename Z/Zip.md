@@ -7,16 +7,6 @@ nav_order:
 
 # Zip
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Zip
-
 Created by  Unknown User (prv2), last modified on Dec 07, 2010
 
 (N) - an ounce of marijuana or other illicit substance. Developed as slang to avoid self-incrimination.

@@ -7,16 +7,6 @@ nav_order:
 
 # Rage Quit
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Rage Quit
-
 Created by  Unknown User (igf1), last modified on Oct 28, 2020
 
 to abandon (an undertaking) in a fit of frustration, especially after near success or abrupt failure following a significant investment of time and effort.The level was designed to make grown men rage quit and throw their controllers at the TV. I gave up after the second book and rage quit the whole series.(Fazio, Q-T, 2020)

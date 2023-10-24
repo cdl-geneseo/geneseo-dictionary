@@ -7,16 +7,6 @@ nav_order:
 
 # hook
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : hook
-
 Created by  Unknown User (met6), last modified by  Unknown User (jcf10) on Nov 18, 2012
 
 v. To engage sexually; not normally applied to relations between couplesSource: Dictionary of Geneseo English, Spring 1999 - Kocher- 2006 Of those surveyed in 2008, 40.1% recognized the word, and 0% learned the word in Geneseo.Talbot, 2008As of 2012, 52.5% of students surveyed know this word. 0% believe it is of local origin.(Flynn, G-M, 2012)

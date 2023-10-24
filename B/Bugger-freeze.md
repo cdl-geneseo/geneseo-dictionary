@@ -7,16 +7,6 @@ nav_order:
 
 # Bugger freeze
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Bugger freeze
-
 Created by  Unknown User (tjc13), last modified by  Unknown User (jmb63) on Apr 14, 2019
 
 VB: Recorded only as participle unbearably cold; &quot;It is a bugger-freezing night.&quot; S94 bugger freeze: Obs. F98.  Fall 2008 Obs.Completely Obsolete, 2012. K. AndryshakJ. Bloom, A-F, 2019: No participants were able to identify this term at all. It is obsolete. 

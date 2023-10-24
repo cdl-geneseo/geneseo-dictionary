@@ -7,16 +7,6 @@ nav_order:
 
 # Gains
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Gains
-
 Created by  Mia Donaldson on May 17, 2022
 
 n.  a health regimen involving heavy food consumption and frequently working out in order to gain muscle mass.  &quot;I'm going to the gym later, I've gotta work on my gains.&quot;Based on survey results, 53% of students could define the word; 18% of students believe the word is specific to Geneseo. M. Donaldson, 2022

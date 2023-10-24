@@ -7,16 +7,6 @@ nav_order:
 
 # Pass out
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Pass out
-
 Created by  Unknown User (era6), last modified on Sep 16, 2008
 
 Pass out

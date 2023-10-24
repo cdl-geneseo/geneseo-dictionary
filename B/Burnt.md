@@ -7,16 +7,6 @@ nav_order:
 
 # Burnt
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Burnt
-
 Created by  Unknown User (tjc13), last modified on Nov 24, 2008
 
 AJ: Tired. Often characterized by a dazed look, either because of excessive study; &quot;I had four papers and two midterms this week. I am so burnt.&quot; S94. Or because of abuse of drugs and/or alcohol; &quot;Jay's been to one too many parties in his time, he's so burnt.&quot; S94. Word is said to have usage as early as S92. Perhaps clipped from ''burnt out''. burnt: 38% of those identified term as refering to a constant user of Marijuana. KTousey 30% of students survyed familiar with this term. Obs.

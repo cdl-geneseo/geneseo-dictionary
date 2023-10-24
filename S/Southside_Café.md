@@ -7,16 +7,6 @@ nav_order:
 
 # Southside Café
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Southside Café
-
 Created by  Unknown User (ejr7) on Nov 16, 2012
 
 n. An eatery in South village.&quot;I love getting food from the Southside Café but hate the walk from Ontario.&quot;EReck, S-Z, 2012

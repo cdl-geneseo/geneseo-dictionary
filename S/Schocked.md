@@ -7,16 +7,6 @@ nav_order:
 
 # Schocked
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Schocked
-
 Created by  Unknown User (arh11), last modified on Sep 28, 2008
 
 (v) heavily intoxicated. &quot;Thaddeus came home with a slam pig and he was totally shocked. I don't know what happened in his common room.&quot; Source: Dictionary of Geneseo English 1996. Obsolete in 2006. Dilluvio

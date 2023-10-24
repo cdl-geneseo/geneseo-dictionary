@@ -7,16 +7,6 @@ nav_order:
 
 # Puck Slut
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Puck Slut
-
 Created by  Unknown User (ssw2) on Apr 28, 2015
 
 (n.) A term for someone who has or wants to have sex with a lot of hockey players, a hockey “groupie.”Interviewed students claim that this term is Geneseo specific because of the popularity of hockey on campus, though a similar definition can be found: http://www.urbandictionary.com/define.php?term=puck+slut. (Wilcoxen, N-R, 2015).

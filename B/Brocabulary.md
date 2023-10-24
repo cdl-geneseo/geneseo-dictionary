@@ -7,16 +7,6 @@ nav_order:
 
 # Brocabulary
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Brocabulary
-
 Created by  Unknown User (tjc13), last modified on Nov 24, 2008
 
 Brocabulary (NN): 15% of people surveyed identified this as soccer boy lingo. (new word 2006)

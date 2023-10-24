@@ -7,16 +7,6 @@ nav_order:
 
 # DL
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : DL
-
 Created by  Unknown User (bli2), last modified on Nov 27, 2008
 
 No change since term was added in the Fall of 1998. Usage example: &quot;I don't want my friends to find out, so keep it on the DL.&quot; Brognano

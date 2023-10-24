@@ -7,16 +7,6 @@ nav_order:
 
 # Pants
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Pants
-
 Created by  Unknown User (era6), last modified by  Unknown User (omh1) on Nov 20, 2012
 
 Pants(v.) To pull down the pants of another unexpectedly, usually in public to incite humiliation. &quot;Why the hell did you pants me, I didn't wear any underwear today.&quot;(n.) Item of clothing worn from the waist to the ankles, covering both legs separately. &quot;What size pants do you wear?&quot;Horowitz 2012  

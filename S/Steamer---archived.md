@@ -7,16 +7,6 @@ nav_order:
 
 # Steamer - archived
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Steamer - archived
-
 Created by  Unknown User (arh11), last modified by  Graham Drake on Jan 14, 2015
 
 Steamer: (noun) 1. human excrement &quot;I gotta take a steamer before our lacrosse game.&quot; 2. A steamed milk beverage at The Campus Grind. &quot;My this Swedish Steamer is delicious.&quot;A similar definition appears at http://www.urbandictionary.com/define.php?term=steamer for the first definition; the entry is probably not specific to Geneseo.

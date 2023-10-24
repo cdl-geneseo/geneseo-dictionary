@@ -7,16 +7,6 @@ nav_order:
 
 # Slum-Lord
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Slum-Lord
-
 Created by  Unknown User (amb51) on Apr 29, 2015
 
 (N) Definition: A landlord who owns a piece of undesirable property. &quot;Man, Ricky sure has not done much to try and clean up the property at 215 Main street. We're living in a hell hole.&quot; Bettina S-Z 2015

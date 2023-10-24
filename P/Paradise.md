@@ -7,16 +7,6 @@ nav_order:
 
 # Paradise
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Paradise
-
 Created by  Jessalyn Willmott, last modified on May 07, 2022
 
 n. a place or state of bliss, felicity or delight.&quot;This beach feels like paradise&quot;As of 2022, &quot;paradise&quot; is still in use among Geneseo students, averaging a score of 4.2/5, with 1 representing a word unknown to Geneseo students and 5 representing a word used daily among students.(J. Willmott, 2022, M-P)(J. Willmott, M-P, 2022)As of 2022, (x) is still in use among Geneseo students, averaging a score of X out of 5, with 1 representing a word unknown to Geneseo students and 5 representing a word used daily among students.As of 2022, (x) is still in use among Geneseo students, averaging a score of X out of 5, with 1 representing a word unknown to Geneseo students and 5 representing a word used daily among students. 

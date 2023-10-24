@@ -7,16 +7,6 @@ nav_order:
 
 # Hillel at Geneseo
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Hillel at Geneseo
-
 Created by  Unknown User (djb25), last modified on Apr 28, 2015
 
 Hillel at Geneseo - n. An organization in Geneseo that is made up of Jewish students and others that are interested in the Jewish faith.&quot;I'll meet up with you later, I'm going to a Hillel at Geneseo meeting.&quot;As of 2015, 62.5% of students surveyed know this word. 56.25% believe it is of local origins.(Barcacel Peña, G-M, 2015) 

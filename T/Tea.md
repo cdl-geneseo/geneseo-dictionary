@@ -7,16 +7,6 @@ nav_order:
 
 # Tea
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Tea
-
 Created by  Emily Ecija on May 05, 2022
 
 (noun) gossip, usually about someone you know.I can't wait to tell you the tea about Jessica!(Ecija, S-Z, 2022)

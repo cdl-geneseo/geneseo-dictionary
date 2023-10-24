@@ -7,16 +7,6 @@ nav_order:
 
 # Exit 8
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Exit 8
-
 Created by  Unknown User (ms61) on May 08, 2015
 
 The older co-ed a capella group at SUNY Geneseo

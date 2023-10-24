@@ -7,16 +7,6 @@ nav_order:
 
 # RobDog
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : RobDog
-
 Created by  Unknown User (ram19), last modified by  Unknown User (lm23) on Apr 29, 2015
 
 (n.) Nickname for Professor Robert Doggett.Ex. I've got a class with RobDog next semester!As of 2012, this word received an average of 2.67 out of 5 on student surveys, 1 being an unknown word, and 5 being a word commonly used and heard.(Miller, N-R, 2012) Obsolete, 2015.  Major.

@@ -7,16 +7,6 @@ nav_order:
 
 # Daga Pitch
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Daga Pitch
-
 Created by  Unknown User (tjc13), last modified on Nov 24, 2008
 
 Noun- the field located between Onondaga residence hall and 20A that the rugby teams play and practice on.

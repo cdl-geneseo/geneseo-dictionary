@@ -7,16 +7,6 @@ nav_order:
 
 # Ward
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Ward
-
 Created by  Unknown User (kmh28), last modified by  Jack Katz on May 07, 2022
 
 (n.) Refers to Ward street. Ward is a one way street that connects second street and main street. Ward has several housing options for students at Geneseo.Why don't we go up to Ward? There's usually something going on there.(Wall, U-Z, 2020)

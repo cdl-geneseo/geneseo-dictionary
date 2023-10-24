@@ -7,16 +7,6 @@ nav_order:
 
 # -ish
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : -ish
-
 Created by  Unknown User (krk5), last modified by  Unknown User (spe1) on Nov 20, 2012
 
 While not an independent word, this suffix is quite common.  It generally denotes &quot;possessing the quality or characteristic of&quot;, with an additional connotation of uncertainty or indefiniteness.  For example, when someone is &quot;tired-ish&quot;, they display the characteristics of being tired, but are not known positively to have slept poorly. As of 2012, 90% of students surveyed know this suffix. 0% believe it is of local origins.(Endress, G-M, 2012)

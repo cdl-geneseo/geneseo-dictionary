@@ -7,16 +7,6 @@ nav_order:
 
 # Campus Grind
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Campus Grind
-
 Created by  Unknown User (tjc13), last modified on Oct 05, 2008
 
 Campus Grind (NN): place on the second floor of the [[College Union]] (in front of the [[Corner Pocket]] and [[GUS]]) where students can buy coffee, tea, soft drinks, and grilled focaccia sandwiches, among other things. 90% of those surveyed defined the word.

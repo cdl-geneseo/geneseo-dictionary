@@ -7,16 +7,6 @@ nav_order:
 
 # XOXO
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : XOXO
-
 Created by  Unknown User (kmh28), last modified on Dec 02, 2008
 
 (phrase) Traditionally means &quot;hugs and kisses.&quot; Somewhat generalized to bidding farewell. Popularized by the TV show &quot;Gossip Girls,&quot; which ends every episode with &quot;XOXO Gossip Girl.&quot; 

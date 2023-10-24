@@ -7,16 +7,6 @@ nav_order:
 
 # InterVarsity Christian Fellowship
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : InterVarsity Christian Fellowship
-
 Created by  Unknown User (djb25), last modified on Apr 28, 2015
 
 InterVarsity Christian Fellowship - n. An organization committed to Jesus Christ.&quot;Are you going to the InterVarsity Christian Fellowship meeting?&quot;As of 2015, 62.5% of students surveyed know this word. 12.5% believe it is of local origins.(Barcacel Peña, G-M, 2015)

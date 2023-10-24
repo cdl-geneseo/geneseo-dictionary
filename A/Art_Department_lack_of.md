@@ -7,16 +7,6 @@ nav_order:
 
 # Art Department (lack of)
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Art Department (lack of)
-
 Created by  Unknown User (ms61) on May 08, 2015
 
 The department that held the Art Major; Geneseo's lack of funding made them get rid of the visual art major, but the Art Department is still in Brodie Hall.

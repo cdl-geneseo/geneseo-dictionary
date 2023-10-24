@@ -7,16 +7,6 @@ nav_order:
 
 # Rep
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Rep
-
 Created by  Unknown User (cam37) on Nov 20, 2012
 
 (v.) to represent; &quot;I'm reppin' Long Island.&quot; (n.) 1. an individual's reputation; &quot;My rep is ruined!&quot; 2. an elected representative; &quot;I'm the third floor rep for Erie Hall.&quot; Montelli, N-R, 2012.

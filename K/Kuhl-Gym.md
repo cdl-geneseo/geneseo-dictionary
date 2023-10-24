@@ -7,16 +7,6 @@ nav_order:
 
 # Kuhl Gym
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Kuhl Gym
-
 Created by  Unknown User (erg5), last modified by  Unknown User (mee2) on Nov 16, 2012
 
 n. The college gym, located on the North Side of Campus.“I'm going to go work-out at Kuhl Gym.”100% of those surveyed know this word and 100% believe it is of local origins.As of 2012, 100% of students surveyed knew this word and 100% believed it to be of local origin.(Eichas, G-M, 2012) 

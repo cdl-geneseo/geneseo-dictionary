@@ -7,16 +7,6 @@ nav_order:
 
 # Gatekeep
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Gatekeep
-
 Created by  Genevieve Moulton on May 06, 2022
 
 v. to hold something back, specifically with the purpose of keeping it from other people“Don’t gatekeep. Tell me the name of the new show you watched”Based on survey results, 97.8% of participants knew this word and could define it. It is used frequently in 2022. 4.4% of participants believe the term is specific to Geneseo.(G.Moulton, G-M, 2022)

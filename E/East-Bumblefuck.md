@@ -7,16 +7,6 @@ nav_order:
 
 # East Bumblefuck
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : East Bumblefuck
-
 Created by  Unknown User (jfw3), last modified on Sep 09, 2008
 
 noun 1. Middle of nowhere; &quot;All the spaces in Lot H were taken, so I am out in East Bumblefuck.&quot; Also: Bumblefuck

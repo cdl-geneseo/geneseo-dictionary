@@ -7,16 +7,6 @@ nav_order:
 
 # Herbals
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Herbals
-
 Created by  Unknown User (met6), last modified by  Unknown User (jcf10) on Nov 18, 2012
 
 n. MarijuanaSource: Dictionary of Geneseo English, Spring 1999 - Kocher Of those surveyed in 2008,45.5% recognized the word, and 10% of them learned the word in Geneseo.Talbot, 2008As of 2012, 45% of students surveyed know this word. 0% believe it is of local origins.(Flynn, G-M, 2012)

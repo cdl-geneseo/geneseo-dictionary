@@ -7,16 +7,6 @@ nav_order:
 
 # Tinder
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Tinder
-
 Created by  Unknown User (met10), last modified on Apr 28, 2015
 
 (noun)- a dating app which matches you with other users based on the physical location of both people. Involves 'swiping' on users pictures either left for rejection or right for positive interest. &quot;I made a Tinder profile to finally try and meet someone&quot; M. Turner S-Z 2015

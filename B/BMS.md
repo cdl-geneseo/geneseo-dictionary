@@ -7,16 +7,6 @@ nav_order:
 
 # BMS
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : BMS
-
 Created by  Zachary Arthur, last modified by  Unknown User (kla8) on Nov 20, 2012
 
 NN: Barren Mailbox Syndrome (acronym influenced by PMS-Pre-Menstrual Syndrome); &quot;I didn't gen any mail again...I'm gonna come down with an acute case of BMS.&quot; Said to have been coined Nov. 1990. NN: Obs. F92 NN: Obs. S99 NN: Obs. F06Completely obsolete, 2012.   K. Andryshak

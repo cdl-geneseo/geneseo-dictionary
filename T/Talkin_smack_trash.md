@@ -7,16 +7,6 @@ nav_order:
 
 # Talkin' smack, trash
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Talkin' smack, trash
-
 Created by  Unknown User (kmh28), last modified on Sep 23, 2008
 
 Talkin' smack/trash: (verb) Calling names or insulting

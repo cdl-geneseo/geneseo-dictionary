@@ -7,16 +7,6 @@ nav_order:
 
 # Teresa House
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Teresa House
-
 Created by  Unknown User (kmh28), last modified on Dec 01, 2008
 
 (noun) A comfort care home with skilled nurses designed for terminally ill patients found in Geneseo. A number of college students volunteer there.

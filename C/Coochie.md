@@ -7,16 +7,6 @@ nav_order:
 
 # Coochie
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Coochie
-
 Created by  Unknown User (bli2), last modified on Nov 28, 2008
 
 Coochie: Noun- slang for vagina. 90% of people surveyed were familar with this term. BIervese, 2008

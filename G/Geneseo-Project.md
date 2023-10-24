@@ -7,16 +7,6 @@ nav_order:
 
 # Geneseo Project
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Geneseo Project
-
 Created by  Unknown User (nac16) on Dec 11, 2020
 
 n. An assignment given in a class; can range from a paper to a presentation.Source: Dictionary of Geneseo English, Fall 2020, ChojnackiAs of 2020, 34.9% of students surveyed know the word.34.9 % of students surveyed know the word. Of those surveyed, 67.4% believed it originated in Geneseo. (Chojnacki, G-M, 2020)

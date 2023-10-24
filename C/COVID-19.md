@@ -7,16 +7,6 @@ nav_order:
 
 # COVID-19
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : COVID-19
-
 Created by  Unknown User (aa48) on Dec 10, 2020
 
 Noun- a virus that began to spread throughout the world at the end of 2019; it is a flu-like illness that has killed millions across the globe; this virus has caused Geneseo students to learn through remote learning with asynchronous, hybrid, and synchronous classes 

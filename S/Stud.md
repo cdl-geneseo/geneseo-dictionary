@@ -7,16 +7,6 @@ nav_order:
 
 # Stud
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Stud
-
 Created by  Kayla Stewart on May 04, 2023
 
 (adj)  1. Another term used to describe those who present more masculine and also identify as lesbian. This term is most often used to describe Black/ African-American and/ or Latina masculine lesbian/ queer women. Also known as “butch”.Example: &quot;Janelle Monáe has become a powerful voice for stud lesbians and other LGBTQ+ people who are fighting for visibility and acceptance.&quot; (Stewart, S-Z, 2023) 

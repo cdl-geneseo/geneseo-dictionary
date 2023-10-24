@@ -7,16 +7,6 @@ nav_order:
 
 # Mack
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Mack
-
 Created by  Unknown User (krk5), last modified by  Mollie McMullan on May 04, 2023
 
 v. To flirt.  There is a connotation of predominantly sexually focused flirtation.As of 2012, 83% knew the word and 0% believed it to be of local origin.(Craft, G-M, 2012)As of 2023, 40.9% of students surveyed did not know this word. 34.1% of students agreed with the definition. 52.4% of students believe this word to be irrelevant, though 16.7%  consider this word highly relevant.(McMullan, G-M, 2023)

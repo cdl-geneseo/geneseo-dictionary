@@ -7,16 +7,6 @@ nav_order:
 
 # LMK
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : LMK
-
 Created by  Emily McIntosh on Dec 07, 2020
 
 LMKv. This is a phrase that means “let me know.” It’s typically used when plans are unclear and there will be future communication about them later once details are set, or if someone had forgotten to get back to one about plans that had been made.Use in a sentence, “Hey Shawn, if you’re still down to study together just lmk”.Source: Dictionary of Geneseo English, Fall 2020, McIntoshAs of 2020, 100% of students surveyed know the word. Of those surveyed, 0% believed it originated locally. While 100% believed it originated elsewhere.(McIntosh, G-M, 2020).

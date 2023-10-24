@@ -7,16 +7,6 @@ nav_order:
 
 # Livingston
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Livingston
-
 Created by  Unknown User (iif1), last modified by  Unknown User (mee2) on Nov 19, 2012
 
 Livingston n. a corridor style residence hall located on the North Side of campus. “I lived in Livingston as a freshman”100% of those surveyed know the word, 100% of these believe the word is of local origins.As of 2012, 100% of students surveyed knew this word and 100% believed it to be of local origin.(Eichas, G-M, 2012) 

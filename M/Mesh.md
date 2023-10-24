@@ -7,16 +7,6 @@ nav_order:
 
 # Mesh
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Mesh
-
 Created by  Unknown User (est1), last modified by  Unknown User (msc5) on Nov 19, 2012
 
 2006-12-11T10:25:57ZSValentineMesh [mesh] v. Getting along. &quot;They don't mesh well.&quot; Source: Dictionary of Geneseo English 1998 (Submitted by SValentine)As of 2012, 100% knew the word and 0% believed it to be of local origin.(Craft, G-M, 2012)

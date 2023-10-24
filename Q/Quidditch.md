@@ -7,16 +7,6 @@ nav_order:
 
 # Quidditch
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Quidditch
-
 Created by  Unknown User (cam37) on Nov 21, 2012
 
 (n.) a sport, created by Middlebury College in 2005, that attempts to emulate the sport of the same name as featured in Harry Potter media. Not Geneseo-specific. &quot;I'm really excited to be on Geneseo's Quidditch team.&quot; Montelli, N-R, 2012.

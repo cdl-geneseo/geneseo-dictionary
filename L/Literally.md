@@ -7,16 +7,6 @@ nav_order:
 
 # Literally
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Literally
-
 Created by  Unknown User (crl12), last modified on Apr 15, 2019
 
 (Adverb) exactly. used for emphasis or to convey strong feeling while not actually being literally true.I literally cannot do my homework without checking Instagram every 10 minutes.As of 2019, 97.9% of students surveyed knew this word and 2.9% of students surveyed believed this word to be of local origin. (Luquer, 2019)

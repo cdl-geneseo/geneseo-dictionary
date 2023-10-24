@@ -7,16 +7,6 @@ nav_order:
 
 # Genesee
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Genesee
-
 Created by  Unknown User (iif1), last modified by  Unknown User (cmf9) on Nov 19, 2012
 
 Genesee n. a suite-style residence hall located on the North Side of campus“I lived in Genesee as a sophomore”100% of those surveyed know the word and 100% of these said the word is of local originsAs of 2012, 48% of students surveyed knew this word, 100% believe it is of local origin.(Felice, G-M, 2012)n. Referring to the Genesee River and the surrounding area&quot;Have you been down to the Genesee?&quot;As of 2012, 43% of students surveyed know this word and 0% believe it to be of local origin.(Fischer, G-M, 2012)

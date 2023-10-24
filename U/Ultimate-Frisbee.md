@@ -7,16 +7,6 @@ nav_order:
 
 # Ultimate Frisbee
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Ultimate Frisbee
-
 Created by  Unknown User (clc18), last modified by  Quentin Wall on Nov 29, 2020
 
 (noun): A game played by two opposing teams made up of 7 players each. Teams take turns attempting to move a disc towards the opposing end zone, switching possession when a disc is dropped. The game is self officiated with players from each team calling their own fouls and penalties. Dude, do you want to go play some Ultimate Frisbee? of course I do! Ultimate Frisbee is awesome!(Wall, U-Z, 2020)

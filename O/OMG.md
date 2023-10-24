@@ -7,16 +7,6 @@ nav_order:
 
 # OMG
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : OMG
-
 Created by  Unknown User (ajm3), last modified on Nov 30, 2010
 
 1. (abbrv.) (phr.) Abbreviation for the phrase &quot;oh my God.&quot; Usually sent over texting. Usually said when shocked by certain news. &quot;OMG, I can't believe she just did that.&quot; A. Moak 2010.

@@ -7,16 +7,6 @@ nav_order:
 
 # Unvaxxed
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Unvaxxed
-
 Created by  Emily Ecija on May 05, 2022
 
 (adjective) describing someone who is not vaccinated against a specific disease, typically used in regard to the COVID-19 vaccine.&quot;Why does John still wear his mask?&quot; &quot;He's unvaxxed so he still has to.&quot;(Ecija, S-Z, 2022)

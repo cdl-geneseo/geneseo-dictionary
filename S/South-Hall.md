@@ -7,16 +7,6 @@ nav_order:
 
 # South Hall
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : South Hall
-
 Created by  Graham Drake, last modified on Jan 14, 2015
 
 (n.) An academic building on campus. &quot;My Class is in South Hall.&quot; Source: Dictionary of Geneseo English 2001.

@@ -7,16 +7,6 @@ nav_order:
 
 # Giovanna’s
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Giovanna’s
-
 Created by  Unknown User (mrp13) on Apr 13, 2015
 
 Giovanna’s – n. a pizzeria and Italian restaurant located in Geneseo, NY. While students will typically attend *Mia’s* for food after parties, students will attend Giovanna’s for sober dinners out, likely because a car or bus is required to get there.“Let’s go to Giovanna’s this Friday. I’m really in the mood for a calzone”As of 2015, 75% of students surveyed know this word. 58% believe it is of local origins.(Powell, G-L, 2015)

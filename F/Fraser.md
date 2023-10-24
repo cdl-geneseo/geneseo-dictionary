@@ -7,16 +7,6 @@ nav_order:
 
 # Fraser
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Fraser
-
 Created by  Chloe Smith on May 07, 2022
 
 ˈfrā-zərnoun. Building on campus where Political Science classes are held, also where the library moved after the closing of Milne; &quot;I have a class in Fraser Hall&quot;88% of the people surveyed are familiar with this term and believe that this is its definition.(C. Smith, 2022).

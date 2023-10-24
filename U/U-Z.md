@@ -7,14 +7,6 @@ nav_order:
 
 # U-Z
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Bibliographies and Study Guides : U-Z
-
 Created by  Paul Schacht, last modified by  Laurie Fox on May 03, 2023
 
 To add an entry to the U-Z pages of the dictionary, click Create on the menu bar above. Use the word you're defining as the name of the page. Type your definition in the edit box, check your work by clicking Preview, and when you're done editing click Save. To edit an entry that has already been added to the U-Z pages, go to the page for that entry, click Edit, make your changes, and click Save. As pages are added, links to them are automatically added below. Do not edit the present page. Edit the pages for individual entries only.UAAUggoUltimate FrisbeeUncultured SwineUnder the KnifeUnder the SunUniUnionUniversityUniversity HotsUnstable girl hairUnvaxxedUPDUpstateUpstate EscapesUpstaterUp the buttUptownUpvoteUWUV.VanillaVapeVaporizerVaxaholicVaxxedV-cardVeganVegan NuggetsVegetarianVeg OutVein PoleVendingVendosVenmoVibe-CheckVictor E. KnightVineVitalVomWACWadsWads AudWadsworthWalk of ShameWallflowerWall postWankerWardWarthogWASPWastedWasted WednesdaysWayWayneWayne ManorWayneroWaynians, WaynsiansWaynoWEWebmailWeebWeggiesWegmartWegsWelfare WednesdayWellesWesley FoundationWet NewspaperWet ragWGSUWhackedWhale TailWhatevWhatsUp-L DigestWheel NightWhineassWhite-outWhoaWickedWide-clopseWifebeaterWigWiggerWindow LickerWind TunnelWine WednesdayWingsWMDsWokeWoodWordWorkout Center, TheWorshipping the porcelain goddessWorthyWOWWretchWriter's BlockWriters HouseWriting Learning CenterWT, WTPWTFWuffolkWyoWyomingXannyXCXerox CenterXOXOXTCY'allYackYagaYakYarfYassificationYassssYAWAYeetYik YakYoYOLOYouBelongYou guysYou Only Live OnceYummy SauceYuppersYuppy Food StampsYutzZamboniZangZBXiZeboZeebsZiggy-ZaggyZingZingerZipZombiesZone outZonkedZoomZootedZoo-wee-mamaZow

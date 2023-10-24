@@ -7,16 +7,6 @@ nav_order:
 
 # Bitchface
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Bitchface
-
 Created by  Unknown User (kla8) on Nov 19, 2012
 
 n. Pronunciation: Amer. / bɪtʃ-feɪs 1. A person who is often/mostly described as a bitch. “Man, she is such a bitchface.”K. Andryshak, 2012

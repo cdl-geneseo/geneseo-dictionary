@@ -7,16 +7,6 @@ nav_order:
 
 # Tweaking out
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Tweaking out
-
 Created by  Unknown User (alu1), last modified on Dec 02, 2008
 
 The jittery, shaky feeling one gets after ingesting too many stimulants, usually caffeine, nicotine, or energy drinks. Most often heard during the weeks preceding finals.

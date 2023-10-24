@@ -7,16 +7,6 @@ nav_order:
 
 # Latino Student Association (LSA)
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Latino Student Association (LSA)
-
 Created by  Unknown User (djb25), last modified on Apr 28, 2015
 
 Latino Student Association (LSA) - n. Also known as LSA Genseo, is an organization committed to Latino culture.&quot;There was a very interesting speaker at the LSA meeting, yesterday.&quot;As of 2015, 68.75% of students surveyed know this word. 18.75% believe it is of local origins.(Barcacel Peña, G-M, 2015)

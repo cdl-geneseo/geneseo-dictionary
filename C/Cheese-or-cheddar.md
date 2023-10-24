@@ -7,16 +7,6 @@ nav_order:
 
 # Cheese or cheddar
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Cheese or cheddar
-
 Created by  Unknown User (tjc13), last modified on Oct 05, 2008
 
 cheese or cheddar : refers to money Obs. S99

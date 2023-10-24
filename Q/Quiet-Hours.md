@@ -7,16 +7,6 @@ nav_order:
 
 # Quiet Hours
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Quiet Hours
-
 Created by  Unknown User (lav4), last modified by  Quentin Wall on Nov 29, 2020
 
 (n.) A dedicated time for sleeping, studying, and other quiet activities. typically enforced on campus by R.A's during times like midterms and finals week. Can you please keep it down? It's quiet hours and I have to study for a test tomorrow. (Wall, Q-T, 2020)

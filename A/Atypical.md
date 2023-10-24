@@ -7,16 +7,6 @@ nav_order:
 
 # Atypical
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Atypical
-
 Created by  Unknown User (ms61), last modified on May 08, 2015
 
 Doesn't really stand for/represent/define one specific group of people.

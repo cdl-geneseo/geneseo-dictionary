@@ -7,16 +7,6 @@ nav_order:
 
 # Dyke
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Dyke
-
 Created by  Unknown User (bli2), last modified on Nov 27, 2008
 
 dyke (NN): a derogatory term in reference to a lesbian. 100% of those surveyed defined the word. (New word) (F06) LTiszenkel

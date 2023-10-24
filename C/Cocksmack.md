@@ -7,16 +7,6 @@ nav_order:
 
 # Cocksmack
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Cocksmack
-
 Created by  Unknown User (bli2), last modified by  Unknown User (kla8) on Nov 20, 2012
 
 Cocksmack (VB): action in which a male hits a female with his genitalia. Definition of approximately 10% of those surveyed. (F06) (new word) Unknown by approximately 90% of those surveyed. (F06) SimmingtonCompletely Obsolete, 2012. K. Andryshak

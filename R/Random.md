@@ -7,16 +7,6 @@ nav_order:
 
 # Random
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Random
-
 Created by  Unknown User (lav4), last modified on Oct 28, 2008
 
 (adj.) A statement or action which is seemingly out of context of a situation or conversation. Aquas Barbie Girl was kind of random for your party music mix. S94, said without evidence to be F93. In dictionaries applied to events. A similar definition appears at http://www.urbandictionary.com/define.php?term=random ; the entry is probably not specific to Geneseo. Source: Dictionary of Geneseo English 1996. Dinki.

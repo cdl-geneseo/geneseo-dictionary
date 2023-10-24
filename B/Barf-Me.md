@@ -7,16 +7,6 @@ nav_order:
 
 # Barf Me
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Barf Me
-
 Created by  Zachary Arthur, last modified on Sep 18, 2008
 
 Barf me: 30% of people surveyed identified this as an expression of disgust; synonymous with &quot;eww&quot;. (F06) (new word) 

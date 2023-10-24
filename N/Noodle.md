@@ -7,16 +7,6 @@ nav_order:
 
 # Noodle
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Noodle
-
 Created by  Unknown User (ajm3), last modified by  Unknown User (baj2) on Nov 20, 2012
 
 1. (v) To have sex with. &quot;I noodled that girl from the party last night&quot;. A. Moak 2010Obsolete, 2012. Joyce

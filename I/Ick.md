@@ -7,16 +7,6 @@ nav_order:
 
 # Ick
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Ick
-
 Created by  Genevieve Moulton on May 06, 2022
 
 n. an action someone does that is a major turn-off, typically something trivial“Did you see him drop his pencil in class? That’s such an ick”Based on survey results, 95.7% of participants knew this word and could define it. It is used relatively frequently in 2022.  4.2% of participants believe the word is specific to Geneseo.(G.Moulton, G-M, 2022)

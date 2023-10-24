@@ -7,16 +7,6 @@ nav_order:
 
 # GLK
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : GLK
-
 Created by  Unknown User (iif1), last modified by  Unknown User (rgg2) on Nov 19, 2012
 
 GLK n. abbreviation for Geneseo Late Knight, further information can be found at: http://glk.geneseo.edu/about.html&quot;Are you going to the GLK sponsored event on Saturday night?&quot;100% of those surveyed know the word and believe it is of local originsAs of 2012, 58% of students surveyed know this word, 100% believe it is of local origins.(Goodwin, G-M, 2012)  

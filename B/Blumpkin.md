@@ -7,16 +7,6 @@ nav_order:
 
 # Blumpkin
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Blumpkin
-
 Created by  Unknown User (bli2), last modified on Nov 28, 2008
 
 Blumpkin: The act of receiving a blow job while on the toilet. 60% of people surveyed were familar with this term. BIervese, 2008

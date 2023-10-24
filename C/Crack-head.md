@@ -7,16 +7,6 @@ nav_order:
 
 # Crack head
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Crack head
-
 Created by  Unknown User (bli2), last modified on Sep 21, 2008
 
 crack head (NN) - No change Source: Dictionary of Geneseo English, Fall 1998 Simmington Crack head (NN): person who does a lot of crack/cocaine. Definition of approximately 49% of those surveyed. (F06) Crack head (NN): a crazy person. Definition of approximately 35% of those surveyed. (F06) Unknown by approximately 7% of those surveyed. (F06) Simmington

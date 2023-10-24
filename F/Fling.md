@@ -7,16 +7,6 @@ nav_order:
 
 # Fling
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Fling
-
 Created by  Unknown User (ab21), last modified on Nov 16, 2010
 
 Masculine Noun: Refers to a flirt, a brief non-official relationship. Ex: &quot;Him? He's just a fling!&quot;

@@ -7,16 +7,6 @@ nav_order:
 
 # Doofus
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Doofus
-
 Created by  Unknown User (bli2), last modified on Nov 27, 2008
 
 Doofus

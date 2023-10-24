@@ -7,16 +7,6 @@ nav_order:
 
 # B'bye
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : B'bye
-
 Created by  Zachary Arthur, last modified on Sep 18, 2008
 
 IN: see ''boo-bye''. IN-No change 

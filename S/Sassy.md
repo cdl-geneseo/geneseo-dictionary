@@ -7,16 +7,6 @@ nav_order:
 
 # Sassy
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Sassy
-
 Created by  Unknown User (clp11), last modified on Nov 23, 2010
 
 Adj. To be a smart-alec or to have attitude. &quot;Last night I was trying to talk to her, but she was being sassy and talking back to me.&quot; Pullano, S-Z, 2010.

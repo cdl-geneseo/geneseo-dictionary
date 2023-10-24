@@ -7,16 +7,6 @@ nav_order:
 
 # Suck and blo
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Suck and blo
-
 Created by  Graham Drake, last modified on Jan 14, 2015
 
 Suck and blo: (noun) Name of Card game; like male/female activity: one sucks in on a card to hold it in mouth; one then blows as partner sucks in; F86; obs. F94. Not specific to Geneseo.  Similar definition found on Urban Dictionary http://www.urbandictionary.com/define.php?term=suck+and+blowSource: Dictionary of Geneseo English 1996. Obsolete Fall 2006. Comments: Unknown User (clp11) Obsolete as of 2010. Pullano, S-Z, 2010.

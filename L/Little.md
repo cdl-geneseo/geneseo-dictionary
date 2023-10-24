@@ -7,16 +7,6 @@ nav_order:
 
 # Little
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Little
-
 Created by  Unknown User (krk5), last modified by  Unknown User (mee2) on Nov 20, 2012
 
 n. A fraternity or sorority member's pledge-charge. &quot;Who are you going to take as '''little'''?&quot;Source: Dictionary of Geneseo English, Fall 2006, CraneAs of 2012, 100% of students surveyed knew this word and 8% believed it to be of local origin.(Eichas, G-M, 2012) 

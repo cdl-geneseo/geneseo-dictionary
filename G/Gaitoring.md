@@ -7,16 +7,6 @@ nav_order:
 
 # Gaitoring
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Gaitoring
-
 Created by  Unknown User (crk4), last modified by  Unknown User (amb61) on Apr 10, 2019
 
 v. (Recorded only as particple) Delta Kappa Tau fraternity term for throwing beer and vomit on floor and sliding through it in small groups with arms locked together; - no sentence given - The sentence we used: &quot;Tonight we're gonna go ''gaitering''.&quot; Source: Dictionary of Geneseo English, Spring 1999 - Kocher0% of students surveyed knew this word, and 0% of these students had learned the word at Geneseo. Either this word is not known among the students surveyed, or is out of use. The data is inconclusive.(Klein, E-H, 2008)As of 2012, 0% of students surveyed know this word, 0% believe it is of local origins. Either this word is not known among the students surveyed, or is out of use. The data is inconclusive.(Goodwin, G-M, 2012)100% of Geneseo students surveyed did not know this word. Out of those surveyed, 100% believed that &quot;gaitoring&quot; has Geneseo origins, but the term is outdated.(Fox, G-M, 2015)As of 2019, 0% of Geneseo students surveyed did not know this word. 0% of Geneseo students surveyed did not believe this word originated from Geneseo. This word is obsolete.(Banaszak, G-M, 2019). 

@@ -7,16 +7,6 @@ nav_order:
 
 # Club 41
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Club 41
-
 Created by  Unknown User (bli2), last modified on Sep 21, 2008
 
 Club 41 (NN): restaurant/bar on Main Street like [[Kelly's]] where one can hang out with friends. Definition of approximately 58% of those surveyed. (F06) (new word) Unknown by approximately 44% of those surveyed. (F06) Simmington Most of those who did not have a definition for this word were underclassmen. Simmington

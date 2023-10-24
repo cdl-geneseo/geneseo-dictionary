@@ -7,16 +7,6 @@ nav_order:
 
 # Bang
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Bang
-
 Created by  Unknown User (jmb53) on Nov 19, 2012
 
 v., colloq. Pronunciation: Amer. / bæŋ 1. To engage in sexual intercourse with someone, especially without any possibility of future relations. “Did they bang this weekend?”J. Boselli, 2012

@@ -7,16 +7,6 @@ nav_order:
 
 # Big-3
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Big-3
-
 Created by  Unknown User (tjc13), last modified on Nov 24, 2008
 
 noun-in greek organizations, a term used to refer to an individual that is three generations older than the individual using the term and is related to them in their family line.  The term can also be used to indicate even older generations, i.e. big 4, big 7, big 12, etc.&quot;Claire is my big's big big, my big 3.&quot;  New term Fall 2008.

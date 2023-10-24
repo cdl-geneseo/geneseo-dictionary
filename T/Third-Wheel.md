@@ -7,16 +7,6 @@ nav_order:
 
 # Third Wheel
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Third Wheel
-
 Created by  Unknown User (mr38) on Nov 02, 2020
 
 Adjective- Describes someone who is not wanted in a situation, especially with a couple. Your friend is really a third wheel on this date. (Rockwell, Q-T, 2020)

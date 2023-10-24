@@ -7,16 +7,6 @@ nav_order:
 
 # Blow Chunks
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Blow Chunks
-
 Created by  Zachary Arthur, last modified on Sep 23, 2008
 
 VB: To throw up (popularized on SNL): &quot;Vodka and orange juice always makes me blow chuncks.&quot; F92 VB-85% of males surveyed reported to use this term hardly ever. S99 VB: 93% of the students surveyed are still familar with the word. F06 

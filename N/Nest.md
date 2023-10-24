@@ -7,16 +7,6 @@ nav_order:
 
 # Nest
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Nest
-
 Created by  Unknown User (ajm3), last modified by  Unknown User (baj2) on Nov 20, 2012
 
 1. (n) A large chair that one sits in for inordinate amounts of time. Usually has blankets and dirty laundry in the corners. &quot;Bill's in his room in his nest again&quot; A. Moak 2010Obsolete, 2012. Joyce

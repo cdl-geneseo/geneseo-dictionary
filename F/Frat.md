@@ -7,16 +7,6 @@ nav_order:
 
 # Frat
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Frat
-
 Created by  Unknown User (met6), last modified on Nov 25, 2008
 
 Noun.  An abbreviation of the word &quot;fraternity&quot;, a male greek association.

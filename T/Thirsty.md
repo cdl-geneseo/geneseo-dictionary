@@ -7,16 +7,6 @@ nav_order:
 
 # Thirsty
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Thirsty
-
 Created by  Unknown User (mtr7), last modified by  Kayla Stewart on May 04, 2023
 
 Related to Thirst Thursday.  &quot;Since he had to stay dry while pledging his fraternity, he is probably very thirsty&quot;.  Romig, S-Z, 2015.  Used to describe someone who has not had any kind of sexual experience in a long time and is eager to do so.  &quot;It's been so long since I have been with a girl, I'm so thirsty!&quot;. Romig, S-Z, 2015.(adj) 3. Someone who is overly eager, desperate, or aggressively seeking attention or validation, especially in a romantic or sexual context. It can also refer to someone who is very eager for something, such as success, fame, or money.Example: “Be careful not to post too many selfies at once, you’ll look thirsty.” (Stewart, S-Z, 2023) 

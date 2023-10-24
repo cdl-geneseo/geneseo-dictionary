@@ -7,16 +7,6 @@ nav_order:
 
 # Raise the roof
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Raise the roof
-
 Created by  Unknown User (lav4), last modified by  Unknown User (gmm6) on Nov 15, 2010
 
 1. (n.) A dance; &quot;Everyone at the IB started raising the roof when N'Sync's 'Bring in da Noise' came on&quot; (vp.) to make a party extremely wild. Source: Dictionary of Geneseo English 2006. A similar entry appears at http://www.urbandictionary.com/define.php?term=raise+the+roof ; the entry is probably not specific to Geneseo. Dinki. Obsolete as of Fall 2010.

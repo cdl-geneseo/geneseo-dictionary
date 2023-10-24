@@ -7,16 +7,6 @@ nav_order:
 
 # Hammered
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Hammered
-
 Created by  Unknown User (met6), last modified by  Unknown User (jcf10) on Nov 16, 2012
 
 1) adj. extremely drunkex. &quot;Yeah, he's pretty hammered.  I bet he's going to pass out soon.&quot;As of 2012, 100% of students surveyed know this word. 0% believe it is of local origin.(Flynn, G-M, 2012)

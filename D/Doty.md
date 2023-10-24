@@ -7,16 +7,6 @@ nav_order:
 
 # Doty
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Doty
-
 Created by  Unknown User (kla8) on Nov 19, 2012
 
 n. Pronunciation: Amer. / doʊtiː 1. Building adjacent to Welles Hall, currently under construction. Future home of Admissions, International Student Services, College Advancement, administrative offices as well as the Small Business Development and Micro Outreach Centers. Once owned by Geneseo, then sold, then re-purchased and demolished.  “Doty seems to have been put together quickly.”K.Andryshak, 2012

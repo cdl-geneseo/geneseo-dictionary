@@ -7,16 +7,6 @@ nav_order:
 
 # Shakti
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Shakti
-
 Created by  Unknown User (lav4), last modified on Dec 01, 2008
 
 noun: ACE organization which focuses on the South Asian culture

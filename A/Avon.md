@@ -7,16 +7,6 @@ nav_order:
 
 # Avon
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Avon
-
 Created by  Zachary Arthur, last modified on Sep 17, 2008
 
 NN. Either the town of Avon, which borders Geneseo, or the road which Main Street turns into after the intersection of Court St. and North St. Either term identified roughly 30% of the time by participants surveyed. 

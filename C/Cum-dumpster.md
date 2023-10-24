@@ -7,16 +7,6 @@ nav_order:
 
 # Cum dumpster
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Cum dumpster
-
 Created by  Unknown User (bli2), last modified on Sep 21, 2008
 
 A sexually promiscuous woman. &quot;That girl sleeps around... she's a huge cum dumpster.&quot; Inferred to be used by Fraternal Organizations/Greek Life. New fall 2006.

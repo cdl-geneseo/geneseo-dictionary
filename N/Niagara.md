@@ -7,16 +7,6 @@ nav_order:
 
 # Niagara
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Niagara
-
 Created by  Unknown User (gmm6), last modified on Sep 30, 2010
 
 (n.)  An abbreviation that is used to refer to the Niagara Residence Hall.  &quot;I haven't been in Niagara since freshman year.&quot;  Martinelli, N-R, 2010.

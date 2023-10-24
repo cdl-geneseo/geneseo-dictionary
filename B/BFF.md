@@ -7,16 +7,6 @@ nav_order:
 
 # BFF
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : BFF
-
 Created by  Zachary Arthur, last modified on Sep 23, 2008
 
 bi Ef Ef/ – NN Acronym. Best Friends Forever. Title for people who have an extremely close friendship. Often used to describe people who have become very close over a short period of time (sometimes used with sarcastic tone). &quot;They just met, and and already, they're, like, BFF.&quot; S01 (heard w/o documentation in F99) - no references noted in dictionaries. 

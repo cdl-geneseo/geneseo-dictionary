@@ -7,16 +7,6 @@ nav_order:
 
 # Bounce
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Bounce
-
 Created by  Unknown User (bli2), last modified on Nov 28, 2008
 
 Bounce: Verb- Leave, Get out of here. &quot;Let's bounce.&quot; 93% of people surveyed were familiar with this term. BIervese, 2008

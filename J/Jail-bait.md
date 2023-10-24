@@ -7,16 +7,6 @@ nav_order:
 
 # Jail bait
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Jail bait
-
 Created by  Unknown User (wlf1), last modified by  Unknown User (jtd8) on May 07, 2019
 
 Jail bait: n. a minor (under age 18) who is sexually attractive, yet legally off-limits, to a person or persons over the age of 18.Not specific to Geneseo.As of 2012, 90% of students surveyed know this word. 0% believe it is of local origins.(Endress, G-M, 2012)As of 2019, 45% of students surveyed knew this world, 0% believe it is of local origins. (Dilcher, G-M, 2019)

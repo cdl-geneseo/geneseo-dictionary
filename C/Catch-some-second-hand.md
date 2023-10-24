@@ -7,16 +7,6 @@ nav_order:
 
 # Catch some second hand
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Catch some second hand
-
 Created by  Unknown User (tjc13), last modified by  Unknown User (jmb53) on Nov 20, 2012
 
 verb- to bum a cigarette verb- to stand next to someone who is smoking and inhale the smoke they breathe out as a substitute for smoking when one has no cigarettes or cannot bum oneJ. Boselli, 2012: 0% of those surveyed were able to identify the term. Considered obsolete. 

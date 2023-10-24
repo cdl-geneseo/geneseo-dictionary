@@ -7,16 +7,6 @@ nav_order:
 
 # Twenty A (20A)
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Twenty A (20A)
-
 Created by  Unknown User (eo7) on Nov 16, 2012
 
 n. The highway that connects the residential section of Geneseo to the commercial section of town.&quot;Atticus drove down 20A to go to Wegmans.&quot;EOberdorf, S-Z, 2012

@@ -7,16 +7,6 @@ nav_order:
 
 # Didi
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Didi
-
 Created by  Unknown User (hjn1), last modified by  Unknown User (meg23) on Apr 15, 2019
 
 This is the name of the woman who works at Books n Bytes in Milne library. She is very sweet and energetic, and she brightens everyones mornings' with her compliments and her positive attitude.&quot;I was having such a bad day and Didi was so nice today! It really cheered me up.&quot;(Nicchi, A-F, 2019). 

@@ -7,16 +7,6 @@ nav_order:
 
 # Frat Shoes
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Frat Shoes
-
 Created by  Mia Gennaro on May 03, 2023
 
 (noun) 1. a protective covering that college students wear on their feet in order to go to the frats, people often wear shoes that they do not care about due to mud, dirt, or other substances; normally dedicated pair of shoes so none others get ruined, Ex. &quot;Before we leave I have to put on my frat shoes so my boots don't get dirty.&quot; (Gennaro, A-F, 2023)

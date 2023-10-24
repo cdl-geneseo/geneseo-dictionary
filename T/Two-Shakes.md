@@ -7,16 +7,6 @@ nav_order:
 
 # Two Shakes
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Two Shakes
-
 Created by  Unknown User (mtr7), last modified by  Unknown User (amb51) on Apr 29, 2015
 
 Unit of time.  Usually referred to as a very short amount of time.  &quot;Don't move, I'll be back in two shakes&quot;.  Romig, S-Z, 2015.(N) Definition: The act of shaking one's genitalia (typically male) in order to get all of the urine out of the urethra. &quot;Mike are you done pissing? Yeah man, I gave it the ole' two shakes and I finished on up.&quot; Bettina S-Z 2015. 

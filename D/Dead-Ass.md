@@ -7,16 +7,6 @@ nav_order:
 
 # Dead Ass
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Dead Ass
-
 Created by  Unknown User (kla8) on Nov 19, 2012
 
 n.Pronunciation: Amer. / ded-as   1. To be serious about something. “You’ve gotta be kidding.” “No, I’m dead ass.”K. Andryshak, 2012

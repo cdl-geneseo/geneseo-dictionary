@@ -7,16 +7,6 @@ nav_order:
 
 # Crow Ho
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Crow Ho
-
 Created by  Unknown User (bli2), last modified on Sep 21, 2008
 
 NN: Female groupie of AXP (crows) fraternity; &quot;She only goes to AXP parties. She's such a Crow ho.&quot; See ''ho'', crow not explained in S94. NN: Falling out of usage. Only 43% of students identified knowing this term. F06 D. McGiveron

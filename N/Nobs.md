@@ -7,16 +7,6 @@ nav_order:
 
 # Nobs
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Nobs
-
 Created by  Unknown User (ajm3), last modified by  Unknown User (mnt5) on Apr 24, 2015
 
 1. (adj.) (abbrv.) Used by History of the English Language students to express that a word is &quot;not obsolete&quot;. &quot;How about the word 'nasty'?&quot; &quot;Nobs&quot;. A. Moak 2010Obsolete as of 2015 (Toran, N-R, 2015).

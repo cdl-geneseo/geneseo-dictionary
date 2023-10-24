@@ -7,16 +7,6 @@ nav_order:
 
 # Party Pooper
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Party Pooper
-
 Created by  Jessalyn Willmott, last modified on May 07, 2022
 
 n. a person who refuses to join the fun of the party&quot;My roommate stayed in last night to do her homework, what a party pooper!&quot;As of 2022, &quot;party pooper&quot; is still in use among Geneseo students, averaging a score of 3.6/5, with 1 representing a word unknown to Geneseo students and 5 representing a word used daily among students.(J. Willmott, M-P, 2022)

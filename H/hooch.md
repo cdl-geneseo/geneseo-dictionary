@@ -7,16 +7,6 @@ nav_order:
 
 # hooch
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : hooch
-
 Created by  Unknown User (met6), last modified by  Unknown User (crl12) on Apr 16, 2019
 
 1) n. A woman who is promiscuous by reputation2) n. Cheap alcoholSource: Dictionary of Geneseo English, Spring 1999 - Kocher- 2006 Of those surveyed in 2008, 68.2% recognized the word, and 0% learned the word in Geneseo.Talbot, 2008As of 2012, 97.5% of students surveyed know this word. 0% believe it is of local origin.(Flynn, G-M, 2012)As of 2019, 23% of students surveyed know this word. 0% believe it is of local origins.(Luquer, 2019)

@@ -7,16 +7,6 @@ nav_order:
 
 # Fugly~
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Fugly~
-
 Created by  Unknown User (crk4), last modified on Sep 21, 2008
 
 Blend of fucking and ugly

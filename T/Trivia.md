@@ -7,16 +7,6 @@ nav_order:
 
 # Trivia
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Trivia
-
 Created by  Unknown User (alu1), last modified on Dec 02, 2008
 
 Refers to Trivia Night competitions hosted at either the Vital Spot or the Statesmen.

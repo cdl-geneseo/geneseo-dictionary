@@ -7,16 +7,6 @@ nav_order:
 
 # Roasted
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Roasted
-
 Created by  Unknown User (gmm6), last modified on Nov 15, 2010
 
 (vb.)  To be humiliated, mocked, or verbally insulted by another person.  Usage is not specific to Geneseo.  Similar definitions can be found in the Urban Dictionary.  &quot;Boom! You just got roasted!&quot;  Martinelli, N-R, 2010.

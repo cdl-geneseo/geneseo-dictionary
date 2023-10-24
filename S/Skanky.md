@@ -7,16 +7,6 @@ nav_order:
 
 # Skanky
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Skanky
-
 Created by  Unknown User (arh11), last modified on Sep 28, 2008
 
 (adj) Sexually loose or easy (woman), possibly a carrier of venereal disease. &quot;Natalie is so skanky, she's always going home with boys.&quot; Source: Dictionary of Geneseo English 1996 Dilluvio

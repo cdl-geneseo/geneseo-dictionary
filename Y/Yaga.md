@@ -7,16 +7,6 @@ nav_order:
 
 # Yaga
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Yaga
-
 Created by  Anne Baranello, last modified on Dec 13, 2020
 
 An exclamatory term used when pulling someones hair/weave harshly. Often used in place of &quot;yeet&quot; when throwing something across a room. Example: *throwing a soda can across the room* &quot;Yaga!&quot;(Baranello, S-Z 2020)

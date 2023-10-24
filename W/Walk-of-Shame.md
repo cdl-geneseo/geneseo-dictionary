@@ -7,16 +7,6 @@ nav_order:
 
 # Walk of Shame
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Walk of Shame
-
 Created by  Unknown User (kmh28), last modified on Nov 24, 2008
 
 (noun) The walk back to your dorm or apartment in the morning after a night of partying (due to one who passes out or hooks up.)

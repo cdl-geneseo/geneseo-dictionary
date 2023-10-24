@@ -7,16 +7,6 @@ nav_order:
 
 # R and S
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : R and S
-
 Created by  Unknown User (gmm6), last modified by  Unknown User (kmo12) on Apr 27, 2015
 
 (n.)  An abbreviation of R and S Books, a bookstore in Geneseo.  &quot;Hey, I'm bored.  Let's head up to R and S.&quot;  Martinelli, N-R, 2010. Obsolete as of Spring 2015. K Owen, N-R, 2015.

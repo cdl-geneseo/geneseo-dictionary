@@ -7,16 +7,6 @@ nav_order:
 
 # Sock Puppeting
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Sock Puppeting
-
 Created by  Unknown User (lav4), last modified by  Unknown User (vs7) on Apr 29, 2015
 
 1)verb: the act of fisting a someone while wearing a condom over the hand/arm2)verb: creating an online identity for deceptive purposes in an online community obsolete (Savallo, 2015)

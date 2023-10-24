@@ -7,16 +7,6 @@ nav_order:
 
 # Nut
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Nut
-
 Created by  Unknown User (era6), last modified by  Unknown User (mem32) on Nov 20, 2012
 
 Nut(n.) 1. The negligible remnant of a can or bottle of beer; &quot;C'mon, drink the nut!&quot; (Obsolete, 2012)(n.) 2. backwash; &quot;Ew, I'm not drinking that - it's just the nut!&quot; (Obsolete, 2012)(n.) 3. sperm; &quot;Man, I've gotta let go of this nut quick.&quot; (Obsolete, 2012)4. someone who acts crazily; What kind of nut drives for 16 hours straight? Source: Dictionary of Geneseo English 2001. Similar definitions appear at http://www.urbandictionary.com/define.php?term=nut ; the entry is probably not specific to Geneseo. Bates. (McNiffe, N-R, 2012)

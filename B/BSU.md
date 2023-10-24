@@ -7,16 +7,6 @@ nav_order:
 
 # BSU
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : BSU
-
 Created by  Unknown User (ab21), last modified on Nov 29, 2010
 
 KChapman and ABelliard 2010: Acronym standing for Black Student Union. BSU is one of Geneseo's culture club giving its adherent the occasion to gather and discuss all sorts of subjects. It deals mainly with issues about minorities and diversity. 

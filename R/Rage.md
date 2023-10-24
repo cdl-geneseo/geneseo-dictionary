@@ -7,16 +7,6 @@ nav_order:
 
 # Rage
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Rage
-
 Created by  Unknown User (afl1) on Nov 20, 2012
 
 (v.) To party extremely hard; usually involves excessive drinking.

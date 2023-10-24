@@ -7,16 +7,6 @@ nav_order:
 
 # Bussin'
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Bussin'
-
 Created by  Chloe Smith on May 07, 2022
 
 adj. Used to describe something that is really good, usually food; &quot;This pizza is bussin'&quot;82% of the people surveyed believe that this is the definition for the word &quot;bussin'.&quot;(C. Smith, 2022).

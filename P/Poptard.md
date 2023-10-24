@@ -7,16 +7,6 @@ nav_order:
 
 # Poptard
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Poptard
-
 Created by  Unknown User (arh11), last modified by  Unknown User (lah15) on Nov 15, 2010
 
 Noun: A person who says &quot;pop&quot; in place of &quot;soda&quot;.

@@ -7,16 +7,6 @@ nav_order:
 
 # On the rag
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : On the rag
-
 Created by  Unknown User (era6), last modified by  Unknown User (dma7) on Apr 26, 2015
 
 On the rag(adj.) A term used to describe a woman when she is menstruating; &quot;Cheryl's been acting cranky, is she on the rag?&quot; A similar deinition appears at http://www.urbandictionary.com/define.php?term=on+the+rag ; this entry is probably not specific to Geneseo. Bates. Obsolete Spring 2015 (Anderson, N-R, 2015).

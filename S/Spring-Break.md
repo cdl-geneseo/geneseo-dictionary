@@ -7,16 +7,6 @@ nav_order:
 
 # Spring Break
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Spring Break
-
 Created by  Unknown User (mr38) on Nov 02, 2020
 
 A time of the year when college students get a break from school. Students usually take vacations, party too hard, relax or try to get ahead in their workload. Where are you going for spring break this year? (Rockwell, Q-T, 2020)

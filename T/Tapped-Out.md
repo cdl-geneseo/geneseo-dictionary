@@ -7,16 +7,6 @@ nav_order:
 
 # Tapped-Out
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Tapped-Out
-
 Created by  Unknown User (prv2), last modified on Dec 07, 2010
 
 (Adj.) - Out of money (e.x. I'm all tapped-out)

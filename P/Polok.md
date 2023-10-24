@@ -7,16 +7,6 @@ nav_order:
 
 # Polok
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Polok
-
 Created by  Tess Woitaszek on Dec 11, 2020
 
 n. A derogatory term for someone of Polish heritage.As of 2020, 3.8% heard / used the word frequently, 19.2% heard / used the word on occasion, and 84.6% never heard / used the word.(Woodard, N-R, 2020)

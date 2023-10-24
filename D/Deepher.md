@@ -7,16 +7,6 @@ nav_order:
 
 # Deepher
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Deepher
-
 Created by  Unknown User (bli2), last modified on Sep 21, 2008
 
 deepher: NN a member of Delta Phi Epsilon sorority; &quot;Deepher Pics!&quot; (www.geneseo.edu/~DphiE.html); F02. KTousey 50% of students survyed familiar with this term. F06 KTousey

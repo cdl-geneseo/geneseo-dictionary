@@ -7,16 +7,6 @@ nav_order:
 
 # One night stand
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : One night stand
-
 Created by  Unknown User (omh1) on Nov 20, 2012
 
 (n.) A sexual relationship lasting only one night; &quot;I haven't heard from her since so I guess it was a one night stand.&quot; Horowitz 2012

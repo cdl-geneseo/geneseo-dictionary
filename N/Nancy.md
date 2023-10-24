@@ -7,16 +7,6 @@ nav_order:
 
 # Nancy
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Nancy
-
 Created by  Unknown User (ajm3), last modified by  Unknown User (baj2) on Nov 20, 2012
 
 1. (n) Used to label a male as acting weak or feminine. Derogatory. &quot;Stop being a nancy and go out with us tonight&quot; A. Moak 2010Obsolete, 2012.Joyce

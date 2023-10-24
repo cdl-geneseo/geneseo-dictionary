@@ -7,16 +7,6 @@ nav_order:
 
 # Biggidy Bam
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Biggidy Bam
-
 Created by  Unknown User (tjc13), last modified by  Graham Drake on Dec 17, 2010
 
 interjection- an expression used to denote the experience of ultimate satisfaction.  &quot;Biggidy-bam! That was an amazing party.  &quot;

@@ -7,16 +7,6 @@ nav_order:
 
 # Noms
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Noms
-
 Created by  Unknown User (baj2), last modified by  Unknown User (mnt5) on Apr 24, 2015
 
 (n.) A reference to food or snacks.Joyce ex) &quot;Let's go grab some noms&quot; (Toran, N-R, 2015).

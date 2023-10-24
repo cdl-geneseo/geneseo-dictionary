@@ -7,16 +7,6 @@ nav_order:
 
 # GSTV
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : GSTV
-
 Created by  Unknown User (crk4), last modified by  Unknown User (cmf9) on Nov 19, 2012
 
 GSTV: noun acronym standing for &quot;Geneseo Student Television,&quot; the student television station on campus broadcasting news, sports, music, comedy, and events on campus.&quot;I am going to contribute 100$ to the GSTV telethon is Jenny sings karaoke!&quot;40% of students surveyed knew this term.(Klein, E-H, 2008)As of 2012, 53% of students knew this word, 53% believe it is of local origin.(Felice, G-M, 2012)

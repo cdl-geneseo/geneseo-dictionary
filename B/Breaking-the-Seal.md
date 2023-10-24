@@ -7,16 +7,6 @@ nav_order:
 
 # Breaking the Seal
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Breaking the Seal
-
 Created by  Unknown User (bli2), last modified by  Unknown User (kla8) on Nov 20, 2012
 
 Breaking the Seal: Verb- The act of urinating for the first time while drinking. Once the seal is broken, restroom trips become much more frequent. 90% of people surveyed were familiar with this term. BIervese, 2008   2012, No change, still 90%. K. Andryshak

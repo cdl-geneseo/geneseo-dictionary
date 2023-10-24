@@ -7,16 +7,6 @@ nav_order:
 
 # Swivel-heads from hell
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Swivel-heads from hell
-
 Created by  Unknown User (arh11), last modified on Sep 20, 2008
 
 Swivel-heads from hell: Phrase, Act in which heads of sorority or fraternity pledges turn frequently to greet brothers/sisters on campus during pledge shufflE: S92. Often shortened to Swivel heads 

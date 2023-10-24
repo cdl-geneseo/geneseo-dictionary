@@ -7,16 +7,6 @@ nav_order:
 
 # Crazy
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Crazy
-
 Created by  Unknown User (bli2), last modified on Sep 21, 2008
 
 crazy (adj.): can be to describe a person, item or situation as insane or over the top. 70% of students survyed use this word. F06. KTousey

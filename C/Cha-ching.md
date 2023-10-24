@@ -7,16 +7,6 @@ nav_order:
 
 # Cha-ching
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Cha-ching
-
 Created by  Unknown User (tjc13), last modified by  Unknown User (kla8) on Nov 20, 2012
 
 n. Said when things are found to be expensive, or when the user is describing a recent influx in cash/money. &quot;I got paid yesterday, Cha-ching!&quot;Historically (within Geneseo Dictionary Project): IN: Said to signal good fortune. F94 cha-ching: term refers to good circumstance, similar in usage to &quot;yeah.&quot; KTousey Obs.F06. Only 20% of students surveyed familiar with this term K. Andryshak, 2012

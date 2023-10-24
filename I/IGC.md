@@ -7,16 +7,6 @@ nav_order:
 
 # IGC
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : IGC
-
 Created by  Unknown User (iif1), last modified on Nov 29, 2010
 
 IGC n. Inter-Greek Council, a council with representatives from every recognized Greek organization on campus, oversees Greek relations and the activities of Greek Week.

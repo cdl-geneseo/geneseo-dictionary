@@ -7,16 +7,6 @@ nav_order:
 
 # Killer
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Killer
-
 Created by  Unknown User (est1), last modified by  Unknown User (mee2) on Nov 16, 2012
 
 adj. [kilr] Good or intense; &quot;That party last night was so killer.&quot;2006-12-10T22:35:22ZKWinkelmanAs of 2012, 95% of students surveyed knew this word and 3% believed it to be of local origin.(Eichas, G-M, 2012)adj. [kilr] Physically or intellectually demanding; &quot;I studied all weekend for my killer physics exam.&quot;GrossAs of 2012, 95% of students surveyed knew this word and 3% believed it to be of local origin.(Eichas, G-M, 2012)  

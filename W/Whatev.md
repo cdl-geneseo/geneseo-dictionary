@@ -7,16 +7,6 @@ nav_order:
 
 # Whatev
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Whatev
-
 Created by  Unknown User (alu1), last modified by  Jack Katz on May 07, 2022
 
 Abbreviation of the word &quot;whatever&quot;. Used in similar context to &quot;whatever&quot;.

@@ -7,16 +7,6 @@ nav_order:
 
 # Tramp stamp
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Tramp stamp
-
 Created by  Unknown User (alu1), last modified on Dec 02, 2008
 
 Noun. Slang term for a tattoo on a female's lower back.

@@ -7,16 +7,6 @@ nav_order:
 
 # Rape
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Rape
-
 Created by  Unknown User (gmm6), last modified on Nov 15, 2010
 
 (vb.)  To soundly defeat another in a competition.  It is often used interchangeably with &quot;pwn.&quot;  Usage is not specific to Geneseo.  Similar definitions can be found in the Urban Dictionary.  &quot;Steve just raped us at Halo, man.&quot;  Martinelli, N-R, 2010.

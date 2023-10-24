@@ -7,16 +7,6 @@ nav_order:
 
 # Lean
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Lean
-
 Created by  Unknown User (crl12), last modified on Apr 15, 2019
 
 (noun) recreational drug that consists of prescription-strength cough syrup mixed with a carbonated soft drink.We should steal some cough syrup from your mom so that we can make lean for tonight.As of 2019, 50.7% of students surveyed knew this word and .7% of students surveyed believed this word to be of local origin. (Luquer, 2019)

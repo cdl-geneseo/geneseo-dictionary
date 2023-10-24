@@ -7,16 +7,6 @@ nav_order:
 
 # Ambassador
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Ambassador
-
 Created by  Zachary Arthur, last modified on Sep 16, 2008
 
 NN. Apartment complex located on Court Street, where predominantly upperclassmen reside. Of participants surveyed, 55% identified the term. The majority of those unable to recognize it were of freshman status. 

@@ -7,16 +7,6 @@ nav_order:
 
 # Fruit-booter
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Fruit-booter
-
 Created by  Unknown User (crk4), last modified on Dec 02, 2008
 
 Adjective frut but r Describing a person that uses rollerblades as a means of transportation; &quot;How are you getting to the movies, now that you're dating a ''fruit-booter''?&quot; 

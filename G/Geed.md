@@ -7,16 +7,6 @@ nav_order:
 
 # Geed
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Geed
-
 Created by  Mia Donaldson, last modified on May 05, 2022
 
 n. A student who is not involved in Greek life.&quot;My Geed friend isn't in any organizations.&quot;Based on survey results, 25% of students could define the word; 20% of students believe the word is specific to Geneseo. M. Donaldson, 2022

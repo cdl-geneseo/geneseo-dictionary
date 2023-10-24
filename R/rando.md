@@ -7,16 +7,6 @@ nav_order:
 
 # rando
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : rando
-
 Created by  Unknown User (afl1), last modified by  Unknown User (kmo12) on Apr 27, 2015
 
 (n.) A random person, most often used to describe a person that one has hooked up with at a bar.

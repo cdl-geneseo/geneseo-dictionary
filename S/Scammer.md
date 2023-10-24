@@ -7,16 +7,6 @@ nav_order:
 
 # Scammer
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Scammer
-
 Created by  Unknown User (lav4), last modified on Oct 28, 2008
 
 1. (n.) Woman who uses men to buy beer, then leaves them. &quot;I was such a scammer at the Vital Spot last night, I almost felt bad for those guys.&quot; F 89, apparently recorded elsewhere without reference to alcohol, but source for this other usage not given. 2. (n.) Man who tries to make a good impression on a woman. &quot;He picked me up in his new Camaro but I could tell he was just a scammer.&quot; Source: Dictionary of Geneseo English 1996. Obsolete Fall 2006. Dinki.

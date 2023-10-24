@@ -7,16 +7,6 @@ nav_order:
 
 # Novice
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Novice
-
 Created by  Unknown User (ac45) on Apr 07, 2019
 
 (n.) A person new or inexperienced in a field or situation; a first-year crew team member with no prior experienceExample: He was doing very well considering he’s a novice. (A Chen, N-R, 2019).

@@ -7,16 +7,6 @@ nav_order:
 
 # Chill out
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Chill out
-
 Created by  Unknown User (tjc13), last modified on Oct 05, 2008
 
 VB: see ''Chill''. F92 chill out: (VB) - to calm down Source: Dictionary of Geneseo English, Fall 1998 Simmington Chill out (VB): to relax, calm down, or cool off to take things less seriously when one is too worked up. Known by all of those surveyed.

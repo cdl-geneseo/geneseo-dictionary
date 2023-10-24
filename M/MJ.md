@@ -7,16 +7,6 @@ nav_order:
 
 # MJ
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : MJ
-
 Created by  Unknown User (est1), last modified by  Unknown User (msc5) on Nov 19, 2012
 
 1. n. abbreviation for the Mary Jemison Dining Hall [[KWinkelman|KWinkelman]] 16:09, 27 Nov 2006 (EST)2. n. slang for marijuana: an acronym for either marijuana or Mary Jane. As of 2012,95% knew the word and 95% believed it to be of local origin.(Craft, G-M, 2012)

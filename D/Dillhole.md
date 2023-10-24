@@ -7,16 +7,6 @@ nav_order:
 
 # Dillhole
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Dillhole
-
 Created by  Unknown User (ms61) on May 08, 2015
 
 An insult similar to &quot;dickhead&quot;

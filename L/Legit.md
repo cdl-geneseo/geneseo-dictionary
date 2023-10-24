@@ -7,16 +7,6 @@ nav_order:
 
 # Legit
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Legit
-
 Created by  Unknown User (krk5), last modified by  Unknown User (mee2) on Nov 19, 2012
 
 adj. A contraction of 'legitimate.' Used as an adjective, this term means that something is real, actual, true, or certified. &quot;No, really, guys, this is legit - it's right here in The Lamron.&quot;adv. A contraction of 'legitimate'. Adverbially; &quot;It is legit cold outside.&quot;As of 2012, 100% of students surveyed knew this word and 5% believed it to be of local origin.(Eichas, G-M, 2012) 

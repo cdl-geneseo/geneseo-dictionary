@@ -7,16 +7,6 @@ nav_order:
 
 # Speechie
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Speechie
-
 Created by  Unknown User (lav4), last modified by  Unknown User (met10) on Apr 28, 2015
 
 noun: Speech pathology majorObsolete as of 2015. Probably due to the fact that Speech Pathology is no longer offered at the school. M.Turner S-Z 2015

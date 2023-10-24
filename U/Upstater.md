@@ -7,16 +7,6 @@ nav_order:
 
 # Upstater
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Upstater
-
 Created by  Unknown User (kmh28), last modified by  Quentin Wall on Nov 29, 2020
 
 (n.) A term referring to those who are from upstate New York. For anyone from Long Island and New York City the term applies to anyone north of the city.Man, those upstaters sure do like Wegmans!(Wall, U-Z, 2020)

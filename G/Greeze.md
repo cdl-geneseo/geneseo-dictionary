@@ -7,16 +7,6 @@ nav_order:
 
 # Greeze
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Greeze
-
 Created by  Unknown User (crk4), last modified by  Unknown User (spc14) on Apr 10, 2019
 
 ''Verb'' Eat; &quot;I am heading out to Ponderosa for the &quot;'All You Care to ''Greeze'' Buffet.'&quot; This word was listed as obsolete in Fall 1998. Results: 7.5% of those surveyed knew this word and 33.3% of the people that knew the word, learned the word at Geneseo. Conclusion: This word is not local to Geneseo, and its use is very limited - but it is not obsolete. Source: Dictionary of Geneseo English, Spring 1999 - Kocher Results: 0% of those surveyed knew this word in 2006. Conclusion: This word has once again become obsolete.-C Adam2% of students surveyed knew this word, and 0% of these students had learned the word at Geneseo. This word is essentially obsolete on the Geneseo campus.(Klein, E-H, 2008)As of 2012, 2% of students surveyed knew this word, 0% believe it is of local origin.(Felice, G-M, 2012)As of 2019, 0% of students surveyed knew this word. 0% believe this word originated in Geneseo. This word is obsolete. (Cannioto, G-M, 2019)

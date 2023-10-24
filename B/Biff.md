@@ -7,16 +7,6 @@ nav_order:
 
 # Biff
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Biff
-
 Created by  Zachary Arthur, last modified by  Unknown User (tjc13) on Nov 24, 2008
 
 VB: To make a mistake; &quot;I accidentally mentioned the surprise party. I really biffed.&quot; F92 VB-Obs. S99

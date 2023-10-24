@@ -7,16 +7,6 @@ nav_order:
 
 # LMAO
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : LMAO
-
 Created by  Emily McIntosh, last modified on Dec 07, 2020
 
 LMAOv. Stands for “laugh my ass off.” It’s typically used in response to a funny message or comment that someone says. Source: Dictionary of Geneseo English, Fall 2020, McIntoshAs of 2020, 100% of students surveyed know the word. Of those surveyed, 0% believed it originated locally. While 93.8% believed it originated elsewhere.(McIntosh, G-M, 2020)

@@ -7,16 +7,6 @@ nav_order:
 
 # Zone out
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Zone out
-
 Created by  Unknown User (kmh28), last modified on Dec 01, 2008
 
 (verb) To fall into a mental stupor for a brief period of time.

@@ -7,16 +7,6 @@ nav_order:
 
 # Bomb-dot-com
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Bomb-dot-com
-
 Created by  Unknown User (kla8) on Nov 19, 2012
 
 n. Pronunciation: Amer. / bɑm-dɑt-kɑm 1. Slang term for awesome “That movie was the bomb-dot-com.” K. Andryshak, 2012

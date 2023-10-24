@@ -7,16 +7,6 @@ nav_order:
 
 # Barack
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Barack
-
 Created by  Unknown User (kla8) on Nov 19, 2012
 
 n.  Pronunciation: Amer. / bəˈrɑːk 1. The first name of the forty-fourth president of the United States.  “On November 6, 2012, Barack Obama was reelected as president.”K. Andryshak, 2012

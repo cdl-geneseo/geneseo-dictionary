@@ -7,16 +7,6 @@ nav_order:
 
 # Stealth
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Stealth
-
 Created by  David Sweeney, last modified on May 05, 2023
 
 (adj.) 1. relating to being transgender; a person who is not “out” as trans (Sweeney, S-Z, 2023)Example: &quot;Her friends at school know she's trans but at work she's stealth.&quot;

@@ -7,16 +7,6 @@ nav_order:
 
 # Funky
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Funky
-
 Created by  Unknown User (crk4), last modified on Dec 02, 2008
 
 ''Adjective'' Cool; &quot;I usually don't like orange and purple together, but that looks kind of ''funky''.&quot;

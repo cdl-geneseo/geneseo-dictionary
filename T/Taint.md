@@ -7,16 +7,6 @@ nav_order:
 
 # Taint
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Taint
-
 Created by  Unknown User (kmh28), last modified on Sep 23, 2008
 
 Taint: (noun) The area between male or female genitalia.

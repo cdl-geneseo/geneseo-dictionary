@@ -7,16 +7,6 @@ nav_order:
 
 # Yassification
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Yassification
-
 Created by  Unknown User (mre4), last modified on May 07, 2022
 
 (verb). The process of becoming more glamorous or trendy either through digital editing or beauty products.&quot;Have you seen the yassification of the Mona Lisa?&quot; Edmond, S-Z, 2022

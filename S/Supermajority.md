@@ -7,16 +7,6 @@ nav_order:
 
 # Supermajority
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Supermajority
-
 Created by  Unknown User (aet10), last modified on Oct 30, 2020
 
 n. pl. su·per·ma·jor·i·tiesA specified majority of votes, such as 60 percent, required to approve a motion or pass legislation. The company, for instance, has a supermajority clause in its articles of incorporation; 80% of the shareholders must approve any sale or merger. (Toussaint, S-Z, 2020)

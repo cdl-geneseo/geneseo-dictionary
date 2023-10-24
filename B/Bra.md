@@ -7,16 +7,6 @@ nav_order:
 
 # Bra
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Bra
-
 Created by  Unknown User (tjc13), last modified on Nov 24, 2008
 
 noun-  a variation of bro, a term used between guys to imply brotherhood or friendship

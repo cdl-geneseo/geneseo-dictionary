@@ -7,16 +7,6 @@ nav_order:
 
 # Keg
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Keg
-
 Created by  Marissa Maxwell on May 05, 2023
 
 A barrel often containing beer, typically used in fraternities.As of 2023, 100% of students surveyed have heard of this term, and about 94% of students surveyed believe that this term is fairly often or very often used on campus. 

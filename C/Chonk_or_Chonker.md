@@ -7,16 +7,6 @@ nav_order:
 
 # Chonk or Chonker
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Chonk or Chonker
-
 Created by  Unknown User (aa48) on Dec 10, 2020
 
 Noun- severely overweight, morbidly obese; usually in reference to an animal like a cat or dog

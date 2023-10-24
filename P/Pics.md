@@ -7,16 +7,6 @@ nav_order:
 
 # Pics
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Pics
-
 Created by  Unknown User (lav4), last modified by  Unknown User (kmo12) on Apr 27, 2015
 
 noun: abbreviation for pictures. Example &quot;Do you have the picks from this weekend?&quot; A common use of this term is the phrase, &quot;Pics or it didn't happen.&quot; K Owen, N-R, 2015.

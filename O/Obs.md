@@ -7,16 +7,6 @@ nav_order:
 
 # Obs
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Obs
-
 Created by  Unknown User (ajm3), last modified by  Unknown User (mem32) on Nov 20, 2012
 
 1. (adj.) (abbrv.) Used by History of the English Language students to express that a word is &quot;obsolete&quot;. &quot;How about the word 'nonpology?'&quot; &quot;Obs&quot;. A. Moak 2010 (Obsolete, 2012)(McNiffe, N-R, 2012)

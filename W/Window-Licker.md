@@ -7,16 +7,6 @@ nav_order:
 
 # Window Licker
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Window Licker
-
 Created by  Unknown User (kmh28), last modified by  Unknown User (mcw10) on Apr 14, 2019
 
 (noun) Someone displaying seemingly below-average intelligence; acting like an idiot.&quot;Look at him purposely falling all over the place...what a window licker.&quot; (N) The word has fallen out of use, identifiable to only 14% of surveyed individuals. Terms with similar meaning and more common use include 'moron,' 'dumbass,' and other synonyms.Mary Wrynn. S-Z. 2019

@@ -7,16 +7,6 @@ nav_order:
 
 # O.D.
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : O.D.
-
 Created by  Unknown User (mem32) on Nov 20, 2012
 
 (abbv.) - Common abbreviation for overdose (McNiffe, N-R, 2012)

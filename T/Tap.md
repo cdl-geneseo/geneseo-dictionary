@@ -7,16 +7,6 @@ nav_order:
 
 # Tap
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Tap
-
 Created by  Unknown User (kmh28), last modified on Sep 23, 2008
 
 Tap: (noun) 1. The tool used to open a keg

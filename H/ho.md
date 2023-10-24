@@ -7,16 +7,6 @@ nav_order:
 
 # ho
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : ho
-
 Created by  Unknown User (met6), last modified by  Unknown User (jcf10) on Nov 18, 2012
 
 n. (derogatory) A sexually promiscuous person, usually femaleSource: Dictionary of Geneseo English, Spring 1999 - Kocher- 2006 Of those surveyed in 2008, 88.6% recognized the word, and 0% learned the word in Geneseo.Talbot, 2008As of 2012, 100% of students surveyed know this word. 0% believe it is of local origin.(Flynn, G-M, 2012)

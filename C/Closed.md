@@ -7,16 +7,6 @@ nav_order:
 
 # Closed
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Closed
-
 Created by  Unknown User (bli2), last modified on Nov 27, 2008
 
 closed (): (adj) Refers to an invite-only party not open to the general public; &quot;Dude, we couldn't get into Sig Tau tonight. It's closed.&quot; 

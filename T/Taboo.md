@@ -7,16 +7,6 @@ nav_order:
 
 # Taboo
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Taboo
-
 Created by  Unknown User (aet10) on Oct 30, 2020
 
 Nouna social or religious custom prohibiting or forbidding discussion of a particular practice or forbidding association with a particular person, place, or thing.Many taboos have developed around physical exposure.Adjectiveprohibited or restricted by social custom.Sex was a taboo subject.(Toussaint, S-Z, 2020)

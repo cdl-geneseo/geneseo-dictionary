@@ -7,16 +7,6 @@ nav_order:
 
 # Taking One For The  Team
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Taking One For The  Team
-
 Created by  Unknown User (kmh28), last modified on Sep 23, 2008
 
 Taking one for the team: (verb) hooking up with someone (sometimes due to drunkenness) that you normally would not hook up with if &quot;the team&quot; hadn't needed you to do it.

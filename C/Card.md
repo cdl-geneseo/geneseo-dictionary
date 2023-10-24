@@ -7,16 +7,6 @@ nav_order:
 
 # Card
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Card
-
 Created by  Zachary Arthur, last modified on Nov 24, 2008
 
 Noun: The Geneseo ID card used for getting into builings and purchasing food; &quot;Crap I forgot my card will you pay for me?&quot;

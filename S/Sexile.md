@@ -7,16 +7,6 @@ nav_order:
 
 # Sexile
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Sexile
-
 Created by  Unknown User (arh11), last modified on Sep 28, 2008
 
 (v. or n.) to kick a roommate out of a room in order to engage in sexual intercourse with some one 2. the state of being kicked out of a room so that your roommate can engage in sexual intercourse. &quot;Can't you guys sleep at her place tonight, I'm sick and tired of getting sexiled.&quot; Probably non-specific to Geneseo, a similar definition can be found on Urban Dictionary [http://www.urbandictionary.com/define.php?term=sexile]Source: Dictionary of Geneseo English 2006 (Dilluvio)

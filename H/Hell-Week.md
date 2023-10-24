@@ -7,16 +7,6 @@ nav_order:
 
 # Hell Week
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Hell Week
-
 Created by  Unknown User (erg5), last modified by  Unknown User (jcf10) on Nov 18, 2012
 
 1) n. The final week of pledging for a Greek organizationex. “The pledges will cross after Hell Week.”2) n. Tech week for any theatrical production3) n. Any week that is particularly unbearable, due to workload or otherwise,  e.g. finals week.ex. &quot;It's Hell Week for me. I have 5 projects due and 3 tests.&quot;As of 2012, 97.5% of students surveyed know this word. 5.1% believe it is of local origin.(Flynn, G-M, 2012)

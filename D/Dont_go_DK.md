@@ -7,16 +7,6 @@ nav_order:
 
 # Don't go DK
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Don't go DK
-
 Created by  Unknown User (tjc13), last modified on Nov 24, 2008
 
 interjection - used when an individual or situation is getting out of hand or out of control, a reference to the Delta Kappa Tau fraternity that has a reputation for getting out of hand.

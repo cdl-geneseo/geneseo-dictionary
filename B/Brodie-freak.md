@@ -7,16 +7,6 @@ nav_order:
 
 # Brodie freak
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Brodie freak
-
 Created by  Unknown User (tjc13), last modified on Nov 24, 2008
 
 NN-38% of peole surveyed identified this term as students who frequent Brodie. See also ''Brodie-ite''. S99 NN: Identified by students, but shown to be falling out of usage in speech.

@@ -7,16 +7,6 @@ nav_order:
 
 # Photobomb
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Photobomb
-
 Created by  Unknown User (ram19), last modified on Nov 20, 2012
 
 v. To sneak into someone else's photo, either on purpose or by accident. Ex. Maybe I shouldn't have photobombed their wedding pictures....n. The image of someone in the background of a photo who wasn't supposed to be there. Ex. I can't believe you were behind us, nice photobomb!As of 2012, students surveyed gave it an average of 3.93 out of 5, 1 being an unknown word, and 5 being a word they hear and use often.(Miller, N-R, 2012)

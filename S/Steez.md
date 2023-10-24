@@ -7,16 +7,6 @@ nav_order:
 
 # Steez
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Steez
-
 Created by  Graham Drake, last modified on Jan 14, 2015
 
 Steez:\stz\: (noun) style. &quot;You know my steez&quot;. A similar definition appears at http://www.urbandictionary.com/define.php?term=steez; the entry is probably not specific to Geneseo.

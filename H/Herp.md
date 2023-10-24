@@ -7,16 +7,6 @@ nav_order:
 
 # Herp
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Herp
-
 Created by  Unknown User (iif1), last modified by  Unknown User (crl12) on Apr 16, 2019
 
 1) n. Herpesex. “He has to take Valtrex; he's got the herp.”2) interj. Response to slow-witted behavior or speechAs of 2012, 85% of students surveyed know this word. 0% believe it is of local origins.(Flynn, G-M, 2012)As of 2019, 10% of students surveyed know this word. 0% believe it is of local origins.(Luquer, 2019)

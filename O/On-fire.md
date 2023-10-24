@@ -7,16 +7,6 @@ nav_order:
 
 # On fire
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : On fire
-
 Created by  Unknown User (omh1), last modified on Nov 20, 2012
 
 1. (adj) Used to express that one is currently doing exceptionally well. &quot;He's going to break the record, he's on fire.&quot;  Horowitz 2012

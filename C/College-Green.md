@@ -7,16 +7,6 @@ nav_order:
 
 # College Green
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : College Green
-
 Created by  Unknown User (bli2), last modified on Sep 21, 2008
 
 College Green (NN): Big, grassy, rectangular area enclosed by short cement walls, flowers and trees that is located in the middle of campus by Erwin Hall, Bailey Hall, the [[ISC]]. Area where students hang out and hold protests, and where the occasional College event is held. Definition of approximately 92% of those surveyed. (F06) (new word) Unknown by approximately 8% of those surveyed. (F06) Simmington

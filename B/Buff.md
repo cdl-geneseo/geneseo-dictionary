@@ -7,16 +7,6 @@ nav_order:
 
 # Buff
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Buff
-
 Created by  Unknown User (tjc13), last modified by  Unknown User (jmb63) on Apr 14, 2019
 
 AJ: Muscular (derived from ''buffed''); &quot;I've seen him working out at the gym. He's buff.&quot; S95J. Bloom, A-F, 2019: 100% of students surveyed were able to identify the term in this use. It is very relevant. 

@@ -7,16 +7,6 @@ nav_order:
 
 # ADE
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : ADE
-
 Created by  Unknown User (kla8) on Nov 19, 2012
 
 n. Pronunciation: Amer. / ə-diː-iː1. Acronym form of Alpha Delta Epsilon, a local Greek sorority, with a house on Livingston St. Colors are purple and white. “You can spot a sister of ADE by the colors of her letters.”K. Andryshak, 2012

@@ -7,16 +7,6 @@ nav_order:
 
 # Bait
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Bait
-
 Created by  Zachary Arthur, last modified on Sep 18, 2008
 
 Bait (NN): 10% of people surveyed identified this as a wingman or woman. (F06) (new word) 

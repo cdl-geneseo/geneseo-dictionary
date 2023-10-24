@@ -7,16 +7,6 @@ nav_order:
 
 # Doy-Doy
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Doy-Doy
-
 Created by  Unknown User (bli2), last modified on Nov 27, 2008
 
 /d y-d y/ AJ a reference to a noun of laughably poor quality or to an awkwardly (or poorly) accomplished action. &quot;That doy-doy coffee pot makes more steam than coffee.&quot; &quot;First he tripped on the floor board and then he fell over the chair. That was a doy-doy move.&quot; This term probably came from the word &quot;doy&quot; or &quot;duh&quot; which are derogatory words indicating mental retardation. S01. This word is so far unrecorded in NDAS, OED, RH, W3, AH, The New York Times, or on the Campus Wire sources. Source: Geneseo Dictionary of English, Spring 2001. -Mitchinson

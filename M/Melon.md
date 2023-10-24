@@ -7,16 +7,6 @@ nav_order:
 
 # Melon
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Melon
-
 Created by  Unknown User (est1), last modified by  Unknown User (msc5) on Nov 19, 2012
 
 2006-12-11T10:25:41ZSValentineMelon [mel-uhn] n. Head. &quot;I've studied so hard, my melon hurts.&quot; Source: Dictionary of Geneseo English 1998 (Submitted by SValentine)As of 2012, 90% knew the word and 0% believed it to be of local origin.(Craft, G-M, 2012)

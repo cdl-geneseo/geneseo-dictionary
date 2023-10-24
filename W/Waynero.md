@@ -7,16 +7,6 @@ nav_order:
 
 # Waynero
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Waynero
-
 Created by  Unknown User (kmh28), last modified on Nov 24, 2008
 
 (noun) or &quot;Waynerd.&quot; Same as Wayno with any combination of &quot;Wayne,&quot; &quot;Wayno,&quot; and &quot;nerd&quot; morphemes.

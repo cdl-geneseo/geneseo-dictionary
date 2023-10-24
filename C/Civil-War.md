@@ -7,16 +7,6 @@ nav_order:
 
 # Civil War
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Civil War
-
 Created by  Zachary Arthur, last modified on Nov 24, 2008
 
 Noun: A variant of beer pong with teams of 3 each with 6 cups; &quot;I'm bored of regular pong let's play some Civil War.&quot;

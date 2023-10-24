@@ -7,16 +7,6 @@ nav_order:
 
 # Gas
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Gas
-
 Created by  Mollie McMullan on May 05, 2023
 
 This slang word is used to describe something really good, and may also be used to hype someone up in its verb form. 88.58% of those surveyed knew this word and described it as moderately relevant. Examples of how it can be used are: &quot;This food is gas!&quot; or &quot;You don't need to gas me up like that.&quot; (McMullan, G-M, 2023)

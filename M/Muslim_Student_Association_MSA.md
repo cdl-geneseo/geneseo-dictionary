@@ -7,16 +7,6 @@ nav_order:
 
 # Muslim Student Association (MSA)
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Muslim Student Association (MSA)
-
 Created by  Unknown User (adb10), last modified on Apr 28, 2015
 
 (noun) The Muslim Student Association (MSA) is a student organization that has weekly meeting for and about the Islamic religion. Some events are organized throughout the year to engage students. (http://www.geneseo.edu/~msa/HOME.htm) (Bonetto, G-M, 2015)

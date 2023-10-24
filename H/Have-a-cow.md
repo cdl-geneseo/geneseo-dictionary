@@ -7,16 +7,6 @@ nav_order:
 
 # Have a cow
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Have a cow
-
 Created by  Unknown User (met6), last modified by  Unknown User (jcf10) on Nov 18, 2012
 
 v. To overreact or become upset, especially for no reasonSource: Dictionary of Geneseo English, Spring 1999 - Kocher - 2006As of 2012, 100% of students surveyed know this word. 0% believe it is of local origins.(Flynn, G-M, 2012)Of those surveyed in 2008, 86.4% knew the word, and of those, 0% learned it in Geneseo. Talbot, 2008.

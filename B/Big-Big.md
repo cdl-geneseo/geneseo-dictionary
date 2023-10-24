@@ -7,16 +7,6 @@ nav_order:
 
 # Big Big
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Big Big
-
 Created by  Zachary Arthur, last modified on Sep 23, 2008
 
 (bIg bIg) n. Designates pledge class family within Greek social culture. F06 JBrognano If you are a member of a greek organization, this is the title given to your big's big. 

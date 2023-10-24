@@ -7,16 +7,6 @@ nav_order:
 
 # Gang
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Gang
-
 Created by  Unknown User (nac16) on Dec 11, 2020
 
 n. A grouping of misbehaved individuals, members often are involved in illegal activities.Source: Dictionary of Geneseo English, Fall 2020, ChojnackiAs of 2020, 97.7% of students surveyed know the word.97.7 % of students surveyed know the word. Of those surveyed, 93% believed it originated elsewhere. (Chojnacki, G-M, 2020)

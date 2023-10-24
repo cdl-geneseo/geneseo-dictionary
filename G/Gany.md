@@ -7,16 +7,6 @@ nav_order:
 
 # Gany
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Gany
-
 Created by  Genevieve Moulton on May 06, 2022
 
 n. slang term for the dorm building, Allegheny Hall“Hey! When are you heading back to gany?&quot;Based on survey results, 71.7% of participants knew this word and could define it. It is used most frequently by those who live in Alleghany Hall. 87% of participants believe this word is specific to Geneseo.(G.Moulton, G-M, 2022)

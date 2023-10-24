@@ -7,16 +7,6 @@ nav_order:
 
 # Harsh out
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Harsh out
-
 Created by  Unknown User (met6), last modified by  Unknown User (jcf10) on Nov 18, 2012
 
 1) v: To act unpleasantlySource: Dictionary of Geneseo English, Spring 1999 - Kocher- 2006Of those surveyed in 2008, 2.3% knew the word, and of those, 0% learned it in Geneseo. Talbot, 2008.As of 2010, 0% of students surveyed know the word. This word appears to be obsolete.(Fishkin, G-M, 2010)As of 2012, 0% of students surveyed know this definition.(Flynn, G-M, 2012)2) v. To chew out or admonishAs of 2012, 5% of students surveyed know this definition. 0% believe it is of local origin.

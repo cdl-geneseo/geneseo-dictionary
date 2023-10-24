@@ -7,16 +7,6 @@ nav_order:
 
 # G-Town
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : G-Town
-
 Created by  Unknown User (met6), last modified on Nov 25, 2008
 
 Noun.  used to refer to the town of Geneseo.

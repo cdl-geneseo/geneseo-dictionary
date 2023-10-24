@@ -7,16 +7,6 @@ nav_order:
 
 # Smash
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Smash
-
 Created by  David Sweeney, last modified on May 05, 2023
 
 (adj.) 1. Positive expression referring to approval of an occurrence(verb) 2.  Slang term used to refer to sexual intercourse Example: &quot;Damn, that person is hot. It'd totally smash.&quot;(Sweeney, S-Z, 2023)

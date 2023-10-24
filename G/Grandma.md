@@ -7,16 +7,6 @@ nav_order:
 
 # Grandma
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Grandma
-
 Created by  Unknown User (crk4), last modified by  Unknown User (saf7) on Nov 19, 2012
 
 ''Noun'' grandma Grandmother; combining form in phrases (i.e., cookie grandma or a grnadma known for frequently baking so as to please her grandchild (as differentiated from a &quot;money grandma.&quot;); &quot;A cookie ''grandma'' is constantly baking and a money ''grandma'' just gives you money all the time.&quot; - The Lamron, &quot;Lunatic's Fringe&quot; Sept. 21, 2000. p9) Source: Dictionary of Geneseo English, Fall 2000 - Kocher Results: 30% of those surveyed knew the word in the combined form in 2006 and of those who recognized this combination word, 0% believed it to be specific to Geneseo. Conclusion: This word has limited to moderate usage and is not specific to Geneseo.-C Adam36% of students surveyed knew this word, and 0% of these students had learned the word at Geneseo. This word is neither well-known nor original to Geneseo.(Klein, E-H, 2008)As of 2012, 50% of students surveyed know this word, of which 0% believe it is of local origin.(Fischer, G-M, 2012)

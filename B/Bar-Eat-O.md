@@ -7,16 +7,6 @@ nav_order:
 
 # Bar-Eat-O
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Bar-Eat-O
-
 Created by  Unknown User (meg23) on Apr 07, 2019
 
 Bar-Eat-O (n.)- A Geneseo “Chipotle” that serves a la carte Mexican dishes, namely burritos and bowls. It is also famous for its bar and margaritas as well.\“Have you tried Bar-Eat-O’s $5 Monday burrito special? It’s my favorite!”(M Gillanders, A-F, 2019).

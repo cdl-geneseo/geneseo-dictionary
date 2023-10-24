@@ -7,16 +7,6 @@ nav_order:
 
 # Repressed
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Repressed
-
 Created by  Unknown User (lav4), last modified by  Unknown User (cam37) on Nov 20, 2012
 
 (adj.) In need of sexual stimulation. &quot;I need to get laid tonight; I'm feeling repressed.&quot; Source: Dictionary of Geneseo English 2001. Dinki.(adj.) sexually conservative. &quot;That girl didn't know what a blowjob is, she's so repressed.&quot; Montelli, N-R, 2012.

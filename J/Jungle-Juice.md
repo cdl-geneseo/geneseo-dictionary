@@ -7,16 +7,6 @@ nav_order:
 
 # Jungle Juice
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Jungle Juice
-
 Created by  Unknown User (erg5), last modified on Nov 29, 2010
 
 Jungle Juice n. a punch spiked with alcohol, usually containing Kool-Aid as well, among other ingredients.

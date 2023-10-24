@@ -7,16 +7,6 @@ nav_order:
 
 # Spaceships
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Spaceships
-
 Created by  Unknown User (eo7) on Nov 16, 2012
 
 n. The rolling chairs in Welles Hall.&quot;Rolling around in a spaceship is better than sitting at a desk.&quot;EOberdorf, S-Z, 2012

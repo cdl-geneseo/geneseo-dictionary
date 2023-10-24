@@ -7,16 +7,6 @@ nav_order:
 
 # HMU (Hit Me Up)
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : HMU (Hit Me Up)
-
 Created by  Lauren Silverman on Dec 11, 2020
 
 A phrase used casually  to request someone to contact them. (Formerly stood for “Hook me up”)Source: Dictionary of Geneseo English, Fall 2020, SilvermanAs of 2020, 97.7% of students surveyed are familiar with this phrase. Of those surveyed, 93% believe that it originated elsewhere.(Silverman, G-M, 2020)

@@ -7,16 +7,6 @@ nav_order:
 
 # Statesman
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Statesman
-
 Created by  Unknown User (clp11), last modified on Nov 23, 2010
 
 N. A bar on Court Street. &quot;We are all going out tonight, we were thinking of going to the Statesman&quot; Pullano, S-Z, 2010.

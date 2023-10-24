@@ -7,16 +7,6 @@ nav_order:
 
 # Chalk
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Chalk
-
 Created by  Unknown User (tjc13), last modified by  Unknown User (kla8) on Nov 20, 2012
 
 (New word) Chalk (VB): a form of communication in low-budget activism where individuals write facts or other messages on sidewalks and chalkboards around campus to reach a large amount of people in a small area. Definition of approximately 28% of those surveyed. (F06) Chalk (VB): to alter a driver's license so it says the owner is 21 years of age. Definition of approximately 28% of those surveyed. (F06) Chalk (NN): used by teachers to write on blackboards. Definition of approximately 14% of those surveyed. (F06) Unknown by approximately 21% of those surveyed.Completely Obsolete, K. Andryshak, 2012

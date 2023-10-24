@@ -7,16 +7,6 @@ nav_order:
 
 # Swole
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Swole
-
 Created by  Unknown User (mtr7) on Apr 27, 2015
 
 Adjective. Used to describe someone who is very muscular, usually with reference to how often they workout.  &quot;Yea, I'm about to go to the gym so I can get swole&quot;.  Romig, S-Z, 2015.

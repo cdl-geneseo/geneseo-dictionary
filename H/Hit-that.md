@@ -7,16 +7,6 @@ nav_order:
 
 # Hit that
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Hit that
-
 Created by  Unknown User (iif1), last modified by  Unknown User (jcf10) on Nov 18, 2012
 
 1) v. To engage in sexual intercourse, synonymous with “tap that”ex. “That guy is hot; I’d hit that.”2) v. to smoke something, especially a jointex. “I am not going to hit that joint; I don't smoke pot.”As of 2012, 100% of students surveyed know this word. 0% believe it is of local origins.(Flynn, G-M, 2012)

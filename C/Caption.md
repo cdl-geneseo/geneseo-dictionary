@@ -7,16 +7,6 @@ nav_order:
 
 # Caption
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Caption
-
 Created by  Zachary Arthur, last modified on Nov 24, 2008
 
 Noun: The words under a facebook picture; &quot;I would not understand this picture at all if it weren't for that caption.&quot;

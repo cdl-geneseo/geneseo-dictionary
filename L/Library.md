@@ -7,16 +7,6 @@ nav_order:
 
 # Library
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Library
-
 Created by  Emily McIntosh on Dec 07, 2020
 
 Libraryn. A place where books are stored and available for educational, research, and entertainment purposes. Geneseo’s library also included a research section for education majors that held videos and tangible objects. Source: Dictionary of Geneseo English, Fall 2020, McIntoshAs of 2020, 100% of students surveyed know the word. Of those surveyed, 0% believed it originated locally. While 100% believed it originated elsewhere.(McIntosh, G-M, 2020)

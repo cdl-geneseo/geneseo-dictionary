@@ -7,16 +7,6 @@ nav_order:
 
 # Herzmanite
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Herzmanite
-
 Created by  Unknown User (met6), last modified by  Mollie McMullan on May 04, 2023
 
 n. Student follower of Professor Ron HerzmanSource: Dictionary of Geneseo English, Spring 1999 - Kocher- 2006 Of those surveyed in 2008, 4.5% recognized the word, and all of those who recognized it learned the word in Geneseo.Talbot, 2008As of 2012, 20% of students surveyed know this word. 100% believe it is of local origins.(Flynn, G-M, 2012)As of 2019, 0% of students surveyed know this word. 0% believe it is of local origins. This word appears to be obsolete.(Luquer, 2019)As of 2023, this word has made a comeback, with 90.9% of students surveying that they have never heard this word as compared to the 0% in 2019. 4.5% of surveyors knew what this word meant, though 82.9% of the people surveyed believed that this term was completely irrelevant. (McMullan, G-M, 2023)

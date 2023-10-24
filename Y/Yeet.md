@@ -7,16 +7,6 @@ nav_order:
 
 # Yeet
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Yeet
-
 Created by  Unknown User (eim1), last modified on Apr 15, 2019
 
 2019:(noun). the action of yeeting. &quot;That was a solid yeet.&quot;(verb). to throw, toss, or chuck something at high speeds. &quot;I am going to yeet your notebook across the room!&quot;(exclamation). used to give positive response, similar to &quot;yay&quot; or &quot;yes.&quot; &quot;We don't have class today!&quot;  &quot;Yeet!&quot;Medina, S-Z, 2019

@@ -7,16 +7,6 @@ nav_order:
 
 # Hung
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Hung
-
 Created by  Unknown User (erg5), last modified by  Unknown User (spe1) on Nov 20, 2012
 
 Hung adj. well-endowed, referring to men.“That guy uses Magnums; he must be hung...”100% of those surveyed know this word, but 0% believe it to be of local origins.As of 2012, 95% of students surveyed know this word. 0% believe it is of local origins.(Endress, G-M, 2012)

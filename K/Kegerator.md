@@ -7,16 +7,6 @@ nav_order:
 
 # Kegerator
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Kegerator
-
 Created by  Unknown User (krk5), last modified by  Unknown User (mee2) on Nov 16, 2012
 
 n. ['kegəre:tər] A refigerator modified to hold a keg of beer.Source: Dictionary of Geneseo English, Fall 2006, WinkelmanNot extant outside of Geneseo.As of 2012, 63% of students surveyed knew this word and 8% believed it to be of local origin.(Eichas, G-M, 2012) 

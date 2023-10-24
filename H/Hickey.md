@@ -7,16 +7,6 @@ nav_order:
 
 # Hickey
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Hickey
-
 Created by  Lauren Silverman on Dec 11, 2020
 
 a usually dark colored mark left on the skin due to sucking. Also called a love-biteAs of 2020, 95.3% of students surveyed are familiar with this term.95.3% of students surveyed are familiar with this term. Of those surveyed, 90.7% believed this originated elsewhere.(Silverman, G-M, 2020)

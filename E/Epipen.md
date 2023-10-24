@@ -7,16 +7,6 @@ nav_order:
 
 # Epipen
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Epipen
-
 Created by  Mia Gennaro on May 03, 2023
 
 (noun) 1. a device that can dispense epinephrine to an individual in the event of an allergic reaction, Ex. &quot;She is having an allergic reaction, inject her with the epipen.&quot; (Gennaro, A-F, 2023). 

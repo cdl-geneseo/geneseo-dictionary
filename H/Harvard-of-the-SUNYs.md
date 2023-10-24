@@ -7,16 +7,6 @@ nav_order:
 
 # Harvard of the SUNYs
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Harvard of the SUNYs
-
 Created by  Unknown User (djb25), last modified on Apr 28, 2015
 
 Harvard of the SUNYs - n. A nickname for SUNY Geneseo. Comparing SUNY Geneseo to Harvard University as a prestigious college.&quot;SUNY Geneseo is like the Harvard of the SUNYs.&quot;As of 2015, 93.75% of students surveyed know this phrase. 87.5% believe it is of local origins.(Barcacel Peña, G-M, 2015)

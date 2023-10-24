@@ -7,16 +7,6 @@ nav_order:
 
 # QT
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : QT
-
 Created by  Tess Woitaszek on Dec 11, 2020
 
 n. An abbreviation for the term 'cutie'. As of 2020, 19.2% heard / used the word frequently, 50% heard / used the word on occasion, and 30.8% never heard / used it.(Woodard, N-R, 2020)

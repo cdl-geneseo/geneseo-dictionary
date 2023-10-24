@@ -7,16 +7,6 @@ nav_order:
 
 # Wayne Manor
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Wayne Manor
-
 Created by  Unknown User (eo7) on Nov 16, 2012
 
 n. A play on the name of a residence hall on campus and Batman’s alter ego’s home.&quot;Living in Wayne Manor makes me feel a little close to The Batman.&quot;EOberdorf, S-Z, 2012

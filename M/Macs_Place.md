@@ -7,16 +7,6 @@ nav_order:
 
 # Mac's Place
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Mac's Place
-
 Created by  Unknown User (iif1), last modified by  Unknown User (msc5) on Nov 16, 2012
 
 n. A subdivision of the Activities Commission, responsible for organizing the shows and band performances held in the Student Union.“Mac’s Place is sponsoring a show on Friday.”70% of those surveyed know the word and 100% of these believe it is of local origins.As of 2012, 68% of student surveyed knew the word and 68% believed it to be of local origin.(Craft, G-M, 2012)

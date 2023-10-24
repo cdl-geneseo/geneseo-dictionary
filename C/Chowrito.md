@@ -7,16 +7,6 @@ nav_order:
 
 # Chowrito
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Chowrito
-
 Created by  Unknown User (aa48) on Dec 10, 2020
 
 Noun- a breakfast burrito made with eggs, cheese, bacon, and a hashbrown served by Geneseo’s food truck, The Chowhound

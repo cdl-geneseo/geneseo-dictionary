@@ -7,16 +7,6 @@ nav_order:
 
 # Carrot Run
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Carrot Run
-
 Created by  Unknown User (jmb53) on Nov 19, 2012
 
 n.  Pronunciation: Amer. / kærət-,keɪrət-rən 1. Apocryphal hazing ritual performed by the Geneseo Alpha Clionian Sorority (represented by the Greek letters Phi Kappa Pi) in which pledges are told to insert a carrot into their sexual organs and sprint to the top of a hill. It is said that the final participant to to complete the event must eat the soiled carrot(s) of every/one other girl. Typically used as a precaution against joining Greek life. “No one knows which hill the Clios use for the Carrot Run.”J. Boselli, 2012

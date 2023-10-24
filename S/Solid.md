@@ -7,16 +7,6 @@ nav_order:
 
 # Solid
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Solid
-
 Created by  Unknown User (arh11), last modified on Sep 28, 2008
 
 (adj.) \sol-id\ Someone or something earning approval, awesome. &quot;Adam and Katie are going out? Solid!&quot; The entry is probably non-specific to Geneseo. A similar definition can be found on Urban Dictionary [http://www.urbandictionary.com/define.php?term=Solid] Dilluvio

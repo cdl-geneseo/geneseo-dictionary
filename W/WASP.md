@@ -7,16 +7,6 @@ nav_order:
 
 # WASP
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : WASP
-
 Created by  Anne Baranello, last modified on Dec 13, 2020
 
 Acronym for White Anglo-Saxon Protestant. Generally refers to affluent white people living in the New England region. Generally used in a negative connotation. (Baranello, S-Z 2020)

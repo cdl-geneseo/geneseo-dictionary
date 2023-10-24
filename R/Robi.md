@@ -7,16 +7,6 @@ nav_order:
 
 # Robi
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Robi
-
 Created by  Unknown User (lav4), last modified on Oct 28, 2008
 
 (v.) \rOb- 'E\ The ingestion of Robitussin DM. &quot;At the rave, we're going to take E, Meth, and we're going to robi.&quot; Source: Dictionary of Geneseo English 2001. Obsolete Fall 2006. Dinki.

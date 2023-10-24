@@ -7,16 +7,6 @@ nav_order:
 
 # Books &amp;Bytes
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Books &amp;Bytes
-
 Created by  Zachary Arthur, last modified on Sep 23, 2008
 
 NN: Cafe in the library. Indentified by 90% f those surveyed. F06 

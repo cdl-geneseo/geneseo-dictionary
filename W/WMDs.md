@@ -7,16 +7,6 @@ nav_order:
 
 # WMDs
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : WMDs
-
 Created by  Unknown User (alu1), last modified by  Unknown User (mtr7) on Apr 28, 2015
 
 &quot;Weapons of Mass Distraction&quot;, slang term for large breasts. &quot;Check out the WMDs on that girl over there!&quot;None of the students we surveyed were able to identify what this acronym stood for.  Obsolete.  Romig, S-Z, 2015.

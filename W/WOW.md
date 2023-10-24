@@ -7,16 +7,6 @@ nav_order:
 
 # WOW
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : WOW
-
 Created by  Unknown User (kmh28), last modified on Dec 01, 2008
 
 (noun) Acronym for Week of Welcome. The first week of the year, filled with events geared towards freshmen in order to make them feel like a part of the Geneseo community and meet new friends.

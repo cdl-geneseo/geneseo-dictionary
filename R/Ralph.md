@@ -7,16 +7,6 @@ nav_order:
 
 # Ralph
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Ralph
-
 Created by  Unknown User (lav4), last modified by  Unknown User (afl1) on Nov 20, 2012
 
 1. (v.) To vomit. &quot;After twenty four shots I had to ralph.&quot; F94. A similar definition appears at http://www.urbandictionary.com/define.php?term=ralph ; the entry is probably not specific to Geneseo. Source: Dictionary of Geneseo English 2006. Dinki. (obsolete 2012).

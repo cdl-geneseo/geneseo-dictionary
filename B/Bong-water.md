@@ -7,16 +7,6 @@ nav_order:
 
 # Bong water
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Bong water
-
 Created by  Unknown User (jmb53) on Nov 19, 2012
 
 n., colloq.Pronunciation: Amer. / bäŋ wɑ-tər 1. The used fluid filtered in a bong. Does not contain tetrahydrocannabinol, as the chemical is not water soluble. Not to be consumed. “You shouldn’t drink the bong water in an attempt to get high.”J. Boselli, 2012

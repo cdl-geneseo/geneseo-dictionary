@@ -7,16 +7,6 @@ nav_order:
 
 # Highkey
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Highkey
-
 Created by  Unknown User (jtd8) on Apr 15, 2019
 
 Adj. An intensifier used to proclaim something as more than it is. &quot;I'm highly stressing about this test right now&quot;As of 2019, 98% of students surveyed recognized the term, and 0% believed it was of local origins. (Dilcher, 2019) 

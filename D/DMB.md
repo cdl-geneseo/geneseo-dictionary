@@ -7,16 +7,6 @@ nav_order:
 
 # DMB
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : DMB
-
 Created by  Unknown User (bli2), last modified on Nov 27, 2008
 
 DMB (NN): short for Dave Matthews Band. Definition of approximately 58% of those surveyed. (F06) (new word) Unknown by approximately 42% of those surveyed. (F06) Simmington Unknown by the faculty surveyed. Could have been unknown to students because it was an acronym. Simmington (F06)

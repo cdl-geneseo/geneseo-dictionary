@@ -7,16 +7,6 @@ nav_order:
 
 # ROFL
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : ROFL
-
 Created by  Unknown User (ram19) on Nov 20, 2012
 
 (acronym) Acronym for &quot;rolling on the floor laughing,&quot; typically used on the internet.Ex. Watching Bridesmaids, ROFL.(Miller, N-R, 2012)

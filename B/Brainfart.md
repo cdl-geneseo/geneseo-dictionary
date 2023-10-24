@@ -7,16 +7,6 @@ nav_order:
 
 # Brainfart
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Brainfart
-
 Created by  Unknown User (tjc13), last modified on Nov 24, 2008
 
 noun- a temporary loss of cognitive function, when someone cannot remember something they know

@@ -7,16 +7,6 @@ nav_order:
 
 # Brosef
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Brosef
-
 Created by  Zachary Arthur, last modified on Nov 24, 2008
 
 Noun: Man; usually used as a joking way to say &quot;bro&quot;; &quot;Hey brosef what are you up to?&quot;

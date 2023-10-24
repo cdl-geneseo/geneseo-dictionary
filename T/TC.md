@@ -7,16 +7,6 @@ nav_order:
 
 # TC
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : TC
-
 Created by  Unknown User (kmh28), last modified by  Unknown User (met10) on Apr 28, 2015
 
 TC: (abbrev.) &quot;Too Cool&quot;Source: MarcantonioRecognized by very few participants in 2015. Possibly obsolete. M. Turner S-Z 2015

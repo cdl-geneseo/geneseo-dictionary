@@ -7,16 +7,6 @@ nav_order:
 
 # McJob
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : McJob
-
 Created by  Unknown User (est1), last modified by  Unknown User (rch7) on Apr 13, 2019
 
 n. A dead end/unpleasant job. &quot;He's stuck in his McJob at the local fast food establishment&quot; (Submitted by ETreidel)As of 2012, 13% knew the word and 0% believed it to be of local origin.(Craft, G-M, 2012)As of 2019, 25% knew the word and 25% believed it to be of local origin.(Hirschhorn, G-M, 2019)

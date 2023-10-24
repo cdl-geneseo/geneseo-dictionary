@@ -7,16 +7,6 @@ nav_order:
 
 # Party Foul
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Party Foul
-
 Created by  Unknown User (ajm3), last modified on Nov 30, 2010
 
 1. (n) Used to express when one commits a travesty at a party such as spilling a drink, and other behavior committed by (usually) an overtly drunk person. Usually followed by a punishment pre-ordained by the party's host(s). &quot;You spilled your beer! Party foul!&quot; A. Moak 2010

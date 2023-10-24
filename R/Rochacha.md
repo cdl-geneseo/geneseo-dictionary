@@ -7,16 +7,6 @@ nav_order:
 
 # Rochacha
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Rochacha
-
 Created by  Unknown User (lav4), last modified on Oct 28, 2008
 
 (n.) \'rch- ch-ah\ Rochester. &quot;My boyfriend is from Rochacha.&quot; Source: Dictionary of Geneseo English 2001. A similar definition appears at http://www.urbandictionary.com/define.php?term=rochacha ; the entry is probably not specific to Geneseo. Dinki.

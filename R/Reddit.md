@@ -7,16 +7,6 @@ nav_order:
 
 # Reddit
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Reddit
-
 Created by  Unknown User (cam37) on Nov 20, 2012
 
 (n.) refers to the website reddit.com. Montelli, N-R, 2012.

@@ -7,16 +7,6 @@ nav_order:
 
 # Stonks
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Stonks
-
 Created by  Anne Baranello, last modified on Dec 13, 2020
 
 A term used to signify a financial investment or decision that ended with financial gain. Used generally in an ironic, humorous manner. Example:Person A: &quot;Hey, look at this cute sweater I got for 50% off!&quot;Person B: &quot;Stonks!&quot; (Baranello, S-Z 2020)

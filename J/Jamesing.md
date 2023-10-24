@@ -7,16 +7,6 @@ nav_order:
 
 # Jamesing
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Jamesing
-
 Created by  Unknown User (wlf1), last modified by  Unknown User (spe1) on Nov 20, 2012
 
 Jamesing: v. to hang around any given area in a creepy, though generally harmless manner; as in &quot;Who is that weird guy?  He's been Jamesing around the house all night.&quot; The word originated from the name of a young man (James) who was prone to the type of behavior described above.  This word is Geneseo specific.As of 2010, 0% of students surveyed know the word. This word appears to be obsolete.(Fishkin, G-M, 2010)As of 2012, 0% of students surveyed know this word. 0% believe it is of local origins.(Endress, G-M, 2012)

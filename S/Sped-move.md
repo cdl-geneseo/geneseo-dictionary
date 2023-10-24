@@ -7,16 +7,6 @@ nav_order:
 
 # Sped-move
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Sped-move
-
 Created by  Unknown User (arh11), last modified on Sep 28, 2008
 
 First part of compound, Stupid action, blend from special education; &quot;not doing your homework is a sped-move&quot;; F90, not known to many Geneseo Students then; obs. F92, F94. Similar definition found on Urban Dictionary [http://www.urbandictionary.com/define.php?term=sped+move]Source: Dictionary of Geneseo English 1996. Obsolete in 2006 Dilluvio.

@@ -7,11 +7,11 @@ nav_order:
 
 # Future Dictionary Possibilities
 
-Bibliographies and Study Guides
 
-Dictionary of Geneseo English
 
-Bibliographies and Study Guides : Future Dictionary Possibilities
+
+
+
 
 Created by  Graham Drake on Aug 10, 2020
 

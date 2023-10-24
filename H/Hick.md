@@ -7,16 +7,6 @@ nav_order:
 
 # Hick
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Hick
-
 Created by  Unknown User (met6), last modified by  Unknown User (jcf10) on Nov 18, 2012
 
 n.  Someone from a rural farming area; Geneseo students from Long Island frequently use this term to describe localsex. &quot;Oh my god, look at that townie. He's such a hick.&quot;Talbot, E-H, 2008 As of 2012, 100% of students surveyed know this word. 0% believe it is of local origin.(Flynn, G-M, 2012)

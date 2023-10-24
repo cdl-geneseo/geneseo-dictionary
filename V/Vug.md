@@ -7,16 +7,6 @@ nav_order:
 
 # Vug
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Vug
-
 Created by  Unknown User (aet10), last modified on Oct 30, 2020
 
 Noun pl. vugsa small cavity in a rock or lodeIt occurs as a crystal coating coating within a vug in a rock ejected from the volcano.  (Toussaint, S-Z, 2020)

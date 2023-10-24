@@ -7,16 +7,6 @@ nav_order:
 
 # Struggle Bus
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Struggle Bus
-
 Created by  Unknown User (met10), last modified on Apr 28, 2015
 
 (noun)/(verb phrase) Most commonly used in the phrase &quot;riding the struggle bus&quot; it refers to having a difficult or stressful time. This could be completing multiple assignments, having to pull an all-nighter, or just having to deal with multiple issues within a short period of time.&quot;I'm really riding the struggle bus with exams this week&quot;  M. Turner S-Z 2015.

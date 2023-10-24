@@ -7,16 +7,6 @@ nav_order:
 
 # Conesus Lake
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Conesus Lake
-
 Created by  Unknown User (bli2), last modified on Sep 21, 2008
 
 ConesusLake (NN): Local lake near Geneseo, about a 10 minute's drive away from campus. Exit 9 on the 390. Definition of approximately 60% of those surveyed. (F06) (new word) Unknown by approximately 40% of those surveyed. (F06) Simmington Most of the people who did not know this word were underclassmen. Simmington (F06)

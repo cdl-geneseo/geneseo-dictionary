@@ -7,16 +7,6 @@ nav_order:
 
 # That's clutch
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : That's clutch
-
 Created by  Unknown User (kmh28), last modified on Dec 02, 2008
 
 (phrase) Equivalent to &quot;that was just in the nick of time&quot;; a thing which was a mild savior in the sense that it was awesome and saved one from either losing something specific or one's mind from boredom.

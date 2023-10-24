@@ -7,16 +7,6 @@ nav_order:
 
 # Ease
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Ease
-
 Created by  Mia Gennaro, last modified on May 03, 2023
 
 (adjective) 1. Used to describe the level of difficulty of something, especially at the lower level, Ex. &quot;The class should complete this task with ease seeing as it is only review.&quot; 2. Used on social media in an ironic way to describe an activity, Ex. “Me and my friend are going on a walk… with ease.” (Gennaro, A-F, 2023)

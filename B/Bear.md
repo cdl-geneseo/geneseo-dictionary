@@ -7,16 +7,6 @@ nav_order:
 
 # Bear
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Bear
-
 Created by  Zachary Arthur, last modified on Sep 18, 2008
 
 NN: Statue at main and Center Streets, downtown Geneseo, recorded only in NN phrase &quot;Legend of the bear&quot; (1) and VB phrase &quot;save the bear&quot; (2). 1. NN- Myth that bear will walk away the first time a virgin graduates from Geneseo; &quot;The legend of the bear will never come true.&quot; F92 2. VB- Lose (female) virginity, based on the same myth as definition 1; &quot;Come save the bear with the Arethusas.&quot; Appeared on an advertising poster. NN-No change 

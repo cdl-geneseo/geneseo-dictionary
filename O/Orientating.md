@@ -7,16 +7,6 @@ nav_order:
 
 # Orientating
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Orientating
-
 Created by  Unknown User (era6), last modified by  Unknown User (ram19) on Nov 20, 2012
 
 Orientating(v) pledge. &quot;Do you know who is orientating for the PIGS this semester?&quot; Source: Dictionary of Geneseo English 1995. Bates. Obselete as of Fall 2012.

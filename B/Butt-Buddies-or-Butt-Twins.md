@@ -7,16 +7,6 @@ nav_order:
 
 # Butt Buddies or Butt Twins
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Butt Buddies or Butt Twins
-
 Created by  Unknown User (tjc13), last modified on Oct 05, 2008
 
 NN a pair of friends who are always seen together and never apart. &quot;Lynne and Christa are always together, they are such Butt Twins!&quot; SP '01 Butt Buddies found on LexisNexis in '99, but with a different meaning (a place to expose of cigarette butts). Butt Twins not found on Lexis Nexis. Source: Geneseo Dictionary of English

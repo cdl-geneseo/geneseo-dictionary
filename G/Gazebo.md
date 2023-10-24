@@ -7,16 +7,6 @@ nav_order:
 
 # Gazebo
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Gazebo
-
 Created by  Unknown User (iif1), last modified by  Unknown User (cmf9) on Nov 19, 2012
 
 Gazebo n. the wooden structure located adjacent to Sturges which offers fairly unobstructed views of the Genesee Valley“I watched the sunset from the Gazebo yesterday”100% of those surveyed know the word and 100% of these believe it is of local originsAs of 2012, 40% of students surveyed knew this word, 7% thought it was of local origin.Note: Many of our responses just referred to a gazebo in general. Some responses referred to the gazebo near the arboretum. The rest were referring to the gazebo by Sturges Hall.(Felice, G-M, 2012)

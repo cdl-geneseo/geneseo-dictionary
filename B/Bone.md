@@ -7,16 +7,6 @@ nav_order:
 
 # Bone
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Bone
-
 Created by  Zachary Arthur, last modified by  Unknown User (jys1) on Apr 14, 2019
 
 1. VB: To stand up; &quot;Rich got boned last night. He waited for her for two hours.&quot; F92 2. VB: To have sex. F94 VB-73% of the students surveyed identified this as the act of having sex. S99N. Any white tissue within the human body that makes up the skeleton. Examples of bones include the femur, tibia, and humerus.

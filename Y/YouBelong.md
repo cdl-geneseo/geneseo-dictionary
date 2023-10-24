@@ -7,16 +7,6 @@ nav_order:
 
 # YouBelong
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : YouBelong
-
 Created by  Unknown User (eo7) on Nov 16, 2012
 
 n. A program for transfer students. &quot;Atticus joined YouBelong for the free food.&quot;EOberdorf, S-Z, 2012

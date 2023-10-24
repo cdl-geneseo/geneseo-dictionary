@@ -7,16 +7,6 @@ nav_order:
 
 # Bet
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Bet
-
 Created by  Unknown User (aa48) on Dec 10, 2020
 
 Noun- a slang term commonly used to signify an understanding or agreement

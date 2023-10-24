@@ -7,16 +7,6 @@ nav_order:
 
 # TA
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : TA
-
 Created by  Unknown User (kmh28), last modified on Sep 23, 2008
 
 TA: (noun) Teacher's Assistant

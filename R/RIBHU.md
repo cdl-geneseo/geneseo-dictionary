@@ -7,16 +7,6 @@ nav_order:
 
 # RIBHU
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : RIBHU
-
 Created by  Unknown User (gmm6), last modified by  Unknown User (cam37) on Nov 20, 2012
 
 (n.)  An abbreviation for &quot;random IB hookup.&quot;  Usage is specific to Geneseo.  &quot; I don't want to have another RIBHU this weekend, so I'm going to stay in.&quot;  Martinelli, N-R, 2010. Obsolete Fall 2012. Montelli, N-R, 2012.

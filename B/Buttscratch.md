@@ -7,16 +7,6 @@ nav_order:
 
 # Buttscratch
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Buttscratch
-
 Created by  Unknown User (tjc13), last modified on Oct 05, 2008
 
 Buttscratch: See also ''Bumblefuck''. Obs F98

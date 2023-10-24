@@ -7,16 +7,6 @@ nav_order:
 
 # Canvas
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Canvas
-
 Created by  Sara French on May 07, 2022
 
 n. The program that most Geneseo professors use to share documents, assignments, and information with students. 92% of survey participants could identify this term. (S French, A-F, 2022).

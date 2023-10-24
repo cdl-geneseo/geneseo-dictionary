@@ -7,16 +7,6 @@ nav_order:
 
 # Dope
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Dope
-
 Created by  Unknown User (bli2), last modified on Nov 27, 2008
 
 1. AJ: Good looking; &quot;That chick is dope, man.&quot; S92 (Said to be Bronx NY term). 2. AJ: Cool; &quot;The party was dope--everyone was there.&quot; F92 AJ - Said to be falling out of use in the Fall of 1998, but majority of those surveyed in the Spring of 1999 cited hearing it often. Brognano, D. McGiveron

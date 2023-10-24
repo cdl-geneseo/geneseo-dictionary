@@ -7,16 +7,6 @@ nav_order:
 
 # Stupid Association
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Stupid Association
-
 Created by  Unknown User (arh11), last modified on Sep 21, 2008
 
 Stupid Association: (noun) Geneseo Student Association, in charge of many college events (pejorative); &quot;Our Stupid Association doesn't bring anyone interesting to our college' 12-15-94, (from parody Normal issue of Lamron; may not be standard in other contexts). 

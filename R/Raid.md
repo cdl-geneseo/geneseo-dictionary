@@ -7,16 +7,6 @@ nav_order:
 
 # Raid
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Raid
-
 Created by  Unknown User (lav4), last modified on Oct 28, 2008
 
 (v.) To bring sudden, surprising authoritative force to a situation &quot;Yeah, Jimmy got busted when his suite was raided by UP.&quot; (n.) the act of having done so. &quot;There was a raid at Jimmy's suite last night.&quot; Source: Geneseo Dictionary 2006. A similar definition appears at http://www.urbandictionary.com/define.php?term=raid ; the entry is probably not specific to Geneseo. Dinki.

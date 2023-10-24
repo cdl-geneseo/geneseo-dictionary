@@ -7,16 +7,6 @@ nav_order:
 
 # Blake
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Blake
-
 Created by  Unknown User (kec3), last modified on Nov 29, 2010
 
 KChapman and ABelliard, 2010:  Blake Hall, older brick building that extends southward along the steep walk between Erwin Hall and Milne Library.

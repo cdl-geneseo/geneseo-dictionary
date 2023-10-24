@@ -7,16 +7,6 @@ nav_order:
 
 # Blackface
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Blackface
-
 Created by  Unknown User (tjc13), last modified on Nov 24, 2008
 
 noun- term used in reference to &quot;The Blackface Incident&quot; of the Fall 2007 academic semester which brought attention to structural inequalities regarding race on the Geneseo campus.  The incident was sparked when three white students dressed up for Halloween as black rappers, including black face paint.

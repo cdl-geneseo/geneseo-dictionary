@@ -7,16 +7,6 @@ nav_order:
 
 # Res Life
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Res Life
-
 Created by  Unknown User (cam37) on Nov 20, 2012
 
 (n.) 1. abbv. SUNY Geneseo Department of Residence Life. &quot;Res Life screwed me out of a townhouse.&quot; 2. the experience of living in residence halls on campus. &quot;I can't stand res life.&quot; Montelli, N-R, 2012.

@@ -7,16 +7,6 @@ nav_order:
 
 # Kinetic Gallery
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Kinetic Gallery
-
 Created by  Unknown User (iif1), last modified by  Unknown User (mee2) on Nov 16, 2012
 
 n. Located in the College Union. Showcases works from local and student artists.“Have you seen the new exhibition at the Kinetic Gallery?”60% of those surveyed know the word, of these 100% believe it is of local originsAs of 2012, 98% of students surveyed knew this word and 98% believed it to be of local origin.(Eichas, G-M, 2012) 

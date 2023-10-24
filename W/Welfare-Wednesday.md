@@ -7,16 +7,6 @@ nav_order:
 
 # Welfare Wednesday
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Welfare Wednesday
-
 Created by  Unknown User (clp11), last modified on Nov 23, 2010
 
 N. When a bar sells discount drinks on Weds nights. &quot;Are you going to the Statesman for Welfare Wednesday tonight?&quot; Pullano, S-Z, 2010.

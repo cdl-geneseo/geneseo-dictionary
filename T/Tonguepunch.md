@@ -7,16 +7,6 @@ nav_order:
 
 # Tonguepunch
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Tonguepunch
-
 Created by  Unknown User (mtr7), last modified on Apr 26, 2015
 
 When someone uses their tongue in a vigorous manner.  Usually associated with sexual activities.  &quot;She tonguepunched my mouth so hard, I didn't even remember to get her name&quot;.  Romig, S-Z, 2015.

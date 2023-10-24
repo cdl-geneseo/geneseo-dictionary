@@ -7,16 +7,6 @@ nav_order:
 
 # Muddows
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Muddows
-
 Created by  Unknown User (krk5), last modified by  Unknown User (rch7) on Apr 13, 2019
 
 n. A muddy path which connects The Meadows apartment buildings with Court Street and campus (seasonal) Source: Dictionary of Geneseo English, Fall 2006, GoodspeedObsolete as of 2008.As of 2010, 10% of those surveyed know the word. The word is no longer obsolete but has limited usage.(Fishkin, G-M, 2010)As of 2012, 8% knew the word and 8% believed it to be of local origin.(Craft, G-M, 2012)As of 2019, 12.5% of students surveyed know the word, and 25% believe it to be of local origin.(Hirschhorn, G-M, 2019)

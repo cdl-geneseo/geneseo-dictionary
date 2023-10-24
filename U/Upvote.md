@@ -7,16 +7,6 @@ nav_order:
 
 # Upvote
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Upvote
-
 Created by  Unknown User (mtr7) on Apr 28, 2015
 
 Yik Yak has an anonymous voting system for their anonymous posts.  You can either positively vote with an &quot;upvote&quot; or negatively vote with a &quot;downvote&quot;.  &quot;I was so surprised when I saw that I got 120 upvotes on my yak, I was drunk when I wrote it!&quot;.  Romig, S-Z, 2015.

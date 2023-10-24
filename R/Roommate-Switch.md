@@ -7,16 +7,6 @@ nav_order:
 
 # Roommate Switch
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Roommate Switch
-
 Created by  Unknown User (lav4), last modified by  Unknown User (gmm6) on Nov 15, 2010
 
 (n.) Either getting with two roommates or you and your roommate getting with the same person. &quot;We did the roommate switch on Ashley last night.&quot; Source: Dictionary of Geneseo English 2001. A similar definition can be found at http://www.urbandictionary.com/define.php?term=roommate+switch ; entry probably not specific to Geneseo. Dinki.  Obsolete as of Fall 2010.  Martinelli, N-R.

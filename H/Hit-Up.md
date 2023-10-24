@@ -7,16 +7,6 @@ nav_order:
 
 # Hit Up
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Hit Up
-
 Created by  Unknown User (met6), last modified by  Unknown User (jcf10) on Nov 18, 2012
 
 1) v.  To make an appearance at a location, usually with the intentions of drinking thereex. &quot;I think I'm going to hit up a few frats, then head to the bars.&quot;2) v. To contact via electronic communicationTalbot, E-H, 2008As of 2012, 97.5% of students surveyed know this word. 0% believe it is of local origin.(Flynn, G-M, 2012)

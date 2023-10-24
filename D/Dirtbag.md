@@ -7,16 +7,6 @@ nav_order:
 
 # Dirtbag
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Dirtbag
-
 Created by  Unknown User (bli2), last modified on Nov 27, 2008
 
 NN: Unlikable person; &quot;What a dirtbag. He expected me to sleep with him just because he paid for dinner.&quot; F92 NN - No change. Brognano, D. McGiveron

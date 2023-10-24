@@ -7,16 +7,6 @@ nav_order:
 
 # Chestnut Street
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Chestnut Street
-
 Created by  Unknown User (tjc13), last modified on Oct 05, 2008
 
 Chestnut Street (NN): a street in the village of Geneseo that is perpendicular to Main Street. Definition of approximately 20% of those surveyed. (F06) (new word) Unknown by approximately 80% of those surveyed.

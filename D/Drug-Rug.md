@@ -7,16 +7,6 @@ nav_order:
 
 # Drug Rug
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Drug Rug
-
 Created by  Unknown User (aa48) on Dec 10, 2020
 
 Noun- a hoodie that resembles a woven carpet and is commonly associated with marijuana smokers

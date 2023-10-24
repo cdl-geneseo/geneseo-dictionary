@@ -7,16 +7,6 @@ nav_order:
 
 # Impeach
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Impeach
-
 Created by  Amanda Neri on Dec 11, 2020
 
 Impeach v. accusing someone being in the public office of misconduct. Source: Dictionary of Geneseo English, Fall 2020, NeriAs of 2020, 82% of students surveyed know the word(Neri, G-M, 2020)  82% of students surveyed know the word. Of those surveyed, 94% believed it originated elsewhere. (Neri, G-M, 2020)

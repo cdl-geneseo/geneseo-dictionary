@@ -7,16 +7,6 @@ nav_order:
 
 # Cricket Darts
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Cricket Darts
-
 Created by  Unknown User (bli2), last modified on Sep 21, 2008
 
 Cricket darts (NN): the type of darts played at a bar. Definition of approximately 28% of those surveyed. (F06) (new words) Unknown by approximately 72% of those surveyed. (F06) Simmington

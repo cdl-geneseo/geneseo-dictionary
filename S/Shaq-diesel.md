@@ -7,16 +7,6 @@ nav_order:
 
 # Shaq diesel
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Shaq diesel
-
 Created by  Unknown User (arh11), last modified on Sep 28, 2008
 
 (adj.) \shk dee-zl: extremely muscular. &quot;He benches 360 pounds and he ripped his XXXL shirt the other day! He's Shaq diesel.&quot; Probably non-specific to Geneseo. A similar definition can be found on Urban Dictionary [http://www.urbandictionary.com/define.php?term=shaq+diesel] The Source: Dictionary of Geneseo English 2001. Obsolete in 2006(Dilluvio)

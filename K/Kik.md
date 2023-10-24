@@ -7,16 +7,6 @@ nav_order:
 
 # Kik
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Kik
-
 Created by  Unknown User (aof1), last modified by  Unknown User (mp31) on Apr 12, 2019
 
 n. A free application for smartphones that allows users to chat privately by exchanging kik names, rather than sharing phone numbers87% of Geneseo students surveyed knew this word. Out of those surveyed, 0% believed the word to have Geneseo origins.(Fox, G-M, 2015) As of 2019, 45% of students surveyed knew this word and 0% thought that this word originated in Geneseo. Many students surveyed noted that this was an app that was popular &quot;5 years ago.&quot; (Pigliacelli, 2019)

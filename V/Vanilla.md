@@ -7,16 +7,6 @@ nav_order:
 
 # Vanilla
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Vanilla
-
 Created by  Unknown User (mr38) on Nov 02, 2020
 
 Adjective- Used to describe something or someone that is ordinary, boring, or uninspiring. Based on vanilla ice cream being seen as a very normal flavor.Last week’s class lecture was really exciting, but this one was a little vanilla for me.(Rockwell, U-Z, 2020) 

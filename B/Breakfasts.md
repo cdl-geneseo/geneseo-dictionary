@@ -7,16 +7,6 @@ nav_order:
 
 # Breakfasts
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Breakfasts
-
 Created by  Unknown User (meg23) on Apr 07, 2019
 
 Breakfasts (n.)- An excuse to day drink in the warm weather; often hosted by fraternities and sororities in the spring and summer.“It’s so nice! I’m definitely going to bring some of my drinks over to the DPhiE breakfast.”(M Gillanders, A-F, 2019).

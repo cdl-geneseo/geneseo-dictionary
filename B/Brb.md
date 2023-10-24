@@ -7,16 +7,6 @@ nav_order:
 
 # Brb
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Brb
-
 Created by  Zachary Arthur, last modified on Sep 23, 2008
 
 VB: To Be Right Back. 100% of those surveyed identified this term. F06 D. 

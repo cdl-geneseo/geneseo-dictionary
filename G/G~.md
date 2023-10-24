@@ -7,16 +7,6 @@ nav_order:
 
 # G~
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : G~
-
 Created by  Unknown User (crk4), last modified by  Abraham Brooks on May 07, 2022
 
 (1) n. a friend or partner;Ex. - &quot;Dshawn's hangin' with his Gs.&quot; (Taken from a conversation overhead in SUNY Geneseo college Union.)Source: Dictionary of Geneseo English, Spring 2001 - Kocher41% of students surveyed knew this word, and 0% of these students had learned the word at Geneseo. This word is neither organic to Geneseo nor to college campuses.(Klein, E-H, 2008)As of 2010, 80% of students surveyed know this word, 0% believe it is of local origins(Fishkin, G-M, 2010)As of 2012, 80% of students surveyed know this word, 0% believe it is of local origins(Goodwin, G-M, 2012)As of 2022, 75% of students know this definition; less than 5% believe it is of local origin.(A. Brooks, G-M, 2022)(2) n. An abbreviation for 'gangster'Ex. - &quot;That man's a real G&quot;As of 2022, 45.8% of students know this definition; less than 5% believe it is of local origin.(A. Brooks, G-M, 2022)

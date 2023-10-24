@@ -7,16 +7,6 @@ nav_order:
 
 # Ballin'
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Ballin'
-
 Created by  Zachary Arthur, last modified on Nov 24, 2008
 
 Adj.: good at basketball, cool; &quot;That party was ballin'.&quot;

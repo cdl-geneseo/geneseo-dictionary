@@ -7,16 +7,6 @@ nav_order:
 
 # Derailed
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Derailed
-
 Created by  Unknown User (bli2), last modified on Nov 24, 2008
 
 derailed (adj.): set off course, not on track 2)  movie featuring Jennifer Aniston. 60% of students survyed use this term. F06. KTousey

@@ -7,16 +7,6 @@ nav_order:
 
 # Dildo
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Dildo
-
 Created by  Unknown User (kla8) on Nov 19, 2012
 
 n.   Pronunciation: Amer. / dɪldəʊ 1. Object shaped like an erect penis used for sexual stimulation.“A dildo without a flared base is dangerous.” K. Andryshak, 2012

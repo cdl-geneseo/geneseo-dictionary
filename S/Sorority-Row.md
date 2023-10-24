@@ -7,16 +7,6 @@ nav_order:
 
 # Sorority Row
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Sorority Row
-
 Created by  Unknown User (arh11), last modified on Sep 28, 2008
 
 NN Wadsworth Street. Location of a large number of Sorority Houses: &quot;Living on Sorority Row becomes unbearable during the weeks of pledging&quot;; S95. Source: Dictionary of Geneseo English 1996. Specific to Geneseo. Obsolete Fall 2006. Dilluvio.

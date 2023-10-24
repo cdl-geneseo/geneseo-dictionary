@@ -7,16 +7,6 @@ nav_order:
 
 # Clio
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Clio
-
 Created by  Unknown User (tjc13), last modified on Oct 05, 2008
 
 Clio (NN): Phi Kappa Pi, a local sorority, and the oldest sorority on campus. Known as the Clionian sorority. Colors are gold and white. Known for wearing white jackets. Name for a member of the sorority (e.g. &quot;She's a Clio.&quot;). Definition of approximately 60% of those surveyed. (F06) (new word) Unknown by approximately 40% of those surveyed

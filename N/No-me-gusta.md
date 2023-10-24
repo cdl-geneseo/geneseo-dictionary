@@ -7,16 +7,6 @@ nav_order:
 
 # No me gusta
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : No me gusta
-
 Created by  Unknown User (baj2) on Nov 20, 2012
 
 (V.) Spanish for &quot;I do not like.&quot; To imply dislike.

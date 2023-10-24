@@ -7,16 +7,6 @@ nav_order:
 
 # MiNT
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : MiNT
-
 Created by  Unknown User (erg5), last modified by  Unknown User (msc5) on Nov 16, 2012
 
 n. A literary magazine founded in 2004. Further information can be found at: http://www.geneseo.edu/~mint/“I'm reading the new issue of MiNT and it is very interesting.”100% of those surveyed know this word and 100% believe it is of local origins.As of 2012, 68% of students knew the word and 68% believed it to be of local origin.(Craft, G-M, 2012) 

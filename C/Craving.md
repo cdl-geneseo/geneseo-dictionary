@@ -7,16 +7,6 @@ nav_order:
 
 # Craving
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Craving
-
 Created by  Unknown User (ms61) on May 08, 2015
 
 To really want something, for example chocolate or pizza.

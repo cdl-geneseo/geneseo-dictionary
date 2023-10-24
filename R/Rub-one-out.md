@@ -7,16 +7,6 @@ nav_order:
 
 # Rub one out
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Rub one out
-
 Created by  Unknown User (lav4), last modified on Oct 28, 2008
 
 (vp): male masturbation. &quot;I gotta rub one out when I get home.&quot; Submitted 2006. A similar definition appears at http://www.urbandictionary.com/define.php?term=rub+one+out ; the entry is probably not specific to Geneseo. Dinki.

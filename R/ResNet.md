@@ -7,16 +7,6 @@ nav_order:
 
 # ResNet
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : ResNet
-
 Created by  Unknown User (ajm3), last modified by  Unknown User (cam37) on Nov 20, 2012
 
 1. (n) Geneseo's internet service. &quot;I can't get online. ResNet must be down.&quot; A. Moak 2010. Obsolete Fall 2012. Montelli, N-R, 2012.

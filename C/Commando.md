@@ -7,16 +7,6 @@ nav_order:
 
 # Commando
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Commando
-
 Created by  Unknown User (bli2), last modified on Nov 28, 2008
 
 Commando: Verb- To go commando is to not wear any underwear. &quot;I haven't done laundry in so long, today I had to go commando.&quot; 100% of people surveyed were familliar with this term. BIervese, 2008

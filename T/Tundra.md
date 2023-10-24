@@ -7,16 +7,6 @@ nav_order:
 
 # Tundra
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Tundra
-
 Created by  Unknown User (kmh28), last modified on Dec 02, 2008
 
 (noun) Negative geographical area that students cross to get from Southside to the rest of campus.

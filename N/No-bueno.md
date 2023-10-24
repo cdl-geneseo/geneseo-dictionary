@@ -7,16 +7,6 @@ nav_order:
 
 # No bueno
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : No bueno
-
 Created by  Unknown User (baj2) on Nov 20, 2012
 
 (adj.) Spanish for &quot;not good.&quot; Bad.

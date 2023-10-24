@@ -7,16 +7,6 @@ nav_order:
 
 # Ontario
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Ontario
-
 Created by  Unknown User (gmm6), last modified on Sep 30, 2010
 
 (n.)  An abbreviation that is used to refer to the Ontario Residence Hall.  &quot;I'm living in a suite in Ontario this year.&quot;  Martinelli, N-R, 2010.

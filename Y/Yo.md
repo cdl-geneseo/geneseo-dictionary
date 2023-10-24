@@ -7,16 +7,6 @@ nav_order:
 
 # Yo
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Yo
-
 Created by  Unknown User (kmh28), last modified on Dec 01, 2008
 
 (int) Used mainly to gain attention.

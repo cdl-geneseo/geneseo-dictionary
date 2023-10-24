@@ -7,16 +7,6 @@ nav_order:
 
 # Genny
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Genny
-
 Created by  Unknown User (djb25), last modified on Apr 28, 2015
 
 Genny - n. A nickname for SUNY Geneseo.&quot;I can't handle the weather in Genny!&quot;As of 2015, 68.75% of students surveyed know this word. 62.5% believe it is of local origins.(Barcacel Peña, G-M, 2015)

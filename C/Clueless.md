@@ -7,16 +7,6 @@ nav_order:
 
 # Clueless
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Clueless
-
 Created by  Unknown User (bli2), last modified by  Unknown User (jmb53) on Nov 20, 2012
 
 AJ: Ignorant. Ultimately from late 1930s British RAF term. Geneseo usage undated. clueless (AJ) - No change Source: Dictionary of Geneseo English, Fall 1998 Simmington Clueless (AJ): Not knowing what is going on, no idea what is up, dumb, confused ignorance (although not necessarily the bad ignorance), being unfamiliar, airy, having no clue. Definition of approximately 93% of those surveyed. (F06) Unknown by approximately 7% of those surveyed. (F06) Simmington, D. McGiveronJ.Boselli, 2012: Though 100% of those surveyed were familiar with and could identify the term, 50% of participants understood the adjective as a reference to the 1995 Amy Heckerling film Clueless, similar to how &quot;fugly&quot; was seen to be connected to the 2004 film Mean Girls.  

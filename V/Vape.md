@@ -7,16 +7,6 @@ nav_order:
 
 # Vape
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Vape
-
 Created by  Unknown User (clc18), last modified on Apr 01, 2019
 
 (verb): The act of inhaling and exhaling vapor through the mouth from an electronic cigarette that vaporizes liquid. Many Geneseo students vape as an alternative to smoking traditional cigarettes, which are often believed to have worse health consequences. Out of 144 Geneseo students who participated in our group's word survey, 125 of them knew this word.“I've recently started vaping to help me quit smoking cigarettes.”Clare Corbett, Group S-Z, 2019

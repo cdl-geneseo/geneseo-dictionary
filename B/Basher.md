@@ -7,16 +7,6 @@ nav_order:
 
 # Basher
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Basher
-
 Created by  Unknown User (tjc13), last modified by  Unknown User (kla8) on Nov 20, 2012
 
 noun- surname of the proprietor of the Inn Between.noun- an individual that is deemed to be in charge or in control of some building or service, used sarcastically.  &quot;Tom never leaves the library, he is the basher of Milne.&quot; Only 50% of participants identified this as the proprietor of the Inn Between, showing that usage is decreasing.    K. Andryshak, 2012

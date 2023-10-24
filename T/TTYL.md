@@ -7,16 +7,6 @@ nav_order:
 
 # TTYL
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : TTYL
-
 Created by  Unknown User (kmh28), last modified on Dec 02, 2008
 
 (phrase) Acronym for &quot;talk to you later&quot;. Originally from internet use, now used in texting and occasionally spoken as well.

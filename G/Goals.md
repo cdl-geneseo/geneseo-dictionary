@@ -7,16 +7,6 @@ nav_order:
 
 # Goals
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Goals
-
 Created by  Unknown User (aof1), last modified on Apr 27, 2015
 
 An expression to denote envy and/or admiratione.g. &quot;Emma Watson is an extraordinary human being&quot; &quot;She is goals&quot;93% of Geneseo students surveyed knew this word. Out of those surveyed, 0% believed that &quot;goals&quot; has Geneseo origins.(Fox, G-M, 2015)

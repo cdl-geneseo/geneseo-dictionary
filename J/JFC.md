@@ -7,16 +7,6 @@ nav_order:
 
 # JFC
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : JFC
-
 Created by  Unknown User (cjk14) on Dec 11, 2020
 
 n. Stands for Jesus Fucking Christ. Expletive used when something unbelievably frustrating occurs and non-blasphemous language doesn’t satisfy.As of 2020, 33% of students surveyed were familiar with this word. Of those surveyed, 55% believe it originated elsewhere. (Kane 2020)

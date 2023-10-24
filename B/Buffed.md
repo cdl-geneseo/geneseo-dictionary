@@ -7,16 +7,6 @@ nav_order:
 
 # Buffed
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Buffed
-
 Created by  Unknown User (tjc13), last modified by  Unknown User (jmb63) on Apr 14, 2019
 
 AJ: Muscular, physically fit; &quot;That guy is so buffed.&quot; S94Fall 2008- 100% of those surveyed successfully identified this term.50% of participants correctly identified this term. -K.Andryshak, 2012J. Bloom, A-F, 2019: 40% of students surveyed correctly identified this term in this use. 40% have at least heard of this term before, however could not identify it. 10% of students have never heard this term at all. 

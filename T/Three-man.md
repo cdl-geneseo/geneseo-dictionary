@@ -7,16 +7,6 @@ nav_order:
 
 # Three-man
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Three-man
-
 Created by  Unknown User (kmh28), last modified on Dec 02, 2008
 
 (noun) Drinking game with dice. Rules include: 6 and 4, everyone drinks; doubles, pass the dice; 7 pass dice to left; 11 pass the dice to the right (last one standing wins).

@@ -7,16 +7,6 @@ nav_order:
 
 # 'Rona
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : 'Rona
-
 Created by  Aurora Merwin on May 05, 2023
 
 (noun) an abbreviation of the term Coronavirus, which typically references the SARS-CoV-2 virus. (Merwin, N-R, 2023)

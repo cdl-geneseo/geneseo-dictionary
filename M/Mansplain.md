@@ -7,16 +7,6 @@ nav_order:
 
 # Mansplain
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Mansplain
-
 Created by  Genevieve Moulton on May 06, 2022
 
 v.  talking in a condescending tone about a topic that someone assumes they're an expert in, when they are not actually an expert in that topic“DId you hear Kyle mansplain economics to our business professor?”Based on survey results, 97.8% of participants knew this word and could define it. It is used fairly frequently in 2022. 4.3% of participants believe the word is specific to Geneseo.(G.Moulton, G-M, 2022)

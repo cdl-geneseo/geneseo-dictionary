@@ -7,16 +7,6 @@ nav_order:
 
 # Yassss
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Yassss
-
 Created by  Unknown User (mtr7) on Apr 29, 2015
 
 Affirmation usually used emphatically or sarcastically.  Originated from an encounter that Lady Gaga had with a fan who said &quot;Yassss Gaga, you look so good, omg, yassss&quot;.  Romig, S-Z, 2015.

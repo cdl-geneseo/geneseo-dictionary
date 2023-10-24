@@ -7,16 +7,6 @@ nav_order:
 
 # Dis
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Dis
-
 Created by  Unknown User (bli2), last modified on Nov 27, 2008
 
 VB: Ignore; &quot;Don't dis me, give me some cash.&quot; Clip of disrespect with AAE influence. F94 VB - No change. Brognano, D. McGiveron

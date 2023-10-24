@@ -7,16 +7,6 @@ nav_order:
 
 # Aight
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Aight
-
 Created by  Paul Schacht, last modified by  Unknown User (tjc13) on Sep 17, 2008
 
 IN All right; &quot;Stop picking on us Islanders, aight?&quot; S92

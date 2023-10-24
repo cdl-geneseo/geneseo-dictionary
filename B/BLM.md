@@ -7,16 +7,6 @@ nav_order:
 
 # BLM
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : BLM
-
 Created by  Unknown User (aa48) on Dec 10, 2020
 
 Noun- acronym meaning &quot;Black Lives Matter;&quot; used to denote an activist movement protesting for equal rights and an end to police brutality against people of color

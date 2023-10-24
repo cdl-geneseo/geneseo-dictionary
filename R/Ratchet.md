@@ -7,16 +7,6 @@ nav_order:
 
 # Ratchet
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Ratchet
-
 Created by  Unknown User (kmo12) on Apr 27, 2015
 
 (adj.) to be looking distraught or messy, trashy. &quot;That's so ratchet&quot; K Owen, N-R, 2015

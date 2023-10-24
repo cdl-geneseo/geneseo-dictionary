@@ -7,16 +7,6 @@ nav_order:
 
 # Re-rack
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Re-rack
-
 Created by  Unknown User (gmm6), last modified on Nov 15, 2010
 
 (vb.)  To request for a rearrangement of the remaining cups in a game of beer pong.  Usage is not specific to Geneseo.  Similar definitions can be found in the Urban Dictionary.  &quot;Our cups are too far apart.  Let's re-rack.&quot;  Martinelli, N-R, 2010.

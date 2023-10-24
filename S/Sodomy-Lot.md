@@ -7,16 +7,6 @@ nav_order:
 
 # Sodomy Lot
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Sodomy Lot
-
 Created by  Unknown User (lav4), last modified on Dec 01, 2008
 
 noun:&lt;!--  /* Font Definitions */  @font-face 	

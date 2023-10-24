@@ -7,16 +7,6 @@ nav_order:
 
 # sauce
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : sauce
-
 Created by  Unknown User (klf16) on Apr 29, 2015
 
 Noun: referring to alcohol. &quot;I need to get some sauce for tonights party.&quot; (Freeman 2015)

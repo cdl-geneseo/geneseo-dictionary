@@ -7,16 +7,6 @@ nav_order:
 
 # Mackdaddy
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Mackdaddy
-
 Created by  Unknown User (krk5), last modified by  Unknown User (msc5) on Nov 19, 2012
 
 n. A male who is a successful and frequent flirt, from &quot;to mack it&quot;. &quot;He gets so many girls; he's the mackdaddy.&quot; Not specific to Geneseo.As of 2012, 83% knew the word and 3% believed it to be of local origin(Craft, G-M, 2012)

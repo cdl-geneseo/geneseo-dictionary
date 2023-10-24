@@ -7,16 +7,6 @@ nav_order:
 
 # Flower Child
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Flower Child
-
 Created by  Unknown User (met6), last modified by  Mia Gennaro on May 03, 2023
 
 Noun.  Another term for a hippie; a person whose lifestyle hearkens to that of the  1960s and '70s.Usage: &quot;Look at that barefoot girl&quot; &quot;Oh, she's just another flower child&quot; (noun) 1. used to describe a person who is unique and often in touch with the earth and nature; they are very spirited and down to earth, very similar to a hippy, Ex. &quot;Keep letting her run around the yard, she is such a flower child.&quot; (Gennaro, A-F, 2023)

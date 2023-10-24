@@ -7,16 +7,6 @@ nav_order:
 
 # Shit-faced
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Shit-faced
-
 Created by  Unknown User (arh11), last modified on Sep 28, 2008
 
 (adj) state of complete intoxication and utter belligerence. &quot;He was falling all over the place. I am fairly certain he was Shit-faced.&quot; Non-specific to Geneseo. A similar definition was found on Urban Dictionary [http://www.urbandictionary.com/define.php?term=shit+faced] Source: Dictionary of Geneseo English 2006. Dilluvio

@@ -7,16 +7,6 @@ nav_order:
 
 # RT
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : RT
-
 Created by  Unknown User (mr38) on Nov 02, 2020
 
 Noun- Real Talk: When you are being honest speaking out against something. RT guys, I really don't want to do my homework. (Rockwell, Q-T, 2020)

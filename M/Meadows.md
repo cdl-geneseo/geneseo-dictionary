@@ -7,16 +7,6 @@ nav_order:
 
 # Meadows
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Meadows
-
 Created by  Unknown User (est1), last modified by  Unknown User (msc5) on Nov 19, 2012
 
 2006-12-11T10:26:32ZSValentineMeadows [md's] n. A housing complex on the north side of campus. New Word 2006 (Submitted by SValentine)\As of 2012, 100% knew the word and 100% believed it to be of local origin.(Craft, G-M, 2012)

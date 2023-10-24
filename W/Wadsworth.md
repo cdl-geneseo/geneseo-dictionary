@@ -7,16 +7,6 @@ nav_order:
 
 # Wadsworth
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Wadsworth
-
 Created by  Unknown User (eo7) on Nov 16, 2012
 
 n. The auditorium on campus.&quot;The Wind Ensemble plays in Wadsworth.&quot;EOberdorf, S-Z, 2012

@@ -7,16 +7,6 @@ nav_order:
 
 # Shit a brick
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Shit a brick
-
 Created by  Unknown User (arh11), last modified on Sep 28, 2008
 
 (adj.) the state of being scared or surprised. &quot;When I saw the police bust throught the front door of 36 North, I almost shit a brick.&quot; Not specific to Geneseo. A similar definition can be found at Urban Dictionary [http://www.urbandictionary.com/define.php?term=shit+a+brick)

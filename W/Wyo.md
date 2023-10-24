@@ -7,16 +7,6 @@ nav_order:
 
 # Wyo
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Wyo
-
 Created by  Unknown User (eo7) on Nov 16, 2012
 
 n. A shortened form of Wyoming, a residential building on campus.  &quot;Reuben used to live in Wyo.&quot;EOberdorf, S-Z, 2012

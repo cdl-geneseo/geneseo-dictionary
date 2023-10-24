@@ -7,16 +7,6 @@ nav_order:
 
 # Frat Boy
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Frat Boy
-
 Created by  Unknown User (met6), last modified by  Mia Gennaro on May 04, 2023
 
 Noun. Used to describe an individual who is part of a frat.  Usually, this word is used as a derogative. Usage: &quot;ooh, look at him, he's cute.&quot; &quot;oh, no.  Don't get involved with him, he's a frat boy&quot;Talbot, E-H, 2008 (noun) 1. a boy who is a member of a fraternity that acts in an arrogant way and bases their personality off of their organization, usually used to describe an individual in a negative way, Ex. &quot;Be careful talking to him, he's a frat boy.&quot; (Gennaro, A-F, 2023)

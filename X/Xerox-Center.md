@@ -7,16 +7,6 @@ nav_order:
 
 # Xerox Center
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Xerox Center
-
 Created by  Carver Kozlowski on Apr 07, 2019
 
 (noun) a workshop and seminar series offered by the Ella Cline Shear School of Education. While they are primarily relevant to School of Education students, they focus on social justice, gender, and multicultural issues among the youth and within school environments, and are open to all. The Xerox Center is unique to Geneseo, and broadly acknowledged by the student body.Carver Kozlowski, S-Z, 2019.

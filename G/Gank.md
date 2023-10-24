@@ -7,16 +7,6 @@ nav_order:
 
 # Gank
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Gank
-
 Created by  Unknown User (crk4), last modified by  Unknown User (amb61) on Apr 10, 2019
 
 v. To borrow or steal; &quot;That guy just ganked my parking spot.&quot; Results: This word is new to the Dictionary and was not tested.Source: Dictionary of Geneseo English, Spring 1999 - Kocher31% of students surveyed knew this word, and 14% of these students had learned the word at Geneseo. Although not an especially well-known word, almost half of students had learned the word while at Geneseo.(Klein, E-H, 2008)As of 2012, 25% of students surveyed knew this word, 0% thought it was of local origin.(Felice, G-M, 2012)As of 2019, 0% of Geneseo students surveyed knew this word. 0% believe that it is of local origins. This word is obsolete. (Banaszak, G-M, 2019)

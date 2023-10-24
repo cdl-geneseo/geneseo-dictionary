@@ -7,16 +7,6 @@ nav_order:
 
 # Fuck-me-pants
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Fuck-me-pants
-
 Created by  Unknown User (crk4), last modified on Dec 02, 2008
 
 Noun, Adjective Tight black pants; &quot;Look at her ''fuck-me-pants''.&quot; Results: This word is new to the Geneseo Dictionary, and it was not tested. 

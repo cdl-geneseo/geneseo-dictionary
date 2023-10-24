@@ -7,16 +7,6 @@ nav_order:
 
 # Chapter
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Chapter
-
 Created by  Unknown User (kla8) on Nov 19, 2012
 
 n.  Pronunciation: Amer. / tʃæptər 1. The collegiate group of a fraternity or sorority “If we haze, we may lose our chapter.”K. Andryshak, 2012

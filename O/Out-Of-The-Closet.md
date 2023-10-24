@@ -7,16 +7,6 @@ nav_order:
 
 # Out Of The Closet
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Out Of The Closet
-
 Created by  Tess Woitaszek on Dec 11, 2020
 
 v. or adj. To be open about one's sexual orientation or gender identity.As of 2020, 34.6% heard / used the word frequently, 42.3% heard / used it on occasion, and 23.1% never heard / used it.(Woodard, N-R, 2020)

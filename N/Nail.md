@@ -7,16 +7,6 @@ nav_order:
 
 # Nail
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Nail
-
 Created by  Unknown User (era6), last modified on Sep 16, 2008
 
 Nail

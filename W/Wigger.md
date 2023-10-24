@@ -7,16 +7,6 @@ nav_order:
 
 # Wigger
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Wigger
-
 Created by  Unknown User (kmh28), last modified on Dec 01, 2008
 
 (noun) One who imitates African American culture through clothing, music, or other aspects.

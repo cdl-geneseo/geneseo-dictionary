@@ -7,16 +7,6 @@ nav_order:
 
 # Cosmo
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Cosmo
-
 Created by  Unknown User (bli2), last modified on Sep 21, 2008
 
 Cosmo (NN): short for cosmopolitan; a popular women's magazine which focuses on fashion, relationships and celebrities; an alcoholic beverage. Definition of approximately 84% of those surveyed. (F06) (new word) Unknown by approximately 16% of those surveyed. (F06) Simmington

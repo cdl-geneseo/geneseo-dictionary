@@ -7,16 +7,6 @@ nav_order:
 
 # Porcelain Pony
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Porcelain Pony
-
 Created by  Unknown User (lah15), last modified by  Unknown User (ram19) on Nov 20, 2012
 
 (n.) A toilet. &quot;That Chinese food was such a bad idea. I spent all night on the porcelain pony.&quot; This phrase is not Geneseo specific. A similar definition can be found in the Urban Dictionary. Hanson Fall 2010. Obselete as of Fall 2012 (Miller, N-R, 2012).

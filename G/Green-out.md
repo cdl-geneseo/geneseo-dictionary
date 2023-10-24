@@ -7,16 +7,6 @@ nav_order:
 
 # Green out
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Green out
-
 Created by  Mia Donaldson on May 07, 2022
 
 n. A cannabis-induced state of panic and discomfort, often accompanied by dizziness, nausea, and intense anxiety.&quot;I haven't experienced a green out since I started smoking.&quot;v. To experience negative symptoms (dizziness, anxiety, etc.) as a result of cannabis consumption.&quot;I had to stay up with my roommate after he greened out last night.&quot;Based on survey results, 73% of students could define the word; 9% of students believe the word is specific to Geneseo. M. Donaldson, 2022

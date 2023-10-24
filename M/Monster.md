@@ -7,16 +7,6 @@ nav_order:
 
 # Monster
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Monster
-
 Created by  Unknown User (krk5), last modified by  Unknown User (msc5) on Nov 19, 2012
 
 n. or adj.  Generally means &quot;quite large, imposing&quot;; of individuals, such as professors, it also means &quot;particularly difficult or strict.&quot; &quot;Dr. Samson is a monster when it comes to grading papers,&quot; and &quot;I have to study; I have a monster test tomorrow.&quot; As of 2012, 75% knew the word and 18% believed it to be of local origin.(Craft, G-M, 2012)

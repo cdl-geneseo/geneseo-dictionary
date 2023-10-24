@@ -7,16 +7,6 @@ nav_order:
 
 # Insta
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Insta
-
 Created by  Unknown User (ajs58) on Apr 15, 2019
 
 Noun. Slang/abbreviation for the social media website Instagram. Can refer to the app/website itself or someone's personal account.&quot;Do me a favor and go like the new picture I posted on my Insta.&quot;96% of the Geneseo students surveyed said they knew the word. While 0% of those surveyed believed the word to be of local origin, it appears the word still has significant relevance in a college setting.(Shutes, G-M, 2019)

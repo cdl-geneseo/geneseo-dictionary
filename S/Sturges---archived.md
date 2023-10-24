@@ -7,16 +7,6 @@ nav_order:
 
 # Sturges - archived
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Sturges - archived
-
 Created by  Unknown User (arh11), last modified by  Graham Drake on Jan 14, 2015
 
 Sturges: \str- jez\: (noun) An academic building on campus, situated on the western side of the Sturges Quad. &quot;Sturges Hall is an excellent example of late 19th century English architecture.&quot;

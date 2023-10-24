@@ -7,16 +7,6 @@ nav_order:
 
 # Sexual Orientation
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Sexual Orientation
-
 Created by  Kayla Stewart on May 04, 2023
 
 (noun) 1. Sexual, romantic, emotional/ spiritual attraction one can feel for others, generally labeled based on the gender relationship between the person and the people they are attracted to.Example: &quot;A person's sexual orientation is an important aspect of their identity and should be respected and valued by others.&quot; (Stewart, S-Z, 2023) 

@@ -7,16 +7,6 @@ nav_order:
 
 # Littlelit
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Littlelit
-
 Created by  Unknown User (vas3), last modified by  Unknown User (ajs58) on Apr 15, 2019
 
 Noun. Nickname for Geneseo's children's literature book club.30% of Geneseo students surveyed knew the term. Of those surveyed 30% thought the word was of local origin.(Valerie Sigl, G-M, 2015)10% of the Geneseo students surveyed said they knew the term. Of those surveyed, 50% believed the word to be of local origin.(Shutes, G-M, 2019)

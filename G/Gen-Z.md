@@ -7,16 +7,6 @@ nav_order:
 
 # Gen-Z
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Gen-Z
-
 Created by  Marissa Maxwell, last modified on May 02, 2023
 
 Someone born between 1997 and 2013 (iPad kids)As of 2023, 96% of people surveyed have heard of this term.

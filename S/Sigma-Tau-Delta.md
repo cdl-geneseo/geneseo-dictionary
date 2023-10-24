@@ -7,16 +7,6 @@ nav_order:
 
 # Sigma Tau Delta
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Sigma Tau Delta
-
 Created by  Unknown User (eo7) on Nov 16, 2012
 
 n. The English Honor Society.&quot;Dr. Paku is the adviser for Sigma Tau Delta.&quot;EOberdorf, S-Z, 2012

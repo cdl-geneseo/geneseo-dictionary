@@ -7,16 +7,6 @@ nav_order:
 
 # Over Nine Thousand
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Over Nine Thousand
-
 Created by  Unknown User (lav4), last modified by  Unknown User (ram19) on Nov 20, 2012
 
 adj: from a YouTube video of the cartoon Dragon Ball Z, now used to describe something that is cool, too hard or to express extreme circumstances. Obsolete as of Fall 2012 (Miller, N-R, 2012)

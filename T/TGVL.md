@@ -7,16 +7,6 @@ nav_order:
 
 # TGVL
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : TGVL
-
 Created by  Unknown User (kmh28), last modified on Dec 01, 2008
 
 (noun) Acronym for Think Globally Vote Locally. An organization that primarily promotes registering to vote in elections for the Geneseo area, but also encourages registering for your hometown - as long as you vote. Members can be seen with registration forms all over campus, including in front of the library and in classrooms.

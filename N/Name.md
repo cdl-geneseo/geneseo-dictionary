@@ -7,16 +7,6 @@ nav_order:
 
 # Name
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Name
-
 Created by  Unknown User (era6), last modified by  Unknown User (ajm3) on Nov 15, 2010
 
 Name

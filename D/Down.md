@@ -7,16 +7,6 @@ nav_order:
 
 # Down
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Down
-
 Created by  Unknown User (bli2), last modified on Nov 27, 2008
 
 AJ: Ready for/Committed; &quot;I am down to go to the movies tonight.&quot; In NDAS as AAE influence. S96 AJ - Continues to be falling out of use in the Spring of 1999. Brognano, D. McGiveron

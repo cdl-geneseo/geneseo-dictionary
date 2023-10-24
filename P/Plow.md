@@ -7,16 +7,6 @@ nav_order:
 
 # Plow
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Plow
-
 Created by  Unknown User (lah15), last modified on Nov 23, 2010
 
 (v.) To have sex with. &quot;The walls in my residence hall are so thin that I can always hear when my neighbor plows his girlfriend. They're so loud!&quot; This word is not Geneseo specific; A similar definition can be found in the Urban Dictionary. Hanson Fall 2010.

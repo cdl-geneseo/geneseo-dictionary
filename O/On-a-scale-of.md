@@ -7,16 +7,6 @@ nav_order:
 
 # On a scale of
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : On a scale of
-
 Created by  Unknown User (ajm3), last modified on Nov 30, 2010
 
 1. (phr.) Used to compare how strongly someone feels about a certain scenario. Usually succeeded by numbers, usually starting with 1 and ranging (usually) up to 10. &quot;On a scale of 1 to 10, 1 being not at all, how drunk were you last night?&quot; A. Moak 2010

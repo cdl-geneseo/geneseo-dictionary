@@ -7,16 +7,6 @@ nav_order:
 
 # LateKnight
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : LateKnight
-
 Created by  Unknown User (wlf1), last modified by  Unknown User (mee2) on Nov 19, 2012
 
 n. Activities held in the college union on Friday and Saturday nights in efforts to lure students away from parties.  The activities are sponsored by various student organizations and usually consist of arts and crafts.As of 2012, 100% of students surveyed knew this word and 100% believed it to be of local origin.(Eichas, G-M, 2012) 

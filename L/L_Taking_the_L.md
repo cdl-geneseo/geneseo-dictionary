@@ -7,16 +7,6 @@ nav_order:
 
 # L [Taking the L]
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : L [Taking the L]
-
 Created by  Bianca Volpe on May 07, 2022
 
 n. Loss or loser; the act of losing in any situation&quot;He just took that big L.&quot; Based on survey result, 100% of students could define the word; 100% believe the word isn't specific to Geneseo. (B. Volpe, 2022)

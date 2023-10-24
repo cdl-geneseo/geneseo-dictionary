@@ -7,16 +7,6 @@ nav_order:
 
 # Bart Lesson
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Bart Lesson
-
 Created by  Zachary Arthur, last modified by  Unknown User (kla8) on Nov 20, 2012
 
 n. Long over-complicated lecture, panic response of education majors putting everything they know into one class; &quot;I just gave a bart lesson on writing persuasive paragraphs.&quot; S95 NN-No changeObs. 2012 -K. Andryshak

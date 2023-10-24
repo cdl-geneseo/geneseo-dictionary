@@ -7,16 +7,6 @@ nav_order:
 
 # North
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : North
-
 Created by  Unknown User (mem32) on Nov 20, 2012
 
 (n.) synonym for &quot;Northside&quot; (n.) synonym for &quot;North St.&quot;(n.) refers to the north side of Onondaga Hall(McNiffe, N-R, 2012)

@@ -7,16 +7,6 @@ nav_order:
 
 # Zing
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Zing
-
 Created by  Unknown User (kmh28), last modified by  Unknown User (eim1) on Apr 01, 2019
 
 2008: (int) Used after a joke made at the expense of another. Equivalent to &quot;Burn!&quot;, popularized by &quot;That 70s Show&quot;.&quot;Yo mama's so skinny she uses a Cheerio as a hula hoop! Zing!&quot; (Apologies for the lame joke)2019: Obsolete–however, typically reminds people of the word &quot;Zinger.&quot; Medina, S-Z, 2019.

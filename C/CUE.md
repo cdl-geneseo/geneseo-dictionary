@@ -7,16 +7,6 @@ nav_order:
 
 # CUE
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : CUE
-
 Created by  Unknown User (bli2), last modified on Sep 21, 2008
 
 CUE (NN) - acronym for College Union Employee Source: Dictionary of Geneseo English, Fall 1998 Simmington CUE (NN): unknown by approximately 100% of those surveyed. (F06) Simmington

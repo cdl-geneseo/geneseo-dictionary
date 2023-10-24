@@ -7,16 +7,6 @@ nav_order:
 
 # Letch
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Letch
-
 Created by  Unknown User (krk5), last modified by  Unknown User (aof1) on Apr 27, 2015
 
 n. Shortened form of &quot;Letchworth Dining Hall,&quot; located on the north side of campus.Specific to Geneseo.As of 2012, 100% of students surveyed knew this word and 100% believed it to be of local origin.(Eichas, G-M, 2012) n. Abbreviated form of the renovated &quot;Letchworth Dining Hall,&quot; which includes Food Studio North and Max's Market.100% of Geneseo students surveyed knew this word and believed it to have Geneseo origins.(Fox, G-M, 2015)

@@ -7,16 +7,6 @@ nav_order:
 
 # Shady
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Shady
-
 Created by  Unknown User (arh11), last modified on Sep 28, 2008
 
 \sha-dee(adj) sketchy, questionable, not trustworthy. &quot;I don't know about giving this guy a ride home, he seems pretty shady.&quot; Source: Dictionary of Geneseo English 2001. Probably not specific to Geneseo, a similar definition can be found on Urban Dictionary. [http://www.urbandictionary.com/define.php?term=SHADY] (Dilluvio)

@@ -7,16 +7,6 @@ nav_order:
 
 # SOTA
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : SOTA
-
 Created by  Unknown User (ejr7), last modified by  Unknown User (met10) on Apr 26, 2015
 
 n. Acronym for the School of the Arts.&quot;SOTA is holding a lecture with a visiting artist.&quot;EReck, S-Z, 2012   Obsolete as of 2015  M.Turner

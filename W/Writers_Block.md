@@ -7,16 +7,6 @@ nav_order:
 
 # Writer's Block
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Writer's Block
-
 Created by  Unknown User (igf1) on Oct 29, 2020
 
 (noun) - The inability to think of what to write. Often applies to those in the creative writing field, but can apply to anyone with the desire to write but cannot.I wish I knew what I wanted this story about. I have major Writer's Block.(Fazio, U-Z, 2020) 

@@ -7,16 +7,6 @@ nav_order:
 
 # Krunk
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Krunk
-
 Created by  Unknown User (krk5), last modified by  Unknown User (mp31) on Apr 12, 2019
 
 adj. Conspicuously and severely inebriated. Its provenance is uncertain: most students have asserted that it is a contraction of &quot;crazy-drunk&quot;.  &quot;Oh man, I got absolutely krunk this weekend.&quot;Not specific to Geneseo.As of 2012, 90% of students surveyed knew this word and 3% believed it to be of local origin.(Eichas, G-M, 2012) As of 2019, 64% of students surveyed knew this word and 5% believed it to have originated in Geneseo. (Pigliacelli, 2019)

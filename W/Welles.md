@@ -7,16 +7,6 @@ nav_order:
 
 # Welles
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Welles
-
 Created by  Unknown User (eo7) on Nov 16, 2012
 
 n. An academic building on campus.&quot;The English Department is housed within Welles.&quot;EOberdorf, S-Z, 2012

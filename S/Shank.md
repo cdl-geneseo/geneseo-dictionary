@@ -7,16 +7,6 @@ nav_order:
 
 # Shank
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Shank
-
 Created by  Anne Baranello, last modified on Dec 13, 2020
 
 Verb/NounA crude weapon made from materials and objects that would otherwise be unsuspecting and harmless in their proper use. Usually thin and sharp, a shank is used to stab someone/something. &quot;To shank (something)&quot; is often used, using the word as a verb in this case. (Baranello, S-Z 2020)

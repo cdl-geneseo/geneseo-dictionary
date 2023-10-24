@@ -7,16 +7,6 @@ nav_order:
 
 # Uni
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Uni
-
 Created by  Unknown User (mr38) on Nov 02, 2020
 
 (abbreviation)- A shortened definition of the word university.  I'm going to Uni today for one in-person class. (Rockwell, U-Z, 2020)

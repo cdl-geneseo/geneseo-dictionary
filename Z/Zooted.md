@@ -7,16 +7,6 @@ nav_order:
 
 # Zooted
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Zooted
-
 Created by  Anne Baranello, last modified on Dec 13, 2020
 
 Used as an adjective to describe someone who is currently high off of marijuana. Used especially when someone has smoked enough to be mildly incoherent. Example: &quot;Dude, last night I got so zooted I could barely think. I thought the room was spinning.&quot; (Baranello, S-Z 2020)

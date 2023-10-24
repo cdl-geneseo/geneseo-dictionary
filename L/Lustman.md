@@ -7,16 +7,6 @@ nav_order:
 
 # Lustman
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Lustman
-
 Created by  Unknown User (krk5), last modified by  Unknown User (ajs58) on Apr 15, 2019
 
 Also lustwoman. n. someone admired from afar; &quot;Everytime my lustman walks into the dorm, I blush.&quot; Source: Dictionary of Geneseo English, Fall 2006, WinkelmanSpecific to Geneseo.As of 2010, 0% of students surveyed know the word. This word appears to be obsolete.(Fishkin, G-M, 2010)As of 2012, 0% of students surveyed knew the word. Obsolete.(Craft, G-M, 2012)0% of the Geneseo students surveyed knew the word, so it continues to be obsolete.(Shutes, G-M, 2019)

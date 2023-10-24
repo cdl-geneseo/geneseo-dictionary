@@ -7,16 +7,6 @@ nav_order:
 
 # Doh'
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Doh'
-
 Created by  Unknown User (bli2), last modified on Nov 27, 2008
 
 IN: Oblivious to the obvious (though not obviously so from example); from Homer Simpson of SIM, &quot;Doh...Bart!&quot; Undated 89, 90. Almost Obs. F92, but known to 93% of students questioned in F94. IN - No change. Since the Fall of 1992, the word continues to be associated with Homer Simpson. Brognano, D. McGiveron

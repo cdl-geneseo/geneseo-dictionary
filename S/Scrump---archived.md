@@ -7,16 +7,6 @@ nav_order:
 
 # Scrump - archived
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Scrump - archived
-
 Created by  Unknown User (arh11), last modified by  Graham Drake on Jan 14, 2015
 
 (v.) Fornicate. &quot;Would you like to scrump after the party tonight?&quot; S96. Source: Dictionary of Geneseo English 1994. A similar definition found on http://www.urbandictionary.com ; entry probably not specific to Geneseo. Obsolete Fall 2006. ST.

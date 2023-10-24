@@ -7,16 +7,6 @@ nav_order:
 
 # Fuck-me-red
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Fuck-me-red
-
 Created by  Unknown User (crk4), last modified on Dec 02, 2008
 
 Bright red lipstick

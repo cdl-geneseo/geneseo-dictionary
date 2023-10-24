@@ -7,16 +7,6 @@ nav_order:
 
 # Transphobia
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Transphobia
-
 Created by  Sage Kearney on May 05, 2023
 
 (noun) Discrimination against or hatred of transgender individuals or members of the trans* community. &quot;I have experienced so much transphobia since moving to this town&quot;. (Kearney, s-z, 2023).

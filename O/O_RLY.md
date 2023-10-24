@@ -7,16 +7,6 @@ nav_order:
 
 # O RLY?
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : O RLY?
-
 Created by  Unknown User (ajm3), last modified on Nov 30, 2010
 
 1. (phr.) Colloquially used instead of the phrase &quot;Oh, really?&quot; used usually in texting. Used to express shock, interest. &quot;Johnny kissed Becky last night&quot; &quot;O RLY?&quot; A. Moak 2010

@@ -7,16 +7,6 @@ nav_order:
 
 # Eats
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Eats
-
 Created by  Unknown User (jfw3), last modified on Sep 09, 2008
 
 noun 1. Nickname for Sigma Delta Tau, visual (English pun on the shapes of its Greek Letters ΣΔΤ); &quot;We have a closed party with the Eats tomorrow.&quot;

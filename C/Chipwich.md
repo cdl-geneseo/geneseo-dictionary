@@ -7,16 +7,6 @@ nav_order:
 
 # Chipwich
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Chipwich
-
 Created by  Unknown User (tjc13), last modified on Oct 05, 2008
 
 Chipwich (NN): delicious treat made of two chocolate chip cookies with vanilla ice cream in the middle often served in the dining halls or by the [[Undergraduate Alumni Association (UAA)]] each fall. Definition of approximately 64% of those surveyed. (F06) (new word) Unknown by approximately 36% of those surveyed.

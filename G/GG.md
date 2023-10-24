@@ -7,16 +7,6 @@ nav_order:
 
 # GG
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : GG
-
 Created by  Unknown User (jve2) on Apr 28, 2015
 
 n. Abbreviation for &quot;Good Game,&quot; used commonly in MMOs (Massively Multiplayer Online games) such as League of Legends after a game has ended to show good sportsmanship. Occasionally used in real life for humor purposes.&quot;gg wp honor all&quot;As of 2015, 68% knew the word.(Eckert, G-M 2015) 

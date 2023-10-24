@@ -7,16 +7,6 @@ nav_order:
 
 # Bong hit
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Bong hit
-
 Created by  Unknown User (jmb53), last modified on Nov 19, 2012
 
 n., colloq. Pronunciation: Amer. / bäŋ hɪt 1. Inhalation of smoke from a bong, typically accompanied by a feeling of intoxication. “I was thinking about doing a few bong hits tonight.”J. Boselli, 2012

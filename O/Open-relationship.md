@@ -7,16 +7,6 @@ nav_order:
 
 # Open relationship
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Open relationship
-
 Created by  Unknown User (omh1) on Nov 20, 2012
 
 (n.) A romantic relationship between two people wherein each person is free to have sexual relations with other people. &quot;No, Newt, I don't want an open relationship, we're married.&quot; Horowitz 2012

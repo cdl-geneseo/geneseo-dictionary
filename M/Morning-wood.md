@@ -7,16 +7,6 @@ nav_order:
 
 # Morning wood
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Morning wood
-
 Created by  Unknown User (krk5), last modified by  Unknown User (msc5) on Nov 19, 2012
 
 n. Of the same origin as &quot;major wood&quot; above.   A penile erection experienced upon waking up.&quot;Of course; everyone's already in the kitchen downstairs when I walk down with morning wood.  Fantastic.&quot;As of 2012, 100% knew the word and 0% believed it to be of local origin.(Craft, G-M, 2012)

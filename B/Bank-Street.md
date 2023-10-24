@@ -7,16 +7,6 @@ nav_order:
 
 # Bank Street
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Bank Street
-
 Created by  Zachary Arthur, last modified on Sep 18, 2008
 
 /bnk strit/ NN. Clip of Bank St. Bagel Cafe, located on the corner of Bank and Main in Geneseo, NY; &quot;I'm hungry. How does Bank Street sound?&quot; F 02 (said to be S 02, but no evidence given). 

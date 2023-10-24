@@ -7,16 +7,6 @@ nav_order:
 
 # KASA
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : KASA
-
 Created by  Unknown User (krk5), last modified by  Unknown User (mee2) on Nov 16, 2012
 
 n. An acronym for Korean-American Student Association, an on-campus organization.Source: Dictionary of Geneseo English, Fall 2006, Gross.Specific to Geneseo.As of 2012, 73% of students surveyed knew this word and 73% believed it to be of local origin. (Eichas, G-M, 2012) 

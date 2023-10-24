@@ -7,16 +7,6 @@ nav_order:
 
 # Quarantine
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Quarantine
-
 Created by  Unknown User (igf1) on Oct 29, 2020
 
 (noun) In traditional use, means to isolate from a majority of society in order to prevent the spreading of disease.Used as &quot;the quarantine&quot; by students to talk about the 2020 Corona Virus, which forced all states to go into a nationwide quarantine. Almost all jobs were shut down and people were forced to stay in their homes. Students were forced to move on to all online learning for a period of months to prevent spreading the Corona Virus. &quot;How is the Quarantine Life treating you?&quot; &quot;I'm always tired, and always in my pajamas when going to online classes.&quot;(Fazio, Q-T, 2020)

@@ -7,16 +7,6 @@ nav_order:
 
 # Flamer
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Flamer
-
 Created by  Unknown User (jfw3), last modified on Sep 09, 2008
 
 Noun Male homosexual, said to be terminology of Geneseo bar regulars; &quot;My roommate is a flamer.&quot;

@@ -7,16 +7,6 @@ nav_order:
 
 # 'Toga
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : 'Toga
-
 Created by  Unknown User (atr2), last modified on Nov 30, 2010
 
 (slang)- refers to the Saratoga townhouses when parties are occurring.

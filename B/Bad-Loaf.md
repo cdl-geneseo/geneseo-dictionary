@@ -7,16 +7,6 @@ nav_order:
 
 # Bad-Loaf
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Bad-Loaf
-
 Created by  Zachary Arthur, last modified by  Unknown User (kla8) on Nov 20, 2012
 
 n. Bad Experience &quot;One can experience the bad-loaf, if said one failed an important exam.&quot; Also see ''good-loaf'' and ''sugar-loaf''. F89 NN-Obs. F92Obsolete- 2012. -K.Andryshak

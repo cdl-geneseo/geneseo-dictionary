@@ -7,16 +7,6 @@ nav_order:
 
 # Letchdown
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Letchdown
-
 Created by  Unknown User (vas3), last modified by  Mollie McMullan on May 04, 2023
 
 noun. The feeling of disappointment when a meal from Letchworth Dining Hall/ Food Studio North does not meet expectations. &quot;Man that was such a letchdown, I won't be eating there for a couple weeks.&quot;70% of Geneseo Students surveyed knew this term. Of those surveyed 70% believed it to be of local origin.(Sigl, G-M, 2015)25% of Geneseo Students surveyed knew this term. Of those surveyed 84% believed it was a term of local origin.(Shutes, G-M, 2019)As of 2023, 40.9% of the respondents knew this term. 47.4% of students surveyed did not know this term. 43.9% of those surveyed believe this word to be irrelevant. (McMullan, G-M, 2023)

@@ -7,16 +7,6 @@ nav_order:
 
 # Not Not
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Not Not
-
 Created by  Unknown User (ajm3), last modified by  Unknown User (mem32) on Nov 20, 2012
 
 1. (adj.) To say something is true by using a double negative. Usually refers to something one would do according to common sense. &quot;You're not going to not use the bus to get to the library.&quot; A. Moak 2010 (Obsolete, 2012)(McNiffe, N-R, 2012)

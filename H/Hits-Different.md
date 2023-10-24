@@ -7,16 +7,6 @@ nav_order:
 
 # Hits Different
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Hits Different
-
 Created by  Bianca Volpe, last modified on May 07, 2022
 
 n. When something is better than usual. &quot;That pizza hits different.&quot; Based on survey result, 100% of students could define the word; 100% believe the word isn't specific to Geneseo. (B. Volpe, 2022)

@@ -7,16 +7,6 @@ nav_order:
 
 # Weeb
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Weeb
-
 Created by  Unknown User (igf1) on Oct 29, 2020
 
 (noun) - A term with usually negative connotation toward people who are so obsessed with Japanese culture, they wish to be Japanese. They all thought I was a weeb when I whipped out my katana at school. (Fazio, U-Z, 2020)

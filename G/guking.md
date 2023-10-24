@@ -7,16 +7,6 @@ nav_order:
 
 # guking
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : guking
-
 Created by  Unknown User (crk4), last modified by  Unknown User (spc14) on Apr 10, 2019
 
 ''Verb'' Needing a fix; - no sentence given Results: 0% of those surveyed knew this word. Conclusion: This word is obsolete.Source: Dictionary of Geneseo English, Spring 1999 - KocherOf those surveyed in 2008, 0% knew the word, and of those, 0% learned it in Geneseo.Talbot, 2008As of 2012, 0% of students surveyed knew this word, 0% believe it is of local origin.(Felice, G-M, 2012)As of 2019, 0% of students surveyed knew this word, 0% believe it originated in Geneseo. This word is obsolete. (Cannioto, G-M, 2019)

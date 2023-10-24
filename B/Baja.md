@@ -7,16 +7,6 @@ nav_order:
 
 # Baja
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Baja
-
 Created by  Zachary Arthur, last modified on Sep 18, 2008
 
 Also baha: move quickly, but context suggests the meaning to stay; &quot;I'm going to baja here for the weekend.&quot; undated--89. NN: Mexican poncho-like article of clothing, not unique to Geneseo. Previous meaning obs. F92 VB-Obs. F92 

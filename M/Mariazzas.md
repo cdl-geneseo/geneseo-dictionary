@@ -7,16 +7,6 @@ nav_order:
 
 # Mariazza's
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Mariazza's
-
 Created by  Unknown User (est1), last modified by  Unknown User (msc5) on Nov 19, 2012
 
 2006-12-10T21:56:54ZKWinkelman== Mariazza's n. [mr'azz] == A pizza shop located on Main Street --[[User:KWinkelman|KWinkelman]] 16:56, 10 Dec 2006 (EST)Closed Spring 07... Fondly remembered by Geneseo Students. RIP (ETreidel)As of 2012, 0% knew the word and 0% believed it to be of local origin.(Craft, G-M, 2012) 

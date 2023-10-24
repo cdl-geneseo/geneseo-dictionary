@@ -7,16 +7,6 @@ nav_order:
 
 # Stoage - archived
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Stoage - archived
-
 Created by  Unknown User (arh11), last modified by  Graham Drake on Jan 14, 2015
 
 Stoage: \stg\: (noun) a cigarette. &quot;Hey man, can I bum a stoage off you?&quot;  A similar definition appears at http://www.urbandictionary.com/define.php?term=stoage; the entry is probably not specific to Geneseo.

@@ -7,16 +7,6 @@ nav_order:
 
 # Ass-munch
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Ass-munch
-
 Created by  Zachary Arthur, last modified on Sep 16, 2008
 
 NN: Term of address, pejorative but sometimes used affectionately; &quot;You ass-munch, we missed you at the party.&quot; S94 NN-No change 

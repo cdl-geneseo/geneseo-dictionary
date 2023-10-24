@@ -7,16 +7,6 @@ nav_order:
 
 # Crusty
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Crusty
-
 Created by  Unknown User (bli2), last modified on Sep 21, 2008
 
 AJ: Old and dirty. F94 crusty (AJ) - No change Source: Dictionary of Geneseo English, Fall 1998 Simmington Crusty (AJ): gross or [[nasty]]; pizza with a lot of crust. Definition of approximately 42% of those surveyed. (F06) Unknown by approximately 58% of those surveyed. (F06) Simmington, D. McGiveron

@@ -7,16 +7,6 @@ nav_order:
 
 # Emmelodics
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Emmelodics
-
 Created by  Unknown User (ms61) on May 08, 2015
 
 The newer co-ed a capella group at SUNY Geneseo.

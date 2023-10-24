@@ -7,16 +7,6 @@ nav_order:
 
 # Schnocked
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Schnocked
-
 Created by  Unknown User (arh11), last modified on Sep 28, 2008
 
 (adj.) Heavily intoxicated. &quot;After his twenty-first birthday party, my brother was totally schnocked.&quot; F94. Source: Dictionary of Geneseo English 1993. Obsolete Fall 2006. Bates.

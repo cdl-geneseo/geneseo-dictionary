@@ -7,16 +7,6 @@ nav_order:
 
 # QQ
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : QQ
-
 Created by  Unknown User (lav4), last modified by  Unknown User (gmm6) on Nov 15, 2010
 
 verb: an online mockery, telling somone to go cry. Example &quot;Go QQ some more why don't you.&quot;  Obsolete as of Fall 2010.  Martinelli, N-R.

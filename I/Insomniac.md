@@ -7,16 +7,6 @@ nav_order:
 
 # Insomniac
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Insomniac
-
 Created by  Unknown User (jve2) on Apr 28, 2015
 
 n. A student participating in the Geneseo Insomnia Film Festival.As of 2015, 90% knew the word and 0% believed it to be of local origin.(Eckert, G-M 2015)

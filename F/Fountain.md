@@ -7,16 +7,6 @@ nav_order:
 
 # Fountain
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Fountain
-
 Created by  Unknown User (kla8) on Nov 19, 2012
 
 n.  Pronunciation: Amer. / faʊn.tɪn 1. An ornamental structure in a pool or lake from which one or more jets of water are pumped into the air.2. Specifically, the fountain in the center of Main Street in Geneseo. “Last night I saw someone jump in the fountain after we went to the IB.”K. Andryshak, 2012

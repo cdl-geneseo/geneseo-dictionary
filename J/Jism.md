@@ -7,16 +7,6 @@ nav_order:
 
 # Jism
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Jism
-
 Created by  Unknown User (wlf1), last modified by  Unknown User (jtd8) on May 07, 2019
 
 Jism: n. slang for &quot;semen.&quot; This form of the word is obsolete: see &quot;jizz.&quot;As of 2012, 45% of students surveyed know this word. 0% believe it is of local origins.(Endress, G-M, 2012)As of 2019, 30% of students surveyed know this word. 0% believe it is of local origins.(Dilcher, G-M, 2019)

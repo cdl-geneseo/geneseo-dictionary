@@ -7,16 +7,6 @@ nav_order:
 
 # Victor E. Knight
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Victor E. Knight
-
 Created by  Unknown User (mre4) on May 07, 2022
 
 (noun). The name of the Suny Geneseo mascot. &quot;Did you know Victor E. Knight will be at the hockey game tonight?&quot;Edmond, S-Z, 2022

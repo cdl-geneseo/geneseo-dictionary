@@ -7,16 +7,6 @@ nav_order:
 
 # Cow, have a
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Cow, have a
-
 Created by  Unknown User (bli2), last modified on Sep 21, 2008
 
 VB: To get upset for no reason; &quot;I think my mom will have a cow when I tell her I'm moving in with Mark next year?&quot; F92,F94. In NDAS, but also SIM influence. D. McGiveron cow, have a (VB) - 100% of those surveyed could identify the term, but less than 22% cited hearing it used more than never. Source: Dictionary of Geneseo English, Fall 1998 Simmington Cow, have a (VB): to freak out. Definition of approximately 86% of those surveyed. (F06) Unknown by approximately 14% of those surveyed. (F06) Simmington

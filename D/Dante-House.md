@@ -7,16 +7,6 @@ nav_order:
 
 # Dante House
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Dante House
-
 Created by  Unknown User (tjc13), last modified on Nov 24, 2008
 
 noun- the honors dormitory located in Wayne Hall.

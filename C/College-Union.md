@@ -7,16 +7,6 @@ nav_order:
 
 # College Union
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : College Union
-
 Created by  Unknown User (bli2), last modified by  Paul Schacht on Sep 21, 2008
 
 College Union (NN): The Robert W. MacVittie College Union is a building nearly directly in the middle of campus. It serves as a hub for activities on campus, from concerts to crafts, usually as part of the Late Knight program. The union provides many services, as well: the [[Campus Grind]], the [[Corner Pocket]], [[GUS]], and [[Under the Sun]] are all inside the Union. 100% of those surveyed defined this word. (New word) (F06) LTiszenkel

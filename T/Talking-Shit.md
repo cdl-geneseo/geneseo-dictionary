@@ -7,16 +7,6 @@ nav_order:
 
 # Talking Shit
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Talking Shit
-
 Created by  Unknown User (mre4) on May 07, 2022
 
 (verb). Talking badly about someone behind their back.&quot;Did you hear Denise talking shit about Haley yesterday?&quot;Edmond, S-Z, 2022

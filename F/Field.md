@@ -7,16 +7,6 @@ nav_order:
 
 # Field
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Field
-
 Created by  Mia Gennaro on May 03, 2023
 
 (noun) 1. In nature that can be used to describe an area of grass that is normally open, Ex. &quot;Look at those animals roaming around the field.&quot; 2. (noun) can be used to describe an area of study that an individual focuses on, Ex. &quot;She is working really hard in school right now, however, she needs to focus on a field to study.&quot; (Gennaro, A-F, 2023)

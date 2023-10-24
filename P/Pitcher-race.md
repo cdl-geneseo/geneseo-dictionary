@@ -7,16 +7,6 @@ nav_order:
 
 # Pitcher race
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Pitcher race
-
 Created by  Unknown User (era6), last modified by  Unknown User (lah15) on Nov 23, 2010
 
 Pitcher race

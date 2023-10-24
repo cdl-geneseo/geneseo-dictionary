@@ -7,16 +7,6 @@ nav_order:
 
 # South Village
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : South Village
-
 Created by  Unknown User (eo7) on Nov 16, 2012
 
 n. the buildings grouped on the Southern part of campus.&quot;South village is a twenty minute walk from the academic buildings.&quot;EOberdorf, S-Z, 2012

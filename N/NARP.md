@@ -7,16 +7,6 @@ nav_order:
 
 # NARP
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : NARP
-
 Created by  Tess Woitaszek on Dec 11, 2020
 
 n. Acronym for &quot;non-athletic regular person&quot;. As of 2020, 61.5% heard / used the word frequently, 15.4% heard / used it on occasion, and 23.1% never heard / used it.(Woodard, N-R, 2020)

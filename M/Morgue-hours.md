@@ -7,16 +7,6 @@ nav_order:
 
 # Morgue hours
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Morgue hours
-
 Created by  Unknown User (krk5), last modified by  Unknown User (rch7) on Apr 13, 2019
 
 n. The times during which students may take refuge in the morgue to study.Source: Dictionary of Geneseo English, Fall 2006, GoodspeedSee above for definition of 'morgue'.  Obsolete as of 2008.As of 2012, 5% knew the word and 3% believed it to be of local origin.(Craft, G-M, 2012)As of 2019, no students were able to identify this definition for &quot;Morgue hours.&quot;(Hirschhorn, G-M, 2019)

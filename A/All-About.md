@@ -7,16 +7,6 @@ nav_order:
 
 # All About
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : All About
-
 Created by  Zachary Arthur, last modified on Sep 16, 2008
 
 AJ-expresses enthusiasm or sense of purpose; &quot;I'm all about acing this paper.&quot; 

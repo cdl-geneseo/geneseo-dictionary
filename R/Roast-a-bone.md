@@ -7,16 +7,6 @@ nav_order:
 
 # Roast a bone
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Roast a bone
-
 Created by  Unknown User (gmm6), last modified on Nov 29, 2010
 
 (vb.)  To smoke a marijuana cigarette.  Usage is not specific to Geneseo.  Similar definitions can be found in the Wiktionary.  &quot;You want to hang out and roast a bone?&quot;  Martinelli, N-R, 2010.

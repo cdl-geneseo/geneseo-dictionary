@@ -7,16 +7,6 @@ nav_order:
 
 # -sk
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : -sk
-
 Created by  Unknown User (arh11), last modified on Sep 28, 2008
 
 Playful meaningless final addition to any word (dinnersk) Source: Dictionary of Geneseo English 1996. Dilluvio

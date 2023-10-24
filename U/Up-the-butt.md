@@ -7,16 +7,6 @@ nav_order:
 
 # Up the butt
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Up the butt
-
 Created by  Unknown User (kmh28), last modified by  Jack Katz on May 07, 2022
 
 (adj) In plentiful amounts&quot;I have papers up-the-butt until the end of the semester.&quot;Source: Source: Geneseo Dictionary 2006. Nicodemi

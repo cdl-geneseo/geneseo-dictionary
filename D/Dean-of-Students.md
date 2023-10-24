@@ -7,16 +7,6 @@ nav_order:
 
 # Dean of Students
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Dean of Students
-
 Created by  Unknown User (ms61) on May 08, 2015
 
 The person in charge of student affairs and college life. Leonard Sancilio.

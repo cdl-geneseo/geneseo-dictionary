@@ -7,16 +7,6 @@ nav_order:
 
 # Bus-how
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Bus-how
-
 Created by  Unknown User (tjc13), last modified on Nov 24, 2008
 
 IN: Guess what; &quot;I met this guy the other day and bus how? He was so cute.&quot; S95. AAE influence suggested; no specifics given. Bus-how: Obs. F98.  Fall 2008 Obs.

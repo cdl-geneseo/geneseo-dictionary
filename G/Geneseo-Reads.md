@@ -7,16 +7,6 @@ nav_order:
 
 # Geneseo Reads
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Geneseo Reads
-
 Created by  Unknown User (amb61), last modified on Apr 15, 2019
 
 Noun. A club Literature club that reads and discusses books independently created at SUNY Geneseo.  &quot;I am going to my club, Geneseo Reads.&quot;As of 2019, 14% of SUNY Geneseo know this word. 53% of the students surveyed believed this word originated from Geneseo. (Banaszak, G-M, 2019)

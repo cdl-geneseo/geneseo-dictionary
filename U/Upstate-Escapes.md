@@ -7,16 +7,6 @@ nav_order:
 
 # Upstate Escapes
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Upstate Escapes
-
 Created by  Unknown User (met10), last modified on Apr 28, 2015
 
 (noun) a service provided through Geneseo that provides trips to locations and events outside of Geneseo. These can include, but are not limited to, Syracuse basketball games, Buffalo Bills and Sabres games, and various shopping malls and outlets. These trips are provided usually for a small cost ($5-$20) or for free. M.Turner S-Z  2015

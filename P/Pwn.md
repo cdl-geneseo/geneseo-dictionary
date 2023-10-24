@@ -7,16 +7,6 @@ nav_order:
 
 # Pwn
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Pwn
-
 Created by  Unknown User (lah15), last modified by  Unknown User (afl1) on Nov 20, 2012
 
 (v.) \p-own\ to beat another person completely in any type of competition; “We got pwned in our flag football game yesterday. The other team won 25-3!” A similar definition can be found in the Urban Dictionary. Submitted 2010. Usage is not specific to Geneseo. Hanson. (obsolete 2012).

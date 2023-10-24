@@ -7,16 +7,6 @@ nav_order:
 
 # Big Tree Inn
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Big Tree Inn
-
 Created by  Unknown User (kec3), last modified on Nov 29, 2010
 
 KChapman and ABelliard, 2010:  Noun.  Elegant restaurant located on Main St., frequented by students wanting to go somewhere nice.

@@ -7,16 +7,6 @@ nav_order:
 
 # Suitemates
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Suitemates
-
 Created by  Unknown User (mtr7) on Apr 29, 2015
 
 Name for the people that live together in a suite.  Romig, S-Z, 2015.

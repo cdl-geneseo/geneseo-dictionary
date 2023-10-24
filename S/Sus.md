@@ -7,16 +7,6 @@ nav_order:
 
 # Sus
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Sus
-
 Created by  Unknown User (vs7), last modified by  Quentin Wall on Nov 29, 2020
 
 adj. Short for suspicious. used to describe a person or place that is odd or creates feelings of discomfort.There were only 5 people at that party and all of them asked me if I wanted to come into the bathroom with them. It was kinda sus.(Wall, Q-T, 2020)

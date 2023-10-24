@@ -7,16 +7,6 @@ nav_order:
 
 # Guidelines
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Guidelines
-
 Created by  Unknown User (nac16) on Dec 11, 2020
 
 n. Principles or rules.Source: Dictionary of Geneseo English, Fall 2020, ChojnackiAs of 2020, 93% of students surveyed know the word.93% of students surveyed know the word. Of those surveyed, 90.7% believed it originated elsewhere. (Chojnacki, G-M, 2020)

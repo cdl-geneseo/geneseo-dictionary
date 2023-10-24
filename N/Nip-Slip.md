@@ -7,16 +7,6 @@ nav_order:
 
 # Nip Slip
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Nip Slip
-
 Created by  Unknown User (jnd5) on Apr 11, 2019
 
 (v.) the accidental showing of the nipple. “This shirt needs adjusting, I just had another nip slip!”

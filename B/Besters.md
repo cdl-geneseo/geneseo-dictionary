@@ -7,16 +7,6 @@ nav_order:
 
 # Besters
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Besters
-
 Created by  Zachary Arthur, last modified on Sep 22, 2008
 
 NN: Clipped form with derivational suffix of beer, &quot;Milwaukee's Best&quot;; &quot;I'm gonna run up to Rite Aid later on and pick me up a twelve of besters for $2.99.&quot; (undated but before F92) NN-Obs. F92 

@@ -7,16 +7,6 @@ nav_order:
 
 # College Circle
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : College Circle
-
 Created by  Unknown User (bli2), last modified on Sep 21, 2008
 
 College Circle (NN): a circular road, shooting off of Park Street in Geneseo. The official address of SUNY Geneseo is 1 College Circle. Brodie and Welles Hall are along the circle. 80% of those surveyed defined this word. (F06) (new word) LTiszenkel

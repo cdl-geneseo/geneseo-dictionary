@@ -7,16 +7,6 @@ nav_order:
 
 # Romp Around
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Romp Around
-
 Created by  Unknown User (aet10) on Oct 30, 2020
 
 1. noun A period or instance of lively, merry, or frolicsome play. Can be followed by a specific thing or place around which one is playing.We took the kids to lunch so they could have a romp around after lunch.2. verb A play or run around in a lively, merry, or frolicsome manner. Can be followed by a specific thing or place around which one is playing.Tommy and his friends have been romping around the house all day because of the rain. (Toussaint, Q-T, 2020)

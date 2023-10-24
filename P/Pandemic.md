@@ -7,16 +7,6 @@ nav_order:
 
 # Pandemic
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Pandemic
-
 Created by  Aurora Merwin on May 05, 2023
 
 (noun) derived from the noun pandemic which Merriam-Webster defines as “An outbreak of a disease that occurs over a wide geographic area (such as multiple countries or continents) and typically affects a significant portion of the population.” In the beginning of 2020 until the present (April 2023) the term pandemic was used colloquially to mean the SARS-CoV-2 pandemic of the period. https://www.merriam-webster.com/dictionary/pandemic (Merwin, N-R, 2023)

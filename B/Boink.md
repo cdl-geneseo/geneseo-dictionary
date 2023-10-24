@@ -7,16 +7,6 @@ nav_order:
 
 # Boink
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Boink
-
 Created by  Zachary Arthur, last modified on Nov 24, 2008
 
 Verb: to have sex with; &quot;Did you boink her yet man?&quot;

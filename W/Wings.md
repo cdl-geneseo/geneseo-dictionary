@@ -7,16 +7,6 @@ nav_order:
 
 # Wings
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Wings
-
 Created by  Unknown User (kmh28), last modified by  Unknown User (met10) on Apr 28, 2015
 
 (noun) In reference to the sale of chicken wings at the Inn Between on Friday.&quot;I'm starving...want to go to wings?&quot;Source: Source: Geneseo Dictionary 2006. Norman.Obsolete in this sense, because the Inn Between is no longer in existence. However Wings can refer to the Monday night Wing special at the Village Tavern. M. Turner S-Z 2015

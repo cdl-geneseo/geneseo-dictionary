@@ -7,16 +7,6 @@ nav_order:
 
 # Instacart
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Instacart
-
 Created by  Marissa Maxwell on May 02, 2023
 
 A delivery service that operates a grocery delivery and pick up service to online shoppers.As of 2023, 100% of students surveyed have heard of this term, and 57% of students think that this term is fairly often or very often used on campus. 

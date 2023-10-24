@@ -7,16 +7,6 @@ nav_order:
 
 # Black Out
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Black Out
-
 Created by  Zachary Arthur, last modified on Sep 23, 2008
 
 VB: To forget the night due to drinking. Identified by 80% of the students surveyed. F06 

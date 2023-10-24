@@ -7,16 +7,6 @@ nav_order:
 
 # Mouth-breather
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Mouth-breather
-
 Created by  Unknown User (wlf1), last modified by  Unknown User (msc5) on Nov 19, 2012
 
 n. A completely moronic person, devoid of intelligence; as in, &quot;If you ask me, anyone who thinks Africa is a country is a complete mouth-breather.&quot;As of 2012, 30% knew the word and 0% believed it to be of local origin.(Craft, G-M, 2012)

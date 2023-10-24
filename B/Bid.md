@@ -7,16 +7,6 @@ nav_order:
 
 # Bid
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Bid
-
 Created by  Unknown User (kla8) on Nov 19, 2012
 
 n. Pronunciation: Amer. / bɪd1. A formal invitiation for membership into a Greek organization which if accepted leads to a pledging period. “I rushed three sororities and received a bid from none of them.”K. Andryshak, 2012

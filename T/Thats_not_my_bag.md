@@ -7,16 +7,6 @@ nav_order:
 
 # That's not my bag
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : That's not my bag
-
 Created by  Unknown User (kmh28), last modified on Dec 02, 2008
 
 (phrase) I am not &quot;all about&quot; that; I do not like or do that.

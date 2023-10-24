@@ -7,16 +7,6 @@ nav_order:
 
 # Shade
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Shade
-
 Created by  Unknown User (klf16), last modified on Feb 04, 2015
 
 noun/verb: 1. Giving someone an attitude; often used in the phrase 'throwing shade.' That girl gave me some serious shade. He was in such a bad mood he was throwing shade all day. 

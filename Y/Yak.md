@@ -7,16 +7,6 @@ nav_order:
 
 # Yak
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Yak
-
 Created by  Unknown User (mtr7) on Apr 28, 2015
 
 Related to Yik Yak.Noun that describes a singular anonymous post on Yik Yak.  &quot;Did you see that yak about the professor who failed all of their students&quot;.  Romig, S-Z, 2015.Verb used to describe the action of posting a yak.  &quot;I yakked like six times yesterday and I still don't have any upvotes&quot;.  Romig, S-Z, 2015. 

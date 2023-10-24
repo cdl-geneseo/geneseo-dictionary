@@ -7,16 +7,6 @@ nav_order:
 
 # Movement
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Movement
-
 Created by  Unknown User (jmp46) on Dec 11, 2020
 
 n. In simplest terms, this means a change in something, whether it be a geographical change or a social change. This word has been commonly used to describe widespread beliefs on a certain topic, idea, or interest (i.e. Black Lives Matter). Use in a sentence: “The movement for gender equality began over a century ago, yet it is still much needed today.”Source: Dictionary of Geneseo English, Fall 2020, PeyerAs of 2020, 100% of students surveyed know this phrase. Of those surveyed, 0% believe it originated locally. (Peyer, G-M, 2020) 

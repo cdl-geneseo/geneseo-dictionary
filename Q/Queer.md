@@ -7,16 +7,6 @@ nav_order:
 
 # Queer
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Queer
-
 Created by  Unknown User (lav4), last modified on Dec 01, 2008
 
 1) adj: Stupid; unusual. &quot;Dude, your shirt is totally queer.&quot; S94. Source: Dictionary of Geneseo English 2006. A similar definition appears at http://www.urbandictionary.com/ ; entry probably not specific to Geneseo. Adams.

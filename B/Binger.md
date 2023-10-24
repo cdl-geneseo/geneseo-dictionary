@@ -7,16 +7,6 @@ nav_order:
 
 # Binger
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Binger
-
 Created by  Zachary Arthur, last modified on Sep 23, 2008
 
 Binger (bIn-djr) n. A person who drinks alcohol excessively. F06 

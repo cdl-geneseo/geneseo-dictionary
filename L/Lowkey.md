@@ -7,16 +7,6 @@ nav_order:
 
 # Lowkey
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Lowkey
-
 Created by  Unknown User (rch7) on Apr 15, 2019
 
 An adjective or adverb denoting subtlety, discretion. As an adverb, it can be placed before or after the verb as in &quot;I lowkey love this song.&quot; Of the students surveyed, 95% knew this word, and 3% believed it to be of local origin.

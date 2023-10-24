@@ -7,16 +7,6 @@ nav_order:
 
 # Blow
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Blow
-
 Created by  Zachary Arthur, last modified by  Unknown User (jmc62) on Nov 20, 2012
 
 VB: To be bad; &quot;This assignment really blows, it is so tedious.&quot; F94 VB- 92% of males surveyed reported to use this term occasionally. S99Noun: a slang term for cocaine. (Cecchini, A-F, 2012)

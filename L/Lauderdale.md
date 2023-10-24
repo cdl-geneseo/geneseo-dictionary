@@ -7,16 +7,6 @@ nav_order:
 
 # Lauderdale
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Lauderdale
-
 Created by  Unknown User (erg5), last modified by  Unknown User (mee2) on Nov 19, 2012
 
 n. The student health center, located on University Drive. &quot;Lauderdale is never open on the weekends, but I need cold medicine!”100% of those surveyed know this word and 100% believe it is of local originsAs of 2012, 100% of students surveyed knew this word and 100% believed it to be of local origin.(Eichas, G-M, 2012) 

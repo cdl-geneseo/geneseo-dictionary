@@ -7,16 +7,6 @@ nav_order:
 
 # Nasty
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Nasty
-
 Created by  Unknown User (era6), last modified by  Unknown User (mnt5) on Apr 24, 2015
 
 Nasty1. (n.) sex; &quot;Let's do the nasty.&quot;; 2.(adj.) disgusting; &quot;Letchworth pizza is nasty.&quot;; Source: Dictionary of Geneseo English 2001. Bates.3. (adj.) syn. amazing, awesome, impressive; &quot;Did you see the Sabres' game last night? It was nasty!&quot; Source: Dictionary of Geneseo English. A. Moak. 2010, N-R4. (adj.) mean or rude; “She gave me a nasty look last night. Is she mad at me?&quot; Source: Dictionary of Geneseo English. (Toran, N-R, 2015)

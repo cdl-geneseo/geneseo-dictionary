@@ -7,16 +7,6 @@ nav_order:
 
 # Noob
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Noob
-
 Created by  Unknown User (lav4), last modified on Dec 01, 2008
 
 &lt;!--  /* Font Definitions */  @font-face 	

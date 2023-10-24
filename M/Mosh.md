@@ -7,16 +7,6 @@ nav_order:
 
 # Mosh
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Mosh
-
 Created by  Unknown User (krk5), last modified by  Unknown User (msc5) on Nov 19, 2012
 
 1. n. A group of dancers throwing themselves into each other, often in response to rock music; &quot;Look at that mosh pit, someone is going to get hurt&quot;2. v. To dance in a group by violently slamming one's body against other similar minded dancers. Source: Dictionary of Geneseo English, Fall 2006, Goodspeed The most frequent collocation is &quot;mosh pit&quot;.As of 2012, 98% knew both word definitions and 0% believed either to be of local origin.(Craft, G-M, 2012)

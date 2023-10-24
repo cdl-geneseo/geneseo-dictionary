@@ -7,16 +7,6 @@ nav_order:
 
 # Roadies
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Roadies
-
 Created by  Unknown User (lav4), last modified by  Unknown User (ram19) on Nov 20, 2012
 
 (n.) Beers brought on a trip. &quot;We can drink some roadies on the way to the Dave Matthews concert.&quot; Source: Dictionary of Geneseo English 2001. DinkiAs of 2012, also known as &quot;road soda.&quot; Miller, N-R, 2012.

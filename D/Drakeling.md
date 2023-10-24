@@ -7,16 +7,6 @@ nav_order:
 
 # Drakeling
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Drakeling
-
 Created by  Unknown User (kec3), last modified on Nov 29, 2010
 
 KChapman and ABelliard, 2010:  Noun.  Term coined in our History of the English Language class for any student who purposely takes a class just because it is taught by Dr. Drake, no matter what time of day it is given.  

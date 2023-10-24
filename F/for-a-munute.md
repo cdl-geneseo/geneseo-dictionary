@@ -7,16 +7,6 @@ nav_order:
 
 # for-a-munute
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : for-a-munute
-
 Created by  Unknown User (jfw3), last modified on Sep 09, 2008
 
 Adjective A long period of time; &quot;She's been in there for-a-munute. I wonder what's going on.&quot;

@@ -7,16 +7,6 @@ nav_order:
 
 # Hypocrisy
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Hypocrisy
-
 Created by  Bianca Volpe on May 07, 2022
 
 n. To go against something that someone says or believes; When you say one thing but do another; To contradict oneself&quot;That is just pure hypocrisy.&quot; Based on survey result, 100% of students could define the word; 100% believe the word isn't specific to Geneseo. (B. Volpe, 2022)

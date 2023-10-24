@@ -7,16 +7,6 @@ nav_order:
 
 # Facebooking
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Facebooking
-
 Created by  Unknown User (crk4), last modified on Dec 02, 2008
 
 Facebooking: verb to frequent the website www.facebook.com.

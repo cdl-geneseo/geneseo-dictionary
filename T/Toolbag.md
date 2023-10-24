@@ -7,16 +7,6 @@ nav_order:
 
 # Toolbag
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Toolbag
-
 Created by  Unknown User (kmh28), last modified on Dec 02, 2008
 
 (noun) Someone acting like such a tool that he goes beyond that label...he is now a toolbag.

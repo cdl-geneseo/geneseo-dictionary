@@ -7,16 +7,6 @@ nav_order:
 
 # Beer-Goggles
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Beer-Goggles
-
 Created by  Zachary Arthur, last modified on Sep 18, 2008
 
 NN: Impaired vision from excess alcohol; &quot; Last night I thought that she was a 10, but I must have been looking through some serious beer-googles.&quot; F90 Said to be almost obs. F92 NN-No change 

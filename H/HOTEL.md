@@ -7,16 +7,6 @@ nav_order:
 
 # HOTEL
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : HOTEL
-
 Created by  Unknown User (met6), last modified by  Unknown User (crl12) on Apr 16, 2019
 
 n. (acronym)  History Of The English Language (used primarily by students in the class)ex. &quot;How long did it take you to do the HOTEL workbook?&quot;  &quot;Forever: HOTEL work takes me all day.&quot; This word was first recorded in print on Facebook November 18th 2008. In a comment on Jayme Faye Wonderland's 'status' Meghan Talbot wrote, &quot;if your talking about h.o.t.e.l, then i completely agree....&quot; The word also sprung up independently in the mind of Kenneth Kirkman who just got tired of saying the full name, and now the word has penetrated fully the HOTEL students.Talbot, E-H, 2008 As of 2010, 0% of students surveyed know the word. This word appears to be obsolete.(Fishkin, G-M, 2010)As of 2012, 2.5% of students surveyed know this word. 100% believe it to be of local origin.(Flynn, G-M, 2012)As of 2019, 0% of students surveyed know this word. 23% believe it to be of local origin. (Luquer, 2019)

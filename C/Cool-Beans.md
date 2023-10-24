@@ -7,16 +7,6 @@ nav_order:
 
 # Cool Beans
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Cool Beans
-
 Created by  Unknown User (bli2), last modified by  Unknown User (kla8) on Nov 20, 2012
 
 NN: Phrase showing pleasure or delight; &quot;You got an A on your paper--cool beans.&quot; S89 cool beans (NN) - No change Source: Dictionary of Geneseo English, Fall 1998 Simmington Cool beans (NN): Equivalent to &quot;cool,&quot; &quot;wow,&quot; [[awesome]], &quot;exciting,&quot; or &quot;fun&quot; in response to an interesting occurence. Definition of approximately 56% of those surveyed. (F06) Unknown by approximately 44% of those surveyed. (F06) Simmington, D. McGiveron 50% of those surveyed correctly identified and use this word. K. Andryshak, 2012

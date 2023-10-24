@@ -7,16 +7,6 @@ nav_order:
 
 # Nicklebag
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Nicklebag
-
 Created by  Unknown User (lav4), last modified by  Unknown User (baj2) on Nov 20, 2012
 
 noun: a traditional $5 bag of marijuana, which yields about 5 rolled jointsObsolete, 2012. Joyce

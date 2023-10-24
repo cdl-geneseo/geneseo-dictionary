@@ -7,16 +7,6 @@ nav_order:
 
 # Wet rag
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Wet rag
-
 Created by  Kayla Stewart on May 04, 2023
 
 (adj) 1. Used to describe someone who is considered to be boring, uninteresting, or lacking energy. It can also be used to describe someone who is moody or unpleasant to be around.Example: &quot;I hope you don't bring Tiffany to the dinner, she's such a wet rag.&quot; (Stewart, S-Z, 2023) 

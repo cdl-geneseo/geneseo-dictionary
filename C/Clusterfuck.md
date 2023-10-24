@@ -7,16 +7,6 @@ nav_order:
 
 # Clusterfuck
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Clusterfuck
-
 Created by  Unknown User (bli2), last modified by  Unknown User (kec3) on Nov 29, 2010
 
 NN: Mass noun (term of verery, comparable to &quot;exhaltation&quot; in &quot;exhaltation of larks&quot;); &quot;Did you see that clusterfuck of birds fly by?&quot; F94 clusterfuck (NN) - no change since F98. Source: Dictionary of Geneseo English, Fall 1998 Simmington Clusterfuck (NN): Unknown by any participants. Obsolete. (F06) Simmington, D. McGiveron

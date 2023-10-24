@@ -7,16 +7,6 @@ nav_order:
 
 # Hips 'n Harmony
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Hips 'n Harmony
-
 Created by  Unknown User (djb25), last modified on Apr 28, 2015
 
 Hips 'n Harmony - n. An all female a cappella group founded in 1997.&quot;What did you think of Hips 'n Harmony at the a cappella concert yesterday?&quot;As of 2015, 43.75% of students surveyed know this word. 43.75% believe it is of local origins.(Barcacel Peña, G-M, 2015)

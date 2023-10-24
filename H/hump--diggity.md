@@ -7,16 +7,6 @@ nav_order:
 
 # hump- diggity
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : hump- diggity
-
 Created by  Unknown User (met6), last modified by  Unknown User (spe1) on Nov 20, 2012
 
 Interjection [h mp dIg di] Exclamation at public or televised sexual acts; &quot;Hump-diggety, look at those two go at it.&quot;Source: Dictionary of Geneseo English, Spring 2001 - Kocher- 2006Of those surveyed in 2008, 13.6% knew the word, and 0% learned it in Geneseo. Talbot, 2008As of 2012, 5% of students surveyed know this word. 0% believe it is of local origins.(Endress, G-M, 2012)

@@ -7,16 +7,6 @@ nav_order:
 
 # Snake
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Snake
-
 Created by  Unknown User (igf1) on Oct 29, 2020
 
 (noun) - Someone who is deceitful and cunning, usually akin to the animal snake. Backstabber.That girl is a snake. You can't trust her. (Fazio, Q-T, 2020)

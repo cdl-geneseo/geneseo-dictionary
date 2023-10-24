@@ -7,16 +7,6 @@ nav_order:
 
 # Beat
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Beat
-
 Created by  Zachary Arthur, last modified on Sep 18, 2008
 
 AJ 1. Tired F94 2. Boring; &quot;Let's get out of here--the music sucks and this party is so beat.&quot; F94 AJ-No change 

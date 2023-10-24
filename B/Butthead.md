@@ -7,16 +7,6 @@ nav_order:
 
 # Butthead
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Butthead
-
 Created by  Unknown User (tjc13), last modified on Oct 05, 2008
 
 NN: Stupid person; &quot;You butthead! You don't wash darks with lights.&quot; F92 (predating MTV's &quot;Beavis and Butthead&quot;; used in 1985's ''Back to the Future'' by one of the characters, perhaps an anachronism). butthead: No Change. F94 KTousey Obs. F06 Only 30% of student identified this term F06

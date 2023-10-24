@@ -7,16 +7,6 @@ nav_order:
 
 # RJ
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : RJ
-
 Created by  Unknown User (lav4), last modified on Oct 28, 2008
 
 (n.)\'r- 'jA\ Nickname for Red Jacket, the dining hall serving the residents living in the South Village of SUNY Geneseo. &quot;I'm hungry; lets go to RJ.&quot; F92. Source: Dictionary of Geneseo English 1996. Dinki.

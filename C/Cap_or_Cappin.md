@@ -7,16 +7,6 @@ nav_order:
 
 # Cap or Cappin'
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Cap or Cappin'
-
 Created by  Unknown User (aa48) on Dec 10, 2020
 
 Verb- lying or joking around

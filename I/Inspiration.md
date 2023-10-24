@@ -7,16 +7,6 @@ nav_order:
 
 # Inspiration
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Inspiration
-
 Created by  Bianca Volpe on May 07, 2022
 
 n. When someone gains influence from somewhere else.&quot;You are my inspiration.&quot; Based on survey result, 100% of students could define the word; 100% believe the word isn't specific to Geneseo. (B. Volpe, 2022)

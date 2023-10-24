@@ -7,16 +7,6 @@ nav_order:
 
 # Niglet
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Niglet
-
 Created by  Unknown User (ajm3), last modified by  Unknown User (baj2) on Nov 27, 2012
 
 1. (n) A small African-American, either in age or size. Derogatory. &quot;He's so small, he's a niglet!&quot; A. Moak 2010Obsolete, Fall 2012. B. Joyce

@@ -7,16 +7,6 @@ nav_order:
 
 # Squig
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Squig
-
 Created by  Unknown User (atr2), last modified on Nov 30, 2010
 
 (slang)- refers to a cup of water to drink while intoxicated.

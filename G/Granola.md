@@ -7,16 +7,6 @@ nav_order:
 
 # Granola
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Granola
-
 Created by  Unknown User (crk4), last modified by  Unknown User (saf7) on Nov 19, 2012
 
 ''Noun'' Throwback to the 60's; &quot;His wardrobe is all tyedye - he is such a ''granola''.&quot; Results: 17.5% of those surveyed knew this word, and only 14.3% of the people that knew the word, learned the word at Geneseo. Conclusion: This word is not local to Geneseo, and its use is somewhat limited. Source: Dictionary of Geneseo English, Spring 1999 - Kocher Results: 16% of those surveyed knew this word in 2006, and of those who recognized this word 18% believed it to be specific to Geneseo. Conclusion: This word has limited use and is not specific to Geneseo.-C Adam43% of students surveyed knew this word, and 26% of these students had learned the word at Geneseo.(Klein, E-H, 2008)As of 2012, 3% of students surveyed know of this word, of which 0% believe it to be of local origin.(Fischer, G-M, 2012)

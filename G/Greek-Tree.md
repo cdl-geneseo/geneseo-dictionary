@@ -7,16 +7,6 @@ nav_order:
 
 # Greek Tree
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Greek Tree
-
 Created by  Unknown User (crk4), last modified by  Unknown User (saf7) on Nov 19, 2012
 
 ''Noun'' The tree that is in front of Sturges that Greek organizatiosn paint; &quot;Look, someone painted the ''Greek Tree'' last night.&quot; Results: This is a new word which was previosuly included in the Geneseo Dictionary as &quot;tree.&quot; The word was tested on 20 people and 50% of those tested knew the word, without any help. All of these people learned the word at Geneseo, but few of them every used or heard the word. There was no specific trends that were noticed as to word-recognition. Conclusion: This word is local to Geneseo and its use is somewhat limited. Source: Dictionary of Geneseo English, Spring 1999 - Kocher Results: 78% of those surveyed knew this word in 2006, and of those who recognized this word 95% believe it to be specific to Geneseo. Conclusion: This word has moderate to widespread usage and appears to be known and used mainly within the Geneseo locale.-C Adam86% of students surveyed knew this word, and 89% of these students had learned the word at Geneseo. This word is fundamentally a Geneseo slang word that has originated in Geneseo, and is used solely by students who go to school in Geneseo.(Klein, E-H, 2008)As of 2012, 48% of students surveyed know this word, of which 97% believe it to be of local origin.(Fischer, G-M, 2012)

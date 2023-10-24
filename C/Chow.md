@@ -7,16 +7,6 @@ nav_order:
 
 # Chow
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Chow
-
 Created by  Unknown User (tjc13), last modified by  Unknown User (jmb53) on Nov 20, 2012
 
 VB: To eat quickly; &quot;I was running late so I had to chow my lunch.&quot; See also ''ciao''. F92 chow (VB) - no change Source: Dictionary of Geneseo English, Fall 1998 Simmington Chow (VB): to quickly eat a lot. Definition of approximately 72% of those surveyed. (F06) Chow (NN): food. Definition of approximately 14% of those surveyed. (F06) Unknown by approximately 14% of those surveyed. J.Boselli, 2012: Though 47% of those surveyed could identify the term, the recent introduction of &quot;Chow Hound&quot; in the Geneseo lexicon has led to a new sense of the word, referring to either the Chow Hound truck itself or the food it produces.

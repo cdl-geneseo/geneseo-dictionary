@@ -7,16 +7,6 @@ nav_order:
 
 # Under the Knife
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Under the Knife
-
 Created by  Unknown User (kmh28), last modified on Dec 01, 2008
 
 (noun) A regular column appearing in the Lamron; showcases different groups or clubs in the Geneseo community.

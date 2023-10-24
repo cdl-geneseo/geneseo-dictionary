@@ -7,16 +7,6 @@ nav_order:
 
 # Tard
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Tard
-
 Created by  Unknown User (kmh28), last modified on Sep 23, 2008
 
 Tard: (noun) insult; clipping from the word retard.

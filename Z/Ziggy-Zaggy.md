@@ -7,16 +7,6 @@ nav_order:
 
 # Ziggy-Zaggy
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Ziggy-Zaggy
-
 Created by  Unknown User (atr2), last modified by  Unknown User (mtr7) on Apr 29, 2015
 
 (slang)- Part of a chant some fraternities perform in celebration.-Russo, S-Z, 2010Obsolete.  No one in our survey knew what this word meant, but this may be because it is specific to a fraternity.  Romig, S-Z, 2015.

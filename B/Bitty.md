@@ -7,16 +7,6 @@ nav_order:
 
 # Bitty
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Bitty
-
 Created by  Zachary Arthur, last modified by  Unknown User (jmb53) on Nov 20, 2012
 
 1. AJ: Tiny. F06 2. NN: Slang for a bitch. F06J.Boselli, 2012: 93% of those surveyed, despite being able to identify the term, were confused about the spelling, with &quot;biddy&quot;/&quot;biddie&quot; being the commonly accepted form.

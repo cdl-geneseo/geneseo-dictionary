@@ -7,16 +7,6 @@ nav_order:
 
 # Pride Club
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Pride Club
-
 Created by  Unknown User (jnd5) on Apr 11, 2019
 
 (n.) Geneseo Pride Club, an LGBT+ centered club that meets weekly. Can be attached to the existing definition of “Pride” as an alternative.

@@ -7,16 +7,6 @@ nav_order:
 
 # Sugar-loaf
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Sugar-loaf
-
 Created by  Unknown User (arh11), last modified on Sep 21, 2008
 
 Sugar-loaf (noun) Very good experience; 

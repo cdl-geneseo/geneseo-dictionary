@@ -7,16 +7,6 @@ nav_order:
 
 # Four Dogs
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Four Dogs
-
 Created by  Unknown User (jfw3), last modified by  Unknown User (jmb53) on Nov 20, 2012
 
 Noun for dagz A forty-ounce bottle of malt liquor. Source: Dictionary of Geneseo English, Fall 2000 - Kocher-2006J. Boselli, 2012: 0% of those surveyed were familiar with the term. It is now obsolete.

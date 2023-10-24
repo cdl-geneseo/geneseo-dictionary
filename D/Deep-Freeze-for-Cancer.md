@@ -7,16 +7,6 @@ nav_order:
 
 # Deep Freeze for Cancer
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Deep Freeze for Cancer
-
 Created by  Unknown User (bli2), last modified on Sep 21, 2008
 
 Deep Freeze for Cancer (NN): a charity event in which members of the Alpha Chi Rho fraternity camp out on the [[Sturges]] [[Quad]] for one week during the winter months. While attracting attention from students, they solicit donations for the National Cancer Society. 60% of those surveyed identified this word. (New word) (F06) LTiszenkel

@@ -7,16 +7,6 @@ nav_order:
 
 # Polygamy
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Polygamy
-
 Created by  Tess Woitaszek, last modified by  Regina Fuller on Dec 14, 2020
 
 n. The consensual practice of having multiple partners at the same time, a practice that is beginning to gain wider acceptance. As of 2020, 3.8% heard / used the word frequently, 57.7% heard / used it on occasion, and 42.3% never heard / used it.(Woodard, N-R, 2020)

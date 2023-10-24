@@ -7,16 +7,6 @@ nav_order:
 
 # Asshole Chant
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Asshole Chant
-
 Created by  Zachary Arthur, last modified by  Unknown User (kec3) on Nov 29, 2010
 
 NN: A chant consisting of the word &quot;asshole&quot; directed at someone who has done something dumb or embarassing; &quot;Look that kid dropped his tray, let's start an asshole chant!&quot;

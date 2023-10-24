@@ -7,16 +7,6 @@ nav_order:
 
 # Dunzell
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Dunzell
-
 Created by  Unknown User (tjc13), last modified on Dec 02, 2008
 
 noun- a term used in the description of an object that is used to hold something, such as a can or a keg, when it becomes empty of the contents that previously occupied it, and therefore is now useless.  'The keg is dunzell, we need a new one!&quot; New Word Fall 2008.

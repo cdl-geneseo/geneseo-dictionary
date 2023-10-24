@@ -7,16 +7,6 @@ nav_order:
 
 # Man
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Man
-
 Created by  Unknown User (est1), last modified by  Unknown User (msc5) on Nov 19, 2012
 
 2006-12-11T10:24:05ZSValentineMan [man] n. Connotation, usually directed towards males, denoting excellence. &quot;He's the man.&quot; Source: Dictionary of Geneseo English 1998 (Submitted by SValentine)As of 2012, 88% knew the word and 5% believed it to be of local origin.(Craft, G-M, 2012)

@@ -7,16 +7,6 @@ nav_order:
 
 # Stog
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Stog
-
 Created by  Unknown User (prv2), last modified by  Unknown User (met10) on Apr 28, 2015
 
 (Noun) - a slang term for a cigaretteVanHarken, S-Z, 2010During surveying in 2015 we found this to be obsolete M. Turner S-Z 2015

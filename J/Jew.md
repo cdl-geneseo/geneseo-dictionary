@@ -7,16 +7,6 @@ nav_order:
 
 # Jew
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Jew
-
 Created by  Unknown User (krk5), last modified by  Unknown User (jtd8) on May 07, 2019
 
 v. to steal or cheat.  Highly derogatory.  Its likely origin is a popular anti-Semitism which identifies Jews with hoarding money, stealing, and cheating.  Most commonly, it is a transitive verb, though the construction &quot;to be Jewed out of something&quot; i.e. to have something stolen from oneself, has also been observed.Of unknown origin, but not extant outside of Geneseo.As of 2012, 100% of students surveyed know this word. 0% believe it is of local origins.(Endress, G-M, 2012)As of 2019, 0% of students surveyed know this word. 0% believe it is of local origins.(Dilcher, G-M, 2019) 

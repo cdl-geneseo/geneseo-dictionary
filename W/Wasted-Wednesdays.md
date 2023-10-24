@@ -7,16 +7,6 @@ nav_order:
 
 # Wasted Wednesdays
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Wasted Wednesdays
-
 Created by  Unknown User (eo7), last modified on Nov 16, 2012
 
 n. A term used to describe drinking on a Wednesday. &quot;I recover from Wasted Wednesdays just in time for Thirsty Thursdays.&quot;EOberdorf, S-Z, 2012

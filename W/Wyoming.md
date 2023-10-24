@@ -7,16 +7,6 @@ nav_order:
 
 # Wyoming
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Wyoming
-
 Created by  Unknown User (eo7), last modified on Nov 16, 2012
 
 n. A residential building on campus in the North Village.&quot;I love living in Wyoming!&quot;EOberdorf, S-Z, 2012

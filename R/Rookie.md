@@ -7,16 +7,6 @@ nav_order:
 
 # Rookie
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Rookie
-
 Created by  Unknown User (cam37), last modified by  Unknown User (lm23) on Apr 29, 2015
 
 (n.) someone who is new or inexperienced. &quot;Our Quidditch rookies actually look pretty promising this year.&quot; Montelli, N-R, 2012.  This definition is not Geneseo specific (Major 2015).

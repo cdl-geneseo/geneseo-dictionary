@@ -7,16 +7,6 @@ nav_order:
 
 # Rush
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Rush
-
 Created by  Unknown User (lav4), last modified on Oct 28, 2008
 
 (v.) To meet members of sororities or fraternities. &quot;I am rushing in hopes of getting a bid.&quot; F94. Derived from noun &quot;rush&quot;, time preceding pledging. Source: Dictionary of Geneseo English 1996. A similar definition appears at http://www.urbandictionary.com/define.php?term=rush&amp;page=2 ; the entry is not specific to Geneseo. Dinki.

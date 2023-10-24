@@ -7,16 +7,6 @@ nav_order:
 
 # Wayno
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Wayno
-
 Created by  Unknown User (kmh28), last modified by  Unknown User (mtr7) on Apr 28, 2015
 
 (noun) One who lives in Wayne Dormitory&quot;Where do you live? ... I'm a Wayno.&quot;Source: Geneseo Dictionary 2006. Norman.Although some people were able to identify what this term meant, many said that they wouldn't use it in conversation.  Obsolete.  Romig, S-Z, 2015.

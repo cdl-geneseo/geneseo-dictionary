@@ -7,16 +7,6 @@ nav_order:
 
 # Open container
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Open container
-
 Created by  Unknown User (omh1) on Nov 20, 2012
 
 (n.) To have an opened alcoholic beverage in a public place, often refers to police violation for having this. &quot;I got a ticket for having an open container on Main Street.&quot; Horowitz 2012

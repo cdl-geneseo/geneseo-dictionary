@@ -7,16 +7,6 @@ nav_order:
 
 # Teke
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Teke
-
 Created by  Unknown User (alu1), last modified on Dec 02, 2008
 
 Nickname for the fraternity Tau Kappa Epsilon, no longer active on the Geneseo campus, though fondly remembered by those who were in attendance at Geneseo prior to 2006.

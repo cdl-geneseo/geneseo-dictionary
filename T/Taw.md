@@ -7,16 +7,6 @@ nav_order:
 
 # Taw
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Taw
-
 Created by  Unknown User (kmh28), last modified by  Unknown User (prv2) on Dec 07, 2010
 
 (noun) Sig Tau.

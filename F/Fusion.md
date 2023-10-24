@@ -7,16 +7,6 @@ nav_order:
 
 # Fusion
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Fusion
-
 Created by  Unknown User (kla8) on Nov 19, 2012
 
 n.   Pronunciation: Amer. /  fjuzhən, fjuːzd 1. The name of an on-campus dining option located in the MacVittie College Union specializing in Mediterranean, Asian, and Middle Eastern street food. “I’m hungry, can we get Fusion for dinner tonight?”K. Andryshak, 2012

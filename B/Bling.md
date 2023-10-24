@@ -7,16 +7,6 @@ nav_order:
 
 # Bling
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Bling
-
 Created by  Unknown User (kec3), last modified on Nov 29, 2010
 
 KChapman and ABelliard, 2010:  Noun.  Urban term, widely used among young people, for oversized or expensive jewelry, especially gold and silver, worn in a flashy manner.

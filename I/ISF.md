@@ -7,16 +7,6 @@ nav_order:
 
 # ISF
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : ISF
-
 Created by  Unknown User (krk5), last modified by  Unknown User (jtd8) on May 07, 2019
 
 N. abbreviation for the Integrated Science Facility (new word)Source: Dictionary of Geneseo English, Fall 2006, Winkelman.This term is now obsolete, with the approved abbreviation ISC being used exclusively.As of 2012, 40% of students surveyed know this word. 40% believe it is of local origins.(Endress, G-M, 2012)As of 2019, 0% of students surveyed knew this word they did however recognize ISC. (See ISC for further details). (Dilcher, G-M, 2019)

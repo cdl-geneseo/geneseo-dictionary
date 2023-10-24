@@ -7,16 +7,6 @@ nav_order:
 
 # Beef-canned
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Beef-canned
-
 Created by  Unknown User (tjc13), last modified by  Unknown User (jmb53) on Nov 20, 2012
 
 adj- when an object, especially a can or keg of beer or a bottle of liquor, has been efficiently and effectively drained of its contents and is now empty and deemed useless by those wishing to partake more of the contents.J.Boselli, 2012: 0% of those surveyed were familiar with the term. Considered obsolete.

@@ -7,16 +7,6 @@ nav_order:
 
 # Sloot
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Sloot
-
 Created by  Unknown User (amb51) on Apr 29, 2015
 
 (N) Definition: A male or female of loose morals; someone who is seen to have sex with a vast number of people. &quot;I can't believe you slept with that sloot Vicky last night, you should get yourself tested.&quot; Bettina S-Z 2015 

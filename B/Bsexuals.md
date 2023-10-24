@@ -7,16 +7,6 @@ nav_order:
 
 # Bsexuals
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Bsexuals
-
 Created by  Unknown User (tjc13), last modified on Nov 24, 2008
 
 noun- unofficial name of the B-side squad of the Geneseo Mens rugby team. New term Fall 2008.

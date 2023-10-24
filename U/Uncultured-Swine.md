@@ -7,16 +7,6 @@ nav_order:
 
 # Uncultured Swine
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Uncultured Swine
-
 Created by  Unknown User (olr2) on Apr 16, 2019
 
 (n.) Someone who doesn't know something most people do know. Source: Dictionary of Geneseo English 2019. (Root, Olivia (S-Z) 2019)

@@ -7,16 +7,6 @@ nav_order:
 
 # Butt
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Butt
-
 Created by  Unknown User (tjc13), last modified on Nov 24, 2008
 
 AJ/NN: Derogatory term referring to appearance; &quot;She is butt.&quot; S92 Clipped from ''butt-ugly''. Said to be Obs. F94 butt: 38% of those surveyed identified the term to mean unattractive

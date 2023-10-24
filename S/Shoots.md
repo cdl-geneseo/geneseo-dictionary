@@ -7,16 +7,6 @@ nav_order:
 
 # Shoots
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Shoots
-
 Created by  Unknown User (arh11), last modified on Sep 28, 2008
 
 (n.) clauses denoting accomplishment. &quot;Many Shoots for Natalie for her great performance at work!&quot; Source: Dictionary of Geneseo English 1996. Dilluvio

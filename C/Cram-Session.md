@@ -7,16 +7,6 @@ nav_order:
 
 # Cram Session
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Cram Session
-
 Created by  Unknown User (ms61) on May 08, 2015
 
 A bunch of students getting together to study last minute for a test or a final exam.

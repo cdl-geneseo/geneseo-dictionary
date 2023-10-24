@@ -7,16 +7,6 @@ nav_order:
 
 # Chug
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Chug
-
 Created by  Unknown User (tjc13), last modified on Oct 05, 2008
 
 VB: To drink beer rapidly, often by poking a hole in the can and drinking entire contents at once. F94 chug (VB): No change. 90% of those surveyed identified the term as referring to beer drinking. Source: Dictionary of Geneseo English, Fall 1998 Simmington Chug (VB): to drink a lot (usually beer) very quickly. Definition of 100% of those surveyed.

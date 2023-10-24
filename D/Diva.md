@@ -7,16 +7,6 @@ nav_order:
 
 # Diva
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Diva
-
 Created by  Unknown User (kec3), last modified on Nov 29, 2010
 
 KChapman and ABelliard, 2010:  Noun.  A female person who acts as if she deserves special treatment, who is perhaps vocal and obnoxious about demanding it.  Coming into use for a male person who acts this way as well.

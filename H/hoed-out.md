@@ -7,16 +7,6 @@ nav_order:
 
 # hoed out
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : hoed out
-
 Created by  Unknown User (met6), last modified by  Unknown User (jcf10) on Nov 18, 2012
 
 Adjective 1. Trashy-looking 2. Used up from multiple sexual encounters 3. Have sex with for moneySource: Dictionary of Geneseo English, Spring 1999 - Kocher- 2006 Of those surveyed in 2008, 47.7% recognized the word, and 0% learned the word in Geneseo.Talbot, 2008As of 2012, 40% of students surveyed know this word. 0% believe it is of local origin.(Flynn, G-M, 2012)

@@ -7,16 +7,6 @@ nav_order:
 
 # GOLD
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : GOLD
-
 Created by  Unknown User (iif1), last modified by  Unknown User (rgg2) on Nov 19, 2012
 
 GOLD n. abbreviation for Geneseo Opportunities for Leadership Development, further information can be found at: http://gold.geneseo.edu/&quot;I went to the GOLD workshop on Assertiveness Training&quot;100% of students surveyed know the word and believe it is of local originsAs of 2012, 50% of students surveyed know this word, 100% believe it is of local origins.(Goodwin, G-M, 2012) 

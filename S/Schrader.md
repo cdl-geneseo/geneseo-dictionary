@@ -7,16 +7,6 @@ nav_order:
 
 # Schrader
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Schrader
-
 Created by  Unknown User (ejr7) on Nov 16, 2012
 
 n. An academic building on campus.  It houses the University Police and various athletic spaces.&quot;With his police record, Reuben is sure to stay away from Schrader.&quot;EReck, S-Z, 2012

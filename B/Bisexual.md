@@ -7,16 +7,6 @@ nav_order:
 
 # Bisexual
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Bisexual
-
 Created by  Unknown User (jys1) on Apr 14, 2019
 
 Pronunciation: bī-ˈsek-sh(ə-)wəlAdj. Traditionally known as an individual with a sexual attraction to more than one gender. The traditional definition, however,  is regarded by many as exclusionary to other individuals of the LGBTQ+ community.  With a rise in LGBTQ+ awareness, this definition is constantly being challenged to better reflect a changing society. 

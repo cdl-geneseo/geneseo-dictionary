@@ -7,16 +7,6 @@ nav_order:
 
 # Uptown
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Uptown
-
 Created by  Unknown User (kmh28), last modified by  Jack Katz on May 07, 2022
 
 (noun) Places of student social activity in Geneseo such as the Vital Spot, the Idle Hour or stores; possibly derived from campus geography or from traditional meaning &quot;nicer part of the city.&quot;Sometimes referred to as &quot;downtown&quot; (Nicodemi)Also used as titles for events (Marcantonio)&quot;RLK Uptown at the Vital!&quot;(noun) Event used as a fundraiser at either the Vital Spot or the IB, offering under/over cover charges, drink specials, et cetera. Most often used by Greek organizations to raise money for either the organization itself or for various charities, but several other organizations have used this as a fundraising tool. (Unger)Source: Geneseo Dictionary 2006. FNeveldine.

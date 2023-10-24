@@ -7,16 +7,6 @@ nav_order:
 
 # Brodie Commons
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Brodie Commons
-
 Created by  Unknown User (tjc13), last modified by  Unknown User (jmb53) on Nov 20, 2012
 
 (brodi: kamnz) n. A student lounge on the north side of the first floor of the Brodie Building.Fall 2008- Term is still in use by students in the School of the Arts.J.Boselli, 2012: 87% of those surveyed could identify the term, but there was confusion as to whether the term referred to the building's courtyard or lounge.

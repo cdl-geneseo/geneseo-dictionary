@@ -7,16 +7,6 @@ nav_order:
 
 # Boot Bucket
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Boot Bucket
-
 Created by  Unknown User (tjc13), last modified by  Unknown User (kla8) on Nov 20, 2012
 
 noun- a bucket that is use solely for the purpose of being a reservoir for vomit.25% of participants correctly identified this term, somewhat obsolete. 2012. K. Andryshak

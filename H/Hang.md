@@ -7,16 +7,6 @@ nav_order:
 
 # Hang
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Hang
-
 Created by  Unknown User (crk4), last modified by  Unknown User (jcf10) on Nov 18, 2012
 
 v. to be in the casual company of friendsSource: Dictionary of Geneseo English, Spring 1999 - KocherAs of 2012, 80% of students surveyed know this word. 0% believe it is of local origin.(Flynn, G-M, 2012)

@@ -7,11 +7,11 @@ nav_order:
 
 # Dictionary News
 
-Bibliographies and Study Guides
 
-Dictionary of Geneseo English
 
-Bibliographies and Study Guides : Dictionary News
+
+
+
 
 Created by  Paul Schacht, last modified on Sep 10, 2008
 

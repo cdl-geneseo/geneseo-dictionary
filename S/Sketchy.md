@@ -7,16 +7,6 @@ nav_order:
 
 # Sketchy
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Sketchy
-
 Created by  Unknown User (clp11), last modified on Sep 27, 2010
 
 (adj.) Creepy. &quot;The guy at the store was really sketchy. Standing near him made me uncomfortable.&quot; Pullano, S-Z, 2010.

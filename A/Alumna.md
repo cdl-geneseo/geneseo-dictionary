@@ -7,16 +7,6 @@ nav_order:
 
 # Alumna
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Alumna
-
 Created by  Unknown User (kla8) on Nov 19, 2012
 
 n. (pl. alumni)Pronunciation: Amer. / əˈlʌmnə / əˈlʌmni 1. Female graduate of a college or university.2. Female graduate of a collegiate sorority. “The alumni of Delta Phi Epsilon returned for Geneseo’s Alumni Weekend.”K. Andryshak, 2012

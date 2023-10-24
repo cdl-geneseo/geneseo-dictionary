@@ -7,16 +7,6 @@ nav_order:
 
 # Naked Lap
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Naked Lap
-
 Created by  Unknown User (ajm3), last modified on Nov 15, 2010
 
 (n.) An act of humiliation after a game of beer pong during which the losing team did not make a single cup. Refers to running around the house, apartment, etc. nude. &quot;You didn't make any cups, time for a naked lap!&quot; Source: Dictionary of Geneseo English. Fall 2010. A. Moak. N-R.

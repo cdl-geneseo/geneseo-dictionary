@@ -7,16 +7,6 @@ nav_order:
 
 # Rolling
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Rolling
-
 Created by  Unknown User (lav4), last modified on Oct 28, 2008
 
 (adj.) Reaction to the drug Ecstasy. &quot;I was rolling while dancing at the club last night.&quot; Source: Dictionary of Geneseo English 2001. A similar definition appears at http://www.urbandictionary.com/define.php?term=rolling ; the entry is probably not specific to Geneseo. Dinki.

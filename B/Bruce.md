@@ -7,16 +7,6 @@ nav_order:
 
 # Bruce
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Bruce
-
 Created by  Unknown User (tjc13), last modified on Nov 23, 2008
 
 1. NN: Male homosexual or male exhibiting seterotypically gay mannerisms; &quot;Did you see that guy at the counter with the lisp? He's such a bruce.&quot; Said to be current in F91. S94 2. AJ: Gay or using stereotypically gay mannerisms; &quot;Why are you sitting with your legs crossed like that? It looks so completely bruce.&quot; Said to be current in F91. S94 1. NN: Obs. S99 2. AJ: Obs S99 1. NN: Obs. F06 2. AJ: Obs.  Fall 2008 Obs.

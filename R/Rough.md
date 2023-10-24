@@ -7,16 +7,6 @@ nav_order:
 
 # Rough
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Rough
-
 Created by  Unknown User (lav4), last modified on Oct 28, 2008
 
 (adj.) Harsh. &quot;She failed me in that class; it's pretty rough.&quot; Source: Dictionary of Geneseo English 2001. A similar definition appears at http://www.urbandictionary.com/define.php?term=rough ; the entry is probably not specific to Geneseo. Dinki.

@@ -7,16 +7,6 @@ nav_order:
 
 # University Hots
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : University Hots
-
 Created by  Unknown User (atr2), last modified by  Unknown User (mtr7) on Apr 28, 2015
 
 noun: A restaurant that opened in 2010, known for serving garbage plates.  Known by the slang Uni.-Russo, S-Z, 2010The slang term for this term is overwhelmingly accepted to be UHots at this time.  Romig, S-Z, 2015.

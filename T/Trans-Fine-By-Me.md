@@ -7,16 +7,6 @@ nav_order:
 
 # Trans Fine By Me
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Trans Fine By Me
-
 Created by  Unknown User (mtr7) on Apr 29, 2015
 
 An event that occurred in response to a transgender individual being physically assaulted at the Statesmen.  There were over 500 people who went to the event and it made the local newspaper as well as the Lamron in terms of publicity.  &quot;After I went to Trans Fine By Me, I realized that I really am privileged to be cisgendered&quot;. Romig, S-Z, 2015.

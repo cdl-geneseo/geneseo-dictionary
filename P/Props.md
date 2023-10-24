@@ -7,16 +7,6 @@ nav_order:
 
 # Props
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Props
-
 Created by  Unknown User (afl1) on Nov 20, 2012
 
 (n.) A congratulatory statement.(Littman, N-R, 2012)

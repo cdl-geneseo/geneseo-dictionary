@@ -7,16 +7,6 @@ nav_order:
 
 # RA (Umbrella Entry)
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : RA (Umbrella Entry)
-
 Created by  Aurora Merwin on Apr 09, 2023
 
 This entry serves to unite two pervious entries that were talking abut the same things, using variant spellings. No modifications aside from this joining have been made to either entry. See them below. (Merwin, N-R, 2023)R.A. (n.) \r-a\ acronym for Resident Assistant dorm counselor. &quot;My roommate is so loud that I'm going to talk to my R.A. about switching rooms.&quot; F90. Source: Dictionary of Geneseo English 2006. A similar definition appears at http://www.urbandictionary.com/define.php?term=ra ; the entry is probably not specific to Geneseo. (Dinki)Ra(n.)\'r\ acronym of endearment for Resident Assistant. &quot;I'm going down to the service desk to visit Ra Joe since he's on duty tonight.&quot; Source: Dictionary of Geneseo English 2006. Obsolete Fall 2006. Dinki.

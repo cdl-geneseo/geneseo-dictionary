@@ -7,16 +7,6 @@ nav_order:
 
 # Girlie-man
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Girlie-man
-
 Created by  Unknown User (crk4), last modified by  Unknown User (rgg2) on Nov 19, 2012
 
 n. Unmuscular man; &quot;He looks like such a ''girlie-man'' in those colors.&quot; Results: 90% of those surveyed knew this word, but 6% of these people learned this word at Geneseo. Conclusion: This word has moderate to rare usage depsite the large number of people that knew it. Source: Dictionary of Geneseo English, Spring 1999 - Kocher Results: 92% of those surveyed knew this word in 2006, and of those who recognized the word 0% of them believed the word to be specific to Geneseo. Conclusion: This word is still well-known and recognized, however it does not appear specific to Geneseo.-C Adam73% of students surveyed knew this word, and 0% of these students had learned the word at Geneseo. This word is considered slang for all groups, and it restricted to neither Geneseo nor to college campuses.(Klein, E-H, 2008)As of 2012, 45% of students surveyed know this word, 0% believe it is of local origins.(Goodwin, G-M, 2012)

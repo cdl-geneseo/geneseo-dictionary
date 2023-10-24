@@ -7,16 +7,6 @@ nav_order:
 
 # RLK
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : RLK
-
 Created by  Unknown User (lav4), last modified on Oct 28, 2008
 
 (n.)\'r- 'el- 'kA\ abbreviation for Royal Lady Knights, a non-greek female organization. &quot;I will always have fond memories of when RLK sings to Oh What a Night at the IB.&quot; Source: Dictionary of Geneseo English 1995. Dinki.

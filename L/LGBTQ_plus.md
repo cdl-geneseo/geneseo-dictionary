@@ -7,16 +7,6 @@ nav_order:
 
 # LGBTQ+
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : LGBTQ+
-
 Created by  Emily McIntosh on Dec 07, 2020
 
 LGBTQ+n. This is used to represent individuals who identify as lesbian, gay, bisexual, transgender, and queer. The “+” acknowledges the rest of the alliance that isn’t directly represented in the acronym. Use in a sentence, “I support the LGBTQ+ community”.Source: Dictionary of Geneseo English, Fall 2020, McIntoshAs of 2020, 100% of students surveyed know the word. Of those surveyed, 0% believed it originated locally. While 100% believed it originated elsewhere.(McIntosh, G-M, 2020)

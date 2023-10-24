@@ -7,16 +7,6 @@ nav_order:
 
 # Ulcerate
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Ulcerate
-
 Created by  Unknown User (aet10), last modified on Oct 30, 2020
 
 verb (used without object), ul·cer·at·ed, ul·cer·at·ing.to form an ulcer; become ulcerous: His skin ulcerated after exposure to radioactive material. verb (used with object), ul·cer·at·ed, ul·cer·at·ing.to cause an ulcer on or in: Continued worry ulcerated his stomach.(Toussaint, S-Z, 2020) 

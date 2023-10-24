@@ -7,16 +7,6 @@ nav_order:
 
 # Thusa
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Thusa
-
 Created by  Unknown User (kmh28), last modified on Dec 02, 2008
 
 (noun) Member of the Arethusa Sorority.

@@ -7,16 +7,6 @@ nav_order:
 
 # Dick Tease
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Dick Tease
-
 Created by  Unknown User (kec3), last modified on Nov 29, 2010
 
 KChapman and ABelliard, 2010:  Noun.  Derogatory term for a girl who acts in an extremely flirty manner, as if she would like to have sex with a male, who then refuses him when he asks her.

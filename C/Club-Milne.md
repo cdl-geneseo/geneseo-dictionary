@@ -7,16 +7,6 @@ nav_order:
 
 # Club Milne
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Club Milne
-
 Created by  Unknown User (tjc13), last modified by  Unknown User (kec3) on Nov 29, 2010
 
 noun- a nickname for Milne Library used by students who spend a lot of time there in an effort to make the experience of spending a lot of time in Milne appear more fun than it is.

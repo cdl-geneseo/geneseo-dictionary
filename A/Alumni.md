@@ -7,16 +7,6 @@ nav_order:
 
 # Alumni
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Alumni
-
 Created by  Unknown User (ms61) on May 07, 2015
 
 Former students of an academic institution. Male or female students who have already graduated Plural form of &quot;Alumnus&quot; 

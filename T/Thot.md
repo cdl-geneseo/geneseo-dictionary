@@ -7,16 +7,6 @@ nav_order:
 
 # Thot
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Thot
-
 Created by  Unknown User (met10) on Apr 28, 2015
 
 (noun) An acronym for &quot;That hoe over there.&quot; Not Geneseo specific, but used in reference to women who are promiscuous or considered slutty.M. Turner S-Z 2015 

@@ -7,16 +7,6 @@ nav_order:
 
 # Selfie Stick
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Selfie Stick
-
 Created by  Unknown User (mtr7) on Apr 29, 2015
 
 New tool that is becoming popular with people who do study abroad.  This device is allows you to take a selfie (a picture of yourself, by yourself) from farther distances allowing for more inclusive selfies.  &quot;This was a really great picture, I had to take it with my selfie stick&quot;.  Romig, S-Z, 2015.

@@ -7,16 +7,6 @@ nav_order:
 
 # Rainbow
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Rainbow
-
 Created by  Unknown User (lav4), last modified by  Unknown User (gmm6) on Nov 15, 2010
 
 (n.) fraternities/sororities collectively, said often to be recognized by their colors. &quot;Have you done the rainbow?&quot; Found to be used occasionally. Source: Dictionary of Geneseo English 1996. Obsolete Fall 2006. Heard again in 2008.  Obsolete as of Fall 2010.  Martinelli, N-R.

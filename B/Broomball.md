@@ -7,16 +7,6 @@ nav_order:
 
 # Broomball
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Broomball
-
 Created by  Zachary Arthur, last modified on Nov 24, 2008
 
 Noun: a game similar to hockey in environment and play but without ice skates and padding and using a different type of stick; &quot;Woohoo it's broomball season!&quot; 

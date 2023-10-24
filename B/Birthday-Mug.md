@@ -7,16 +7,6 @@ nav_order:
 
 # Birthday Mug
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Birthday Mug
-
 Created by  Unknown User (tjc13), last modified on Nov 24, 2008
 
 noun- a mug given to those celebrating their 21st birthday at the Vital Spot that allows the wielder to have access to free beer for that night.

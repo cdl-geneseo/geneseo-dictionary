@@ -7,16 +7,6 @@ nav_order:
 
 # Pearly Whites
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Pearly Whites
-
 Created by  Jessalyn Willmott, last modified on May 07, 2022
 
 n. Very brightly white teeth.&quot;You better brush those pearly whites&quot;As of 2022, &quot;pearly whites&quot; is still in use among Geneseo students, averaging a score of 3.8/5, with 1 representing a word unknown to Geneseo students and 5 representing a word used daily among students.(J.Willmott, M-P, 2022) 

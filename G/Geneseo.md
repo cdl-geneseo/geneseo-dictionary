@@ -7,16 +7,6 @@ nav_order:
 
 # Geneseo
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Geneseo
-
 Created by  Unknown User (crk4), last modified by  Unknown User (cmf9) on Nov 19, 2012
 
 ''Adjective'' 1. Of female-male student ratio; &quot;I visited my friend's all girl college, and it was ''Geneseo''.&quot; 2. Of male attitudes toward females; &quot;That guy blew me off the next morning...That is so ''Geneseo''.&quot; This word was listed as &quot;obsolete in &quot;the Fall of 1998. Results: 37.5% of those surveyed knew this word and 86.7% of the people that knew the word (which means they agreed with the definition), learned the word at Geneseo. Interestingly enough, though this word refers to Geneseo's name, 13.3% of the people did not learn the word (in other words, they did not learn the definiton associated with it) at this school. Conclusion: This word is &quot;mostly&quot; local to Geneseo, its use is moderate, and this word proves that even meanings associated with place names are not necessarily always local to a region. Also, this word is not obsolete as listed in the Fall of 1998. Source: Dictionary of Geneseo English, Spring 1999 - Kocher Results: 60% of those surveryed knew this word in 2006, and 92% of those surveyed believed this word to be specific to Geneseo. Conclusion: Use and knowledge of this definition has grown and it appears to be relatively contained to the Geneseo community.-C. Adam48% of students surveyed knew this word, and 76% of these students had learned the word at Geneseo. Our survey also showed that many students did not know the definition of the word as given, but simply as the well-known Geneseo denoting the college.(Klein, E-H, 2008)As of 2012, 17% of students surveyed know this word, 70% believe it is of local origins.(Goodwin, G-M, 2012)N. Referring to the University and the surrounding townAs of 2012, 75% of students surveyed knew this word, 100% believed it is of local origin.(Felice, G-M, 2012)

@@ -7,16 +7,6 @@ nav_order:
 
 # NORML
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : NORML
-
 Created by  Unknown User (era6), last modified by  Unknown User (mem32) on Nov 20, 2012
 
 NORML(nrml): (n.) National Organization for the Reform of Marijuana Laws; I joined NORML, but I forgot where my membership card is. Source: Geneseo Dictionary of English 2001. As it refers to a national organization, this entry is not Geneseo specific. Bates. (Obsolete, 2012)(McNiffe, N-R, 2012)

@@ -7,16 +7,6 @@ nav_order:
 
 # CAS-bitch
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : CAS-bitch
-
 Created by  Unknown User (tjc13), last modified on Nov 24, 2008
 
 noun- a student worker who is employed by CAS and treated poorly as an employee due to their being a college student.  Synonymous with CAS-slave.

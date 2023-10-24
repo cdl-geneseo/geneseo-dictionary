@@ -7,16 +7,6 @@ nav_order:
 
 # Shisha
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Shisha
-
 Created by  Unknown User (lav4), last modified on Dec 01, 2008
 
 noun: flavored tobacco mixed with molasses for smoking in a hookah

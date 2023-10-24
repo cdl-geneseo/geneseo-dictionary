@@ -7,16 +7,6 @@ nav_order:
 
 # Babe
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Babe
-
 Created by  Zachary Arthur, last modified on Sep 18, 2008
 
 NN: Attractive male or female; &quot;He's so hot--what a babe.&quot; F94 NN-No change 

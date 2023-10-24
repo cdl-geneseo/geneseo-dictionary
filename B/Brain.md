@@ -7,16 +7,6 @@ nav_order:
 
 # Brain
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Brain
-
 Created by  Unknown User (tjc13), last modified on Nov 24, 2008
 
 brain  : a maneuver in which a male manipulates his testicles into the likeness of a human brain.

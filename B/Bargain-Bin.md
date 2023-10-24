@@ -7,16 +7,6 @@ nav_order:
 
 # Bargain Bin
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Bargain Bin
-
 Created by  Unknown User (tjc13), last modified on Dec 02, 2008
 
 noun- a mixture of tobacco and marijuana that is smoked in either a pipe or a hookah for the purpose of getting high. &quot;Hey man, Jim is gonna light up a bargain bin later, want in?&quot;   New word Fall 2008.

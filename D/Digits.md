@@ -7,16 +7,6 @@ nav_order:
 
 # Digits
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Digits
-
 Created by  Unknown User (bli2), last modified by  Unknown User (kla8) on Nov 20, 2012
 
 n. 1. Someone's phone number, usually specific to the phone number of a female acquired by a male. &quot;I finally got her digits last night!&quot;K. Andryshak, 2012Historically (within the Geneseo Dictionary Project): NN - No change. Brognano 100% of participants surveyed in 2012 identified this word as defined above.   K. Andryshak, 2012

@@ -7,16 +7,6 @@ nav_order:
 
 # Fap
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Fap
-
 Created by  Unknown User (kla8) on Nov 19, 2012
 
 Fap,  n. and v. Pronunciation: Amer. / f 1. Masturbatory noise produced by the slapping of the scrotum against the male’s perineum.“I’d masturbate in the shower but the faps may be overheard.”2. Onomatopoeic term for masturbation.“I’d fap but my roommate is still here.”K. Andryshak, 2012

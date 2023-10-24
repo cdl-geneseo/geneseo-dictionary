@@ -7,16 +7,6 @@ nav_order:
 
 # Crocs
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Crocs
-
 Created by  Unknown User (bli2), last modified on Sep 21, 2008
 
 crocs : 1)alligators. This term was made popular by the late Steve Erwin. 2) The plastic clog shoes that have holes that became popular in the year 2006. 60% of student surveyed use this term. F06. KTousey

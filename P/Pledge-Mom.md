@@ -7,16 +7,6 @@ nav_order:
 
 # Pledge Mom
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Pledge Mom
-
 Created by  Unknown User (ac45), last modified on Apr 07, 2019
 
 (n.) Person who is in charge of pledging in a Sorority. Example: She was recently elected pledge mom. (A Chen, N-R, 2019).

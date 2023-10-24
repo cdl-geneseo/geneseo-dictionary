@@ -7,16 +7,6 @@ nav_order:
 
 # Box
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Box
-
 Created by  Zachary Arthur, last modified by  Unknown User (jmb53) on Nov 20, 2012
 
 NN: Slang term meaning vagina. Only identified by 46% of those surveyed. F06J.Boselli, 2012: Only 20% of those surveyed could identify the term. This usage is thought to be obsolete.

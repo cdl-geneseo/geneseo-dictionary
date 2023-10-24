@@ -7,16 +7,6 @@ nav_order:
 
 # Tweet
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Tweet
-
 Created by  Unknown User (mtr7) on Apr 29, 2015
 
 Related to Twitter.  Verb describing the act of posting something on Twitter.  &quot;Did you see her tweet. she is totally talking about her ex-girlfriend&quot;.  Romig, S-Z, 2015.

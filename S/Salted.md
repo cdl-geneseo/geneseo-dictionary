@@ -7,16 +7,6 @@ nav_order:
 
 # Salted
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Salted
-
 Created by  Unknown User (atr2), last modified by  Unknown User (mtr7) on Apr 29, 2015
 
 (verb)- When clothes absorb water from snow melted from rock salt, resulting in the clothes becoming bleached and stiff.-Russo, S-Z, 2010Meaning for this word has changed to an adjective that describes food.  Romig, S-Z, 2015.

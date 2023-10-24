@@ -7,16 +7,6 @@ nav_order:
 
 # Nose candy
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Nose candy
-
 Created by  Unknown User (lav4), last modified by  Unknown User (mem32) on Nov 20, 2012
 
 Noun: a slang term for cocaine. Example &quot;Does anyone have some nose candy?&quot; (Obsolete, 2012)(McNiffe, N-R, 2012)

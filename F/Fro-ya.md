@@ -7,16 +7,6 @@ nav_order:
 
 # Fro-ya
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Fro-ya
-
 Created by  Unknown User (crk4), last modified on Dec 02, 2008
 
 Noun Clip of frozen yogurt; &quot;Can you save me a seat? I am going to get some vanilla ''fro-yo''.&quot; Results: 68% of those surveyed knew this word, but 50% of these people did not learn this word at Geneseo. Conclusion: This word has moderate usage, and is not local to Geneseo. 

@@ -7,16 +7,6 @@ nav_order:
 
 # Seneca
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Seneca
-
 Created by  Unknown User (ejr7) on Nov 16, 2012
 
 n. A residential hall on campus in North Village.&quot;Atticus was an RA in Seneca last year.&quot;EReck, S-Z, 2012

@@ -7,16 +7,6 @@ nav_order:
 
 # Snowflake
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Snowflake
-
 Created by  Unknown User (igf1) on Oct 29, 2020
 
 (noun) - A person who is very sensitive and believes they have a sense of entitled uniqueness about them. Has been used in terms of politics to insult those with liberal views.He's such a snowflake that he might cry if he hears that. (Fazio, Q-T, 2020)

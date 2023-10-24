@@ -7,16 +7,6 @@ nav_order:
 
 # Awkward Turtle
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Awkward Turtle
-
 Created by  Zachary Arthur, last modified by  Unknown User (jmb53) on Nov 20, 2012
 
 NN a hand symbol made during awkward situations; &quot;Well this is awkward (makes awkward turtle)&quot; 86% of people surveyed knew this term.KChapman, 2010:  This term is definitely still in use at Geneseo.  The urban dictionary notes that the hand symbol is actually the American Sign Language sign for &quot;platypus.&quot; J.Boselli, 2012: 93% of those surveyed felt the term had become obsolete, save for ironic usages. 

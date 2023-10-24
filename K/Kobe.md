@@ -7,16 +7,6 @@ nav_order:
 
 # Kobe
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Kobe
-
 Created by  Unknown User (crl12), last modified by  Unknown User (cjk14) on Dec 11, 2020
 
 (interjection) an exclamation made when throwing something. a reference to the name of NBA player Kobe Bryant.Now deceased, this legend's name carries even more meaning when shooting at the trash can from range.(Kane 2020)&quot;Kobe!&quot; screamed the boy as he aimed his empty chip bag at the garbage can.As of 2019, 79.3% of students surveyed knew this word and 5% of students surveyed believed this word to be of local origin. (Luquer, 2019)As of 2020, 76% of students surveyed were familiar with this word. Of those surveyed, 91% believe it originated elsewhere. (Kane 2020)

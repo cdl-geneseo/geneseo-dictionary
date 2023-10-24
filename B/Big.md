@@ -7,16 +7,6 @@ nav_order:
 
 # Big
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Big
-
 Created by  Zachary Arthur, last modified on Sep 23, 2008
 
 NN-73% of the students surveyed identified this as a pledge's sponsor. S99 

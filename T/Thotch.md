@@ -7,16 +7,6 @@ nav_order:
 
 # Thotch
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Thotch
-
 Created by  Unknown User (kmh28), last modified on Dec 02, 2008
 
 (noun) Used in phrase &quot;hook my thotch;&quot; means to meet, become well-acquainted, or to engage in sexual relations.

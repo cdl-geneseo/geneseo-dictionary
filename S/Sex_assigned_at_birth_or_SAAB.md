@@ -7,16 +7,6 @@ nav_order:
 
 # Sex assigned at birth or SAAB
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Sex assigned at birth or SAAB
-
 Created by  David Sweeney, last modified on May 05, 2023
 
 (abbr.) 1. Term used to describe the gender given to one person at the time they are born. (Sweeney, S-Z, 2023)Example: &quot;My SAAB is male, but I'm non-binary&quot;

@@ -7,16 +7,6 @@ nav_order:
 
 # Rando or random
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Rando or random
-
 Created by  Unknown User (kmo12), last modified by  Quentin Wall on Nov 29, 2020
 
 (n.) slang- referring to someone you don't know or haven't encountered yet I didn't realize everyone already had a plan so i'm just living with a rando next year.(Wall, Q-T, 2020)

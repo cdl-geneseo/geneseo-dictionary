@@ -7,16 +7,6 @@ nav_order:
 
 # LM
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : LM
-
 Created by  Unknown User (krk5), last modified by  Unknown User (mee2) on Nov 20, 2012
 
 n. Someone (male) admired from afar; acronym for lustman. &quot;Look there's my 'LM' - isn't he awesome?&quot;Source: Dictionary of Geneseo English, Fall 2006, CraneObsolete as of 2008.Specific to Geneseo.As of 2012, 0% of students surveyed knew this word, maintaing it's status as obsolete.(Eichas, G-M, 2012) 

@@ -7,16 +7,6 @@ nav_order:
 
 # Denied
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Denied
-
 Created by  Unknown User (bli2), last modified on Sep 21, 2008
 
 VB: No/incorrect; [&quot;Give me some chocolate.&quot; &quot;Denied!&quot;] F92 D. McGiveron denied (VB) - No change Source: Dictionary of Geneseo English, Fall 1998 Simmington Denied (VB): rejected, usually from the bar for being under 21 or by a person one is hitting on. Definition of approximately 93% of those surveyed. (F06) Unknown by approximately 7% of those surveyed. (F06) Simmington

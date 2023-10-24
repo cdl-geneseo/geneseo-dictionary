@@ -7,16 +7,6 @@ nav_order:
 
 # Hot Mess
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Hot Mess
-
 Created by  Unknown User (erg5), last modified by  Unknown User (jcf10) on Nov 20, 2012
 
 adj. One who is normally well put together but who temporarily occupies a state of disarray&quot;You're a total hot mess; did you get any sleep last night?&quot;As of 2012, 90% of students surveyed know this word. 5.6% believe it is of local origin.(Flynn, G-M, 2012)

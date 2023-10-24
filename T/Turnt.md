@@ -7,16 +7,6 @@ nav_order:
 
 # Turnt
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Turnt
-
 Created by  Unknown User (mtr7), last modified by  Unknown User (klf16) on Apr 29, 2015
 
 Adjective used to describe someone who is drunk. &quot;How much did he have to drink, he is so turnt&quot;.  Romig, S-Z, 2015.Adjective used to describe someone who is ready to party. &quot;Now that all my finals are done, it's time to get turnt!&quot;.  Romig, S-Z, 2015.Adjective used to describe someone who is both drunk and stoned. Freeman 2015. 

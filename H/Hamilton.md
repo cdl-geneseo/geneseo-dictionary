@@ -7,16 +7,6 @@ nav_order:
 
 # Hamilton
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Hamilton
-
 Created by  Lauren Silverman on Dec 11, 2020
 
 a Broadway musical about the founding father Alexander Hamilton, written by Linh Manuel Miranda, that has grown in popularity over the past few years.As of 2020, 72.1% of students know the word72.1% of students surveyed know the word. Of those surveyed, 74.4% believed it originated elsewhere.(Silverman, G-M, 2020)

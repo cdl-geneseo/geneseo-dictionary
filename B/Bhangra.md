@@ -7,16 +7,6 @@ nav_order:
 
 # Bhangra
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Bhangra
-
 Created by  Unknown User (jmb53) on Nov 19, 2012
 
 n.  Pronunciation: Amer. / bɑŋgrɑ, -rə] 1. An organization on the Geneseo campus performs a specific type of dance to traditional Punjabi music. Both the music and dance genres are known as Bhangra. “You should come see Bhangra perform on Friday night.”J. Boselli, 2012

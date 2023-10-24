@@ -7,16 +7,6 @@ nav_order:
 
 # Puff puff pass
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Puff puff pass
-
 Created by  Unknown User (afl1), last modified by  Unknown User (ssw2) on Apr 28, 2015
 
 (v.) A term used for when several people in a circle pass a smoking device containing marijuana.(Littman, N-R, 2012) Obsolete, 2015. Wilcoxen.

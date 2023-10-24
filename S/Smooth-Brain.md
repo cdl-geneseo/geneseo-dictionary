@@ -7,16 +7,6 @@ nav_order:
 
 # Smooth Brain
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Smooth Brain
-
 Created by  Anne Baranello, last modified on Dec 13, 2020
 
 Refers to a stupid person, and alludes to their uneducatedness by calling their brain smooth - if the brain were wrinkled, that means you are having many deep, sophisticated thoughts. Example: &quot;Bruh, look at this smooth brain, he put the food in the microwave for half an hour because he thought it'd do the same thing as an oven.&quot;(Baranello, S-Z 2020)

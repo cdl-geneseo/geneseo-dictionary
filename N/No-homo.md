@@ -7,16 +7,6 @@ nav_order:
 
 # No homo
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : No homo
-
 Created by  Unknown User (baj2) on Nov 20, 2012
 
 (adj.) Claiming heterosexuality. Typically used to proceed a compliment.&quot;I love you man. No homo.&quot;

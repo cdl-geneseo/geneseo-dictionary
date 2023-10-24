@@ -7,16 +7,6 @@ nav_order:
 
 # Mad
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Mad
-
 Created by  Unknown User (est1), last modified by  Unknown User (rch7) on Apr 15, 2019
 
 2006-12-11T10:21:30ZSValentineMad [mad] adj. 1. Crazy 2. Used as an intensifier... &quot;That guy is mad sketchy&quot;  Amazing Source: Dictionary of Geneseo English 1998 (Submitted by SValentine and ETreidel)As of 2012, 100% knew the word and 0% believed it to be of local origin(Craft, G-M, 2012)As of 2019, 81% are familiar with the word, and 10% believe it to be of local origin.(Hirschhorn, G-M, 2019)

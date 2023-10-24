@@ -7,16 +7,6 @@ nav_order:
 
 # RL
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : RL
-
 Created by  Unknown User (lav4), last modified by  Unknown User (ram19) on Nov 20, 2012
 
 noun: abbv: RL, or IRL; Real Life, or In Real Life; meant to distinguish the difference between the online play world and reality. Obsolete as of 2012. Miller, N-R, 2012.

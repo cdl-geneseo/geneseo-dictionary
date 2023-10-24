@@ -7,16 +7,6 @@ nav_order:
 
 # ze or zir
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : ze or zir
-
 Created by  Sage Kearney on May 05, 2023
 
 (pronoun) Alternate gender neutral pronouns. They replace “he” “his” “she” and “her” respectively. They also exist as options for those who do not accept “they/them” as singular pronouns. &quot;Did you find zir's phone?&quot; (Kearney, s-z, 2023). 

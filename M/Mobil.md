@@ -7,16 +7,6 @@ nav_order:
 
 # Mobil
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Mobil
-
 Created by  Unknown User (erg5), last modified by  Unknown User (msc5) on Nov 16, 2012
 
 n. The gas-station located on Main Street. The closest place to campus for tobacco, beer and “munchies.”“She walked to Mobil to get smokes.”100% of those surveyed know this word, and 50% believe it is of local origins.As of 2012, 98% of students surveyed knew the word and 38% believed it to be of local origin.(Craft, G-M, 2012)

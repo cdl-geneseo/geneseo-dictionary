@@ -7,16 +7,6 @@ nav_order:
 
 # Bruskies
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Bruskies
-
 Created by  Unknown User (tjc13), last modified on Nov 24, 2008
 
 NN: Beer. F92 87% of surveyed students identified this term as refering to beer.

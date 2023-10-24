@@ -7,16 +7,6 @@ nav_order:
 
 # Gmail
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Gmail
-
 Created by  Unknown User (nac16) on Dec 11, 2020
 
 n. an email account run through Google.Source: Dictionary of Geneseo English, Fall 2020, ChojnackiAs of 2020, 90.7% of students surveyed know the word.90.7% of students surveyed know the word. Of those surveyed, 93% believed it originated elsewhere. (Chojnacki, G-M, 2020)

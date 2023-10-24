@@ -7,16 +7,6 @@ nav_order:
 
 # Catch a buzz
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Catch a buzz
-
 Created by  Unknown User (tjc13), last modified by  Unknown User (jmc62) on Nov 20, 2012
 
 VB: To get high; &quot;Want to go to Jody's later and catch a buzz?&quot; F92 catch a buzz: No change.S99 KTousey Obs. F06. Only 30% of students surveyed familiar with this termVB: To drink alcohol, but not so much as to become intoxicated, i.e. buzzed. &quot;I'm not drunk, but I'm feeling buzzed.&quot; (Cecchini, A-F, 2012)

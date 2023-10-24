@@ -7,16 +7,6 @@ nav_order:
 
 # Upstate
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Upstate
-
 Created by  Unknown User (kmh28), last modified on Nov 24, 2008
 
 (noun) Used to refer to any area in New York that is not New York City or Long Island.

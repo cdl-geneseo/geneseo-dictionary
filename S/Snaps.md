@@ -7,16 +7,6 @@ nav_order:
 
 # Snaps
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Snaps
-
 Created by  Unknown User (mtr7) on Apr 27, 2015
 
 Alternative form of applause that occurs when people create friction between at least two of their fingers.  Common in English classes and poetry readings because it allows the speaker to continue speaking without having the audience's applause interrupt the flow of speech.  &quot;Wow, that poetry reading was really great did you hear all of the snaps that she got?&quot;.  Romig, S-Z, 2015.Communications that you receive through Snapchat.  &quot;You can tell that he had a wild night because of the snaps that he sent out&quot;.  Romig, S-Z, 2015. 

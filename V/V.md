@@ -7,16 +7,6 @@ nav_order:
 
 # V.
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : V.
-
 Created by  Unknown User (mtr7), last modified by  Graham Drake on May 09, 2015
 
 Short for &quot;very&quot;.  &quot;He was v excited to go to the party because of the cowboy theme&quot;.  Romig, S-Z, 2015.Adj. used both in texting and in dialogue. Freeman 2015

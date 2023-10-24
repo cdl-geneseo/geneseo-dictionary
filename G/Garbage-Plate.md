@@ -7,16 +7,6 @@ nav_order:
 
 # Garbage Plate
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Garbage Plate
-
 Created by  Unknown User (iif1), last modified by  Unknown User (cmf9) on Nov 19, 2012
 
 Garbage plate n. a high-calorie dish typically containing a meat (hamburger, hot dog etc), macaroni salad and fries.“The garbage plates at University Hots are pretty good”100% of those surveyed know the word, 70% of these believe the word is of local originsAs of 2012, 97% of students surveyed knew this word, 27% thought it was of local origin.(Felice, G-M, 2012)

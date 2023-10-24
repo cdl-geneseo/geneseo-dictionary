@@ -7,16 +7,6 @@ nav_order:
 
 # Smurfless
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Smurfless
-
 Created by  Unknown User (arh11), last modified by  Unknown User (amb51) on Apr 29, 2015
 
 (adj)threatening; hopeless. &quot;This Geneseo Dictionary is a Smurfless and arduous task. I do not see us finishing it on time.&quot; Source: Dictionary of Geneseo English 1996. Obsolete in 2006 Dilluvio      2. (ADJ) Definition: Not being able to have sex for a long period of time. &quot;That guy hasn't been with a girl in months. That dude is smurfless.&quot; Bettina S-Z 2015

@@ -7,16 +7,6 @@ nav_order:
 
 # Plug
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Plug
-
 Created by  Unknown User (sjh21) on Apr 09, 2019
 
 (N). Someone who supplies drugs or alcohol. &quot;I’m inviting some people over and need to hit up my plug for supplies.&quot;(Holsberg, N-R, 2019)

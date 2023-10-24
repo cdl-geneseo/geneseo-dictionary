@@ -7,16 +7,6 @@ nav_order:
 
 # Mia's
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Mia's
-
 Created by  Unknown User (est1), last modified by  Laurie Fox on Sep 10, 2020
 
 2006-09-26T00:24:50ZJGoodspeedn. clip of Mama Mia's, a popular pizzeria on Main Street. (Posted by JGoodspeed)As of 2012, 100% knew the word and 100% believed it to be of local origin.(Craft, G-M, 2012)

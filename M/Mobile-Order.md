@@ -7,16 +7,6 @@ nav_order:
 
 # Mobile Order
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Mobile Order
-
 Created by  Mia Donaldson on May 17, 2022
 
 n.  product purchased through the Geneseo online foodservice application, typically in reference to Starbucks.&quot;My mobile order said it would be ready an hour ago and I'm still waiting for it.&quot;v. the act of purchasing food through the Geneseo online foodservice application. &quot;I'll mobile order you a latte, I have some extra money on my meal plan.&quot;Based on survey results, 55% of students could define the word; 91% of students believe the word is specific to Geneseo. M. Donaldson, 2022

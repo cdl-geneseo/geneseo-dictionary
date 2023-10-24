@@ -7,16 +7,6 @@ nav_order:
 
 # Nonpology
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Nonpology
-
 Created by  Unknown User (lav4), last modified by  Unknown User (ajm3) on Nov 15, 2010
 
 noun: not a real apology, a sarcastic/insincere apology. Obsolete Fall 2010. A. Moak. N-R.

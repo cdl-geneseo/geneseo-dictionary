@@ -7,16 +7,6 @@ nav_order:
 
 # Unstable girl hair
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Unstable girl hair
-
 Created by  Unknown User (kmh28), last modified by  Unknown User (mcw10) on Apr 14, 2019
 
 (noun) A girl with tight curly hair is said to have hair making her emotionally unstable.Obsolete  Geneseo Dictionary 2006. FNeveldine.Source: Geneseo Dictionary 2001. Helsher.  Obsolete (2019). Consideration of the term and definition have been considered racist due to its fixation on the tightness of curls as an indicator of sanity.Mary Wrynn. S-Z. 2019 

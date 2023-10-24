@@ -7,16 +7,6 @@ nav_order:
 
 # Dry
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Dry
-
 Created by  Unknown User (jmb53) on Nov 19, 2012
 
 adj.  Pronunciation: Amer. / draɪ 1. Practicing temperance, especially in the context of a party or pledging process of a Greek organization. “Did you hear that after the volleyball incident that all fraternities are dry pledging?J. Boselli, 2012

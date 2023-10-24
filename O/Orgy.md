@@ -7,16 +7,6 @@ nav_order:
 
 # Orgy
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Orgy
-
 Created by  Unknown User (omh1), last modified on Nov 20, 2012
 
 n. A sexual encounter involving at least three persons. “When the ninth person joined the orgy it started to feel a little congested.” Horowitz 2012

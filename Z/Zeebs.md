@@ -7,16 +7,6 @@ nav_order:
 
 # Zeebs
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Zeebs
-
 Created by  Unknown User (mre4), last modified on May 07, 2022
 
 (noun). Nickname for a fraternity at Geneseo.&quot;Are you headed to Zeebs tonight?&quot; &quot;Nah, can't tonight&quot;Edmond, S-Z, 2022

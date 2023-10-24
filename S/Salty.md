@@ -7,16 +7,6 @@ nav_order:
 
 # Salty
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Salty
-
 Created by  Unknown User (mtr7) on Apr 29, 2015
 
 Adjective usually used to describe people or situations that are sassy or bitter about something.  &quot;He was was so salty after losing his fourth tennis match in a row&quot;.  Romig, S-Z, 2015.

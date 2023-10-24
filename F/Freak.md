@@ -7,16 +7,6 @@ nav_order:
 
 # Freak
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Freak
-
 Created by  Unknown User (jfw3), last modified on Sep 09, 2008
 
 Verb React violently; &quot;Don't freak on me - it's only a spider.&quot;

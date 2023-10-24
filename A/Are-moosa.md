@@ -7,16 +7,6 @@ nav_order:
 
 # Are-moosa
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Are-moosa
-
 Created by  Zachary Arthur, last modified on Sep 16, 2008
 
 NN- Member of Arethusa sorority. F94 NN-Obs. 

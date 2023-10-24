@@ -7,16 +7,6 @@ nav_order:
 
 # Kegger
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Kegger
-
 Created by  Unknown User (krk5), last modified by  Unknown User (mee2) on Nov 16, 2012
 
 n. A party at which there is a keg of beer, or more. Used more generally of a party in which gratuitous drinking is assumed to be taking place.Not specific to Geneseo.As of 2012, 90% of students surveyed knew this word and 3% believed it to be of local origin.(Eichas, G-M, 2012) 

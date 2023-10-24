@@ -7,16 +7,6 @@ nav_order:
 
 # Raftus
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Raftus
-
 Created by  Lily Nelson on May 05, 2023
 
 Raftus is a phrase that is used when describing someone or something that is wild and crazy. The word is typically referring to something associated with alcohol or college life. 

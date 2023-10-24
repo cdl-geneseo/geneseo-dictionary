@@ -7,16 +7,6 @@ nav_order:
 
 # Checking out
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Checking out
-
 Created by  Unknown User (tjc13), last modified on Oct 05, 2008
 
 (New word) Checking out (VB): observing the features of a person one finds attractive by sizing them up and down. Definition of approximately 68% of those surveyed. (F06) Checking out (VB): leaving a place. Definition of approximately 12% of those surveyed. (F06) Checking out (VB): what is done when a person is finished getting his or her groceries. Definition of approximately 4% of those surveyed. (F06) Checking out (VB): spacing out. Definition of approximately 4% of those surveyed. (F06) Unknown by approximately 4% of those surveyed.

@@ -7,16 +7,6 @@ nav_order:
 
 # That's what she said
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : That's what she said
-
 Created by  Unknown User (alu1), last modified on Dec 02, 2008
 
 Phrase used in response to something another has just said, used to create a sexual innuendo.

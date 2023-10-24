@@ -7,16 +7,6 @@ nav_order:
 
 # fo-juice
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : fo-juice
-
 Created by  Unknown User (met6), last modified on Dec 02, 2008
 
 noun: An alcoholic drink.

@@ -7,16 +7,6 @@ nav_order:
 
 # Busted
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Busted
-
 Created by  Unknown User (tjc13), last modified on Nov 24, 2008
 
 VB: To be broken up by police (but not arrested); &quot;Omega was busted, but I got my cup like 15 minutes before.&quot; F92 busted: No Change.

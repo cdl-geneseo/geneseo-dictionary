@@ -7,16 +7,6 @@ nav_order:
 
 # Dipshit
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Dipshit
-
 Created by  Unknown User (bli2), last modified on Nov 27, 2008
 
 dip shit : a person who is acting unintelligent or is being stupid. 80% of students survyed use this term. KTousey

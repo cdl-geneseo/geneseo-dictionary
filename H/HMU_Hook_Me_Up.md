@@ -7,16 +7,6 @@ nav_order:
 
 # HMU (Hook Me Up)
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : HMU (Hook Me Up)
-
 Created by  Lauren Silverman on Dec 11, 2020
 
 A phrase used casually to ask someone to get, or give one something.Source: Dictionary of English, Fall 2020, SilvermanAs of 2020, 51.2% of students surveyed are familiar with this term. Of those surveyed, 55.8% believe that it originated elsewhere.(Silverman, G-M, 2020)

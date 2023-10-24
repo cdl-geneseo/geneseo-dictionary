@@ -7,16 +7,6 @@ nav_order:
 
 # Super-senior - archived
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Super-senior - archived
-
 Created by  Unknown User (arh11), last modified by  Graham Drake on Jan 14, 2015
 
 Super-senior: (noun) Anyone who has been in college for more than four years.  &quot;Word has it he's the longest-tenured super-senior here... he's been here since the 90s!&quot;  A similar definition appears at http://www.urbandictionary.com/define.php?term=super+senior; the entry is probably not specific to Geneseo.

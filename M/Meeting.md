@@ -7,16 +7,6 @@ nav_order:
 
 # Meeting
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Meeting
-
 Created by  Unknown User (jmp46) on Dec 11, 2020
 
 n. The joining of a group of people who share a common interest or goal. A meeting can be of an academic, professional, or social nature.Use in a sentence: “I have a meeting with my English professor tomorrow to discuss the grade I got on my last paper.”Source: Dictionary of Geneseo English, Fall 2020, PeyerAs of 2020, 100% of students surveyed know this phrase. Of those surveyed, 0% believe it originated locally. (Peyer, G-M, 2020) 

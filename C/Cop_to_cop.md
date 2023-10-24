@@ -7,16 +7,6 @@ nav_order:
 
 # Cop (to cop)
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Cop (to cop)
-
 Created by  Unknown User (hea4), last modified by  Unknown User (meg23) on Apr 15, 2019
 
 V.Pronunciation: Amer. Kopusually used in situations to mean doing something, in a way that exerts power over the subject, sneakily. It implies taking something. Ex. &quot;Did you see him cop a feel.&quot; This would be like saying &quot;Did you see him feel her up.&quot;(H. Ali, A-F, 2019).

@@ -7,16 +7,6 @@ nav_order:
 
 # Candy store
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Candy store
-
 Created by  Unknown User (tjc13), last modified by  Unknown User (jmb53) on Nov 20, 2012
 
 NN: Liquor store; &quot;I'm going to go up to the candy store for some wine.&quot; Undated for campus usage; said to be before 1989 term, from Geneva, New York. Said to be nearly Obs in F92. However, better than half of students surveyed recognized term in F94. candy store: A place to get narcotics. KTousey This word was found to be obs. F06. No student was able to identify this word.J.Boselli, 2012: Only 13% of those surveyed were familiar with the term (likely from its context) and could define it. Others understood the term in  the non-ironic, euphemistic context. Still obsolete. 

@@ -7,16 +7,6 @@ nav_order:
 
 # Nympho
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Nympho
-
 Created by  Unknown User (wrf2) on Apr 27, 2015
 
 (n.) a nymphomaniac; someone who has an abnormal and excessive sexual desire&quot;My friend's girlfriend was a nymphomaniac; which caused a huge problem seeing as that he is impotent.&quot; (2015, N-R, Foley)

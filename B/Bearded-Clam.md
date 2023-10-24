@@ -7,16 +7,6 @@ nav_order:
 
 # Bearded Clam
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Bearded Clam
-
 Created by  Zachary Arthur, last modified on Sep 18, 2008
 
 (bi:rd-d klm) n. A slang term to describe a vagina as hairy or unshaved. F06 

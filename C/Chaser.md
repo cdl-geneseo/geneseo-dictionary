@@ -7,16 +7,6 @@ nav_order:
 
 # Chaser
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Chaser
-
 Created by  Unknown User (tjc13), last modified on Oct 05, 2008
 
 Chaser (NN): a non-alcoholic drink consumed after a shot of liquor to alter the taste. Definition given by approximately 96% of those surveyed.

@@ -7,16 +7,6 @@ nav_order:
 
 # Rook
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Rook
-
 Created by  Unknown User (ajm3), last modified by  Quentin Wall on Nov 29, 2020
 
 1. (n.) slang for the word Rookie. used to note someone's inexperience and/or lack of skill. Tyler looked like an absolute rook when he tripped earlier. (Wall, Q-T, 2020)

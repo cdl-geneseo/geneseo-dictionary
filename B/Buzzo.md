@@ -7,16 +7,6 @@ nav_order:
 
 # Buzzo
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Buzzo
-
 Created by  Unknown User (tjc13), last modified by  Unknown User (kla8) on Nov 20, 2012
 
 Buzzo: eccentric, grey bearded man who runs Buzzo's music store on Main St. KTousey Obs. F06 Only 20% of students familiar with this termUsage has increased, in 2012 90% of those surveyed were familiar with this term. K. Andryshak, 2012

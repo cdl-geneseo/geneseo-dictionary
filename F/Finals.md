@@ -7,16 +7,6 @@ nav_order:
 
 # Finals
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Finals
-
 Created by  Megan Rumore on May 07, 2022
 
 (noun) end of term exams that last 1-2 weeks.  98% were familiar with this term when surveyed.  2% did not know the definition. (Rumore, A-F, 2022)

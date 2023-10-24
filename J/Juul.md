@@ -7,16 +7,6 @@ nav_order:
 
 # Juul
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Juul
-
 Created by  Unknown User (jtd8) on Apr 15, 2019
 
 Verb and Noun. A brand of vape that contains nicotine, equivalent to an e-cigarette.&quot;I saw her juuling in the library, who does that!&quot; (V.)As of 2019, 95% of people recognized the term, 0% thought it to be of local origins. (Dilcher, 2019)

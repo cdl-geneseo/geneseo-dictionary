@@ -7,16 +7,6 @@ nav_order:
 
 # Rape Lane
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Rape Lane
-
 Created by  Unknown User (lav4), last modified by  Unknown User (cam37) on Nov 20, 2012
 
 (n.) Poorly lit walkway behind Sturges leading to the south side of the SUNY Geneseo campus. &quot;I'll walk you home, since you are going through the Rape Lane.&quot; Submitted 2006. Dinki. Obsolete Fall 2012. Montelli, N-R, 2012.

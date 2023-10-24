@@ -7,16 +7,6 @@ nav_order:
 
 # North St.
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : North St.
-
 Created by  Unknown User (mem32) on Nov 20, 2012
 
 (n.) - one way street off of Main St. (McNiffe, N-R, 2012)

@@ -7,16 +7,6 @@ nav_order:
 
 # Dime
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Dime
-
 Created by  Unknown User (bli2), last modified by  Unknown User (kla8) on Nov 20, 2012
 
 NN - attractive female. Obs. F06 JBrognanoCompletely Obsolete, 2012. K. Andryshak

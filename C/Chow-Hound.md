@@ -7,16 +7,6 @@ nav_order:
 
 # Chow Hound
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Chow Hound
-
 Created by  Unknown User (jmb53) on Nov 19, 2012
 
 n.Pronunciation: Amer. / tʃæʊ-hæʊnd 1. The food truck circulating around the North side of campus, introduced after the close of Letchworth Dining Hall. Specializes in hamburgers and grilled cheeses. “The Chow Hound is stationed outside of Putnam.”J. Boselli, 2012

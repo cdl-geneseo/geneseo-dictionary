@@ -7,16 +7,6 @@ nav_order:
 
 # Tree
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Tree
-
 Created by  Unknown User (kmh28), last modified on Dec 02, 2008
 
 (noun) Oak tree in quad surrounded by Sturges, Blake, Welles, and Erwin and painted by different fraternities and sororities.

@@ -7,16 +7,6 @@ nav_order:
 
 # Erie
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Erie
-
 Created by  Unknown User (ms61) on May 08, 2015
 
 Residence hall on the north side of campus.

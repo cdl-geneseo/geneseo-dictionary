@@ -7,16 +7,6 @@ nav_order:
 
 # Goodnight Streaks
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Goodnight Streaks
-
 Created by  Unknown User (nac16) on Dec 11, 2020
 
 Exclam. A phrase used on snapchat to say goodbye to those who someone snapchats daily.Source: Dictionary of Geneseo English, Fall 2020, ChojnackiAs of 2020, 97.7% of students surveyed know the word.97.7% of students surveyed know the word. Of those surveyed, 90.7% believed it originated elsewhere. (Chojnacki, G-M, 2020)

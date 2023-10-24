@@ -7,16 +7,6 @@ nav_order:
 
 # Kicked
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Kicked
-
 Created by  Unknown User (krk5), last modified by  Unknown User (mee2) on Nov 16, 2012
 
 1. adj. empty, usually in reference to a keg of beer &quot;The keg is kicked but we're getting a new one.&quot; As of 2012, 68% of students surveyed knew this word and 5% believed it to be of local origin.(Eichas, G-M, 2012) 2. adj. ugly, boring.Source: Dictionary of Geneseo English, Fall 2006, WinkelmanNot extant outside of Geneseo.As of 2012, 0% of students surveyed knew this word and 0% believed it to be of local origin. (Eichas, G-M, 2012) 

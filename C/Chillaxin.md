@@ -7,16 +7,6 @@ nav_order:
 
 # Chillaxin'
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Chillaxin'
-
 Created by  Unknown User (tjc13), last modified by  Unknown User (kla8) on Nov 20, 2012
 
 Chillaxin' (VB): chilling and relaxing. To be doing mindless activities while sitting or laying down to de-stress and have fun.Definition of approximately 88% of those surveyed.(F06) (new word) Unknown by approximately 12% of those surveyed.70% of those surveyed correctly identified the term. K. Andryshak, 2012

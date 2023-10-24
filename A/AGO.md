@@ -7,16 +7,6 @@ nav_order:
 
 # AGO
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : AGO
-
 Created by  Zachary Arthur, last modified on Sep 16, 2008
 
 NN. the Alpha Kappa Phi sorority, currently located at 26 Wadsworth Street. When surveyed on paper, participants were able to recognize this term 80% of the time. However, when surveyed on video, only 60% identified this, because the term was confused with &quot;Eggo&quot; brand waffles. 

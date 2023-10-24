@@ -7,16 +7,6 @@ nav_order:
 
 # Marijuana
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Marijuana
-
 Created by  Unknown User (wlf1), last modified by  Unknown User (msc5) on Nov 19, 2012
 
 n. Common name for Cannabis sativa, a plant containing the psychoactive chemical THC.  THC has a myriad of effects, among them spacial and temporal distortion, sedation, and intense hunger. As of 2012, 98% knew the word and 0% believed it to be of local origin.(Craft, G-M, 2012)

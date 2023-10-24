@@ -7,16 +7,6 @@ nav_order:
 
 # Bailey
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Bailey
-
 Created by  Unknown User (kec3), last modified on Nov 29, 2010
 
 KChapman and ABelliard, 2010:  Bailey Hall, older science building located along the North side of College Green.

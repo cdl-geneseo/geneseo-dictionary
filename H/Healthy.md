@@ -7,16 +7,6 @@ nav_order:
 
 # Healthy
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Healthy
-
 Created by  Unknown User (met6), last modified by  Unknown User (crl12) on Apr 16, 2019
 
 adj. Good looking (refers only to women)Source: Dictionary of Geneseo English, Spring 1999 - Kocher - 2006Of those surveyed in 2008, 40.1% knew the word, and of those, 0% learned it in Geneseo. Talbot, 2008.As of 2012, 55% of students surveyed know this word. 0% believe it is of local origins.(Flynn, G-M, 2012)As of 2019, 85.7% of students surveyed know this word. 0% believe it is of local origins.(Luquer, 2019)

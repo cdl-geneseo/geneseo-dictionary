@@ -7,16 +7,6 @@ nav_order:
 
 # Spoof
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Spoof
-
 Created by  Unknown User (prv2), last modified on Dec 07, 2010
 
 (Noun) - a homemade device for exhaling marijuana smoke in an odorless fashion.

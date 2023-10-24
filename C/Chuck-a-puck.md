@@ -7,16 +7,6 @@ nav_order:
 
 # Chuck-a-puck
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Chuck-a-puck
-
 Created by  Unknown User (kla8) on Nov 19, 2012
 
 n.  Pronunciation: Amer. / tʃək-ʌ-pək1. Game played at Geneseo Ice Knights hockey games wherein which spectators, upon the the Ice Knights first goal scored, toss pucks they have purchased (prior to the game) into the rink. The victor is the player who lands his puck closest to the center of the faceoff circle. The winner receives a gift card to a local eating establishment.  “Did you spend the gift card you received from winning Chuck-a-Puck last week?K. Andryshak, 2012

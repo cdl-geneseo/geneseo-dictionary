@@ -7,16 +7,6 @@ nav_order:
 
 # Dub
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Dub
-
 Created by  Unknown User (bli2), last modified by  Unknown User (kla8) on Nov 20, 2012
 
 This was a new word provided by the group, but there was insufficient evidence to define the word. (Obs.) (New word) (F06) LTiszenkel2012, several definitions were given:to name someone as something&quot;I dub thee King of the IB.&quot;twenty dollars worth of marijuana &quot;I bought a dubs worth for tonight.&quot; K. Andryshak, 2012

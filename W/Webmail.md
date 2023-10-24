@@ -7,16 +7,6 @@ nav_order:
 
 # Webmail
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Webmail
-
 Created by  Unknown User (kmh28), last modified on Nov 24, 2008
 
 (noun) The name for the Geneseo email program. Also referred to as Squirrelmail.

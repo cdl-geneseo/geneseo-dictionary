@@ -7,16 +7,6 @@ nav_order:
 
 # Erwin
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Erwin
-
 Created by  Unknown User (kec3), last modified on Nov 29, 2010
 
 KChapman and ABelliard, 2010:  Erwin Hall, SUNY Geneseo Admissions Bldg., located along the South side of College Green.

@@ -7,16 +7,6 @@ nav_order:
 
 # Snorlax
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Snorlax
-
 Created by  Unknown User (lav4), last modified by  Unknown User (mtr7) on Apr 27, 2015
 
 noun: a pokemon, characterized by being fat or lazy, applied to someone with similar traits.Although most students recognized that this was a pokemon, many of them said that they wouldn't use it to apply to someone in conversation.  Romig, S-Z, 2015.

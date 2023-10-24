@@ -7,16 +7,6 @@ nav_order:
 
 # Shook
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Shook
-
 Created by  Unknown User (mr38) on Nov 02, 2020
 
 Adjective- A word used to describe being shocked about something. I was shook when I found out she was talking about me behind my back. (Rockwell, Q-T, 2020)

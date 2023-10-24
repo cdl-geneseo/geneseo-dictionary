@@ -7,16 +7,6 @@ nav_order:
 
 # Bitch Tits
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Bitch Tits
-
 Created by  Zachary Arthur, last modified by  Unknown User (jmc62) on Nov 20, 2012
 
 AJ: Word to describe large male breasts. F062. Adjective: a word used to describe a negative or displeasing situation or state. (Cecchini, A-F, 2012)

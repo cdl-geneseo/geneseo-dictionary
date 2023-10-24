@@ -7,16 +7,6 @@ nav_order:
 
 # Noise Violation
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Noise Violation
-
 Created by  Unknown User (baj2), last modified by  Unknown User (mnt5) on Apr 24, 2015
 
 (n.) A citation from a resident advisor for being too loud in the dorms.(n.) A citation from the police for being too loud off campus.ex) &quot;We have to turn this music down or else we'll get a noise violation&quot; (Toran, N-R, 2015).

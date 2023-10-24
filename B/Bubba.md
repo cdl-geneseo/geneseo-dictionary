@@ -7,16 +7,6 @@ nav_order:
 
 # Bubba
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Bubba
-
 Created by  Unknown User (tjc13), last modified on Nov 23, 2008
 
 NN: Brother (fraternity usage); &quot;Tau Kappa Epsilon brother Ernie introduced a fellow TKE to me as his bubba Mike.&quot; S95 NN: Obs. S99 NN: Obs. F06.  Fall 2008 Obs.

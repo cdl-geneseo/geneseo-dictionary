@@ -7,16 +7,6 @@ nav_order:
 
 # Vegan
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Vegan
-
 Created by  Unknown User (igf1) on Oct 29, 2020
 
 (noun) - A person who chooses not to eat animals, or products that come from an animal such as milk.I am a strict vegan.(adj) - Eating without animal or animal based products.I'm on a vegan diet.(Fazio, U-Z, 2020)

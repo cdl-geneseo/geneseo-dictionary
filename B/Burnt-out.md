@@ -7,16 +7,6 @@ nav_order:
 
 # Burnt-out
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Burnt-out
-
 Created by  Unknown User (jmb53) on Nov 19, 2012
 
 adj., colloq.Pronunciation: Amer. / bərnt-æʊt 1. The state of being mental/physical/emotional exhaustion following a period of stress, a traumatic event, or a heavy marijuana usage. “By the end of finals week, I will be more than burnt-out.”J. Boselli, 2012

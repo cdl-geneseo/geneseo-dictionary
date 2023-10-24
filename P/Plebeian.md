@@ -7,16 +7,6 @@ nav_order:
 
 # Plebeian
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Plebeian
-
 Created by  Tess Woitaszek, last modified by  Regina Fuller on Dec 14, 2020
 
 n. A euphemism for someone who is inferior or lacking in refined taste. As of 2020, 0% heard / used the word frequently, 23.1% heard / used the word on occasion, and 80.8% never heard / used it.(Woodard, N-R, 2020)

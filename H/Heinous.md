@@ -7,16 +7,6 @@ nav_order:
 
 # Heinous
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Heinous
-
 Created by  Unknown User (met6), last modified by  Unknown User (jcf10) on Nov 18, 2012
 
 adj. Atrociously badSource: Dictionary of Geneseo English, Spring 1999 - Kocher - 2006Of those surveyed in 2008, 68.2% knew the word, and of those, 0% learned it in Geneseo.Talbot, 2008.As of 2012, 77.5% of students surveyed know this word. 0% believe it is of local origins.(Flynn, G-M, 2012)

@@ -7,16 +7,6 @@ nav_order:
 
 # Bosco sticks
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Bosco sticks
-
 Created by  Unknown User (jmb53) on Nov 19, 2012
 
 n.Pronunciation: Amer. / bɒskəʊ-stɪk 1. Stuffed breadsticks sold at Southside Cafe, filled with a mozzarella cheese blend, occasionally with pepperoni. “Let’s go get some Bosco Sticks to eat.”J. Boselli, 2012

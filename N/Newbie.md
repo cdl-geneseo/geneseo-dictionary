@@ -7,16 +7,6 @@ nav_order:
 
 # Newbie
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Newbie
-
 Created by  Unknown User (era6), last modified by  Unknown User (lav4) on Dec 01, 2008
 
 Newbie

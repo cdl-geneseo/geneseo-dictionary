@@ -7,16 +7,6 @@ nav_order:
 
 # Kelly's
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Kelly's
-
 Created by  Unknown User (krk5), last modified by  Unknown User (mee2) on Nov 16, 2012
 
 n. A bar located on Main Street frequented by Geneseo students. The full name is Kelly's Saloon.Source: Dictionary of Geneseo English, Fall 2006, WinkelmanAs of 2012, 98% of students surveyed knew this word and 95% believed it to be of local origin.(Eichas, G-M, 2012) 

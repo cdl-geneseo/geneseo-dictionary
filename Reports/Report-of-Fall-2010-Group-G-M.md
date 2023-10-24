@@ -7,10 +7,6 @@ nav_order: 11
 
 # Report of Fall 2010 Group G-M
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
 Fall 2010 Group Reports
 
 Bibliographies and Study Guides : Report of Fall 2010 Group G-M

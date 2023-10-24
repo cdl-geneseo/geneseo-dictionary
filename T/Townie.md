@@ -7,16 +7,6 @@ nav_order:
 
 # Townie
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Townie
-
 Created by  Unknown User (kmh28), last modified on Dec 01, 2008
 
 (noun) Referring to a local Geneseo resident, often with negative connotations.

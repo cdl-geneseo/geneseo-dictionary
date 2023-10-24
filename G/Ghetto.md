@@ -7,16 +7,6 @@ nav_order:
 
 # Ghetto
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Ghetto
-
 Created by  Abraham Brooks on May 07, 2022
 
 adj. (1) Suggesting a rough and inner-city nature as related to the ghettos of many large cities.Ex. - &quot;That place looks Ghetto.&quot;As of 2012, 65% of students surveyed know this word and 0% believe it to be of local origin.(Fischer, G-M, 2012) As of 2022, 70.8% of students know this definition; 0% believe it is of local origin.(A. Brooks, G-M, 2022)adj. (2) a derogatory term for fashion that resembles peoples' idea of culture of inner city communities, possibly coming from hip-  hop/pop cultureEx. - &quot;That shirt is so ghetto&quot;As of 2022, 62.5% of students know this definition; 0% believe it is of local origin.(A. Brooks, G-M, 2022)n. (1) a single unit in the Meadows apartment complex in GeneseoEx. - &quot;oh he lives in a Ghetto&quot;As of 2022,12.5% of students know this definition; 0% believe it is of local origin.(A. Brooks, G-M, 2022)n. (2) a poor urban communityEx. - &quot;They are from the Ghetto&quot;As of 2022, 33.3% of students know this definition; 0% believe it is of local origin.(A. Brooks, G-M, 2022)

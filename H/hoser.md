@@ -7,16 +7,6 @@ nav_order:
 
 # hoser
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : hoser
-
 Created by  Unknown User (met6), last modified by  Unknown User (crl12) on Apr 16, 2019
 
 n. Nerd; loserex. &quot;What a hoser, he still sleeps with a night-light&quot;Source: Dictionary of Geneseo English, Fall 1992 - Kocher- 2006 Of those surveyed in 2008,18.2% recognized the word, and 0% learned the word in Geneseo.Talbot, 2008 As of 2012, 62.5% of students surveyed know this word. 0% believe it is of local origins.(Flynn, G-M, 2012)As of 2019, 0% of students surveyed know this word. 0% believe it is of local origins.(Luquer, 2019)

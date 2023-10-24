@@ -7,16 +7,6 @@ nav_order:
 
 # Hercampus geneso
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Hercampus geneso
-
 Created by  Lauren Silverman on Dec 11, 2020
 
 An online magazine written by and for college womenAs of 2020, 53.5% of students surveyed know the word53.5% of students surveyed know the word. Of those surveyed, 60.5% believed it originated at geneseo(Silverman, G-M, 2020)

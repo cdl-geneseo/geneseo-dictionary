@@ -7,16 +7,6 @@ nav_order:
 
 # Shotgun
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Shotgun
-
 Created by  Unknown User (arh11), last modified on Sep 28, 2008
 
 (n.) name for the front passenger seat of a car. &quot;It's proper for the girlfriend to always have shotgun.&quot; Source: Dictionary of Geneseo English 2006. Non-specific to Geneseo. A similar definition can be found on Urban Dictionary [http://www.urbandictionary.com/define.php?term=shotgun] Dilluvio

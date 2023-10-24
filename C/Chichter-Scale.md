@@ -7,16 +7,6 @@ nav_order:
 
 # Chichter Scale
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Chichter Scale
-
 Created by  Zachary Arthur, last modified by  Unknown User (jmb53) on Nov 20, 2012
 
 Noun: Scale of 1-10 used by guys to rate girls with 10 being the best and 1 being the worst;&quot;I'll give her an 8 on the chichter scale, she is pretty good looking if you ask me.&quot; 71% of people surveyed knew this term.J.Boselli, 2012: 100% of those surveyed were unfamiliar with the term. Currently obsolete.

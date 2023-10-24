@@ -7,16 +7,6 @@ nav_order:
 
 # Denise Battles
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Denise Battles
-
 Created by  Sara French on May 07, 2022
 
 n. President of SUNY Geneseo since July 1st, 2015. Based on survey results, 88% of participants could identify this term(S French, A-F, 2022).

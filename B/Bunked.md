@@ -7,16 +7,6 @@ nav_order:
 
 # Bunked
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Bunked
-
 Created by  Unknown User (tjc13), last modified by  Unknown User (jmb53) on Nov 20, 2012
 
 AJ The stage between &quot;buzzed&quot; and drunk when drinking alcohol. &quot;I had a bit to drink. I'm not drunk, but I'm definitely bunked.&quot; Not found in HDAS, NDAS, OED, RH, W3, AH, or LN with the same meaning. S01. Source: Geneseo Dictionary of English, Spring 2001. Fall 2008-None of those surveyed were able to identify this term.  Term is obsolete.J.Boselli, 2012: Only 6% of those surveyed could identify the term. Still obsolete.

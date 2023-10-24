@@ -7,16 +7,6 @@ nav_order:
 
 # Headass
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Headass
-
 Created by  Unknown User (ajs58) on Apr 15, 2019
 
 adj.  Used to describe and/or insult someone or something that is acting foolishly.“Hey, Brandon ran into the fountain on main street! What a headass.”56% of the Geneseo students surveyed said they knew the term and of those surveyed, 6% believed it was of local origin.(Shutes, G-M, 2019)

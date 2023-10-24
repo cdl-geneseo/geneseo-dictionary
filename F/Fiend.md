@@ -7,16 +7,6 @@ nav_order:
 
 # Fiend
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Fiend
-
 Created by  Unknown User (aa48) on Dec 10, 2020
 
 Noun-  describes a person who is fiercely attached to an idea, object, or hobby; usually used in a slightly derogatory or mocking context

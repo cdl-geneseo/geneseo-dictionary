@@ -7,16 +7,6 @@ nav_order:
 
 # Nassau
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Nassau
-
 Created by  Unknown User (gmm6), last modified on Sep 30, 2010
 
 (n.)  An abbreviation that is used to refer to the Nassau Residence Hall.  &quot;Man, Nassau is too far of a walk from here.&quot;  Martinelli, N-R, 2010.

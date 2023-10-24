@@ -7,16 +7,6 @@ nav_order:
 
 # Retch
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Retch
-
 Created by  Unknown User (lav4), last modified by  Unknown User (cam37) on Nov 20, 2012
 
 (n.)\'rech\ Acronym for Red Jacket Dining Hall (pejorative, Clang association of 'Letchworth' with 'retch', 'vomit' and 'wretch', &quot;wretched person.&quot; ) &quot;Where did you eat, Retch?&quot; Source: Dictionary of Geneseo English 1996. Dinki. Obsolete Fall 2012.(v.) to vomit. Not Geneseo-specific. &quot;I think I'm gonna retch.&quot; Montelli, N-R, 2012.

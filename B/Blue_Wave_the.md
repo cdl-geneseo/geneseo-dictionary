@@ -7,16 +7,6 @@ nav_order:
 
 # Blue Wave, the
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Blue Wave, the
-
 Created by  Zachary Arthur, last modified on Sep 23, 2008
 
 NN-53% of males identified this as the Geneseo swim team. S99 

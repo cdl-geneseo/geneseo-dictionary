@@ -7,16 +7,6 @@ nav_order:
 
 # Writing Learning Center
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Writing Learning Center
-
 Created by  Unknown User (kmh28), last modified on Dec 01, 2008
 
 (noun) Also abbreviated to WLC. Place in Milne or Welles where students can go to get help writing papers from other Geneseo students who are trained as tutors.

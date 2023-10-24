@@ -7,16 +7,6 @@ nav_order:
 
 # Cross
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Cross
-
 Created by  Unknown User (jmb53), last modified on Nov 19, 2012
 
 v. Pronunciation: Amer. / krɒs1. To become initiated in a fraternity or sorority as a brother or sister, respectively. “Did the Kappa pledges cross yesterday?”J. Boselli, 2012

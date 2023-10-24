@@ -7,16 +7,6 @@ nav_order:
 
 # SOFIs
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : SOFIs
-
 Created by  Unknown User (arh11), last modified on Sep 28, 2008
 
 (n.) Abbreviation for Student Opinion of Faculty Instruction. Surveys taken anonymously by students at the end of the semester, evaulating the class and the teacher. Professors are given an average score of 0 to 5 and the results are published in the Lamron. &quot;What is this craziness? The SOFIs can be filled out online now!&quot; Source: Dictionary of Geneseo English 2006 Dilluvio

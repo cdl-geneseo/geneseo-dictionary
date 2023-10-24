@@ -7,16 +7,6 @@ nav_order:
 
 # Pride
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Pride
-
 Created by  Unknown User (ssw2) on Apr 28, 2015
 
 (n.) A club at Geneseo which is focused on the LGBTQ+ community. “Pride put on a great event last night.” Geneseo specific. (Wilcoxen, N-R, 2015)

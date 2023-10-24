@@ -7,16 +7,6 @@ nav_order:
 
 # Jazz Combo
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Jazz Combo
-
 Created by  Unknown User (jw33) on Apr 28, 2015
 
 Jazz Combo - n. Similar to Jazz Ensemble, smaller group of 8 students who get together to transcribe, discuss, and play Jazz music for college credit.&quot;Diego plays bass guitar in both the Jazz Ensemble as well as the Jazz Combo.&quot;As of 2015, 50% of students surveyed knew this word, 12.5% surveyed believed word to be of local origins.(Whelehan G-M, 2015)

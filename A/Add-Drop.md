@@ -7,16 +7,6 @@ nav_order:
 
 # Add-Drop
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Add-Drop
-
 Created by  Unknown User (bli2), last modified on Nov 28, 2008
 
 Add/drop: Noun- Period of time during which students can add or remove courses from their class schedules. &quot;I'll have to wait until add/drop to see if I can overload my credits.&quot; 100% of survey population was familiar with this term. BIervese, 2008.

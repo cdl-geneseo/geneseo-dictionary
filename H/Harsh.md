@@ -7,16 +7,6 @@ nav_order:
 
 # Harsh
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Harsh
-
 Created by  Unknown User (met6), last modified by  Unknown User (jcf10) on Nov 18, 2012
 
 1) adj. Mean; cruel; difficultSource: Dictionary of Geneseo English, Spring 1999 - Kocher- 20062) v. To throw someone off of a good moodAs of 2012, 92.5% of students surveyed know this word. 0% believe it is of local origin.(Flynn, G-M, 2012)Of those surveyed in 2008, 88.6% knew the word, and of those, 0% learned it in Geneseo.Talbot, 2008.

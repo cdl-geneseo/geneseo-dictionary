@@ -7,16 +7,6 @@ nav_order:
 
 # Irrelevance
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Irrelevance
-
 Created by  Bianca Volpe on May 07, 2022
 
 n. To not care or find someone/something not important.&quot;Many textbooks have complete irrelevance to the class.&quot; Based on survey result, 100% of students could define the word; 100% believe the word isn't specific to Geneseo. (B. Volpe, 2022)

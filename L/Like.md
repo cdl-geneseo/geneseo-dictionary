@@ -7,16 +7,6 @@ nav_order:
 
 # Like
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Like
-
 Created by  Unknown User (krk5), last modified by  Unknown User (mee2) on Nov 19, 2012
 
 1. v. Meaning &quot;said&quot;, &quot;Jim was like, 'Professor Drake is so cool!'&quot;2. In. A filler to complete a thought or keep control of conversation, &quot;It's just like, 'like I don't want to leave Geneseo.'&quot;Source: Dictionary of Geneseo English, Fall 2006, Crane As of 2012, 98% of students surveyed knew this word and 3% believed it to be of local origin.(Eichas, G-M, 2012) 

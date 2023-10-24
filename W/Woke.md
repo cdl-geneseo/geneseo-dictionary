@@ -7,16 +7,6 @@ nav_order:
 
 # Woke
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Woke
-
 Created by  Unknown User (mcw10) on Apr 05, 2019
 
 adj. Slang, describing an individual who is informed and up to date on current topics of social justice such as minority discriminations and LGBT+ rights&quot;She's so woke.&quot; &quot;Stay woke.&quot;Mary Wrynn. S-Z. 2019

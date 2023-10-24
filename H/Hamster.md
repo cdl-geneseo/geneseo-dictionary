@@ -7,16 +7,6 @@ nav_order:
 
 # Hamster
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Hamster
-
 Created by  Unknown User (crk4), last modified by  Unknown User (crl12) on Apr 16, 2019
 
 n. Backwash*This word may have arisen as another way of referring to the band Backwash, a hyperactive ska-core from Worcester, which have been described as: &quot;Like a pack of angry hamsters throwing one hell of a party in your brain&quot;.Source: Dictionary of Geneseo English, Spring 1999 - KocherAs of 2012, 0% of students surveyed know this definition.Of those surveyed in 2008, 9.1% knew the word, and of those, 0% learned it in Geneseo. Talbot, 2008.As of 2019, 23% of students surveyed know this word. 0% believe it is of local origins.(Luquer, 2019)

@@ -7,16 +7,6 @@ nav_order:
 
 # Throwback a beer
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Throwback a beer
-
 Created by  Unknown User (mtr7) on Apr 29, 2015
 
 Action used to describe drinking a beer.  Popularly used phrase among sports teams and fraternities that we surveyed.  &quot;Just got out of work, time to throwback a beer&quot;.  Romig, S-Z, 2015.

@@ -7,16 +7,6 @@ nav_order:
 
 # Coochie Cutters
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Coochie Cutters
-
 Created by  Unknown User (bli2), last modified on Nov 28, 2008
 
 Coochie Cutters: Noun- a pair of pants that give a female camel toe. &quot;What would posess her to wear those coochie cutters in public.&quot; 60% of people surveyed were familar with this term. BIervese, 2008

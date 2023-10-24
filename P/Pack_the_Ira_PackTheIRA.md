@@ -7,16 +7,6 @@ nav_order:
 
 # Pack the Ira (#PackTheIRA)
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Pack the Ira (#PackTheIRA)
-
 Created by  Unknown User (jnd5) on Apr 11, 2019
 
 A promotional hashtag used by Geneseo Hockey to build up hype for hockey games, referring to a large amount of students and other people coming to games and filling up the Ira S. Wilson Ice Arena.

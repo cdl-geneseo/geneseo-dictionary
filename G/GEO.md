@@ -7,16 +7,6 @@ nav_order:
 
 # GEO
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : GEO
-
 Created by  Unknown User (crk4), last modified by  Unknown User (saf7) on Nov 19, 2012
 
 GEO: noun acronym standing for &quot;Geneseo Environmental Organization,&quot; a club on campus devoted to educating about environmental issues on an off campus and creating positive environmental change in multiple communities.&quot;Members of GEO have begun a energy saving project because they care about the environment.&quot;45% of students surveyed knew this term.(Klein, E-H, 2008)As of 2012, 42% of students surveyed know of this word and 100% believe it is of local origin.(Fischer, G-M, 2012).

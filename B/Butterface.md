@@ -7,16 +7,6 @@ nav_order:
 
 # Butterface
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Butterface
-
 Created by  Unknown User (tjc13), last modified on Oct 05, 2008
 
 /btrfes/ NN- A female with an attractive body, but an ugly face. Overheard at the In-Between September 14th, F02: &quot;That girl Sally has a nice figure, but her face looks like a dog. She is a real butterface.&quot; Originated from the sentences like &quot;She's got a real nice body, but her face needs work.&quot; HDAS, NDAS and OED turned up no matches or similar definitions. Lexis Nexis searches turned up only mentions of a band named Butterface and of the two words used individually, not pertaining to women in any way. BUT: No evidence given for capital beginning this item; derivation is highly entertaining, but needs some evidence (otherwise, it is no more convincing than sometimes heard derivations like &quot;sirloin&quot; coming from a king so happy with his dinner that he dubbed it &quot;Sir Loin&quot;: that derivation simply isn't true)

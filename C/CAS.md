@@ -7,16 +7,6 @@ nav_order:
 
 # CAS
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : CAS
-
 Created by  Unknown User (ms61) on May 08, 2015
 
 The company that is in charge of the food and dining hall services at Geneseo.

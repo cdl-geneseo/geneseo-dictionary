@@ -7,16 +7,6 @@ nav_order:
 
 # SOTT
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : SOTT
-
 Created by  Unknown User (arh11), last modified on Sep 28, 2008
 
 /Es o ti ti/ Geneseo band Slip of the Tusk (formed S94), acronym said perhaps influenced by identically pronounced Soccer Player chant, but no information given on meaning of chant or date advanced for it. S94: &quot;SOTT is playing at the Soccer house tonight&quot; S96. Source: Dictionary of Geneseo English 1996, Obsolete in 2006 Dilluvio

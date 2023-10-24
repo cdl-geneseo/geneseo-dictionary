@@ -7,16 +7,6 @@ nav_order:
 
 # Special K - archived
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Special K - archived
-
 Created by  Unknown User (arh11), last modified by  Graham Drake on Jan 14, 2015
 
 (n.) A type of illicit drug. &quot;How much for that Special K?&quot; Source: Dictionary of Geneseo English 2001. A similar definition appears at http://www.urbandictionary.com/define.php?term=special+k; the entry is probably not specific to Geneseo.  ST.

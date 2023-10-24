@@ -7,16 +7,6 @@ nav_order:
 
 # Sig Tau
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Sig Tau
-
 Created by  Unknown User (arh11), last modified on Sep 28, 2008
 
 (Proper Noun) A fraternity on campus. &quot;I went over to the Sig Tau house the other night. Fraternities are whack!&quot; Source: Dictionary of Geneseo English 2006 Dilluvio

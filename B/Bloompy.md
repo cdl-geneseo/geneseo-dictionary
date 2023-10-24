@@ -7,16 +7,6 @@ nav_order:
 
 # Bloompy
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Bloompy
-
 Created by  Zachary Arthur, last modified on Sep 23, 2008
 
 AJ: With rolls of fat; &quot;Sady's looking all fat and bloompy with those leggings.&quot; S95 AJ: Obs. S99 AJ: Obs. F06 

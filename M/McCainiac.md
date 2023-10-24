@@ -7,16 +7,6 @@ nav_order:
 
 # McCainiac
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : McCainiac
-
 Created by  Unknown User (krk5), last modified by  Unknown User (ajs58) on Apr 15, 2019
 
 n. A supporter of Presidential candidate John McCain.  Not typically derogatory.&quot;The McCainiacs were out in force today, with placards and signs showing their support for Senator McCain.&quot; Not specific to Geneseo.As of 2010, 0% of students surveyed know the word. This word appears to be obsolete.(Fishkin, G-M, 2010)As of 2012, 8% knew the word and 3% believed it to be of local origin.(Craft, G-M, 2012)0% of the Geneseo students surveyed said they knew the word and of those surveyed, 0% believed it to be a word of local origin.The word appears to be obsolete.(Shutes, G-M, 2019)

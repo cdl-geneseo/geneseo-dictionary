@@ -7,16 +7,6 @@ nav_order:
 
 # Steuben
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Steuben
-
 Created by  Unknown User (eo7) on Nov 16, 2012
 
 n. A residential hall on campus in the North Village.&quot;Steuben is the only dorm with its own courtyard.&quot;EOberdorf, S-Z, 2012

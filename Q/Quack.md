@@ -7,16 +7,6 @@ nav_order:
 
 # Quack
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Quack
-
 Created by  Unknown User (lav4), last modified by  Unknown User (gmm6) on Sep 09, 2010
 
 1. (n.) Unconventional person. &quot;Man, my chemistry professor is really a quack.&quot; S94. Source: Dictionary of Geneseo English 2006. Adams.; 2. (n.) Dilettante: someone who has little experience in a subject, but pretends to be knowledgeable.  Martinelli, N-R, 2010.

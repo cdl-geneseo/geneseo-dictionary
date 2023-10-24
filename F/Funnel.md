@@ -7,16 +7,6 @@ nav_order:
 
 # Funnel
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Funnel
-
 Created by  Unknown User (crk4), last modified on Dec 02, 2008
 
 ''Verb'' Guzzle beer quickly through a tube; &quot;I tried ''funneling'' last night - I got sick.&quot; Results: 95% of those surveyed knew this word, 8.4% of the people that knew the word learned the word at Geneseo and 81.6% learned the word before they came to Geneseo. Conclusion: This word is most likely not local to Geneseo but it is frequently used. 

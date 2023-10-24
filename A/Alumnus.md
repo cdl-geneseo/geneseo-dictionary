@@ -7,16 +7,6 @@ nav_order:
 
 # Alumnus
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Alumnus
-
 Created by  Unknown User (kla8) on Nov 19, 2012
 
 n. (pl. alumni)  Pronunciation: Amer. / əˈlʌmniəs / əˈlʌmni 1. Graduate, especially male, of a college or university.2. Graduate, especially male, of a collegiate fraternity or sorority.  “I am an alumnus of the Geneseo chapter of Alpha Phi Omega.”K. Andryshak, 2012

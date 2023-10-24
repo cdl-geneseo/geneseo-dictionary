@@ -7,16 +7,6 @@ nav_order:
 
 # Jizz
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Jizz
-
 Created by  Unknown User (wlf1), last modified by  Unknown User (spe1) on Nov 20, 2012
 
 Jizz: n. slang for &quot;semen.&quot;  This word is a clip of &quot;Jism;&quot; neither are Geneseo specific.As of 2012, 100% of students surveyed know this word. 0% believe it is of local origins.(Endress, G-M, 2012)

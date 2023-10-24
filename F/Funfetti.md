@@ -7,16 +7,6 @@ nav_order:
 
 # Funfetti
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Funfetti
-
 Created by  Unknown User (kla8) on Nov 19, 2012
 
 n. abbrev. Pronunciation: Amer. / fənfeti 1. Funfetti Cake Mix produced by the Pillsbury Corporation, marked by rainbow-colored sprinkles which give the cake a confetti-studded appearance. “I found a recipe for Funfetti cookies.”K. Andryshak, 2012

@@ -7,16 +7,6 @@ nav_order:
 
 # Pumped
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Pumped
-
 Created by  Unknown User (jnd5) on Apr 11, 2019
 
 (adj.) ExcitedExample: &quot;I’m pumped to go to that concert tonight.&quot;

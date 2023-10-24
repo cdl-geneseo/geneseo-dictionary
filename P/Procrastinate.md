@@ -7,16 +7,6 @@ nav_order:
 
 # Procrastinate
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Procrastinate
-
 Created by  Unknown User (jnd5) on Apr 11, 2019
 
 (v.) The act of delaying work until the very last minute. “Do not procrastinate writing this paper!”

@@ -7,16 +7,6 @@ nav_order:
 
 # Spastic
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Spastic
-
 Created by  Unknown User (arh11), last modified on Sep 28, 2008
 
 (adj) Odd, Crazy &quot;That person is behaving so spastic.&quot; F92; said to have earlier use. Source: Dictionary of Geneseo English 1996. Not specific to Geneseo. A similar definition can be found on Urban Dictionary [http://www.urbandictionary.com/define.php?term=spastic] Dilluvio

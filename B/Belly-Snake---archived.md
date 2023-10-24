@@ -7,16 +7,6 @@ nav_order:
 
 # Belly Snake - archived
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Belly Snake - archived
-
 Created by  Zachary Arthur, last modified by  Graham Drake on Jan 14, 2015
 
 Fecal matter.

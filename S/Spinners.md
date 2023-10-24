@@ -7,16 +7,6 @@ nav_order:
 
 # Spinners
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Spinners
-
 Created by  Unknown User (ejr7), last modified by  Unknown User (vs7) on Apr 29, 2015
 
 n. An item which was served in the Millennium Market in Letchworth dining hall while it was open. It consisted of a flour or wheat tortilla with various options for fillings and was toasted.&quot;I'm really annoyed with Atticus; he keeps complaining that spinners are no longer served on campus.&quot;EReck, S-Z, 2012Obsolete. Freeman 2015By this point, this word has become obsolete. Only juniors and seniors know that the word even exists because they are not found on campus at all anymore. The word is also not used. Savallo S-Z (2015)

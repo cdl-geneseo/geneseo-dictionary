@@ -7,16 +7,6 @@ nav_order:
 
 # Nada
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Nada
-
 Created by  Tess Woitaszek, last modified by  Regina Fuller on Dec 14, 2020
 
 pronoun. Slang term for &quot;nothing&quot;, as derived from the Spanish word for &quot;nothing&quot;. Often used as a closing argument, &quot;Zip, zilch, nada!&quot; As of 2020, 34.6% heard / used the word frequently, 65.4% heard / used it on occasion, and 0% never heard it.(Woodard, N-R, 2020)

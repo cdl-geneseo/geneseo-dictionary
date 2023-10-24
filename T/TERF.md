@@ -7,16 +7,6 @@ nav_order:
 
 # TERF
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : TERF
-
 Created by  David Sweeney, last modified on May 05, 2023
 
 (acronym) 1. Stands for trans-exclusionary radical feminism (Sweeney, S-Z, 2023)Example: &quot;I really liked Harry Potter until I found at the J.K Rowling was a TERF.&quot;

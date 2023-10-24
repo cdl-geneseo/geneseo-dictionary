@@ -7,16 +7,6 @@ nav_order:
 
 # Letch-fast
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Letch-fast
-
 Created by  Unknown User (jw33), last modified by  Unknown User (ajs58) on Apr 15, 2019
 
 Letch-fast - n. slang term for breakfast at the Letchworth Dining Hall. Combination of Letchworth and Breakfast.&quot;Letch-fast was not to shabby this morning, I think they used real eggs.&quot;As of 2015, 62.5% of students surveyed knew this word, 57% believed this to be of local origin.(Whelehan G-M, 2015)5% of Geneseo students surveyed knew the word. Of those surveyed, 84% believed it was a word of local origin.(Shutes, G-M, 2019)

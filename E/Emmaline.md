@@ -7,16 +7,6 @@ nav_order:
 
 # Emmaline
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Emmaline
-
 Created by  Unknown User (kla8) on Nov 19, 2012
 
 n.  Pronunciation: Amer. / ɛməlaɪn  1.  The name of the bear on top of the fountain on Main Street in Geneseo.  “Did you see how pretty Emmaline and the fountain look decorated for Christmas?”K. Andryshak, 2012

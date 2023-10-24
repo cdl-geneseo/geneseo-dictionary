@@ -7,16 +7,6 @@ nav_order:
 
 # You Only Live Once
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : You Only Live Once
-
 Created by  Unknown User (eo7) on Nov 16, 2012
 
 interj., n. &amp; v. You use this phrase when taking risky actions. &quot;I’m going skydiving without a parachute! You only live once!&quot;EOberdorf, S-Z, 2012

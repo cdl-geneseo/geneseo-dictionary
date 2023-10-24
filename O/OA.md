@@ -7,16 +7,6 @@ nav_order:
 
 # OA
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : OA
-
 Created by  Unknown User (era6), last modified on Sep 16, 2008
 
 OA

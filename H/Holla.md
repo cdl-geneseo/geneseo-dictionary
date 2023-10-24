@@ -7,16 +7,6 @@ nav_order:
 
 # Holla
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Holla
-
 Created by  Unknown User (ajs58) on Apr 15, 2019
 
 Exclamation. Used to express positive emotion or excitement; to call something to other people's attention.&quot;My friends said they can drive us to the party! Holla!&quot;88% of the Geneseo students surveyed said they knew the word and of those surveyed, only 1% believed the word to be of local origin.(Shutes, G-M, 2019)

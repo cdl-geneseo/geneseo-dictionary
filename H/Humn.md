@@ -7,16 +7,6 @@ nav_order:
 
 # Humn
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Humn
-
 Created by  Unknown User (met6), last modified by  Unknown User (spe1) on Nov 20, 2012
 
 Noun Clipped form of course name Humanities; &quot;Who did you have for Humn 1?&quot;Source: Dictionary of Geneseo English, Fall 1990 - Kocher- 2006 Of those surveyed in 2008, 68.2% knew the word, and 59.1% learned it in Geneseo.As of 2012, 1000% of students surveyed know this word. 40% believe it is of local origins.(Endress, G-M, 2012)

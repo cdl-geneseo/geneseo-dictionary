@@ -7,16 +7,6 @@ nav_order:
 
 # Groutfit
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Groutfit
-
 Created by  Unknown User (nac16) on Dec 11, 2020
 
 n. An outfit that is entirely gray.Source: Dictionary of Geneseo English, Fall 2020, ChojnackiAs of 2020, 76.7% of students surveyed know the word.76.7% of students surveyed know the word. Of those surveyed, 76.7% believed it originated elsewhere. (Chojnacki, G-M, 2020)

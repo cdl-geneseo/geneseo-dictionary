@@ -7,16 +7,6 @@ nav_order:
 
 # Kap
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Kap
-
 Created by  Unknown User (krk5), last modified by  Unknown User (mp31) on Apr 12, 2019
 
 1. n. A contraction: a member of a Greek organization containing the Greek letter kappa.Specific to Geneseo.As of 2012, 60% of students surveyed knew this word and 5% believed it to be of local origin. (Eichas, G-M, 2012)2. (Obs.) n. Also a contraction a person fond of SUNY Geneseo Professor Kaplan.  Historically, it has been extant only in the register of theater students at Geneseo, but has expanded to include non-theater students who have taken a course with Professor Kaplan. Considered pejorative.As of 2012, 0% of students surveyed knew this word; location of origin is unclear.(Eichas, G-M, 2012) As of 2019, 42% of students surveyed knew this word and 3% believed it originated in Geneseo. The definition has narrowed to refer most often specifically to the Fraternity Kap Sig rather than any Greek organization containing kappa, although there are still some using it with the original broad meaning. (Pigliacelli, 2019) 

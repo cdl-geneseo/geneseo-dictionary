@@ -7,16 +7,6 @@ nav_order:
 
 # Gaslight
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Gaslight
-
 Created by  Genevieve Moulton on May 06, 2022
 
 v. to lie or manipulate someone, specifically making them question their own sanity or reasoning“I know they're gaslighting me because they're guilting me and making me feel crazy.”Based on survey results, 95.7% of participants knew this word and could define it. It is used fairly frequently in 2022. 0% of participants believe this word is specific to Geneseo. (G.Moulton, G-M, 2022)

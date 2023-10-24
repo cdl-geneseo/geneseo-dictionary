@@ -7,16 +7,6 @@ nav_order:
 
 # Center Street
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Center Street
-
 Created by  Unknown User (tjc13), last modified on Oct 05, 2008
 
 Center Street (NN): Paved road in the center of the village of Geneseo that begins at the statue/fountain in the center of Main Street and extends perpendicular to connect to 20A. The [[Idle]] and the [[Phigs]] house can be found on this road. Known by approximately 79% of those surveyed.

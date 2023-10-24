@@ -7,16 +7,6 @@ nav_order:
 
 # Cleveland Steamer
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Cleveland Steamer
-
 Created by  Unknown User (tjc13), last modified on Oct 05, 2008
 
 Cleveland Steamer (NN): sex act in which one partner defecates on the other partner's chest. Definition of approximately 40% of those surveyed. (F06) (new word) Unknown by approximately 60% of those surveyed

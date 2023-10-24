@@ -7,16 +7,6 @@ nav_order:
 
 # Vegan Nuggets
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-U-Z
-
-Bibliographies and Study Guides : Vegan Nuggets
-
 Created by  Unknown User (eo7), last modified by  Unknown User (amb51) on Apr 29, 2015
 
 n. Non-meat alternatives to chicken nuggets.  Were revealed to be non-vegan Fall 2012.&quot;All the Vegans are angry because CAS provided misinformation about the Vegan nuggets.&quot;EOberdorf, S-Z, 201220/32 people within the survey were familiar with what &quot;vegan nuggets&quot; are, but are more familiar with the term &quot;Garden Nugget.&quot; This is due to the change in menu name at Southside Cafe in 2013. Bettina. S-Z. 2015

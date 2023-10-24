@@ -7,16 +7,6 @@ nav_order:
 
 # Poon
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Poon
-
 Created by  Unknown User (lah15), last modified on Nov 23, 2010
 
 (n.) A vagina. Variants: Poonani, Poontang. &quot;I always thought Jen got around, but she had a surprisingly tight poon.&quot; Not specific to Geneseo; A similar definition can be found on the Urban Dictionary. Hanson Fall 2010.

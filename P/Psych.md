@@ -7,16 +7,6 @@ nav_order:
 
 # Psych
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-M-P
-
-Bibliographies and Study Guides : Psych
-
 Created by  Unknown User (era6), last modified by  Unknown User (cam37) on Nov 21, 2012
 
 Psych1. (IN? N? VB?) Reverse state of mind from previous belief. &quot;Psych! We really don't have a test tomorrow!&quot; F92; perhaps derived from VB &quot;psych out,&quot; fool. This usage obsolete as of Fall 2010 (Hanson). 2. (VB) Excite. &quot;The basketball team was psyched for the championship.&quot; F94. Source: Dictionary of Geneseo English 1996. A similar definition appears at http://www.urbandictionary.com/ ; entry probably not specific to Geneseo. Adams.3. (n.) abbreviation for SUNY Geneseo's Psychology department. &quot;My roommate's a psych major.&quot; Montelli, N-R, 2012.

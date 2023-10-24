@@ -7,16 +7,6 @@ nav_order:
 
 # Looker
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Looker
-
 Created by  Unknown User (krk5), last modified by  Unknown User (mee2) on Nov 20, 2012
 
 n. A good-looking person (can be used for either male or female)Source: Dictionary of Geneseo English, Fall 2006, CraneAs of 2012, 90% of students surveyed knew this word and 0% believed it to be of local origin.(Eichas, G-M, 2012) 

@@ -7,16 +7,6 @@ nav_order:
 
 # Brown Out
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Brown Out
-
 Created by  Unknown User (kla8) on Nov 19, 2012
 
 v. and n. Pronunciation: Amer. / braʊn-æʊt 1. An alcohol-induced state less intense than blacking out, in which an individual remembers some, but not all, of the events that took place the previous night.  “I don’t remember what she said- I didn’t completely black out last night, it was more like a brown out.” K. Andryshak, 2012

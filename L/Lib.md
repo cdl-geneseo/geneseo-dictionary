@@ -7,16 +7,6 @@ nav_order:
 
 # Lib
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Lib
-
 Created by  Unknown User (erg5), last modified by  Unknown User (mee2) on Nov 19, 2012
 
 Lib n. the library, generally used to reference Milne. “I’m going to do some homework in the lib.”100% of those surveyed know this word, and 80% believe it is of local origins.As of 2012, 93% of students surveyed knew this word and 13% believed it to be of local origin.(Eichas, G-M, 2012) 

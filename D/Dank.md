@@ -7,16 +7,6 @@ nav_order:
 
 # Dank
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Dank
-
 Created by  Unknown User (bli2), last modified on Sep 21, 2008
 
 dank (adj.): 1) disgusting, foul 2) cool, sweet. 70% of students survyed use this term. F06. KTousey

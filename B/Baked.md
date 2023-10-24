@@ -7,16 +7,6 @@ nav_order:
 
 # Baked
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Baked
-
 Created by  Unknown User (ms61) on May 08, 2015
 
 High on drugs/stoned.

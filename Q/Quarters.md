@@ -7,16 +7,6 @@ nav_order:
 
 # Quarters
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Quarters
-
 Created by  Unknown User (lav4), last modified on Oct 28, 2008
 
 (n.) Drinking game in which one bounces quarters into a cup. My favorite drinking game is definitely quarters. Source: Dictionary of Geneseo English 2006. A similar definition appears at http://www.urbandictionary.com/ ; entry probably not specific to Geneseo. Adams.

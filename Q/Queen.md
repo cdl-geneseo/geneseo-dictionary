@@ -7,16 +7,6 @@ nav_order:
 
 # Queen
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Queen
-
 Created by  Unknown User (igf1) on Oct 29, 2020
 
 (noun) - A slang term used as a compliment. Attributes confidence, respect, and an on top of it attitude to the person called &quot;Queen.&quot; &quot;How did the essay writing go?&quot; &quot;Finished it two hours right before class, and had enough time to grab lunch.&quot;&quot;Yes, Queen!&quot;(Fazio, Q-T, 2020)

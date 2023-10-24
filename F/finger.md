@@ -7,16 +7,6 @@ nav_order:
 
 # finger
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : finger
-
 Created by  Unknown User (met6), last modified on Sep 09, 2008
 
 Verb 1. Look up, on VAX computer system, a finger plan; &quot;Hey, if you log on, can you finger me and see if I have any messages?&quot; 2. Finger plan, name and new mail status on VAX computer (no examples)

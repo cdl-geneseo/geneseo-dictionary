@@ -7,16 +7,6 @@ nav_order:
 
 # Spoon
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Spoon
-
 Created by  Unknown User (lav4), last modified on Dec 01, 2008
 
 Verb: to cuddle or have intercourse in the position where two people lie on their sides, with one person's back against the other person's front. Example &quot;Can we spoon?&quot;

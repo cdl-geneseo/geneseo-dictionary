@@ -7,16 +7,6 @@ nav_order:
 
 # Saratoga
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Saratoga
-
 Created by  Unknown User (ejr7) on Nov 16, 2012
 
 n. A shortened form of the Saratoga Townhouses, residential buildings on campus.&quot;My old roommate ripped the chandelier down from the ceiling when she lived in Saratoga.&quot;EReck, S-Z, 2012

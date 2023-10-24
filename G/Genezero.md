@@ -7,16 +7,6 @@ nav_order:
 
 # Genezero
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-E-H
-
-Bibliographies and Study Guides : Genezero
-
 Created by  Unknown User (crk4), last modified by  Unknown User (amb61) on Apr 10, 2019
 
 ''Noun '' 1. Clip and blend of Geneseo and zero; - no sentence given - The sentence we used was: &quot;There's nothing to do here in ''Genezero''.&quot; Results: 33% of those surveyed knew this word, but 100% of these people did not learn this word at Geneseo. Conclusion: This word has moderate usage and is not local to Geneseo. Source: Dictionary of Geneseo English, Spring 1999 - Kocher 2. The term to describe SUNY Geneseo's horrible and cold weather conditions; &quot;I hate this school. It is so cold here, we go to Geneseo.&quot; (overhead outside of Wells) Source: Dictionary of Geneseo English, Spring 2001 - Kocher Results: 6% of students surveyed recognized at least one of the two defintions above in 2006, and 100% of those who recognized it believed the word to be specific to Geneseo. Conclusion: This word is not widely used but is part of some student's vocabulary and appears to be an exclusively Geneseo word.C. Adam11% of students surveyed knew this word, and 20% of these students had learned the word at Geneseo. This word is also used in the Lamron, and it is thus reasonable to assume that those students who read the Lamron would be familiar with the word.(Klein, E-H, 2008)As of 2012, 2% of students surveyed know this word and 100% believe it is of local origin.(Fischer, G-M, 2012)As of 2019, 10.5% of Geneseo students surveyed know this word. 38.5% believe this word is of local origins. (Banaszak, G-M, 2019)

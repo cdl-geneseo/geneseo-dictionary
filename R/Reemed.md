@@ -7,16 +7,6 @@ nav_order:
 
 # Reemed
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Reemed
-
 Created by  Unknown User (lav4), last modified by  Unknown User (cam37) on Nov 20, 2012
 
 1. (v.) /rEmd/ to be the victim of a difficult test. past tense &quot;I got reemed on my Biology test this morning.&quot; 2. (v.) /rEmd/ to be scolded or yelled at. &quot;My boss reemed me out when he found out I have been sleeping on the job.&quot; Submitted Fall 2006. Dinki. Obsolete Fall 2012. Montelli, N-R, 2012.

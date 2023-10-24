@@ -7,16 +7,6 @@ nav_order:
 
 # Brotherhood
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Brotherhood
-
 Created by  Unknown User (jmb53), last modified on Nov 19, 2012
 
 n., n. abbrev. Pronunciation: Amer. / brəðərˌhʊd 1. The collective name for the members of a fraternity. “Our brotherhood is built on leadership, friendship, and service.” 2. Form of “brotherhood meeting.”  “Brotherhood begins at 6:30 tonight.”J. Boselli, 2012

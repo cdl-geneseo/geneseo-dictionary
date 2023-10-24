@@ -7,16 +7,6 @@ nav_order:
 
 # Knightline
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-I-L
-
-Bibliographies and Study Guides : Knightline
-
 Created by  Amanda Neri on Dec 11, 2020
 
 Knightline n. Referring to a club in SUNY Geneseo that is similar to kickline and has a subtitle name for the college.Source: Dictionary of Geneseo English, Fall 2020, NeriAs of 2020, 82% of students surveyed know the word. (Neri, G-M, 2020)  82% of students surveyed know the word. Of those surveyed, 97% believed it originated locally. While 3% believed it originated elsewhere.(Neri, G-M, 2020)

@@ -7,16 +7,6 @@ nav_order:
 
 # Service desk
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-Q-T
-
-Bibliographies and Study Guides : Service desk
-
 Created by  Unknown User (arh11), last modified on Sep 28, 2008
 
 (n.) center location in residence halls offering students various services. &quot;Yeah man, the RA on duty is probably chilling by the service desk.&quot; Source: Dictionary of Geneseo English 2006. Dilluvio

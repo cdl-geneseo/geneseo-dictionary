@@ -7,16 +7,6 @@ nav_order:
 
 # Boot
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Boot
-
 Created by  Unknown User (tjc13), last modified by  Unknown User (kla8) on Nov 20, 2012
 
 verb- to vomit, to throw up, particularly after a night of heavy drinkingnoun- used in the phrase &quot;Shoot a boot&quot;, a shoe or boot that is filled with beer, spit and usually mucus that is drunk by an individual that makes a mistake in the singing of a drinking song as a means of punishment. Obs. 2012

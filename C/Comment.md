@@ -7,16 +7,6 @@ nav_order:
 
 # Comment
 
-Bibliographies and Study Guides
-
-Dictionary of Geneseo English
-
-View All Entries
-
-A-D
-
-Bibliographies and Study Guides : Comment
-
 Created by  Zachary Arthur, last modified by  Unknown User (hea4) on Apr 13, 2019
 
 NN: something written on a facebook wall or picture; &quot;Did you see that comment I left you?&quot; Verb: the act of writing on a facebook wall or picture; &quot;Jane just commented on my new pictures!&quot; 100% of people surveyed knew this term.
