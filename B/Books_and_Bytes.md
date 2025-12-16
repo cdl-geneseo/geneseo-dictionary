@@ -1,11 +1,11 @@
 ---
-title: Books title:amp;Bytes
+title: "Books &amp; Bytes"
 layout: default
 parent: B
 nav_order:
 ---
 
-# Books &amp;Bytes
+# Books &amp; Bytes
 
 Created by  Zachary Arthur, last modified on Sep 23, 2008
 

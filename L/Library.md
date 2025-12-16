@@ -9,7 +9,7 @@ nav_order:
 
 Created by  Emily McIntosh on Dec 07, 2020
 
-Libraryn. A place where books are stored and available for educational, research, and entertainment purposes. Geneseo’s library also included a research section for education majors that held videos and tangible objects. Source: Dictionary of Geneseo English, Fall 2020, McIntoshAs of 2020, 100% of students surveyed know the word. Of those surveyed, 0% believed it originated locally. While 100% believed it originated elsewhere.(McIntosh, G-M, 2020)
+Library n. A place where books are stored and available for educational, research, and entertainment purposes. Geneseo’s library also included a research section for education majors that held videos and tangible objects. Source: Dictionary of Geneseo English, Fall 2020, McIntoshAs of 2020, 100% of students surveyed know the word. Of those surveyed, 0% believed it originated locally. While 100% believed it originated elsewhere.(McIntosh, G-M, 2020) In 2025, a survey was done where 100% of the respondents knew the term “Library.”  94% of the respondents claimed that it did not originate from Geneseo. 6% of the respondents say that it originated from Geneseo. (Stout Peters, G-M 2025)
 
 Comments:
 
