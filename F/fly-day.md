@@ -1,5 +1,5 @@
 ---
-title: fly-day
+title: Fly-day
 layout: default
 parent: F
 nav_order:

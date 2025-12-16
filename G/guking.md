@@ -1,5 +1,5 @@
 ---
-title: guking
+title: Guking
 layout: default
 parent: G
 nav_order:

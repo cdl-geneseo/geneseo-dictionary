@@ -1,11 +1,11 @@
 ---
-title: rando
+title: Rando
 layout: default
 parent: R
 nav_order:
 ---
 
-# rando
+# Rando
 
 Created by  Unknown User (afl1), last modified by  Unknown User (kmo12) on Apr 27, 2015
 

@@ -1,5 +1,5 @@
 ---
-title: embiggen
+title: Embiggen
 layout: default
 parent: E
 nav_order:

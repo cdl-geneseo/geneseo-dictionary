@@ -1,7 +1,7 @@
 ---
 title: It's giving
 layout: default
-parent: G
+parent: I
 nav_order:
 ---
 

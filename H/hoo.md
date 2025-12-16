@@ -1,11 +1,11 @@
 ---
-title: hoo
+title: Hoo
 layout: default
 parent: H
 nav_order:
 ---
 
-# hoo
+# Hoo
 
 Created by  Unknown User (met6), last modified by  Unknown User (crl12) on Apr 16, 2019
 

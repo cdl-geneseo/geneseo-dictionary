@@ -1,5 +1,5 @@
 ---
-title: -sk
+title: Sk
 layout: default
 parent: S
 nav_order:

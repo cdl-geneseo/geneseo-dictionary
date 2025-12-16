@@ -1,11 +1,11 @@
 ---
-title: sauce
+title: Sauce
 layout: default
 parent: S
 nav_order:
 ---
 
-# sauce
+# Sauce
 
 Created by  Unknown User (klf16) on Apr 29, 2015
 

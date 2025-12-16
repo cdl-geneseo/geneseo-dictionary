@@ -1,11 +1,11 @@
 ---
-title: hottie
+title: Hottie
 layout: default
 parent: H
 nav_order:
 ---
 
-# hottie
+# Hottie
 
 Created by  Unknown User (met6), last modified by  Unknown User (jcf10) on Nov 20, 2012
 

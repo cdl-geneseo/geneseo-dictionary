@@ -1,11 +1,11 @@
 ---
-title: iPhone
+title: IPhone
 layout: default
 parent: I
 nav_order:
 ---
 
-# iPhone
+# IPhone
 
 Created by  Amanda Neri on Dec 11, 2020
 

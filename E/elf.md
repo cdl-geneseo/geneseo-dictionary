@@ -1,5 +1,5 @@
 ---
-title: elf
+title: Elf
 layout: default
 parent: E
 nav_order:

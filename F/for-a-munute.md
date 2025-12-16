@@ -1,5 +1,5 @@
 ---
-title: for-a-munute
+title: For-a-munute
 layout: default
 parent: F
 nav_order:

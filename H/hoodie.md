@@ -1,11 +1,11 @@
 ---
-title: hoodie
+title: Hoodie
 layout: default
 parent: H
 nav_order:
 ---
 
-# hoodie
+# Hoodie
 
 Created by  Unknown User (met6), last modified by  Unknown User (jcf10) on Nov 18, 2012
 

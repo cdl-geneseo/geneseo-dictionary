@@ -1,11 +1,11 @@
 ---
-title: hook up
+title: Hook up
 layout: default
 parent: H
 nav_order:
 ---
 
-# hook up
+# Hook up
 
 Created by  Unknown User (met6), last modified by  Unknown User (jcf10) on Nov 18, 2012
 

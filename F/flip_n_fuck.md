@@ -1,5 +1,5 @@
 ---
-title: flip 'n fuck
+title: Flip 'n fuck
 layout: default
 parent: F
 nav_order:

@@ -1,11 +1,11 @@
 ---
-title: ho
+title: Ho
 layout: default
 parent: H
 nav_order:
 ---
 
-# ho
+# Ho
 
 Created by  Unknown User (met6), last modified by  Unknown User (jcf10) on Nov 18, 2012
 

@@ -1,11 +1,11 @@
 ---
-title: hook my thotch
+title: Hook my thotch
 layout: default
 parent: H
 nav_order:
 ---
 
-# hook my thotch
+# Hook my thotch
 
 Created by  Unknown User (met6), last modified by  Unknown User (jcf10) on Nov 18, 2012
 

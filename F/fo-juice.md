@@ -1,5 +1,5 @@
 ---
-title: fo-juice
+title: Fo-juice
 layout: default
 parent: F
 nav_order:

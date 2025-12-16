@@ -1,5 +1,5 @@
 ---
-title: -ish
+title: Ish
 layout: default
 parent: I
 nav_order:

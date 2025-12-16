@@ -1,5 +1,5 @@
 ---
-title: finger
+title: Finger
 layout: default
 parent: F
 nav_order:

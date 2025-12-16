@@ -1,11 +1,11 @@
 ---
-title: hook and reel
+title: Hook and reel
 layout: default
 parent: H
 nav_order:
 ---
 
-# hook and reel
+# Hook and reel
 
 Created by  Unknown User (met6), last modified by  Unknown User (crl12) on Apr 16, 2019
 

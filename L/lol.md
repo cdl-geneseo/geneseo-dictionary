@@ -1,11 +1,11 @@
 ---
-title: lol
+title: Lol
 layout: default
 parent: L
 nav_order:
 ---
 
-# lol
+# Lol
 
 Created by  Unknown User (spc14) on Apr 15, 2019
 

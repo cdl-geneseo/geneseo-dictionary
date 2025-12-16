@@ -1,11 +1,11 @@
 ---
-title: hot
+title: Hot
 layout: default
 parent: H
 nav_order:
 ---
 
-# hot
+# Hot
 
 Created by  Unknown User (met6), last modified by  Unknown User (jcf10) on Nov 20, 2012
 

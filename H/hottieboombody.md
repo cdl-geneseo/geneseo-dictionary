@@ -1,11 +1,11 @@
 ---
-title: hottieboombody
+title: Hottieboombody
 layout: default
 parent: H
 nav_order:
 ---
 
-# hottieboombody
+# Hottieboombody
 
 Created by  Unknown User (met6), last modified by  Unknown User (vas3) on Apr 28, 2015
 

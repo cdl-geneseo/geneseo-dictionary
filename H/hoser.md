@@ -1,11 +1,11 @@
 ---
-title: hoser
+title: Hoser
 layout: default
 parent: H
 nav_order:
 ---
 
-# hoser
+# Hoser
 
 Created by  Unknown User (met6), last modified by  Unknown User (crl12) on Apr 16, 2019
 
